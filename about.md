@@ -1,30 +1,16 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
+title: The company
 tagline: Minimal Mistakes, a Jekyll Theme
 tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
+modified: 2014-05-15
 comments: true
-image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+YoungInnovations is a company based in Nepal. We work with clients and partners from different parts of the globe. We provide innovative solutions in the areas of open development, integrated mobile solutions and web development. We help our clients achieve their vision through our state of the art technology solutions. With a motto of creating impact through innovative solutions, we make sure that we are there to support our clients from start to end. We are more than a technology service providers, we provide consulting and solutions and believe in establishing long term strategic partnership with our clients. 
 
-## Minimal Mistakes is all about:
+YoungInnovations was co-founded by a team of young entrepreneurs determined to lead initiatives for corporate and social changes through strategic use of ICTs in mid 2007. Since then, the company has come a long way forward. We have been able to create an impact with our solutions around the globe. 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+ 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
-
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).

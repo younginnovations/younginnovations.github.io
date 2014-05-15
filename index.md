@@ -7,3 +7,8 @@ image:
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
+
+Creating Impact
+Developing Innovative Solutions
+
+Here's [how](how)
