@@ -12,5 +12,12 @@ YoungInnovations is a company based in Nepal. We work with clients and partners 
 
 YoungInnovations was co-founded by a team of young entrepreneurs determined to lead initiatives for corporate and social changes through strategic use of ICTs in mid 2007. Since then, the company has come a long way forward. We have been able to create an impact with our solutions around the globe. 
 
- 
-
+<table border="0">
+<tr><td>
+<img src="{{ site.url }}/images/staff/Aayushree.jpg" />
+<br>Aayushree
+</td><td>
+<img src="{{ site.url }}/images/staff/Achyut.jpg" />
+<br>Achyut
+</td></tr>
+</table>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: work
 title: Open Data Nepal
 description: ""
 modified: 2013-05-31
