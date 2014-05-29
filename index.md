@@ -8,7 +8,16 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-Creating Impact
-Developing Innovative Solutions
 
-Here's [how](how) we have done [these](work)
+<section class="impact-wrap">
+<div class="impact-image">
+<img src="images/pages/home-icon-mobile.png" class="small">
+<img src="images/pages/home-icon.png" class="large">
+</div>
+<div class="impact-info">
+<span class="impact">We Create Impact</span>
+by developing innovative solutions. See <a href="how">How we do it</a>
+</div>
+</section>
+
+<a href="work" class="button work-btn"><span class="see-work"> See what we have done</span><span class="progress"></span></a>

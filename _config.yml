@@ -36,13 +36,13 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: <span>O1</span> our story
     url: /about/
-  - title: Work
+  - title: <span>02</span> work
     url: /work/
-  - title: Careers
+  - title: <span>03</span> blog
     url: /careers/  
-  - title: Contact
+  - title: <span>04</span> contact
     url: /#contact
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

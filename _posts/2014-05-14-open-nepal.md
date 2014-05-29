@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Open Data Nepal
+title: Open Nepal
 description: ""
 modified: 2013-05-31
 tags: [intro, beginner, jekyll, tutorial]

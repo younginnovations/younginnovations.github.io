@@ -2,13 +2,57 @@
 	<div class="site-name">
 		<a href="{{ site.url }}">{{ site.title }}</a>
 	</div><!-- /.site-name -->
-	<div class="top-navigation">
-		<nav role="navigation" id="site-nav" class="nav">
-		    <ul>
-		        {% for link in site.links %}
-				<li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-		        {% endfor %}
-		    </ul>
-		</nav>
+	<div class="top-navigation morph-button morph-button-modal morph-button-modal-4 morph-button-fixed navigation">
+		<div class="trigger"><span></span></div>
+		<div class="navigation-wrap morph-content">
+			<span class="icon icon-close"><span></span></span>
+			<div class="site-name">
+				<a href="{{ site.url }}">{{ site.title }}</a>
+			</div><!-- /.site-name -->
+			<nav role="navigation" id="site-nav" class="nav">
+				<ul>
+					{% for link in site.links %}
+					<li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+					{% endfor %}
+				</ul>
+			</nav>
+			<div class="impact-projects">
+				<div class="impact-title">our impact</div>
+				<ul>
+					<li><a href=""><img src="../images/impact/impact-img-1.png"></a>
+						<div class="info">
+							<div class="info-title">
+								FightVaw
+							</div>
+							<a href="work" class="button work-btn view-btn"><span class="see-work">View project</span><span class="progress"></span></a>
+						</div>
+					</li>
+					<li><a href=""><img src="../images/impact/impact-img-2.png"></a>
+						<div class="info">
+							<div class="info-title">
+								Development check
+							</div>
+							<a href="work" class="button work-btn view-btn"><span class="see-work">View project</span><span class="progress"></span></a>
+						</div>
+					</li>
+					<li><a href=""><img src="../images/impact/impact-img-2.png"></a>
+						<div class="info">
+							<div class="info-title">
+								Development check
+							</div>
+							<a href="work" class="button work-btn view-btn"><span class="see-work">View project</span><span class="progress"></span></a>
+						</div>
+					</li>
+					<li><a href=""><img src="../images/impact/impact-img-4.png"></a>
+						<div class="info">
+							<div class="info-title">
+								Open Nepal week
+							</div>
+							<a href="work" class="button work-btn view-btn"><span class="see-work">View project</span><span class="progress"></span></a>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->
