@@ -1,0 +1,48 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  {% include _head.html %}
+</head>
+
+<body class="home">
+
+  <section class="contact-wrapper">
+    {% include _browser-upgrade.html %}
+
+    {% include _navigation.html %}
+
+
+    <div class="contact-title layout">
+      Namaste from the land of tallest mountains
+    </div>
+  </section>
+    
+    <section class="contact-inner-wrapper">
+    {{ content }}
+  </section>
+
+  <div id="contact">
+    <iframe width="400" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=85.31981080770493%2C27.66889606210666%2C85.3215891122818%2C27.670250081457215&amp;layer=mapnik&amp;marker=27.66957307387917%2C85.32070130109787"></iframe>
+    <div class="office-image">
+    <img src="../images/contact/office.png"/>
+    </div>
+  </div>
+  {% include _scripts.html %}
+<script>
+  $(document).ready(function() {
+    $(window).scroll(function() {
+      var scrollVal = $(this).scrollTop();
+      var contactheight = $('.contact-wrapper').height() - 84;
+      if ( scrollVal > contactheight) {
+        $('.navigation-wrapper').addClass('nav-bg');
+      } else {
+        $('.navigation-wrapper').removeClass('nav-bg');
+      }
+    });
+  });
+</script>
+</body>
+</html>

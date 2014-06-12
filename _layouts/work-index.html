@@ -32,11 +32,11 @@
 
   <div id="index" class="work-wrapper">
     <div class="tagline-wrapper">
-      <div class="tagline">
+      <div class="tagline layout">
         We work with clients and partners from different parts of the globe. 
       </div>
     </div>
-    <div class="logo-wrapper">
+    <div class="logo-wrapper layout">
       <ul>
         <li><img src="../images/work/worldbank-logo.png" alt=""></li>
         <li><img src="../images/work/therecord-logo.png" alt=""></li>
@@ -48,39 +48,33 @@
         <li><img src="../images/work/inclusive-logo.png" alt=""></li>
       </ul>
     </div>
-    <div id="work">
-      <div class="work-tagline">We provide innovative solutions in the areas of <a href="">open development</a>, integrated <a href="">mobile solutions</a> and <a href="">web development</a>.</div>
-      <div class="work-article-wrap">
-       {% for post in site.categories.work %} 
+    <div id="work layout">
+      <div class="layout work-tagline">We provide innovative solutions in the areas of <a href="">open development</a>, integrated <a href="">mobile solutions</a> and <a href="">web development</a>.</div>
+      <div class="layout work-article-wrap">
+        {% for post in site.categories.work %} 
 
         <article>
 
           <div class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
-            {% if post.image.feature %}
-            <img src="{{ site.url }}/images/{{ post.image.feature }}">
-            {% endif %} 
-            <h3 class="portfolio-title">{{ post.title }}</h3>
+            <div class="link-article">
+              {% if post.image.cover %}
+              <img src="{{ site.url }}/images/{{ post.image.cover }}">
+              <div class="info">
+                <a href="{{ site.url }}{{ post.url }}" class="button work-btn view-btn"><span class="see-work">View project</span><span class="progress"></span></a>
+              </div>
+              {% endif %} 
+            </div>
+            <h3 class="portfolio-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
             </a><div>
-            <!-- <p>{% if post.content %}{{ post.content }}{% endif %}</p> -->
-            <!--
-{% if post.link %}
-<a href="{{ post.link }}" target="_blank" title="{{ post.title }}">[ View site ]</a>
-{% endif %}
-{% if post.caselink %}
-<a href="{{ post.caselink }}" title="{{ post.caselink }}">[ View case ]</a>
-{% endif %}
--->
+
             <div>
-              <!--     {% if post.image.feature%}
-<img src="{{ site.url }}/images/{{ post.image.feature }}">
-{% endif %}    
--->    </div>
+            </div>
             </article>
             {% endfor %}
           </div><!-- /#index -->
           </div>   
         <div class="footer-wrap">
-          <footer>
+          <footer class="layout">
             {% include _footer.html %}
           </footer>
         </div><!-- /.footer-wrap -->

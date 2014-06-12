@@ -37,13 +37,13 @@ bing_verify:
 # For external links add external: true
 links:
   - title: <span>O1</span> our story
-    url: /about/
+    url: /how/
   - title: <span>02</span> work
     url: /work/
   - title: <span>03</span> blog
     url: /careers/  
   - title: <span>04</span> contact
-    url: /#contact
+    url: /contact/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kathmandu
