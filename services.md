@@ -89,55 +89,90 @@ Happy Team<span>=</span>Productivity
 * ![Alt text]({{ site.url }}/images/staff/Achyut.jpg)
   + Achyut Devkota
   + System Engineer
-* ![Alt text]({{ site.url }}/images/staff/Aayushree.jpg)
-  + Aayushree Joshi
-  + Trainee
-* ![Alt text]({{ site.url }}/images/staff/Achyut.jpg)
-  + Achyut Devkota
-  + System Engineer
-* ![Alt text]({{ site.url }}/images/staff/Aayushree.jpg)
-  + Aayushree Joshi
-  + Trainee
-* ![Alt text]({{ site.url }}/images/staff/Achyut.jpg)
-  + Achyut Devkota
-  + System Engineer
-* ![Alt text]({{ site.url }}/images/staff/Aayushree.jpg)
-  + Aayushree Joshi
-  + Trainee
-* ![Alt text]({{ site.url }}/images/staff/Achyut.jpg)
-  + Achyut Devkota
-  + System Engineer
-* ![Alt text]({{ site.url }}/images/staff/Aayushree.jpg)
-  + Aayushree Joshi
-  + Trainee
-* ![Alt text]({{ site.url }}/images/staff/Achyut.jpg)
-  + Achyut Devkota
-  + System Engineer
-* ![Alt text]({{ site.url }}/images/staff/Aayushree.jpg)
-  + Aayushree Joshi
-  + Trainee
-* ![Alt text]({{ site.url }}/images/staff/Achyut.jpg)
-  + Achyut Devkota
-  + System Engineer
-* ![Alt text]({{ site.url }}/images/staff/Aayushree.jpg)
-  + Aayushree Joshi
-  + Trainee
-* ![Alt text]({{ site.url }}/images/staff/Achyut.jpg)
-  + Achyut Devkota
-  + System Engineer
-* ![Alt text]({{ site.url }}/images/staff/Aayushree.jpg)
-  + Aayushree Joshi
-  + Trainee
-* ![Alt text]({{ site.url }}/images/staff/Achyut.jpg)
-  + Achyut Devkota
-  + System Engineer
-* ![Alt text]({{ site.url }}/images/staff/Aayushree.jpg)
-  + Aayushree Joshi
-  + Trainee
-* ![Alt text]({{ site.url }}/images/staff/Achyut.jpg)
-  + Achyut Devkota
-  + System Engineer
-  
+* ![Alt text]({{ site.url }}/images/staff/Alina.jpg)
+  + Alina Acharya
+  + Junior Data Analyst
+* ![Alt text]({{ site.url }}/images/staff/Ananda.jpg)
+  + Ananda Subedi
+  + Software Developer
+* ![Alt text]({{ site.url }}/images/staff/Anjan.jpg)
+  + Anjan Shrestha
+  + UX Lead
+* ![Alt text]({{ site.url }}/images/staff/Anjesh.jpg)
+  + Anjesh Tuladhar
+  + COO
+* ![Alt text]({{ site.url }}/images/staff/Ashley.jpg)
+  + Ashley Dhakal
+  + UI Designer
+* ![Alt text]({{ site.url }}/images/staff/Bibek.jpg)
+  + Bibek Shrestha
+  + Senior Developer
+* ![Alt text]({{ site.url }}/images/staff/Bibhusan.jpg)
+  + Bibhusan Bista
+  + CEO
+* ![Alt text]({{ site.url }}/images/staff/Ravi.jpg)
+  + Bir Bahadur Putuwal
+  + Office Aid
+* ![Alt text]({{ site.url }}/images/staff/Geshan.jpg)
+  + Geshan Manandhar
+  + Senior Developer
+* ![Alt text]({{ site.url }}/images/staff/Julian.jpg)
+  + Julian Raj Manandhar
+  + Mobile Developer
+* ![Alt text]({{ site.url }}/images/staff/Kopila.jpg)
+  + Kopila Putuwal
+  + Office Aid
+* ![Alt text]({{ site.url }}/images/staff/Manoj.jpg)
+  + Manoj Byanjankar
+  + Software Developer
+* ![Alt text]({{ site.url }}/images/staff/Nirajan.jpg)
+  + Nirajan Panthee
+  + Senior Developer
+* ![Alt text]({{ site.url }}/images/staff/Prashant.jpg)
+  + Prashant Shrestha
+  + Manager,Web Services
+* ![Alt text]({{ site.url }}/images/staff/Prasanta.jpg)
+  + Prashanta Rimal
+  + Administration and Finance Assistant
+* ![Alt text]({{ site.url }}/images/staff/Pratiksha.jpg)
+  + Pratiksha Rayamajhi
+  + Operations Manager
+* ![Alt text]({{ site.url }}/images/staff/Prawesh.jpg)
+  + Prawesh Shrestha
+  + Community Manager
+* ![Alt text]({{ site.url }}/images/staff/Punya.jpg)
+  + Punya Ruchal
+  + Web Developer
+* ![Alt text]({{ site.url }}/images/staff/Pratiksha.jpg)
+  + Rakeeb Rajbhandari
+  + Mobile Developer
+* ![Alt text]({{ site.url }}/images/staff/Rakeeb.jpg)
+  + Rohit Shrestha
+  + UX Designer
+* ![Alt text]({{ site.url }}/images/staff/Santosh.jpg)
+  + Santosh Neupane
+  + System Administrator
+* ![Alt text]({{ site.url }}/images/staff/Saugat.jpg)
+  + Saugat Acharya
+  + Software Developer
+* ![Alt text]({{ site.url }}/images/staff/Sita.jpg)
+  + Sita Prajapati
+  + Developer
+* ![Alt text]({{ site.url }}/images/staff/Sujata.jpg)
+  + Sujata Shrestha
+  + Open Data Coordinator
+* ![Alt text]({{ site.url }}/images/staff/Suman.jpg)
+  + Suman Humagain
+  + Senior Developer
+* ![Alt text]({{ site.url }}/images/staff/Sweta.jpg)
+  + Sweta Shrestha
+  + Front End Developer
+* ![Alt text]({{ site.url }}/images/staff/Tribhuvan.jpg)
+  + Tribhuvan Raj Pokharel
+  + Software Developer
+* ![Alt text]({{ site.url }}/images/staff/Vishnu.jpg)
+  + Vishnu Raj Bhatta
+  + Developer
 
 <div class="service-wrapper quote-wrapper">
 <div class="service-wrap quote-wrap">
