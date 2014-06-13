@@ -64,7 +64,7 @@ input,button {
   border: 10px solid #fff;
   cursor: pointer;
   display: inline-block;
-  width: 100%;
+  width: 260px;
   line-height: 54px;
   height: 54px;
 }
@@ -133,6 +133,9 @@ input,button {
   transform: translate3d(0, 0, 0);
 }
 
+.home .nav-down.docked_nav {
+  background: transparent;
+}
 
 .home .navigation-wrapper.nav-bg {
   background: #fff;
@@ -148,7 +151,7 @@ input,button {
 }
 
 .impact-projects ul li {
-  width: 50%;
+  width: 100%;
   float: left;
   margin: 0;
   position: relative;
@@ -187,8 +190,11 @@ input,button {
 }
 
 .info-title {
+  font-size: 17px;
+  /*
   font-size: 26px;
   font-size: 1.444rem;
+  */
   line-height: 1.384;
   font-weight: 400;
   color: #fff;
@@ -197,7 +203,7 @@ input,button {
 
 .trigger {
   position: absolute;
-  top: -200px;
+  top: -180px;
   right: -100px;
   border-left: 50px solid transparent;
   border-right: 50px solid transparent;
@@ -251,6 +257,12 @@ input,button {
   left: 40%;
 }
 
+.navigation-wrap li a.view-btn {
+  top: 50%;
+  bottom: auto;
+  left: 28%;
+}
+
 .work-article-wrap article .view-btn {
   left: 24%;
   color: #fff;
@@ -261,6 +273,7 @@ input,button {
 .navigation-wrap li a.view-btn .see-work {
   color: #fff;
   background: none;
+  font-weight: 400;
 }
 
 .navigation-wrap li a.view-btn:hover .see-work,.work-article-wrap article .view-btn:hover .see-work {
@@ -269,6 +282,7 @@ input,button {
 
 .work-article-wrap article .see-work {
   color: #fff;
+  background: none;
 }
 
 .nav .navtoogle {
@@ -313,7 +327,11 @@ input,button {
 }
 
 .nav ul li a {
-  padding: 0 28px;
+  font-size: 28px;
+}
+
+.nav ul li a {
+  padding: 0 20px;
 }
 
 .nav ul li a:hover {
@@ -390,13 +408,14 @@ input,button {
   z-index: 1;
   left: 0;
   font-weight: 600;
-  background: url(../../images/pages/button-icon.png) no-repeat 230px;
+  background: url(../../images/pages/button-icon.png) no-repeat 90%;
   font-size: 14px;
   color: #333;
   width: 100%;
   text-indent: 1px;
   text-align: center;
 }
+
 
 .contact-btn .see-work {
   left: 0;
@@ -467,6 +486,7 @@ input,button {
 
 .site-name {
   margin-left: 4%;
+  margin-bottom: 0;
 }
 
 .site-name a {
@@ -1733,6 +1753,15 @@ content: '\f002';
   background: #333;
 }
 
+.call,.call:hover,.call:link {
+  color: #fff;
+  background: none;
+}
+
+.tel {
+  display: none;
+}
+
 .contact-info {
   width: 780px;
   margin: 0 auto 60px;
@@ -1805,14 +1834,14 @@ content: '\f002';
 
 /*
 #contact {
-  overflow: hidden;
-  height: 500px;
+overflow: hidden;
+height: 500px;
 }
 */
 
 /*
 #contact iframe,.office-image {
-  min-height: 100%;
+min-height: 100%;
 }
 */
 
@@ -1922,6 +1951,27 @@ content: '\f002';
 
 }
 
+@media only screen and (min-width: 500px) {
+  .nav ul li a {
+    font-size: 36px;
+  }
+
+  .navigation-wrap li a.view-btn {
+    left: 35%;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .nav ul li a {
+    font-size: 39px;
+    font-size: 2.167rem;
+  }
+
+  .navigation-wrap li a.view-btn {
+    left: 37%;
+  }
+}
+
 @media only screen and (min-width: 700px) {
   .team-title+ ul,.layout {
     max-width: 540px;
@@ -1947,9 +1997,31 @@ content: '\f002';
     margin-left: 20px;
     width: 48%;
   }
-  
+
   .contact-block {
     width: 33%;
+  }
+
+  #contact {
+    height: 340px;
+    overflow: hidden;
+  }
+
+  .office-image img,#contact iframe { 
+    width: 50%;
+    float: left;
+  }
+
+  .contact-title {
+    padding: 34% 0 20%;
+  }
+
+  .impact-projects ul li {
+    width: 50%;
+  }
+
+  .navigation-wrap li a.view-btn {
+    left: 25%;
   }
 
 }
@@ -1979,6 +2051,15 @@ content: '\f002';
     display: block;
     margin: 40px auto 30px;
   }
+
+  #contact {
+    height: 400px;
+    overflow: hidden;
+  }
+
+  .navigation-wrap li a.view-btn {
+    left: 28%;
+  }
 }
 
 @media only screen and (min-width: 900px) {
@@ -2004,6 +2085,9 @@ content: '\f002';
     text-align: center;
   }
 
+  .navigation-wrap li a.view-btn {
+    left: 30%;
+  }
 
 }
 
@@ -2083,8 +2167,31 @@ content: '\f002';
     margin-right: 0;
   }
 
+  .navigation-wrap li a.view-btn {
+    left: 32%;
+  }
 
 }
+
+
+@media screen and (min-width:1100px) {
+  .navigation-wrap li a.view-btn {
+    left: 34%;
+  }
+}
+
+@media screen and (min-width:1300px) {
+  .navigation-wrap li a.view-btn {
+    left: 36%;
+  }
+}
+
+@media screen and (min-width:1500px) {
+  .navigation-wrap li a.view-btn {
+    left: 40%;
+  }
+}
+
 
 
 @media screen and (min-width:600px) {
@@ -2126,9 +2233,17 @@ content: '\f002';
   .motto-wrapper blockquote {
     width: auto;
   }
-  
+
   .post .image-wrap {
     padding: 7% 0 0;
+  }
+
+  .site-name {
+    margin-bottom: 1em;
+  }
+
+  .trigger {
+    top: -200px;
   }
 }
 

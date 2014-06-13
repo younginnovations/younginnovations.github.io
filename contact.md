@@ -12,7 +12,8 @@ comments: true
 <div class="contact-info layout">
 <div class="contact-block"> 
 <img src="../images/contact/telephone.png"/>
-  + 977-1-5008737
+<a href="callto:977-1-5008737" class="call">+ 977-1-5008737</a>
+<a href="tel:977-1-5008737" class="call tel">+ 977-1-5008737</a>
 </div>
 <div class="contact-block"> 
 <img src="../images/contact/location.png"/>
