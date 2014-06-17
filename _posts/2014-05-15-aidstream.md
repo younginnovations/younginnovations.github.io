@@ -1,21 +1,22 @@
 ---
 layout: work
-title: Fight Violence Against Women
+title: AidStream
 description: ""
-modified: 2014-05-20
-tags: [andriod, application]
-comments: false
+modified: 2014-05-16
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
 categories: work
-link: http://fightvaw.org
+caselink: case/devcheck-case
+link: http://aidstream.org  
 image:
-  cover: work/fightvaw.png
+  cover: work/aidstream.png
   feature: work/fightvaw/feature-img.png
 ---
 
+
+
 <div class="layout work-description">
-<p>FightVAW (Fight Violence Against Women) is an initiative to fight violence against women in Nepal using ICT (Information and Communications Technology). This is a followup from the VawHack (hackathon on VAW) conducted on Jun 16, 2013.</p>
- 
-<p>VawHack brought together around hundred technologists and CSOs under the same roof, who worked on 18 brilliant ideas to fight VAW. Three winners were announced at the end of the day. "Your Voice Our Support", "Mero Katha" and "Self-Help" won first, second and third prizes respectively.</p>
+<p>
 
 <a href="{{ page.link }}" target="_blank" class="button work-btn launch-btn"><span class="see-work"> Launch Website</span><span class="progress"></span></a>
 </div>

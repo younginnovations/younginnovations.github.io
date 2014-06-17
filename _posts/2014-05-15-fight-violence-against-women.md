@@ -1,23 +1,21 @@
 ---
 layout: work
-title: AidStream
+title: Fight Violence Against Women
 description: ""
-modified: 2014-05-16
-tags: [intro, beginner, jekyll, tutorial]
-comments: true
+modified: 2014-05-20
+tags: [andriod, application]
+comments: false
 categories: work
-caselink: case/devcheck-case
-link: http://aidstream.org  
+link: http://fightvaw.org
 image:
-  cover: work/aidstream.png
+  cover: work/fightvaw.png
   feature: work/fightvaw/feature-img.png
 ---
 
-
-
 <div class="layout work-description">
-<p>
-AidStream is an initiative to facilitate Open Data movement in Nepal. It is not about creating yet another data repository in the web but an effort to curate and disseminate data that is already available in public domain by some means in a more organized and usable manner following open data standards and principles. Rather than making data that is meant for public consumption to reside in hard copy formats or in formats that is not easy to analyze and process, we want them to be released as open data so as that they make more sense. Open Data Nepal in this regard aims at provide a platform for government agencies, civil society organizations, donor communities and even corporate sectors to publish data in open standards. </p>
+<p>FightVAW (Fight Violence Against Women) is an initiative to fight violence against women in Nepal using ICT (Information and Communications Technology). This is a followup from the VawHack (hackathon on VAW) conducted on Jun 16, 2013.</p>
+
+<p>VawHack brought together around hundred technologists and CSOs under the same roof, who worked on 18 brilliant ideas to fight VAW. Three winners were announced at the end of the day. "Your Voice Our Support", "Mero Katha" and "Self-Help" won first, second and third prizes respectively.</p>
 
 <a href="{{ page.link }}" target="_blank" class="button work-btn launch-btn"><span class="see-work"> Launch Website</span><span class="progress"></span></a>
 </div>
