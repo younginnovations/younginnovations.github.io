@@ -35,6 +35,7 @@ carousel:
 <h3>Open Development</h3>
 <div class="service-image">
 <img src="{{ site.url }}/images/services/how-open-development.png"/>
+<img src="{{ site.url }}/images/services/how-open-development@2x.png" class="small" width="83" height="83"/>
 </div>
  <p>We develop tools and technologies around open data to facilitate the agenda of transparency and accountability in collaboration with our partners from different parts of the globe. Our work on platforms like , Development Check and Open Data Nepal among others have already created huge impact at national and international level.</p>
 
@@ -45,6 +46,7 @@ carousel:
 <h3>Mobile Technologies</h3>
 <div class="service-image">
 <img src="{{ site.url }}/images/services/how-mobile.png"/>
+<img src="{{ site.url }}/images/services/how-mobile@2x.png" class="small" width="114" height="83"/>
 </div>
 <p>We help organizations become more efficient by integrating mobile telephony, specially SMS based technologies within existing business process and practices for wider reach and accessibility. Among different solutions we have provided in this context, we have worked with UNICEF and Ministry of Health, Government of Nepal to deploy first <a href="https://nip.org.np">SMS based immunization reporting system</a></p>
 
@@ -56,6 +58,7 @@ carousel:
 </h3>
 <div class="service-image">
 <img src="{{ site.url }}/images/services/how-web-tech.png"/>
+<img src="{{ site.url }}/images/services/how-web-tech@2x.png" class="small" width="162" height="83"/>
 </div> 
  <p>We work with our clients and partners to conceptualize, develop and deploy web applications and portals ranging from comprehensive knowledge management system to corporate portals and help them make the most of latest web technologies and practices.</p>
 
@@ -143,10 +146,10 @@ Happy Team<span>=</span>Productivity
 * ![Alt text]({{ site.url }}/images/staff/Punya.jpg)
   + Punya Ruchal
   + Web Developer
-* ![Alt text]({{ site.url }}/images/staff/Pratiksha.jpg)
+* ![Alt text]({{ site.url }}/images/staff/Rakeeb.jpg)
   + Rakeeb Rajbhandari
   + Mobile Developer
-* ![Alt text]({{ site.url }}/images/staff/Rakeeb.jpg)
+* ![Alt text]({{ site.url }}/images/staff/Rohit.jpg)
   + Rohit Shrestha
   + UX Designer
 * ![Alt text]({{ site.url }}/images/staff/Santosh.jpg)
