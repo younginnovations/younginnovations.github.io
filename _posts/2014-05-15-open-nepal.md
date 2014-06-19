@@ -9,8 +9,7 @@ categories: work
 link: http://opennepal.net  
 image:
   cover: work/opennepal.png
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: work/opennepal/feature-img.jpg
 ---
 
 <div class="layout work-description">
@@ -21,10 +20,10 @@ image:
 <div class="screenshot-wrapper">
 <div class="layout inner-screenshot">
 <div class="screenshot">
-<img src="{{ site.url }}/images/work/fightvaw/fightvawimg-1.png"/> 
+<img src="{{ site.url }}/images/work/opennepal/opennepalimg-1.png"/> 
 </div>
 <div class="screenshot">
-<img src="{{ site.url }}/images/work/fightvaw/fightvawimg-2.png"/> 
+<img src="{{ site.url }}/images/work/opennepal/opennepalimg-2.png"/> 
 </div>
 </div>
 </div>
@@ -37,10 +36,10 @@ image:
 <div class="screenshot-wrapper">
 <div class="layout inner-screenshot">
 <div class="screenshot">
-<img src="{{ site.url }}/images/work/fightvaw/fightvawimg-3.png"/> 
+<img src="{{ site.url }}/images/work/opennepal/opennepalimg-3.png"/> 
 </div>
 <div class="screenshot">
-<img src="{{ site.url }}/images/work/fightvaw/fightvawimg-4.png"/> 
+<img src="{{ site.url }}/images/work/opennepal/opennepalimg-4.png"/> 
 </div>
 </div>
 </div>
