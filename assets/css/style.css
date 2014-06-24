@@ -130,14 +130,23 @@ input,button {
 }
 
 .nav-down,.headroom--pinned,.top-pin,.contact .nav-down {
-/*
+    /*
     -webkit-transform: translate3d(0, 0, 0);
     -moz-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-*/
+    */
     background: rgba(255,255,255,0.8);
 }
+
+.nav-down.docked_nav {
+    background: #fff;
+}
+
+.worknav.nav-down.docked_nav {
+    background: #e7e7e6;
+}
+
 
 .contact .nav-down.docked_nav,.home .nav-down.docked_nav {
     background: transparent;
@@ -229,16 +238,41 @@ background: transparent!important;
 }
 
 
-.trigger span {
+.trigger .menu {
     display: block;
-    background: url(../../images/pages/trigger.png) no-repeat 10px 4px;
-    margin-top: 40px;
-    padding-left: 50px;
+/*    background: url(../../images/pages/trigger.png) no-repeat 10px 4px;*/
+/*    padding-left: 50px;*/
     color: #333;
     font-size: 15px;
     font-weight: normal;
     text-transform: none;
+    float: right;
+    margin-left: 10px;
 }
+
+.bar {
+    float: left;
+    margin-top: 2px;
+}
+
+.trigger span.icon-bar {
+    background: #323232;
+    display: block;
+    width: 40px;
+    height: 4px;
+    border-radius: 1px;
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+    border-radius: 2px;
+    width: 29px;
+    margin-bottom: 2px;
+    float: right;
+    clear: both;
+}
+
 
 .navigation-wrap {
     position: absolute;
@@ -671,7 +705,7 @@ background: transparent!important;
 
 /*
 .morph-button-modal-4 {
-    display: inline-block;
+display: inline-block;
 }
 */
 
@@ -1009,7 +1043,7 @@ background: transparent!important;
 }
 
 .worknav {
-    background: #e7e7e7;
+    background: rgba(231,231,230,0.8);
 }
 
 #index.work-wrapper {
@@ -1256,8 +1290,12 @@ p+p {
     margin-bottom: 30px!important;
 }
 
+.services {
+    overflow: hidden;
+}
+
 .services-block {
-    display: inline-block;
+    float: left;
     vertical-align: top;
     text-align: center;
 }
@@ -1833,24 +1871,20 @@ content: '\f002';
     border: 2px solid #fff;
 }
 
-/*
-#contact {
-overflow: hidden;
-height: 500px;
+#contact iframe {
+    overflow: hidden;
+    height: 300px!important;
 }
-*/
 
-/*
 #contact iframe,.office-image {
-min-height: 100%;
+    min-height: 50%;
 }
-*/
 
 .office-image img,#contact iframe {
     width: 100%;
     vertical-align: top;
+    height: 100%;
 }
-
 
 .slide-navigation {
     position: fixed;
@@ -1909,7 +1943,6 @@ min-height: 100%;
 .post .image-wrap {
     padding: 20% 0 0;
 }
-
 
 @media only screen and (min-width: 480px) {
 
@@ -1981,7 +2014,7 @@ min-height: 100%;
     }
 }
 
-    
+
 @media only screen and (min-width: 700px) {
     .team-title+ ul,.layout {
         max-width: 540px;
@@ -2012,8 +2045,8 @@ min-height: 100%;
         width: 33%;
     }
 
-    #contact {
-        height: 340px;
+    #contact,#contact iframe {
+        height: 340px!important;
         overflow: hidden;
     }
 
@@ -2035,8 +2068,8 @@ min-height: 100%;
     }
 
 }
-    
-    
+
+
 
 @media only screen and (min-width: 800px) {
 
@@ -2078,8 +2111,8 @@ min-height: 100%;
         font-size: 4.5rem;
     }
 }
-    
-    
+
+
 
 @media only screen and (min-width: 900px) {
     .slide-navigation {
@@ -2203,11 +2236,12 @@ min-height: 100%;
     .navigation-wrap li a.view-btn {
         left: 36%;
     }
-    
-    #contact {
-        height: 500px;
+
+    #contact,#contact iframe {
+        height: 500px!important;
         overflow: hidden;
     }
+
 }
 
 @media screen and (min-width:1500px) {
@@ -2270,7 +2304,7 @@ min-height: 100%;
     }
 
     .trigger {
-        top: -70px;
+        top: -30px;
     }
 }
 
@@ -2356,12 +2390,12 @@ min-height: 100%;
             background: url(../../images/contact/sprite@2x.png) no-repeat -161px 1px;
             background-size: 210px;
         }
-        
+
         .trigger span {
             background: url(../../images/pages/trigger@2x.png) no-repeat 10px 4px;
             background-size: 29px;
         }
-        
+
         .icon-close span {
             background: url(../../images/pages/close@2x.png) no-repeat;
             background-size: 16px;
