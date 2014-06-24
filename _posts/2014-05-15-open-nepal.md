@@ -9,38 +9,38 @@ categories: work
 link: http://opennepal.net  
 image:
   cover: work/opennepal.png
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: work/opennepal/feature-img.jpg
 ---
 
 <div class="layout work-description">
-<p>Open Data Nepal is an initiative to facilitate Open Data movement in Nepal. It is not about creating yet another data repository in the web but an effort to curate and disseminate data that is already available in public domain by some means in a more organized and usable manner following open data standards and principles. Rather than making data that is meant for public consumption to reside in hard copy formats or in formats that is not easy to analyze and process, we want them to be released as open data so as that they make more sense. Open Data Nepal in this regard aims at provide a platform for government agencies, civil society organizations, donor communities and even corporate sectors to publish data in open standards. </p>
+<p>Open data is part of open nepal, consortium of Development Initiative, Freedom Forum, NGO federation and YoungInnovations that provides the availability of better data, tools, skills and support to help those in the development ecosystem to access, analyse and use data for more inclusive and effective development. This initiative supports a range of development actors to improve their projects through increased use of data by delivering technical assistance, capacity development materials and raising awareness regarding the potential role of data in various development fields. In this context, Open Data aims to provide a platform for government agencies, civil society organizations, donor communities and even corporate sectors to publish data in open standards by providing improved access to information about aid, budgets and other related information to enhance the effectiveness of development efforts. </p>
 
 <a href="{{ page.link }}" target="_blank" class="button work-btn launch-btn"><span class="see-work"> Launch Website</span><span class="progress"></span></a>
 </div>
 <div class="screenshot-wrapper">
 <div class="layout inner-screenshot">
 <div class="screenshot">
-<img src="{{ site.url }}/images/work/fightvaw/fightvawimg-1.png"/> 
+<img src="{{ site.url }}/images/work/opennepal/opennepalimg-1.png"/> 
 </div>
 <div class="screenshot">
-<img src="{{ site.url }}/images/work/fightvaw/fightvawimg-2.png"/> 
+<img src="{{ site.url }}/images/work/opennepal/opennepalimg-2.png"/> 
 </div>
 </div>
 </div>
 
-## What They said
+## What they said
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+> Open data is coordinated and managed by YoungInnovations as a technical partner in the development of the IATI standard and infrastructure primarily responsible for data availability, data access and use(data desk),  data awareness (capacity building) and documentation of impact along with lessons of Open data movement. YoungInnovations being part of it has shown their full support and aid by providing:
+
 
 
 <div class="screenshot-wrapper">
 <div class="layout inner-screenshot">
 <div class="screenshot">
-<img src="{{ site.url }}/images/work/fightvaw/fightvawimg-3.png"/> 
+<img src="{{ site.url }}/images/work/opennepal/opennepalimg-3.png"/> 
 </div>
 <div class="screenshot">
-<img src="{{ site.url }}/images/work/fightvaw/fightvawimg-4.png"/> 
+<img src="{{ site.url }}/images/work/opennepal/opennepalimg-4.png"/> 
 </div>
 </div>
 </div>
