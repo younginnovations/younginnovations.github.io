@@ -66,7 +66,7 @@ image:
 <div class="impact-info">
 <span class="impact">We Create Impact</span>
 <p>
-by developing innovative solutions. See <a href="how">How we do it</a>
+by crafting innovative solutions. See <a href="how">How we do it</a>
 </p>
 </div>
 </section>
