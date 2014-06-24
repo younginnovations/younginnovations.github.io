@@ -240,8 +240,8 @@ background: transparent!important;
 
 .trigger .menu {
     display: block;
-/*    background: url(../../images/pages/trigger.png) no-repeat 10px 4px;*/
-/*    padding-left: 50px;*/
+    /*    background: url(../../images/pages/trigger.png) no-repeat 10px 4px;*/
+    /*    padding-left: 50px;*/
     color: #333;
     font-size: 15px;
     font-weight: normal;
@@ -1200,7 +1200,7 @@ p+p {
     overflow: hidden;
     float: left;
     width: 100%;
-
+    margin-top: 20px;
 }
 
 .inner-screenshot .screenshot {
@@ -1216,16 +1216,43 @@ p+p {
 }
 
 
-#what-they-said {
+.work-detail-wrap h2 {
     text-align: center;
     clear: both;
     padding: 38px 0 28px;
 }
 
-#what-they-said+blockquote {
+.work-detail-wrap h2+blockquote{
     max-width: 320px;
     max-width: 20rem;
     margin: 0 auto;
+}
+
+.work-detail-wrap .work-description p {
+    text-align: center!important;
+}
+
+.work-detail-wrap p,.work-detail-wrap ul {
+    max-width: 960px;
+    max-width: 53rem;
+    margin: 0 auto;
+    text-align: left!important;
+}
+
+.work-detail-wrap p {
+    line-height: 1.5;
+}
+
+.work-detail-wrap ul {
+    margin-bottom: 20px;
+}
+
+.work-detail-wrap ul li {
+    padding-bottom: 6px;
+}
+
+.work-detail-wrap h2+p:last-of-type,.work-detail-wrap h2+p:last-child,.work-detail-wrap p:last-child {
+    margin-bottom: 40px!important;
 }
 
 #main article blockquote {
