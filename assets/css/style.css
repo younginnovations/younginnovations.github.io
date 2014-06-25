@@ -11,6 +11,13 @@ body {
     -webkit-tap-highlight-color: transparent;
 }
 
+body.fixed {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Open Sans', sans-serif;
 }
@@ -70,7 +77,7 @@ input,button {
     height: 54px;
 }
 
-.layout {
+.layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
     max-width: 320px;
     max-width: 20rem;
     margin: 0 auto;
@@ -117,6 +124,16 @@ input,button {
     z-index: 100;
     padding-top: 24px;
     padding-bottom: 22px;
+}
+
+
+.navigation-wrapper.scroll {
+
+    height: 100%;
+} 
+
+.top-navigation {
+    margin-bottom: 0;
 }
 
 .nav-up,.headroom--unpinned,.headroom.unpin,.contact .nav-up {
@@ -232,59 +249,107 @@ background: transparent!important;
 
 .trigger {
     position: absolute;
-    top: -70px;
+    top: 0;
     right: 2%;
     cursor: pointer;
+    line-height: normal;
+    z-index: 10000;
 }
 
 
 .trigger .menu {
     display: block;
-    /*    background: url(../../images/pages/trigger.png) no-repeat 10px 4px;*/
-    /*    padding-left: 50px;*/
     color: #333;
     font-size: 15px;
     font-weight: normal;
     text-transform: none;
     float: right;
     margin-left: 10px;
+    margin-top: 35px;
 }
 
 .bar {
     float: left;
-    margin-top: 2px;
+    margin-top: 40px;
 }
 
-.trigger span.icon-bar {
+.trigger span.icon-bar,.trigger:hover span.icon-bar {
     background: #323232;
     display: block;
     width: 40px;
-    height: 4px;
+    height: 3px;
     border-radius: 1px;
     -webkit-transform: rotate(0deg);
     -ms-transform: rotate(0deg);
     transform: rotate(0deg);
     -webkit-transition: all 300ms ease-in-out;
     transition: all 300ms ease-in-out;
-    border-radius: 2px;
     width: 29px;
     margin-bottom: 2px;
     float: right;
     clear: both;
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out
+}
+
+.trigger span.icon-bar.middle {
+    width: 21px;
+}
+
+.trigger span.icon-bar.bottom {
+    width: 15px;
+}
+
+
+.trigger.active {
+    -webkit-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out
+}
+
+.trigger.active span.icon-bar {
+    position: relative;
+    -webkit-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+    width: 20px;
+}
+
+.trigger.active span.icon-bar.top {
+    -webkit-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    top: 4px;
+}
+
+.trigger.active span.icon-bar.middle {
+    width: 0;
+    height: 0;
+    margin: 0 auto;
+    display: none;
+}
+
+.trigger.active span.icon-bar.bottom {
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    margin: 0;
 }
 
 
 .navigation-wrap {
     position: absolute;
-    width: 100%;
-    height: 100%;
+    width: 0px;
+    height: 0px;
     background: rgba(255,255,255,0.95);
-    top: 0;
-    left: 0;
+    top: 400px;
+    left: 50%;
     z-index: 2;
     margin: 0;
-    overflow-x: auto!important;
     background: #fff;
+    opacity: 0;
+    overflow-x: auto;
 }
 
 .navigation-wrap li a.view-btn,.work-article-wrap article .view-btn {
@@ -1023,23 +1088,7 @@ display: inline-block;
 }
 
 .icon-close {
-    position: absolute;
-    top: -87px;
-    right: 2%;
-    cursor: pointer;
     font-family: 'Open Sans', sans-serif;
-}
-
-.icon-close span {
-    display: block;
-    background: url(../../images/pages/close.png) no-repeat;
-    height: 17px;
-    margin-top: 128px;
-    padding-left: 22px;
-    color: #333;
-    font-size: 15px;
-    font-weight: normal;
-    text-transform: none;
 }
 
 .worknav {
@@ -1228,16 +1277,6 @@ p+p {
     margin: 0 auto;
 }
 
-.work-detail-wrap .work-description p {
-    text-align: center!important;
-}
-
-.work-detail-wrap p,.work-detail-wrap ul {
-    max-width: 960px;
-    max-width: 53rem;
-    margin: 0 auto;
-    text-align: left!important;
-}
 
 .work-detail-wrap p {
     line-height: 1.5;
@@ -1248,7 +1287,7 @@ p+p {
 }
 
 .work-detail-wrap ul li {
-    padding-bottom: 6px;
+    padding-bottom: 8px;
 }
 
 .work-detail-wrap h2+p:last-of-type,.work-detail-wrap h2+p:last-child,.work-detail-wrap p:last-child {
@@ -1922,6 +1961,10 @@ content: '\f002';
     display: none;
 }
 
+body.fixed .slide-navigation {
+    opacity: 0;
+}
+
 .slide-navigation li {
     -webkit-transition: all .2s ease-in-out;
     display: block;
@@ -1993,7 +2036,7 @@ content: '\f002';
         width: 32%;
     }
 
-    .layout {
+    .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
         max-width: 432px;
         max-width: 24rem;
     }
@@ -2043,7 +2086,7 @@ content: '\f002';
 
 
 @media only screen and (min-width: 700px) {
-    .team-title+ ul,.layout {
+    .team-title+ ul,.layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
         max-width: 540px;
         max-width: 30rem;
     }
@@ -2100,7 +2143,7 @@ content: '\f002';
 
 @media only screen and (min-width: 800px) {
 
-    .team-title+ ul,.layout {
+    .team-title+ ul,.layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
         max-width: 720px;
         max-width: 40rem;
     }
@@ -2171,9 +2214,16 @@ content: '\f002';
 }
 
 @media only screen and (min-width:1000px) {
-    .layout,.home-wrapper {
+    .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul,.home-wrapper {
         max-width: 960px;
         max-width: 53rem;
+    }
+
+    .work-detail-wrap p,.work-detail-wrap ul {
+        max-width: 960px;
+        max-width: 53rem;
+        margin: 0 auto;
+        text-align: left!important;
     }
 
     .motto-wrapper,.services {
@@ -2216,6 +2266,10 @@ content: '\f002';
 
     #main article p,#main .headline-wrap{ 
         text-align: center;
+    }
+
+    .work-detail-wrap .work-description p {
+        text-align: center!important;
     }
 
 
@@ -2331,7 +2385,7 @@ content: '\f002';
     }
 
     .trigger {
-        top: -30px;
+        top: 0;
     }
 }
 
@@ -2428,3 +2482,7 @@ content: '\f002';
             background-size: 16px;
         }
     }
+
+#site-nav,.impact-projects {
+    background: #fff;
+}

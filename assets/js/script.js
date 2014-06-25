@@ -2,9 +2,9 @@ $(document).ready(function(){
     $('.main-wrapper,.inner-wrapper').css('min-height', $(window).height() + 'px');    
 
 
-    new UIMorphingButton( document.querySelector( '.morph-button' ), {
-        closeEl : '.icon-close',
-    } );
+    //        new UIMorphingButton( document.querySelector( '.morph-button' ), {
+    //            closeEl : '.icon-close',
+    //        } );
 
     $('.work-wrapper').siblings('.navigation-wrapper').addClass('worknav');
 
@@ -15,8 +15,8 @@ $(document).ready(function(){
         var imgheight = $('.office-image img').height() + 'px';
         $('#contact iframe').css('height', imgheight);
     });
-    
-    
+
+
 
     //hide navigation wrap when clicked esc key
 
@@ -25,60 +25,54 @@ $(document).ready(function(){
             $('.navigation-wrap').hide();
         }
     });
-    
+
     $('.impact-wrap svg').hover(function() {
         $(this).parent('.impact-image').addClass('impactover');
-    },
-    function(){
+    },function(){
         $(this).parent('.impact-image').removeClass('impactover');
     });
 
-//    $('.morph-button').parents('.navigation-wrapper').css('height','auto');
-//    
-//    $('.trigger').click(function() {
-//        $('.morph-button').parents('body').addClass('fixed');
-//        $('.morph-button').parents('.navigation-wrapper').css('height','100%');
-//        $('.morph-button').parents('.navigation-wrapper.nav-down').addClass('morphnav');
-//        $('.slide-navigation').css('display','none');
-//    });
-//
-//    $('.icon-close').click(function() {
-//        $('.morph-button').parents('body').removeClass('fixed');
-////      $('.morph-button').parents('.navigation-wrapper').css('height','auto');
-//       $('.morph-button').parents('.navigation-wrapper.nav-down').removeClass('morphnav');
-//        $('.slide-navigation').css('display','block');
-//    });
 
-    
-    //
-    //    $( '.icon-close' ).on(
-    //        'click',
-    //        function()
-    //        {
-    //            var href = $(this).attr( 'href' );
-    //
-    //            //  if the clicked link is linked to an anchor, scroll the page to that anchor 
-    //            if ( href.slice( 0, 1 ) == '#' )
-    //            {
-    //                $menu.one(
-    //                    'closed.mm',
-    //                    function()
-    //                    {
-    //                        setTimeout(
-    //                            function()
-    //                            {
-    //                                $html.animate({
-    //                                    scrollTop: $( href ).offset().top
-    //                                },700); 
-    //                            }, 10
-    //                        );  
-    //                    }
-    //                );                      
-    //            }
-    //        }
-    //    );
 
-    
+    $(".trigger").click( function(event){
+        $(this).toggleClass("inactive"); 
+        $(this).toggleClass("active"); 
+        $(this).parents('.navigation-wrapper').toggleClass('scroll');
+        $('body').toggleClass('fixed');
+        event.preventDefault();
+        if ($(this).hasClass("inactive") ) {
+            $( ".navigation-wrap" ).animate({
+                'opacity': '0',
+                'width': '0%',
+                'height': '100%',
+                'top': '400px',
+                'left': '50%'
+            },600, function() {
+                // Animation complete.
+            });
+        } else {
+            $( ".navigation-wrap" ).animate({
+                'opacity': '1',
+                'width': '100%',
+                'height': '100%',
+                'top': '0',
+                'left': '0'
+            }, 700, function() {
+                // Animation complete.
+            });
+        }
+        return false;
+    });
+
+
+
+    $( "#target" ).toggle(function() {
+        alert( "First handler for .toggle() called." );
+    }, function() {
+        alert( "Second handler for .toggle() called." );
+    });
+
+
 
 
     //scrollit
@@ -133,7 +127,7 @@ $(document).ready(function(){
         $('.slide-navigation').css('display','none');
         $('.call').css('display','none');
         $('.tel').css('display','block');
-        
+
 
         $(window).scroll(function() {
             var wrapVal = $(this).scrollTop();
@@ -146,11 +140,11 @@ $(document).ready(function(){
             }
         });
     }
-    
 
-    
+
+
     //for non touch devices
-    
+
     if (!("ontouchstart" in document.documentElement)) {
         document.documentElement.className += " no-touch";
     }
@@ -164,7 +158,7 @@ $(document).ready(function(){
             return false;
         }
     }
-    
+
     if (!((is_touchd_device()) || ua1.match(/(iPhone|iPod|iPad)/) || ua1.match(/BlackBerry/) || ua1.match(/Android/))) {
         // Hide Header on on scroll down
         var didScroll;
@@ -215,6 +209,6 @@ $(document).ready(function(){
 
     }
 
-  
- $('.contact-wrapper').parents('body').addClass('contact');
+
+    $('.contact-wrapper').parents('body').addClass('contact');
 });
