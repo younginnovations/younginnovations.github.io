@@ -1,22 +1,20 @@
 ---
 layout: work
-title: AidStream
+title: Mobile Social Networking Nepal  
 description: ""
-modified: 2014-05-16
-tags: [intro, beginner, jekyll, tutorial]
-comments: true
+modified: 2014-05-20
+tags: [andriod, application]
+comments: false
 categories: work
-caselink: case/devcheck-case
-link: http://aidstream.org  
+link: http://mobilenepal.net/
 image:
-  cover: work/aidstream.png
+  cover: work/fightvaw.png
   feature: work/fightvaw/feature-img.png
 ---
 
-
-
 <div class="layout work-description">
-<p>The issue of foreign aid transparency and aid effectiveness has been a topic of debate and discussion at an international level since quite some time. Making aid data openly available in uniform standard format, both from donors and recipients, is a vital step in making foreign aid more transparent. This open availability of aid data enables individuals and organisations to access aid data , analyse them and ask questions regarding proper implementation of aid driven activities thereby enhancing aid effectiveness and accountability.</p>
+<p>Mobile Social Networking Nepal (Mobile Nepal) is a community of like-minded organizations and individuals who are interested in and/ or willing to work around mobile technologies. It wants to foster a community of practice around Mobile Ecosystem in Nepal to encourage and facilitate discussions and discourses around issues, opportunities and challenges around mobile technologies in Nepal. It is an initiative of YoungInnovations Pvt. Ltd. and infoDev, The World Bank.
+</p>
 
 <a href="{{ page.link }}" target="_blank" class="button work-btn launch-btn"><span class="see-work"> Launch Website</span><span class="progress"></span></a>
 </div>
@@ -32,10 +30,10 @@ image:
 </div>
 
 <!--
+
 ## What They said
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 
 
 <div class="screenshot-wrapper">
@@ -48,4 +46,12 @@ image:
 </div>
 </div>
 </div>
+
+
+## What They said
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 -->
+
