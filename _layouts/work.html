@@ -4,56 +4,58 @@
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
-{% include _head.html %}
+  {% include _head.html %}
 </head>
 
 <body class="post">
 
-{% include _browser-upgrade.html %}
+  {% include _browser-upgrade.html %}
 
-{% include _navigation.html %}
+  {% include _navigation.html %}
 
 
-<div id="main" role="main">
-  {% if page.image.feature %}
-  <div class="image-wrap">
-    <img src=
-         {% if page.image.feature contains 'http://' %}
-         "{{ page.image.feature }}"
-         {% elsif page.image.feature contains 'https://' %}
-         "{{ page.image.feature }}"
-         {% else %}
-         "{{ site.url }}/images/{{ page.image.feature }}"
-         {% endif %}
-         alt="{{ page.title }} feature image">
-    {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-    {% endif %}
-  </div><!-- /.image-wrap -->
-  {% endif %}
-
-  <article>
-    <div class="headline-wrap layout">
-      {% if page.link %}
-        <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
-      {% else %}
-        <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+  <div id="main" role="main">
+    {% if page.image.feature %}
+    <div class="image-wrap">
+      <img src=
+           {% if page.image.feature contains 'http://' %}
+           "{{ page.image.feature }}"
+           {% elsif page.image.feature contains 'https://' %}
+           "{{ page.image.feature }}"
+           {% else %}
+           "{{ site.url }}/images/{{ page.image.feature }}"
+           {% endif %}
+           alt="{{ page.title }} feature image">
+      {% if page.image.credit %}
+      <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
       {% endif %}
-    </div><!--/ .headline-wrap -->
-    <div class="article-wrap work-detail-wrap">
-      {{ content }}
+    </div><!-- /.image-wrap -->
+    {% endif %}
 
-    </div><!-- /.article-wrap -->
-  </article>
-</div><!-- /#main -->
+    <article>
+      <div class="work-article-layout">
+        <div class="headline-wrap layout">
+          {% if page.link %}
+          <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
+          {% else %}
+          <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+          {% endif %}
+        </div><!--/ .headline-wrap -->
+        <div class="article-wrap work-detail-wrap">
+          {{ content }}
 
-<div class="footer-wrap">
-  <footer class="layout">
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
+        </div><!-- /.article-wrap -->
+      </div>
+    </article>
+  </div><!-- /#main -->
 
-{% include _scripts.html %}	        
+  <div class="footer-wrap">
+    <footer class="layout">
+      {% include _footer.html %}
+    </footer>
+  </div><!-- /.footer-wrap -->
+
+  {% include _scripts.html %}	        
 
 </body>
 </html>

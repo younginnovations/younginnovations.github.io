@@ -128,9 +128,9 @@ input,button {
 
 
 .navigation-wrapper.scroll {
-/*    position: absolute;*/
+    /*    position: absolute;*/
     height: 100%;
-/*    overflow-y: auto;*/
+    /*    overflow-y: auto;*/
 } 
 
 .top-navigation {
@@ -257,8 +257,7 @@ background: transparent!important;
     z-index: 10000;
 }
 
-
-.trigger .menu {
+.menu {
     display: block;
     color: #333;
     font-size: 15px;
@@ -274,7 +273,7 @@ background: transparent!important;
     margin-top: 40px;
 }
 
-.trigger span.icon-bar,.trigger:hover span.icon-bar {
+.bar span.icon-bar,.bar:hover span.icon-bar {
     background: #323232;
     display: block;
     width: 40px;
@@ -296,11 +295,11 @@ background: transparent!important;
     transition: all 300ms ease-in-out
 }
 
-.trigger span.icon-bar.middle {
+.bar span.icon-bar.middle {
     width: 21px;
 }
 
-.trigger span.icon-bar.bottom {
+.bar span.icon-bar.bottom {
     width: 15px;
 }
 
@@ -1162,6 +1161,7 @@ display: inline-block;
 
 .work-article-wrap article:last-child .link-article a,.work-article-wrap article:last-child .portfolio-title a {
     cursor: default;
+    pointer-events: none;
 }
 
 .link-article {
@@ -1180,6 +1180,7 @@ display: inline-block;
 .footer-wrap {
     background: #F16622;
     padding: 95px 0 140px;
+    position: relative;
 }
 
 .footer-wrap footer {
@@ -1225,6 +1226,7 @@ display: inline-block;
 
 .headline-wrap h1 {
     margin-bottom: 50px;
+    margin-top: 0;
 }
 
 .headline-wrap h1 a,.headline-wrap h1 a:hover {
@@ -1236,6 +1238,7 @@ display: inline-block;
 #main article {
     width: 100%;
     margin: 0;
+    position: relative;
 }
 
 #main article p {
@@ -1318,6 +1321,10 @@ p+p {
 .screenshot-wrapper+p {
     margin-top: 60px;
     margin-bottom: 50px;
+}
+
+.image-wrap {
+    margin-bottom: 0;
 }
 
 .image-wrap:after {
@@ -2239,6 +2246,10 @@ body.fixed .slide-navigation {
         text-align: left!important;
     }
 
+    .work-detail-wrap ul {
+        margin-bottom: 20px;
+    }
+
     .motto-wrapper,.services {
         margin: 86px auto 80px;
     }
@@ -2418,6 +2429,12 @@ body.fixed .slide-navigation {
     }
 }
 
+@media screen and (max-width:400px) {    
+    .impact {
+        font-size: 2rem;
+    }
+}
+
 
 @media screen and (min-width:480px) and (max-width:560px) {
     .impact-image svg {
@@ -2501,3 +2518,40 @@ body.fixed .slide-navigation {
 #site-nav {
     clear: both;
 }
+
+.work-article-layout {
+    padding: 60px 0 24px;
+    background: #fff;
+}
+
+@media screen and (min-width:1280px) {
+    .imagefixed-wrap {
+        position: fixed;
+        top: -50%;
+        left: 0;
+    }
+
+    #main .imagefixed-wrap+article {
+        padding-top: 66.4%;
+    }
+
+}
+
+@media screen and (min-width:1500px) {
+    .imagefixed-wrap {
+        top: -60%;
+    }
+
+    #main .imagefixed-wrap+article {
+        padding-top: 66.4%;
+    }
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+    and (min-device-width : 768px) 
+    and (max-device-width : 1024px) {
+        .home-wrapper {
+            padding-top: 0;
+        }
+    }
