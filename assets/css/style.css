@@ -1260,6 +1260,7 @@ p+p {
     float: left;
     width: 100%;
     margin-top: 20px;
+    text-align: center;
 }
 
 .inner-screenshot .screenshot {
@@ -2120,6 +2121,7 @@ body.fixed .slide-navigation {
         float: left;
         margin-left: 20px;
         width: 48%;
+        margin-bottom: 0;
     }
 
     .contact-block {

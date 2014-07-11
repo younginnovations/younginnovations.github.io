@@ -32,9 +32,9 @@ GPO 9876 CPC 241
 
 <div class="social-links">
 <ul>
-<li class="facebook"><a href="#">facebook</a></li>
-<li class="twitter"><a href="#">twitter</a></li>
-<li class="youtube"><a href="#">youtube</a></li>
+<li class="facebook"><a href="https://www.facebook.com/pages/YoungInnovations/95147447293" target="_blank">facebook</a></li>
+<li class="twitter"><a href="https://twitter.com/yipl" target="_blank">twitter</a></li>
+<li class="youtube"><a href="https://www.youtube.com/channel/UCO-vB1e_aZMOXUF1idGaP2w" target="_blank">youtube</a></li>
 </div>
 
 </section>

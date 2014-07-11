@@ -10,7 +10,7 @@ caselink: case/devcheck-case
 link: http://aidstream.org  
 image:
   cover: work/aidstream.png
-  feature: work/fightvaw/feature-img.png
+  feature: work/aidstream/feature-img.jpg
 ---
 
 
@@ -21,14 +21,7 @@ image:
 <a href="{{ page.link }}" target="_blank" class="button work-btn launch-btn"><span class="see-work"> Launch Website</span><span class="progress"></span></a>
 </div>
 <div class="screenshot-wrapper">
-<div class="layout inner-screenshot">
-<div class="screenshot">
-<img src="{{ site.url }}/images/work/fightvaw/fightvawimg-1.png"/> 
-</div>
-<div class="screenshot">
-<img src="{{ site.url }}/images/work/fightvaw/fightvawimg-2.png"/> 
-</div>
-</div>
+<img src="{{ site.url }}/images/work/aidstream/img.png"/> 
 </div>
 
 <!--
