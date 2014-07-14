@@ -8,9 +8,12 @@ modified: 2014-05-15
 comments: true
 ---
 
-We take pride being an Equal Opportunity Employer.
+<div class="career-wrapper layout">
+<p>We take pride being an Equal Opportunity Employer.</p>
 
-We don't have any openings now. Any queries to be directed to careers@yipl.com.np
+<p>We don't have any openings now. Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a></p>
+
+</div>
 
  
 

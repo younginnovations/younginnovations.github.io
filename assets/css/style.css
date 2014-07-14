@@ -128,9 +128,7 @@ input,button {
 
 
 .navigation-wrapper.scroll {
-    /*    position: absolute;*/
     height: 100%;
-    /*    overflow-y: auto;*/
 } 
 
 .top-navigation {
@@ -189,7 +187,7 @@ background: transparent!important;
 }
 
 .home .inner-wrapper .nav-up,.home .inner-wrapper .nav-down {
-    background: transparent;
+    background: transparent!important;
 }
 
 .home .nav-down {
@@ -236,11 +234,8 @@ background: transparent!important;
 }
 
 .info-title {
-    font-size: 17px;
-    /*
     font-size: 26px;
     font-size: 1.444rem;
-    */
     line-height: 1.384;
     font-weight: 400;
     color: #fff;
@@ -342,15 +337,15 @@ background: transparent!important;
     position: absolute;
     width: 0px;
     height: 0px;
-    background: rgba(255,255,255,0.95);
     top: 400px;
     left: 50%;
     z-index: 2;
     margin: 0;
     background: #fff;
     opacity: 0;
-    overflow-x: auto;
+    overflow-y: auto;
     clear: both;
+    bottom: auto;
 }
 
 .navigation-wrap li a.view-btn,.work-article-wrap article .view-btn {
@@ -1276,6 +1271,10 @@ p+p {
 
 .inner-screenshot .screenshot:first-child {
     margin-left: 0;
+}
+
+.inner-screenshot .screenshot:last-child {
+    margin-bottom: 0;
 }
 
 
@@ -2403,7 +2402,7 @@ body.fixed .slide-navigation {
     }
 
     #main {
-        padding: 5% 0 0;
+        padding: 1% 0 0;
     }
 
     .trigger {
@@ -2431,7 +2430,7 @@ body.fixed .slide-navigation {
 
 @media screen and (max-width:400px) {    
     .impact {
-        font-size: 2rem;
+        font-size: 1.9rem;
     }
 }
 
@@ -2524,7 +2523,15 @@ body.fixed .slide-navigation {
     background: #fff;
 }
 
-@media screen and (min-width:1280px) {
+.career-wrap {
+    padding: 60px 0 40px;
+}
+
+.article-wrap .career-wrapper p>a {
+    border: 0;
+}
+
+@media screen and (min-width:1100px) {
     .imagefixed-wrap {
         position: fixed;
         top: -50%;
@@ -2551,7 +2558,28 @@ body.fixed .slide-navigation {
 @media only screen 
     and (min-device-width : 768px) 
     and (max-device-width : 1024px) {
-        .home-wrapper {
-            padding-top: 0;
+
+        .impact-image {
+            margin: 0;
         }
+
+        .impact-info {
+            padding-top: 224px;
+        }
+
     }
+
+@media screen and (max-width:320px) {
+    .layout, .work-detail-wrap h2, .work-detail-wrap p, .work-detail-wrap ul {
+        max-width: 260px;
+        max-width: 16rem;
+    }
+    
+    .nav ul li a {
+        font-size: 21px;
+    }
+    
+    .navigation-wrap li a.view-btn {
+        left: 21%;
+    }
+}

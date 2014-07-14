@@ -173,9 +173,7 @@ Happy Team<span>=</span>Productivity
 * ![Alt text]({{ site.url }}/images/staff/Tribhuvan.jpg)
   + Tribhuvan Raj Pokharel
   + Software Developer
-* ![Alt text]({{ site.url }}/images/staff/Vishnu.jpg)
-  + Vishnu Raj Bhatta
-  + Developer
+
 
 <div class="service-wrapper quote-wrapper">
 <div class="service-wrap quote-wrap">
