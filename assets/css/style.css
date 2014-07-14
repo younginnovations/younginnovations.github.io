@@ -217,7 +217,7 @@ background: transparent!important;
     width: 100%;
     height: 100%;
     background: rgba(50,50,50,0.9);
-    top: -50%;
+    top: -100%;
     left: 0;
     text-align: center;
     -webkit-transition: all 0.5s ease;
@@ -225,7 +225,7 @@ background: transparent!important;
     -o-transition: all 0.5s ease;
     -ms-transition: all 0.5s ease;
     transition: all 0.5s ease;
-    opacity: 0;
+/*    opacity: 0;*/
 }
 
 .impact-projects ul li:hover .info,.link-article:hover .info  {
@@ -268,7 +268,7 @@ background: transparent!important;
     margin-top: 40px;
 }
 
-.bar span.icon-bar,.bar:hover span.icon-bar {
+.bar span.icon-bar {
     background: #323232;
     display: block;
     width: 40px;
@@ -301,12 +301,14 @@ background: transparent!important;
 
 .trigger.active {
     -webkit-transition: all 300ms ease-in-out;
+    -moz-transition: all 300ms ease-in-out;
     transition: all 300ms ease-in-out
 }
 
 .trigger.active span.icon-bar {
     position: relative;
     -webkit-transition: all 300ms ease-in-out;
+    -moz-transition: all 300ms ease-in-out;
     transition: all 300ms ease-in-out;
     width: 20px;
 }
@@ -314,6 +316,7 @@ background: transparent!important;
 .trigger.active span.icon-bar.top {
     -webkit-transform: rotate(-45deg);
     -ms-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
     transform: rotate(-45deg);
     top: 4px;
 }
@@ -328,10 +331,10 @@ background: transparent!important;
 .trigger.active span.icon-bar.bottom {
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
     transform: rotate(45deg);
     margin: 0;
 }
-
 
 .navigation-wrap {
     position: absolute;
@@ -1495,9 +1498,9 @@ p+p {
 .team-title+ ul li ul li {
     width: auto;
     font-size: 13px;
-    margin: 0 0 45px;
+    margin: 6px 0 45px;
     float: none;
-    line-height: 1.7;
+    line-height: 1;
     display: block;
 }
 
@@ -2028,7 +2031,7 @@ body.fixed .slide-navigation {
 }
 
 #main {
-    padding: 20% 0 0;
+    padding: 6% 0 0;
 }
 
 @media only screen and (min-width: 480px) {
@@ -2393,7 +2396,7 @@ body.fixed .slide-navigation {
         text-align: center;
     }
 
-    .quote-wrapper {
+    .quote-wrap-large {
         background-attachment: fixed;
     }
 

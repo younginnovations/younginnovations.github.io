@@ -15,7 +15,7 @@ carousel:
 <ul class="slide-navigation">
 <li><a data-scroll-nav="0"><span>How do we do it?</span></a></li>
 <li><a data-scroll-nav="1"><span>Team</span></a></li>
-<li><a data-scroll-nav="2"><span>Testimonials</span></a></li>
+<!--<li><a data-scroll-nav="2"><span>Testimonials</span></a></li>-->
 </ul>
 
 
@@ -181,6 +181,7 @@ Happy Team<span>=</span>Productivity
 </div>
 </div>
 
+<!--
 <div class="client-wrapper" data-scroll-index="2">
 <div class="client-wrap layout">
 <h2>What our clients say</h2>
@@ -193,5 +194,6 @@ Happy Team<span>=</span>Productivity
 </div>
 </div>
 </div>
+-->
 
 

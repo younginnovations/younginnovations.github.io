@@ -233,7 +233,7 @@ $(document).ready(function(){
             lastScrollTop = st;
         }
 
-
+        $('.quote-wrapper').addClass('quote-wrap-large');
 
     }
 

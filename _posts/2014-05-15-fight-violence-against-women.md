@@ -9,7 +9,7 @@ categories: work
 link: http://fightvaw.org
 image:
   cover: work/fightvaw.png
-  feature: work/fightvaw/feature-img.png
+  feature: work/fightvaw/feature-img.jpg
 ---
 
 <div class="layout work-description">
