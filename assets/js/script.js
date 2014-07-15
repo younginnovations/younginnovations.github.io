@@ -1,5 +1,10 @@
 $(document).ready(function(){
-    $('.main-wrapper,.inner-wrapper').css('min-height', $(window).height() + 'px');    
+    $('.main-wrapper,.inner-wrapper').css('height', $(window).height() + 'px');    
+    
+    if($(window).height < 600 ) {
+        $('.main-wrapper,.inner-wrapper').css('min-height', $(window).height() + 'px');    
+        $('.main-wrapper,.inner-wrapper').css('height', 'auto');    
+    }
 
 
     //        new UIMorphingButton( document.querySelector( '.morph-button' ), {
@@ -18,13 +23,7 @@ $(document).ready(function(){
 
 
 
-    //hide navigation wrap when clicked esc key
-
-    $(document).keyup(function(event) {
-        if(event.which === 27) {
-            $('.navigation-wrap').hide();
-        }
-    });
+  
 
     $('.impact-wrap svg').hover(function() {
         $(this).parent('.impact-image').addClass('impactover');
@@ -34,8 +33,40 @@ $(document).ready(function(){
 
 
     $(".trigger").click( function(event){
+        //hide navigation wrap when clicked esc key
+
+        $(document).keyup(function(event) {
+            if(event.which === 27) {
+                $( ".navigation-wrap" ).animate({
+                    'opacity': '0',
+                    'width': '0%',
+                    'height': '100%',
+                    'top': '400px',
+                    'left': '50%'
+                },200, function() {
+                    // Animation complete.
+                });
+                $('.navigation-wrapper').addClass('noscroll').removeClass('scroll');
+                $('body').removeClass('fixed');
+                $('.trigger').removeClass('active').addClass('inactive');
+            }
+            else {
+                $( ".navigation-wrap" ).animate({
+                    'opacity': '1',
+                    'width': '100%',
+                    'height': '100%',
+                    'top': '0',
+                    'left': '0'
+                }, 400, function() {
+                    // Animation complete.
+                }); 
+                
+            }
+        });
+        
         $(this).toggleClass("inactive"); 
         $(this).toggleClass("active"); 
+        $('.navigation-wrapper').removeClass('noscroll');
         $(this).parents('.navigation-wrapper').toggleClass('scroll');
         $('body').toggleClass('fixed');
         event.preventDefault();
@@ -68,12 +99,16 @@ $(document).ready(function(){
     $(window).scroll(function() {
         if ($(window).width() > 1100) {
             var scrollVal = $(this).scrollTop();
+            var scrollHeight = $('.image-wrap').height();
             var imgHeight = $('.image-wrap').height()/2;
+            $('#main article').css('padding-top',scrollHeight);
             if ( scrollVal > imgHeight) {
                 $('.image-wrap').addClass('imagefixed-wrap');
+                //                $('#main article').css('padding-top',scrollHeight);
             }
             else {
                 $('.image-wrap').removeClass('imagefixed-wrap');
+                //                $('#main article').css('padding-top','0');
             }
         }
     });
@@ -82,16 +117,22 @@ $(document).ready(function(){
         $(window).scroll(function() {
             if ($(window).width() > 1100) {
                 var scrollVal = $(this).scrollTop();
+                var scrollHeight = $('.image-wrap').height();
                 var imgHeight = $('.image-wrap').height()/2;
+                $('#main article').css('padding-top',scrollHeight);
                 if ( scrollVal > imgHeight) {
                     $('.image-wrap').addClass('imagefixed-wrap');
+                    //                    $('#main article').css('padding-top',scrollHeight);
                 }
                 else {
                     $('.image-wrap').removeClass('imagefixed-wrap');
+                    //                    $('#main article').css('padding-top','0');
                 }
             }
         });
     });
+
+
 
 
     $( "#target" ).toggle(function() {
@@ -106,32 +147,6 @@ $(document).ready(function(){
     //scrollit
 
     $.scrollIt();
-
-
-    //    $(window).scroll(function() {
-    //        var wrapVal = $(this).scrollTop();
-    //        var wrapheight = $('.wrap-out').height() - 390;
-    //       
-    //        if ( wrapVal > wrapheight) {
-    //            $('.slide-navigation').addClass('nav-circ');
-    //        }
-    //        else {
-    //           
-    //        }
-    //    });
-    //    
-    //    $(window).scroll(function() {
-    //        var quotVal = $(this).scrollTop();
-    //        var qheight = $('.wrap-out').height();
-    //        var quoteheight = $('.quote-wrapper').height();
-    //        var totalheight = qheight+quoteheight+1000;
-    //        if ( quotVal > totalheight) {
-    //            $('.slide-navigation').removeClass('nav-circ');
-    //        }
-    //        else {
-    //            
-    //        }
-    //    });
 
 
     // for touch devices
