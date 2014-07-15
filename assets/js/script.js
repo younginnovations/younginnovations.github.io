@@ -114,6 +114,7 @@ $(document).ready(function(){
     });
 
     $(window).resize(function(){
+        $('.main-wrapper,.inner-wrapper').css('height', $(window).height() + 'px');  
         $(window).scroll(function() {
             if ($(window).width() > 1100) {
                 var scrollVal = $(this).scrollTop();
