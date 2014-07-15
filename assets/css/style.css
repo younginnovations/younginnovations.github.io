@@ -1332,6 +1332,8 @@ p+p {
 .image-wrap {
     margin-bottom: 0;
     position: absolute;
+    top: 0;
+    left: 0;
 }
 
 .image-wrap img {
@@ -2546,8 +2548,30 @@ body.fixed .slide-navigation {
     position: relative;
 }
 
+.career-wrapper {
+    padding:  160px 0 100px;
+}
+
+
 .career-wrap {
-    padding: 60px 0 40px;
+    background: #e7e7e7;
+}
+
+#main article.career-wrap p {
+    margin-bottom: 0;
+}
+
+
+.career-wrap .headline-wrap {
+    display: none;
+}
+
+.career-wrapper .tagline {
+    padding-bottom: 40px;  
+}
+
+.career-info {
+    text-align: center;
 }
 
 .article-wrap .career-wrapper p>a {
