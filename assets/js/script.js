@@ -1,10 +1,6 @@
 $(document).ready(function(){
-    $('.main-wrapper,.inner-wrapper').css('height', $(window).height() + 'px');    
-    
-    if($(window).height < 600 ) {
-        $('.main-wrapper,.inner-wrapper').css('min-height', $(window).height() + 'px');    
-        $('.main-wrapper,.inner-wrapper').css('height', 'auto');    
-    }
+        $('.inner-wrapper').css('min-height', $(window).height() + 'px');     
+
 
 
     //        new UIMorphingButton( document.querySelector( '.morph-button' ), {
@@ -69,6 +65,10 @@ $(document).ready(function(){
         $('.navigation-wrapper').removeClass('noscroll');
         $(this).parents('.navigation-wrapper').toggleClass('scroll');
         $('body').toggleClass('fixed');
+            $('.trigger').delay(600).queue(function(){
+                $(this).toggleClass('open').clearQueue();
+            });
+
         event.preventDefault();
         if ($(this).hasClass("inactive") ) {
             $( ".navigation-wrap" ).animate({
@@ -114,7 +114,9 @@ $(document).ready(function(){
     });
 
     $(window).resize(function(){
-        $('.main-wrapper,.inner-wrapper').css('height', $(window).height() + 'px');  
+            $('.inner-wrapper').css('min-height', $(window).height() + 'px');    
+
+
         $(window).scroll(function() {
             if ($(window).width() > 1100) {
                 var scrollVal = $(this).scrollTop();
