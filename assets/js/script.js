@@ -186,6 +186,9 @@ $(document).ready(function(){
                 $('.contact .navigation-wrapper').removeClass('contact-nav');
             }
         });
+        
+        $('.info').css('display','none');
+        $('.impact-projects ul li a img').css('transform','none');
     }
 
 
@@ -253,7 +256,7 @@ $(document).ready(function(){
         }
 
         $('.quote-wrapper').addClass('quote-wrap-large');
-
+        $('.impact-project-title').hide();
     }
 
 

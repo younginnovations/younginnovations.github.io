@@ -211,6 +211,7 @@ background: transparent!important;
     margin: 0;
     position: relative;
     overflow: hidden;
+    border: 0;
 }
 
 .impact-projects ul li a {
@@ -266,7 +267,7 @@ background: transparent!important;
     top: 0;
 }
 
-.info-title {
+.info-title,.impact-project-title {
     font-size: 26px;
     font-size: 1.444rem;
     line-height: 1.384;
@@ -275,6 +276,21 @@ background: transparent!important;
     margin-top: 44px;
 }
 
+.impact-project-title {
+    background: rgba(50,50,50,0.9);
+    padding: 10px;
+    margin: 0;
+    font-size: 18px;
+    text-align: center;
+}
+
+.impact-project-title a {
+    color: #fff;
+}
+
+.impact-project-title a:hover {
+    background: transparent;
+} 
 
 .trigger {
     position: absolute;
@@ -2129,6 +2145,10 @@ body.fixed .slide-navigation {
     .button {
         width: 260px;
     }
+    
+    .team-title+ ul {
+        padding: 0 50px;
+    }
 
 }
 
@@ -2343,6 +2363,7 @@ body.fixed .slide-navigation {
     .team-title+ ul {
         max-width: 800px;
         max-width: 45rem;
+        padding: 0;
     }
 
     .team-title+ ul li:nth-child(6n) {
@@ -2351,7 +2372,7 @@ body.fixed .slide-navigation {
 
 
     .team-title+ ul li {
-        width: 16%;
+        width: 19%;
     }
 
     #main article p,#main .headline-wrap{ 
@@ -2401,15 +2422,6 @@ body.fixed .slide-navigation {
         font-size: 54px;
     }
 
-    .work-detail-wrap H2 {
-        font-size: 46px;
-    }
-
-    #main .work-description p,.work-detail-wrap p {
-        font-size: 24px;
-        text-align: left!important;
-    }
-
     #main .services-block p, .intro {
         font-size: 15px;
     }
@@ -2421,6 +2433,16 @@ body.fixed .slide-navigation {
     .navigation-wrap li a.view-btn {
         left: 34%;
     }
+    
+    .work-detail-wrap h2 {
+        font-size: 46px;
+    }
+
+    #main .work-description p,.work-detail-wrap p {
+        font-size: 24px;
+        text-align: left!important;
+    }
+
 }
 
 @media screen and (min-width:1300px) {
