@@ -52,6 +52,8 @@ a:hover {
     color: #fff;
 }
 
+::selection{background:#f26722;color:#fff;}::-moz-selection{background:#f26722;color:#fff;}
+
 blockquote {
     font-size: 16px;
     font-size: 0.8889rem;
@@ -282,7 +284,16 @@ background: transparent!important;
     margin: 0;
     font-size: 18px;
     text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    border-bottom: 1px solid #fff;
 }
+
+li:last-child .impact-project-title {
+    border-bottom: 0;
+} 
 
 .impact-project-title a {
     color: #fff;
@@ -502,7 +513,7 @@ background: transparent!important;
 }
 
 .nav ul li a {
-    font-size: 24px;
+    font-size: 22px;
 }
 
 .nav ul li a {
@@ -2235,6 +2246,10 @@ body.fixed .slide-navigation {
     .navigation-wrap li a.view-btn {
         left: 25%;
     }
+    
+    li:nth-child(3n) .impact-project-title {
+        border-bottom: 0;
+    } 
 
 }
 
@@ -2682,6 +2697,15 @@ body.fixed .slide-navigation {
     border: 0;
 }
 
+.berrybody .impact-image {
+    margin: 0;
+}
+
+.berrybody .impact-info {
+    padding-top: 124px;
+}
+
+
 @media screen and (min-width:1100px) {
     .imagefixed-wrap {
         position: fixed;
@@ -2724,6 +2748,7 @@ body.fixed .slide-navigation {
         }
 
     }
+
 
 @media screen and (max-width:320px) {
     .layout, .work-detail-wrap h2, .work-detail-wrap p, .work-detail-wrap ul {
