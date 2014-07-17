@@ -1,10 +1,6 @@
 $(document).ready(function(){
-    $('.main-wrapper,.inner-wrapper').css('height', $(window).height() + 'px');    
-    
-    if($(window).height < 600 ) {
-        $('.main-wrapper,.inner-wrapper').css('min-height', $(window).height() + 'px');    
-        $('.main-wrapper,.inner-wrapper').css('height', 'auto');    
-    }
+    $('.inner-wrapper').css('min-height', $(window).height() + 'px');     
+
 
 
     //        new UIMorphingButton( document.querySelector( '.morph-button' ), {
@@ -15,15 +11,6 @@ $(document).ready(function(){
 
     var imgheight = $('.office-image img').height() + 'px';
     $('#contact iframe').css('height', imgheight);
-
-    $(window).resize(function() {
-        var imgheight = $('.office-image img').height() + 'px';
-        $('#contact iframe').css('height', imgheight);
-    });
-
-
-
-  
 
     $('.impact-wrap svg').hover(function() {
         $(this).parent('.impact-image').addClass('impactover');
@@ -43,7 +30,7 @@ $(document).ready(function(){
                     'height': '100%',
                     'top': '400px',
                     'left': '50%'
-                },200, function() {
+                },300, function() {
                     // Animation complete.
                 });
                 $('.navigation-wrapper').addClass('noscroll').removeClass('scroll');
@@ -57,18 +44,22 @@ $(document).ready(function(){
                     'height': '100%',
                     'top': '0',
                     'left': '0'
-                }, 400, function() {
+                }, 10, function() {
                     // Animation complete.
                 }); 
-                
+
             }
         });
-        
+
         $(this).toggleClass("inactive"); 
         $(this).toggleClass("active"); 
         $('.navigation-wrapper').removeClass('noscroll');
         $(this).parents('.navigation-wrapper').toggleClass('scroll');
         $('body').toggleClass('fixed');
+        $('.trigger').delay(600).queue(function(){
+            $(this).toggleClass('open').clearQueue();
+        });
+
         event.preventDefault();
         if ($(this).hasClass("inactive") ) {
             $( ".navigation-wrap" ).animate({
@@ -101,34 +92,46 @@ $(document).ready(function(){
             var scrollVal = $(this).scrollTop();
             var scrollHeight = $('.image-wrap').height();
             var imgHeight = $('.image-wrap').height()/2;
-            $('#main article').css('padding-top',scrollHeight);
+//            $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
             if ( scrollVal > imgHeight) {
                 $('.image-wrap').addClass('imagefixed-wrap');
-                //                $('#main article').css('padding-top',scrollHeight);
+                $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
             }
             else {
                 $('.image-wrap').removeClass('imagefixed-wrap');
-                //                $('#main article').css('padding-top','0');
+                $('.image-wrap+article').css('padding-top','0');
             }
+        }
+        else {
+            $('.image-wrap').removeClass('imagefixed-wrap');
+            $('.image-wrap+article').css('padding-top','0');
         }
     });
 
     $(window).resize(function(){
-        $('.main-wrapper,.inner-wrapper').css('height', $(window).height() + 'px');  
+        $('.inner-wrapper').css('min-height', $(window).height() + 'px'); 
+        var imgheight = $('.office-image img').height() + 'px';
+        $('#contact iframe').css('height', imgheight);
+        $('.image-wrap').removeClass('imagefixed-wrap');
+        $('.image-wrap+article').css('padding-top','0');
         $(window).scroll(function() {
             if ($(window).width() > 1100) {
                 var scrollVal = $(this).scrollTop();
                 var scrollHeight = $('.image-wrap').height();
                 var imgHeight = $('.image-wrap').height()/2;
-                $('#main article').css('padding-top',scrollHeight);
+//                $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
                 if ( scrollVal > imgHeight) {
                     $('.image-wrap').addClass('imagefixed-wrap');
-                    //                    $('#main article').css('padding-top',scrollHeight);
+                    $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
                 }
                 else {
                     $('.image-wrap').removeClass('imagefixed-wrap');
-                    //                    $('#main article').css('padding-top','0');
+                    $('.image-wrap+article').css('padding-top','0');
                 }
+            }
+            else {
+                $('.image-wrap').removeClass('imagefixed-wrap');
+                $('.image-wrap+article').css('padding-top','0');
             }
         });
     });
