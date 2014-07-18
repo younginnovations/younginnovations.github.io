@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Nepal Immunization programme  
+title: Saving lives through Technology  
 description: ""
 modified: 2014-05-17
 tags: [intro, beginner, jekyll, tutorial]
@@ -14,7 +14,7 @@ image:
 ---
 
 <div class="impact-line layout">
-SMS reporting of Measles Rubella Campaign 2012
+Nepal Immunization programme
 </div>
 <div class="layout work-description">
 <p>Measles-Rubella Campaign (MRC) 2012 is currently undergoing phase 1 at 15 districts of Nepal. The phase 2 and 3 will subsequently cover the remaining districts. As a part of National Immunization Program (NIP), current MR campaign aims to vaccinate 9,959,197 girls and boys aged 9 months to 15 years. NIP, which started in 1979 in Nepal and then known as Expanded Programme on Immunization, is the government's high priority program. NIP attempts to reduce the morbidity and mortality associated with vaccine preventable diseases.</p>
