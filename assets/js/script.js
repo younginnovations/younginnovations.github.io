@@ -188,7 +188,9 @@ $(document).ready(function(){
         });
         
         $('.info').css('display','none');
-        $('.impact-projects ul li a img').css('transform','none');
+        $('.impact-projects ul li a img,.work-article-wrap article .link-article img').css('transform','none');
+        
+        $('body').addClass('smallnav-wrap');
     }
     
     if (!("ontouchstart" in document.documentElement)) {
@@ -276,7 +278,34 @@ $(document).ready(function(){
         $('.quote-wrapper').addClass('quote-wrap-large');
         $('.impact-project-title').hide();
     }
+    
+    var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+    var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+
+    
+    if (isSafari) {
+        $('.impact-screen-image').addClass('safari-image');
+    }
+    
+    if (isChrome) {
+        $('.impact-screen-image').removeClass('safari-image');
+    }
+    
+    $(window).scroll(function(){
+        if ($(this).scrollTop() > 100) {
+            $('.smallnav-wrap .scrolltop').fadeIn();
+        } else {
+            $('.smallnav-wrap .scrolltop').fadeOut();
+        }
+    });
+
+    //Click event to scroll to top
+    $('.smallnav-wrap .scrolltop').click(function(){
+        $('html, body').animate({scrollTop : 0},500);
+        return false;
+    });
 
 
     $('.contact-wrapper').parents('body').addClass('contact');
 });
+

@@ -239,6 +239,7 @@ background: transparent!important;
     -webkit-transition-duration: 0.8s; /*Webkit: Animation duration*/
     -moz-transition-duration: 0.8s; /*Mozilla duration version*/
     -o-transition-duration: 0.8s; /*Opera duration version*/
+    width: 100%;
 }
 
 .impact-projects ul li:hover img,.work-article-wrap article .link-article:hover img  {
@@ -550,7 +551,7 @@ li:last-child .impact-project-title {
     transition: all 0.5s linear;
 }
 
-.impactover svg:hover {
+.impact-image svg:hover {
     margin-left: 14px;
     margin-top: -14px;
 }
@@ -1223,7 +1224,7 @@ display: inline-block;
 }
 
 .work-article-wrap article {
-    width: 284px;
+/*    width: 284px;*/
     margin: 0 auto 40px;
 }
 
@@ -2118,6 +2119,10 @@ body.fixed .slide-navigation {
     padding: 6% 0 0;
 }
 
+.all-project {
+    margin-top: 51px;
+}
+
 @media only screen and (min-width: 480px) {
 
     html {
@@ -2156,7 +2161,7 @@ body.fixed .slide-navigation {
     .button {
         width: 260px;
     }
-    
+
     .team-title+ ul {
         padding: 0 50px;
     }
@@ -2246,7 +2251,7 @@ body.fixed .slide-navigation {
     .navigation-wrap li a.view-btn {
         left: 25%;
     }
-    
+
     li:nth-child(3n) .impact-project-title {
         border-bottom: 0;
     } 
@@ -2395,7 +2400,7 @@ body.fixed .slide-navigation {
     }
 
     .work-detail-wrap ul li {
-        font-size: 22px;
+        font-size: 19px;
     }
 
     .impact-line {
@@ -2434,11 +2439,15 @@ body.fixed .slide-navigation {
 
 
     .work-article-layout h1 {
-        font-size: 54px;
+        font-size: 48px;
     }
 
     #main .services-block p, .intro {
         font-size: 15px;
+    }
+
+    .all-project {
+        margin-top: 60px;
     }
 
 }
@@ -2448,13 +2457,14 @@ body.fixed .slide-navigation {
     .navigation-wrap li a.view-btn {
         left: 34%;
     }
-    
+
     .work-detail-wrap h2 {
-        font-size: 46px;
+        font-size: 38px;
     }
 
     #main .work-description p,.work-detail-wrap p {
-        font-size: 24px;
+        font-size: 20px;
+        font-size: 1.111rem;
         text-align: left!important;
     }
 
@@ -2525,6 +2535,10 @@ body.fixed .slide-navigation {
 
     .motto-wrapper blockquote {
         width: auto;
+    }
+
+    .all-project {
+        margin-top: 66px;
     }
 
     #main {
@@ -2705,6 +2719,28 @@ body.fixed .slide-navigation {
     padding-top: 124px;
 }
 
+.all-project {
+    background: #ececec;
+    height: 41px;
+    padding: 10px 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.all-project a {
+    background: url(../../images/work/list-all.png) no-repeat 0 0;
+    display: block;
+    width: 108px;
+    margin: 0 auto;
+    padding-left: 36px;
+    color: #7a7a7a;
+    font-size: 14px;
+}
+
+.safari-image svg {
+    top: -200%;
+}
 
 @media screen and (min-width:1100px) {
     .imagefixed-wrap {
@@ -2739,12 +2775,16 @@ body.fixed .slide-navigation {
     and (min-device-width : 768px) 
     and (max-device-width : 1024px) {
 
-        .impact-image {
-            margin: 0;
+        .impact-info {
+            margin-top: 10%;
         }
 
-        .impact-info {
-            padding-top: 224px;
+        .home-wrapper {
+            padding-top: 200px;
+        }
+
+        .safari-image svg {
+            top: -30%;
         }
 
     }
@@ -2764,3 +2804,63 @@ body.fixed .slide-navigation {
         left: 21%;
     }
 }
+
+
+.smallnav-wrap .navigation-wrapper{
+    position: static;
+}
+
+.smallnav-wrap .headline-wrap h1 {
+    display: none;
+}
+
+.smallnav-wrap #main {
+    margin: 0!important;
+    padding: 0!important;
+}
+
+.smallnav-wrap .tagline-wrapper {
+    padding-top: 60px;
+}
+
+.smallnav-wrap .all-project {
+    margin-top: 0;
+}
+
+.smallnav-wrap .career-wrapper {
+    padding-top: 80px;
+}
+
+.smallnav-wrap .contact-title {
+    padding-top: 20%;
+}
+
+.smallnav-wrap .home-wrapper {
+    padding-top: 100px;
+}
+
+.smallnav-wrap .scrolltop {
+    width: 48px;
+    height: 48px;
+    text-align: center;
+    color: #444;
+    text-decoration: none;
+    position: fixed;
+    bottom: 20px;
+    right: 40px;
+    display: none;
+    background: rgba(119,119,119,.5);
+    cursor: pointer;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.smallnav-wrap .scrollToTop,.smallnav-wrap .scrollToTop:hover {
+    background: url(../../images/pages/arrow_up.png) no-repeat center;
+    display: block;
+    height: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+

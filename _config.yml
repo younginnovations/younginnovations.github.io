@@ -37,7 +37,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: <span>O1</span> our story
-    url: /how/
+    url: /ourstory/
   - title: <span>02</span> work
     url: /work/
   - title: <span>03</span> careers
@@ -53,6 +53,8 @@ markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
+#paginate_path: 'posts/page:num'
+#paginate: 1
 
 kramdown:
   auto_ids: true
