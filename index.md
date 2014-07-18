@@ -13,10 +13,9 @@ image:
 <div class="impact-image">
 <div class="impact-screen-image">
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="390px" height="188px" viewBox="0 0 390 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="390px" height="188px" viewBox="0 0 390 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <!-- Generator: Sketch Beta 3.0.1 (7595) - http://www.bohemiancoding.com/sketch -->
 <title>Shape + Plane_innovations + Plane_innovations 2</title>
-<description>Created with Sketch Beta.</description>
 <defs></defs>
 <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
 <g id="Homepage---desktop-2" sketch:type="MSArtboardGroup" transform="translate(-312.000000, -169.000000)">
@@ -37,10 +36,9 @@ image:
 </div>
 <div class="impact-mobile-image">
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="176px" height="85px" viewBox="0 0 176 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="176px" height="85px" viewBox="0 0 176 85" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <!-- Generator: Sketch Beta 3.0.1 (7595) - http://www.bohemiancoding.com/sketch -->
 <title>Shape + Plane_innovations + Plane_innovations 3</title>
-<description>Created with Sketch Beta.</description>
 <defs></defs>
 <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
 <g id="Mobile-Portrait" sketch:type="MSArtboardGroup" transform="translate(-74.000000, -182.000000)">
@@ -66,7 +64,7 @@ image:
 <div class="impact-info">
 <span class="impact">We Create Impact</span>
 <p>
-by crafting innovative solutions. See <a href="how">How we do it</a>
+by crafting innovative solutions. See <a href="{{site.url}}/ourstory">How we do it</a>
 </p>
 </div>
 </section>
