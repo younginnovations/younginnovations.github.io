@@ -307,5 +307,14 @@ $(document).ready(function(){
 
 
     $('.contact-wrapper').parents('body').addClass('contact');
+    
+    $(window).scroll(function() {
+        if ($(document).height() <= ($(window).height() + $(window).scrollTop())) {
+            $('.navigation-wrapper').addClass('bottomfix');
+        }
+        else {
+            $('.navigation-wrapper').removeClass('bottomfix');
+        }
+    });
 });
 
