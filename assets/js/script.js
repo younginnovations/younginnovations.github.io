@@ -174,7 +174,7 @@ $(document).ready(function(){
         $('.slide-navigation').css('display','none');
         $('.call').css('display','none');
         $('.tel').css('display','block');
-
+        $('.thumbnail').css('display','none');
 
         $(window).scroll(function() {
             var wrapVal = $(this).scrollTop();
