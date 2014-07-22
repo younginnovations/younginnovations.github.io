@@ -2,7 +2,21 @@
 	<div class="site-name">
 		<a href="{{ site.url }}">{{ site.title }}</a>
 	</div><!-- /.site-name -->
-
+	<div id="post-nav" class="clearfix">
+		{% if page.next.url and page.next.title != "Your test project title" %} 
+		<a class="prev" href="{{page.next.url}}">Previous
+		<span>
+			{{page.next.cover}}
+		</span>
+		</a> 
+		{% endif %} 
+		<div class="all-project">
+			<a href="{{site.url}}/work">Back to work</a>
+		</div>
+		{% if page.next.url and page.next.title != "Development Check" %} 
+		<a class="next" href="{{page.previous.url}}">Next</a> 
+		{% endif %} 
+	</div>
 	<!--	<div class="top-navigation morph-button morph-button-modal morph-button-modal-4 morph-button-fixed navigation">-->
 	<div class="top-navigation navigation">
 		<div class="trigger inactive">

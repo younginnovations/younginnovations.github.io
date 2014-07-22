@@ -48,9 +48,9 @@ carousel:
 <img src="{{ site.url }}/images/services/how-mobile.png"/>
 <img src="{{ site.url }}/images/services/how-mobile@2x.png" class="small" width="114" height="83"/>
 </div>
-<p>We help organizations become more efficient by integrating mobile telephony, specially SMS based technologies within existing business process and practices for wider reach and accessibility. Among different solutions we have provided in this context, we have worked with UNICEF and Ministry of Health, Government of Nepal to deploy first <a href="https://nip.org.np">SMS based immunization reporting system</a></p>
+<p>We help organizations become more efficient by integrating mobile telephony, specially SMS based technologies within existing business process and practices for wider reach and accessibility. Among different solutions we have provided in this context, we have worked with UNICEF and Ministry of Health, Government of Nepal to deploy first <a href="https://nip.org.np" target="_blank">SMS based immunization reporting system</a></p>
 
-<p>With support from <a href="#">infoDev</a>, The World Bank, we have been facilitating <a href="#">mobile app developers community in Nepal</a> since 2011</p>
+<p>With support from <a href="http://www.infodev.org/" target="_blank">infoDev</a>, The World Bank, we have been facilitating <a href="http://www.mobilenepal.net/" target="_blank">mobile app developers community in Nepal</a> since 2011</p>
 </div>
 <div class="services-block services-web" id="web-technology">
 <h3>Web Technology
