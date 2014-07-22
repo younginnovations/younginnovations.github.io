@@ -2,7 +2,7 @@
 layout: work
 title: Academy of Culinary Arts
 description: ""
-modified: 2014-06-31
+modified: 2014-05-31
 tags: [andriod, application]
 comments: false
 categories: work
