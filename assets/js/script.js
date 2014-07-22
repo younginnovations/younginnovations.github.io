@@ -87,53 +87,53 @@ $(document).ready(function(){
 
 
 
-//    $(window).scroll(function() {
-//        if ($(window).width() > 1100) {
-//            var scrollVal = $(this).scrollTop();
-//            var scrollHeight = $('.image-wrap').height();
-//            var imgHeight = $('.image-wrap').height()/2;
-////            $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
-//            if ( scrollVal > imgHeight) {
-//                $('.image-wrap').addClass('imagefixed-wrap');
-//                $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
-//            }
-//            else {
-//                $('.image-wrap').removeClass('imagefixed-wrap');
-//                $('.image-wrap+article').css('padding-top','0');
-//            }
-//        }
-//        else {
-//            $('.image-wrap').removeClass('imagefixed-wrap');
-//            $('.image-wrap+article').css('padding-top','0');
-//        }
-//    });
+    //    $(window).scroll(function() {
+    //        if ($(window).width() > 1100) {
+    //            var scrollVal = $(this).scrollTop();
+    //            var scrollHeight = $('.image-wrap').height();
+    //            var imgHeight = $('.image-wrap').height()/2;
+    ////            $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
+    //            if ( scrollVal > imgHeight) {
+    //                $('.image-wrap').addClass('imagefixed-wrap');
+    //                $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
+    //            }
+    //            else {
+    //                $('.image-wrap').removeClass('imagefixed-wrap');
+    //                $('.image-wrap+article').css('padding-top','0');
+    //            }
+    //        }
+    //        else {
+    //            $('.image-wrap').removeClass('imagefixed-wrap');
+    //            $('.image-wrap+article').css('padding-top','0');
+    //        }
+    //    });
 
     $(window).resize(function(){
         $('.inner-wrapper').css('min-height', $(window).height() + 'px'); 
         var imgheight = $('.office-image img').height() + 'px';
         $('#contact iframe').css('height', imgheight);
-//        $('.image-wrap').removeClass('imagefixed-wrap');
-//        $('.image-wrap+article').css('padding-top','0');
-//        $(window).scroll(function() {
-//            if ($(window).width() > 1100) {
-//                var scrollVal = $(this).scrollTop();
-//                var scrollHeight = $('.image-wrap').height();
-//                var imgHeight = $('.image-wrap').height()/2;
-////                $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
-//                if ( scrollVal > imgHeight) {
-//                    $('.image-wrap').addClass('imagefixed-wrap');
-//                    $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
-//                }
-//                else {
-//                    $('.image-wrap').removeClass('imagefixed-wrap');
-//                    $('.image-wrap+article').css('padding-top','0');
-//                }
-//            }
-//            else {
-//                $('.image-wrap').removeClass('imagefixed-wrap');
-//                $('.image-wrap+article').css('padding-top','0');
-//            }
-//        });
+        //        $('.image-wrap').removeClass('imagefixed-wrap');
+        //        $('.image-wrap+article').css('padding-top','0');
+        //        $(window).scroll(function() {
+        //            if ($(window).width() > 1100) {
+        //                var scrollVal = $(this).scrollTop();
+        //                var scrollHeight = $('.image-wrap').height();
+        //                var imgHeight = $('.image-wrap').height()/2;
+        ////                $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
+        //                if ( scrollVal > imgHeight) {
+        //                    $('.image-wrap').addClass('imagefixed-wrap');
+        //                    $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
+        //                }
+        //                else {
+        //                    $('.image-wrap').removeClass('imagefixed-wrap');
+        //                    $('.image-wrap+article').css('padding-top','0');
+        //                }
+        //            }
+        //            else {
+        //                $('.image-wrap').removeClass('imagefixed-wrap');
+        //                $('.image-wrap+article').css('padding-top','0');
+        //            }
+        //        });
     });
 
 
@@ -186,13 +186,13 @@ $(document).ready(function(){
                 $('.contact .navigation-wrapper').removeClass('contact-nav');
             }
         });
-        
+
         $('.info').css('display','none');
         $('.impact-projects ul li a img,.work-article-wrap article .link-article img').css('transform','none');
-        
+
         $('body').addClass('smallnav-wrap');
     }
-    
+
     if (!("ontouchstart" in document.documentElement)) {
         document.documentElement.className += " no-touch";
     }
@@ -207,7 +207,7 @@ $(document).ready(function(){
         }
     }
 
-     if ((is_touch_device()) || ua.match(/BlackBerry/) ) {
+    if ((is_touch_device()) || ua.match(/BlackBerry/) ) {
         $('body').addClass('berrybody');
     }
 
@@ -278,19 +278,19 @@ $(document).ready(function(){
         $('.quote-wrapper').addClass('quote-wrap-large');
         $('.impact-project-title').hide();
     }
-    
+
     var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
     var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
 
-    
+
     if (isSafari) {
         $('.impact-screen-image').addClass('safari-image');
     }
-    
+
     if (isChrome) {
         $('.impact-screen-image').removeClass('safari-image');
     }
-    
+
     $(window).scroll(function(){
         if ($(this).scrollTop() > 100) {
             $('.smallnav-wrap .scrolltop').fadeIn();
@@ -307,7 +307,7 @@ $(document).ready(function(){
 
 
     $('.contact-wrapper').parents('body').addClass('contact');
-    
+
     $(window).scroll(function() {
         if ($(document).height() <= ($(window).height() + $(window).scrollTop())) {
             $('.navigation-wrapper').addClass('bottomfix');
@@ -316,5 +316,7 @@ $(document).ready(function(){
             $('.navigation-wrapper').removeClass('bottomfix');
         }
     });
+
+
 });
 
