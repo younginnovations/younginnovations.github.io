@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Open Nepal
+impact: Catalysing the open data ecosystem in Nepal
 description: ""
 modified: 2013-05-31
 tags: [intro, beginner, jekyll, tutorial]
@@ -13,7 +14,9 @@ image:
 ---
 
 <div class="layout work-description">
-<p>Open data is part of open nepal, consortium of Development Initiative, Freedom Forum, NGO federation and YoungInnovations that provides the availability of better data, tools, skills and support to help those in the development ecosystem to access, analyse and use data for more inclusive and effective development. This initiative supports a range of development actors to improve their projects through increased use of data by delivering technical assistance, capacity development materials and raising awareness regarding the potential role of data in various development fields. In this context, Open Data aims to provide a platform for government agencies, civil society organizations, donor communities and even corporate sectors to publish data in open standards by providing improved access to information about aid, budgets and other related information to enhance the effectiveness of development efforts. </p>
+<p>Open Nepal is a collaborative initiative that works to increase the awareness, availability, accessibility, and use of information and data in Nepal, and to build a community of data suppliers, infomediaries and data users to catalyze the information ecosystem in Nepal. The initiative supports a vision for a more open, participative and citizen-centred approach to development by increasing access to information about key development processes, including data about aid, budget, expenditure, public services, demographic information, and much more. We believe that transparency of information, accessibility of good quality data, the capacity to use data, and a sustainable information ecosystem are essential components in improving the effectiveness of all efforts aimed at reducing poverty. Open Nepal promotes increased access to better data; provides tools, skills and support to help analyse and use data; and explores the role of data in supporting development efforts.</p>
+
+<p>YoungInnovations has remained as one of the core founders of OpenNepal. We have been involved in technology development, capacity building and awareness raising aspects around open data as part of Open Nepal consortium. We have even deployed the first ever Open Data Portal for Nepal as part of the initiative.</p>
 
 <a href="{{ page.link }}" target="_blank" class="button work-btn launch-btn"><span class="see-work"> Launch Website</span><span class="progress"></span></a>
 </div>
