@@ -34,8 +34,8 @@ carousel:
 <div class="services-block" id="open-development">
 <h3>Data Innovations</h3>
 <div class="service-image">
-<img src="{{ site.url }}/images/services/how-open-development.png"/>
-<img src="{{ site.url }}/images/services/how-open-development@2x.png" class="small" width="83" height="83"/>
+<img src="{{ site.url }}/images/services/ic_data_innovations.png"/>
+<img src="{{ site.url }}/images/services/ic_data_innovations@2x.png" class="small" width="159" height="104"/>
 </div>
  <p>We love working with data. We develop and use automated tools to collect, curate, analyze and visualize data that makes sense.
 </p>
@@ -49,8 +49,8 @@ carousel:
 <div class="services-block" id="mobile-technologies">
 <h3>Technology Innovations</h3>
 <div class="service-image">
-<img src="{{ site.url }}/images/services/how-mobile.png"/>
-<img src="{{ site.url }}/images/services/how-mobile@2x.png" class="small" width="114" height="83"/>
+<img src="{{ site.url }}/images/services/ic_technology_innovations.png"/>
+<img src="{{ site.url }}/images/services/ic_technology_innovations@2x.png" class="small" width="162" height="103"/>
 </div>
 <p>Technology is our heart and soul. We provide innovative technology solutions to our customers in the areas of web and mobile computing.</p>
 
@@ -59,8 +59,8 @@ carousel:
 <div class="services-block services-web" id="web-technology">
 <h3>Product Innovations</h3>
 <div class="service-image">
-<img src="{{ site.url }}/images/services/how-web-tech.png"/>
-<img src="{{ site.url }}/images/services/how-web-tech@2x.png" class="small" width="162" height="83"/>
+<img src="{{ site.url }}/images/services/ic_product_innovations.png"/>
+<img src="{{ site.url }}/images/services/ic_product_innovations@2x.png" class="small" width="158" height="77"/>
 </div> 
  <p>We understand that working on long term products and projects requires more than just technical backstopping. This is where we partner with our customers in providing product specific services on a long term basis.  We consider your products and projects as our internal ones and provide proactive support. We ensure that the product lives up to its promise and has sustainable mechanism for continuous innovation and development.</p>
 
@@ -70,8 +70,8 @@ carousel:
 <div class="services-block services-web" id="web-technology">
 <h3>Community Innovations</h3>
 <div class="service-image">
-<img src="{{ site.url }}/images/services/how-web-tech.png"/>
-<img src="{{ site.url }}/images/services/how-web-tech@2x.png" class="small" width="162" height="83"/>
+<img src="{{ site.url }}/images/services/ic_community_innovations.png"/>
+<img src="{{ site.url }}/images/services/ic_community_innovations@2x.png" class="small" width="161" height="109"/>
 </div> 
  <p>We believe that innovations can flourish when we collaborate and think out of the box. This is why we have been involved in community innovations since the very beginning. We reach out to students and wider developer community to share our knowledge and get them engaged. We organize events and facilitate communities around Open Data , Mobile Technologies and Civic Engagement.
 </p>
@@ -124,6 +124,9 @@ Happy Team<span>=</span>Productivity
 * ![Alt text]({{ site.url }}/images/staff/Ashley.jpg)
   + Ashley Dhakal
   + Product Manager
+* ![Alt text]({{ site.url }}/images/staff/Avash.jpg)
+  + Avash Rayamajhi
+  + Trainee
 * ![Alt text]({{ site.url }}/images/staff/Bibek.jpg)
   + Bibek Shrestha
   + Senior Developer
@@ -133,6 +136,9 @@ Happy Team<span>=</span>Productivity
 * ![Alt text]({{ site.url }}/images/staff/Ravi.jpg)
   + Bir Bahadur Putuwal
   + Office Aid
+* ![Alt text]({{ site.url }}/images/staff/Deepak.jpg)
+  + Deepak Kumar Shah
+  + Trainee
 * ![Alt text]({{ site.url }}/images/staff/Geshan.jpg)
   + Geshan Manandhar
   + Senior Developer
@@ -166,9 +172,15 @@ Happy Team<span>=</span>Productivity
 * ![Alt text]({{ site.url }}/images/staff/Rakeeb.jpg)
   + Rakeeb Rajbhandari
   + Software Engineer
+* ![Alt text]({{ site.url }}/images/staff/Ramesh.jpg)
+  + Ramesh KC
+  + Trainee
+* ![Alt text]({{ site.url }}/images/staff/Rishav.jpg)
+  + Rishav Malla
+  + Trainee
 * ![Alt text]({{ site.url }}/images/staff/Rohit.jpg)
   + Rohit Shrestha
-  + UX Designer
+  + UX Developer
 * ![Alt text]({{ site.url }}/images/staff/Santosh.jpg)
   + Santosh Neupane
   + System Administrator
