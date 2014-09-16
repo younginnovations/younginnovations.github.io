@@ -1470,7 +1470,7 @@ p+p {
 }
 
 .services-block {
-    float: left;
+    display: inline-block;
     vertical-align: top;
     text-align: center;
 }
@@ -1520,10 +1520,11 @@ p+p {
 
 .services-web .service-image {
     margin-top: 22px;
+    line-height: 109px;
 }
 
 .motto-wrapper {
-    margin: 86px auto 80px;
+    margin: 60px auto 80px;
 }
 
 .motto {
@@ -2324,6 +2325,11 @@ body.fixed .slide-navigation {
         font-size: 54px;
         font-size: 3rem;
     }
+    
+    .service-title p {
+        font-size: 30px;
+        font-size: 1.667rem; 
+    }
 
     .tagline {
         font-size: 43px;
@@ -2366,14 +2372,19 @@ body.fixed .slide-navigation {
     }
 
     .services-block {
-        width: 30%;
-        margin-right: 38px;
+        width: 40%;
+        margin-right: 156px;
+        margin-bottom: 30px;
+    }
+    
+    .services-block:nth-child(even) {
+        margin: 0;
     }
 
     .service-wrap {
         padding: 14% 0;
     }
-
+    
     .motto {
         float: left;
         width: 400px;

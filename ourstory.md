@@ -21,7 +21,7 @@ carousel:
 
 <div class="service-wrapper">
 <div class="service-wrap">
-<div class="service-title layout">We’ve been creating impacts all along!</div>
+<div class="service-title layout">We develop innovative solutions! But we take pride in making solutions work and create impact!!</div>
 </div>
 </div>
 
@@ -32,37 +32,53 @@ carousel:
 
 <section class="services layout">
 <div class="services-block" id="open-development">
-<h3>Open Development</h3>
+<h3>Data Innovations</h3>
 <div class="service-image">
-<img src="{{ site.url }}/images/services/how-open-development.png"/>
-<img src="{{ site.url }}/images/services/how-open-development@2x.png" class="small" width="83" height="83"/>
+<img src="{{ site.url }}/images/services/ic_data_innovations.png"/>
+<img src="{{ site.url }}/images/services/ic_data_innovations@2x.png" class="small" width="159" height="104"/>
 </div>
- <p>We develop tools and technologies around open data to facilitate the agenda of transparency and accountability in collaboration with our partners from different parts of the globe. Our work on platforms like , Development Check and Open Data Nepal among others have already created huge impact at national and international level.</p>
+ <p>We love working with data. We develop and use automated tools to collect, curate, analyze and visualize data that makes sense.
+</p>
 
-<p>We also facilitate open data community in Nepal as core partners of OpenNepal initiative in collaboration with aidInfo and other partners in Nepal.</p>
+<p>We develop tools and technologies around open data to facilitate the agenda of transparency and accountability in collaboration with our partners from different parts of the globe.
+</p>
+<p>Our work on platforms like Aidstream, Development Check and OpenNepal among others have already created huge impact at national and international level.
+</p>
 </div> 
 
 <div class="services-block" id="mobile-technologies">
-<h3>Mobile Technologies</h3>
+<h3>Technology Innovations</h3>
 <div class="service-image">
-<img src="{{ site.url }}/images/services/how-mobile.png"/>
-<img src="{{ site.url }}/images/services/how-mobile@2x.png" class="small" width="114" height="83"/>
+<img src="{{ site.url }}/images/services/ic_technology_innovations.png"/>
+<img src="{{ site.url }}/images/services/ic_technology_innovations@2x.png" class="small" width="162" height="103"/>
 </div>
-<p>We help organizations become more efficient by integrating mobile telephony, specially SMS based technologies within existing business process and practices for wider reach and accessibility. Among different solutions we have provided in this context, we have worked with UNICEF and Ministry of Health, Government of Nepal to deploy first <a href="https://nip.org.np" target="_blank">SMS based immunization reporting system</a></p>
+<p>Technology is our heart and soul. We provide innovative technology solutions to our customers in the areas of web and mobile computing.</p>
 
-<p>With support from <a href="http://www.infodev.org/" target="_blank">infoDev</a>, The World Bank, we have been facilitating <a href="http://www.mobilenepal.net/" target="_blank">mobile app developers community in Nepal</a> since 2011</p>
+<p>We help organizations become more efficient by integrating mobile telephony – mobile apps and SMS based technologies within existing business process and practices for wider reach and accessibility.</p>
 </div>
 <div class="services-block services-web" id="web-technology">
-<h3>Web Technology
-<span>Development and Consulting</span>
-</h3>
+<h3>Product Innovations</h3>
 <div class="service-image">
-<img src="{{ site.url }}/images/services/how-web-tech.png"/>
-<img src="{{ site.url }}/images/services/how-web-tech@2x.png" class="small" width="162" height="83"/>
+<img src="{{ site.url }}/images/services/ic_product_innovations.png"/>
+<img src="{{ site.url }}/images/services/ic_product_innovations@2x.png" class="small" width="158" height="77"/>
 </div> 
- <p>We work with our clients and partners to conceptualize, develop and deploy web applications and portals ranging from comprehensive knowledge management system to corporate portals and help them make the most of latest web technologies and practices.</p>
+ <p>We understand that working on long term products and projects requires more than just technical backstopping. This is where we partner with our customers in providing product specific services on a long term basis.  We consider your products and projects as our internal ones and provide proactive support. We ensure that the product lives up to its promise and has sustainable mechanism for continuous innovation and development.</p>
 
-<p>We help young computer graduates sharpen their skills on web technologies through our regular internship programs and trainings.</p>
+<p>Based on our niche and expertise, we also work on developing our internal products. As of now, our product <a href="http://aidstream.org" target="_blank">Aidstream</a> stands as one of the most promising platform that allows  development organizations to be more transparent by publishing into <a href="http://www.iatistandard.org" target="_blank">International Aid Transparency Initiative (IATI)</a>. It is being used by organizations in 20+ countries and is a dominant player in IATI ecosystem.</p>
+</div>
+
+<div class="services-block services-web" id="web-technology">
+<h3>Community Innovations</h3>
+<div class="service-image">
+<img src="{{ site.url }}/images/services/ic_community_innovations.png"/>
+<img src="{{ site.url }}/images/services/ic_community_innovations@2x.png" class="small" width="161" height="109"/>
+</div> 
+ <p>We believe that innovations can flourish when we collaborate and think out of the box. This is why we have been involved in community innovations since the very beginning. We reach out to students and wider developer community to share our knowledge and get them engaged. We organize events and facilitate communities around Open Data , Mobile Technologies and Civic Engagement.
+</p>
+
+<p>We’ve partnered with organizations like World Bank and Development Initiatives to facilitate open data movement in Nepal. We have organized meet -ups, hackathons, conferences and workshops including the annual Open Data Day celebration in Nepal.</p>
+<p>With initial support from infoDev, The World Bank, We have been facilitating the first ever mobile app development community of practice called MobileNepal. We have also been partnering with NCell to conduct  annual App Development conclave – NcellAppCamp in Nepal since 2014.</p>
+<p>We have facilitated International events like Global M2Work Hackathon in partnership with infoDev, World Bank and have brought international initiatives like NASA Space App challenge to Nepalese context.</p>
 </div>
 </section>
 </div>
@@ -72,7 +88,8 @@ carousel:
 With a motto of creating impact through innovative solutions, we make sure that we are there to support our clients from start to end. 
 </div>
 <blockquote>
-We are more than a technology service providers, we provide consulting and solutions and believe in establishing long term strategic partnership with our clients.
+We are more than technology service providers.
+We are your partners from start to end for development, deployment and institutionalization of solutions that matters to you.
 </blockquote>
 
 </div>
@@ -88,7 +105,7 @@ Happy Team<span>=</span>Productivity
 
 * ![Alt text]({{ site.url }}/images/staff/Aayushree.jpg)
   + Aayushree Joshi
-  + Trainee
+  + Jr. Officer, Community Innovations
 * ![Alt text]({{ site.url }}/images/staff/Achyut.jpg)
   + Achyut Devkota
   + System Engineer
@@ -100,13 +117,16 @@ Happy Team<span>=</span>Productivity
   + Software Developer
 * ![Alt text]({{ site.url }}/images/staff/Anjan.jpg)
   + Anjan Shrestha
-  + UX Lead
+  + VP, Product Innovations
 * ![Alt text]({{ site.url }}/images/staff/Anjesh.jpg)
   + Anjesh Tuladhar
-  + COO
+  + Chief Innovations Officer
 * ![Alt text]({{ site.url }}/images/staff/Ashley.jpg)
   + Ashley Dhakal
-  + UI Designer
+  + Product Manager
+* ![Alt text]({{ site.url }}/images/staff/Avash.jpg)
+  + Avash Rayamajhi
+  + Trainee
 * ![Alt text]({{ site.url }}/images/staff/Bibek.jpg)
   + Bibek Shrestha
   + Senior Developer
@@ -116,24 +136,27 @@ Happy Team<span>=</span>Productivity
 * ![Alt text]({{ site.url }}/images/staff/Ravi.jpg)
   + Bir Bahadur Putuwal
   + Office Aid
+* ![Alt text]({{ site.url }}/images/staff/Deepak.jpg)
+  + Deepak Kumar Shah
+  + Trainee
 * ![Alt text]({{ site.url }}/images/staff/Geshan.jpg)
   + Geshan Manandhar
   + Senior Developer
 * ![Alt text]({{ site.url }}/images/staff/Julian.jpg)
   + Julian Raj Manandhar
-  + Mobile Developer
+  + Software Engineer
 * ![Alt text]({{ site.url }}/images/staff/Kopila.jpg)
   + Kopila Putuwal
   + Office Aid
 * ![Alt text]({{ site.url }}/images/staff/Manoj.jpg)
   + Manoj Byanjankar
-  + Software Developer
+  + Software Engineer
 * ![Alt text]({{ site.url }}/images/staff/Nirajan.jpg)
   + Nirajan Panthee
-  + Senior Developer
+  + Sr. Software Engineer
 * ![Alt text]({{ site.url }}/images/staff/Prashant.jpg)
   + Prashant Shrestha
-  + Manager,Web Services
+  + VP, Business and Technology Innovations
 * ![Alt text]({{ site.url }}/images/staff/Prasanta.jpg)
   + Prashanta Rimal
   + Administration and Finance Assistant
@@ -142,37 +165,43 @@ Happy Team<span>=</span>Productivity
   + Operations Manager
 * ![Alt text]({{ site.url }}/images/staff/Prawesh.jpg)
   + Prawesh Shrestha
-  + Community Manager
+  + Manager, Community Innovations
 * ![Alt text]({{ site.url }}/images/staff/Punya.jpg)
   + Punya Ruchal
-  + Web Developer
+  + Sr. Web Developer
 * ![Alt text]({{ site.url }}/images/staff/Rakeeb.jpg)
   + Rakeeb Rajbhandari
-  + Mobile Developer
+  + Software Engineer
+* ![Alt text]({{ site.url }}/images/staff/Ramesh.jpg)
+  + Ramesh KC
+  + Trainee
+* ![Alt text]({{ site.url }}/images/staff/Rishav.jpg)
+  + Rishav Malla
+  + Trainee
 * ![Alt text]({{ site.url }}/images/staff/Rohit.jpg)
   + Rohit Shrestha
-  + UX Designer
+  + UX Developer
 * ![Alt text]({{ site.url }}/images/staff/Santosh.jpg)
   + Santosh Neupane
   + System Administrator
 * ![Alt text]({{ site.url }}/images/staff/Saugat.jpg)
   + Saugat Acharya
-  + Software Developer
+  + Software Engineer
 * ![Alt text]({{ site.url }}/images/staff/Sita.jpg)
   + Sita Prajapati
-  + Developer
+  + Sr. Software Engineer
 * ![Alt text]({{ site.url }}/images/staff/Sujata.jpg)
   + Sujata Shrestha
   + Open Data Coordinator
 * ![Alt text]({{ site.url }}/images/staff/Suman.jpg)
   + Suman Humagain
-  + Senior Developer
+  + Sr. Software Engineer
 * ![Alt text]({{ site.url }}/images/staff/Sweta.jpg)
   + Sweta Shrestha
-  + Front End Developer
+  + Sr. UX developer
 * ![Alt text]({{ site.url }}/images/staff/Tribhuvan.jpg)
   + Tribhuvan Raj Pokharel
-  + Software Developer
+  + Software Engineer
 
 
 <div class="service-wrapper quote-wrapper">

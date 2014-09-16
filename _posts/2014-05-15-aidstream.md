@@ -1,6 +1,7 @@
 ---
 layout: work
 title: AidStream
+impact: Making Aid Transparency Work
 description: ""
 modified: 2014-05-16
 tags: [intro, beginner, jekyll, tutorial]
@@ -16,7 +17,11 @@ image:
 
 
 <div class="layout work-description">
-<p>The issue of foreign aid transparency and aid effectiveness has been a topic of debate and discussion at an international level since quite some time. Making aid data openly available in uniform standard format, both from donors and recipients, is a vital step in making foreign aid more transparent. This open availability of aid data enables individuals and organisations to access aid data , analyse them and ask questions regarding proper implementation of aid driven activities thereby enhancing aid effectiveness and accountability.</p>
+<p>Aidstream is a platform that allows organizations involved in aid flows (donors, recipients, implementors, etc.) report their activities in <a href="http://www.iatistandard.org" target="_blank">International Aid Transparency Initiative (IATI) standard</a>.  We have developed this product based on the imperative need for development organizations, both in global south and north to be more transparent and accountable.</p>
+
+<p>Apart from developing the platform, YoungInnovations also provide strategic guidance and support to NGOs (large to smalls), who want to use Aidstream to publish their activities into IATI. We have even <a href="https://github.com/younginnovations/aidstream" target="_blank">open sourced Aidstream</a> and are looking to collaborate with organizations in different countries who would want to localize and further develop it as a global tool to promote transparency and accountability of aid flows.</p>
+
+<p>The product has been developed with support from <a href="http://www.aidtransparency.net/governance/secretariat" target="_blank">IATI Secretariat </a>and <a href="http://www.devinit.org" target="_blank">Development Initiative</a>. So far, it has been the prominent tool for <a href="http://iatiregistry.org/publisher" target="_blank">publishers publishing into IATI</a> and is already being used across 20 countries by more than 150 organizations.</p>
 
 <a href="{{ page.link }}" target="_blank" class="button work-btn launch-btn"><span class="see-work"> Launch Website</span><span class="progress"></span></a>
 </div>
