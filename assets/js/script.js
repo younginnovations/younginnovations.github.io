@@ -151,6 +151,8 @@ $(document).ready(function(){
     //scrollit
 
     $.scrollIt();
+    
+    $('.upto-article-layout').parents('body').addClass('upto-wrap');
 
 
     // for touch devices
