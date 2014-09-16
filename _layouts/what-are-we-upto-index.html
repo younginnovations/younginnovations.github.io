@@ -1,0 +1,74 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  {% include _head.html %}
+</head>
+
+<body class="post-index">
+
+  {% include _browser-upgrade.html %}
+
+  {% include _navigation.html %}
+
+  {% if page.image.feature %}
+  <div class="image-wrap">
+    <img src=
+         {% if page.image.feature contains 'http://' %}
+         "{{ page.image.feature }}"
+         {% elsif page.image.feature contains 'https://' %}
+         "{{ page.image.feature }}"
+         {% else %}
+         "{{ site.url }}/images/{{ page.image.feature }}"
+         {% endif %}
+         alt="{{ page.title }} feature image">
+    {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+    {% endif %}
+  </div><!-- /.image-wrap -->
+  {% endif %}
+
+  <div id="index" class="work-wrapper">
+    <div class="tagline-wrapper">
+      <div class="tagline layout">
+        We work with clients and partners from different parts of the globe. 
+      </div>
+    </div>
+
+    <div id="work layout">
+      <div class="layout work-tagline">We provide innovative solutions in the areas of <a href="{{ site.url }}/ourstory/#open-development">open development</a>, integrated <a href="{{ site.url }}/ourstory/#mobile-technologies">mobile solutions</a> and <a href="{{ site.url }}/ourstory/#web-technology">web development</a>.</div>
+      <div class="layout work-article-wrap">
+        {% for post in site.categories.work %} 
+
+        <article>
+
+          <div class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+            <div class="link-article">
+              {% if post.image.cover %}
+              <img src="{{ site.url }}/images/{{ post.image.cover }}">
+              <div class="info">
+                <a href="{{ site.url }}{{ post.url }}" class="button work-btn view-btn"><span class="see-work">View project</span><span class="progress"></span></a>
+              </div>
+              {% endif %} 
+            </div>
+            <h3 class="portfolio-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
+            </a><div>
+
+            <div>
+            </div>
+            </article>
+            {% endfor %}
+          </div><!-- /#index -->
+          </div>   
+        <div class="footer-wrap">
+          <footer class="layout">
+            {% include _footer.html %}
+          </footer>
+        </div><!-- /.footer-wrap -->
+
+        {% include _scripts.html %}
+
+        </body>
+      </html>

@@ -501,6 +501,7 @@ li:last-child .impact-project-title {
 
 #site-nav li:last-child {
     border-bottom: 1px solid #eee;
+    width: 100%;
 }
 
 .nav ul li a,.impact-title {
@@ -1177,6 +1178,7 @@ display: inline-block;
 .tagline-wrapper {
     background: #e7e7e7;
     padding: 200px 0 100px;
+    margin-bottom: 60px;
 }
 
 .tagline {
@@ -1191,7 +1193,6 @@ display: inline-block;
     margin: 0 auto;
     overflow: hidden;
     text-align: center;
-    padding: 60px 0 0;
 }
 
 .logo-wrapper ul {
