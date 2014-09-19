@@ -38,9 +38,9 @@
     </div>
 
     <div id="work layout">
-      <div class="layout work-tagline">We provide innovative solutions in the areas of <a href="{{ site.url }}/ourstory/#open-development">open development</a>, integrated <a href="{{ site.url }}/ourstory/#mobile-technologies">mobile solutions</a> and <a href="{{ site.url }}/ourstory/#web-technology">web development</a>.</div>
+      <!--<div class="layout work-tagline">We provide innovative solutions in the areas of <a href="{{ site.url }}/ourstory/#open-development">open development</a>, integrated <a href="{{ site.url }}/ourstory/#mobile-technologies">mobile solutions</a> and <a href="{{ site.url }}/ourstory/#web-technology">web development</a>.</div>-->
       <div class="layout work-article-wrap upto-article-wrap">
-        {% for post in site.categories.what %} 
+        {% for post in site.categories.what-we-upto %} 
 
         <article>
 
@@ -49,7 +49,7 @@
               {% if post.image.cover %}
               <img src="{{ site.url }}/images/{{ post.image.cover }}">
               <div class="info">
-                <a href="{{ site.url }}{{ post.url }}" class="button work-btn view-btn"><span class="see-work">View project</span><span class="progress"></span></a>
+                <a href="{{ site.url }}{{ post.url }}" class="button work-btn view-btn"><span class="see-work">View detail</span><span class="progress"></span></a>
               </div>
               {% endif %} 
             </div>

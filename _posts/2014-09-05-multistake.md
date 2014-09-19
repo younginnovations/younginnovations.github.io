@@ -1,60 +1,27 @@
 ---
-layout: what-are-we-upto 
+layout: what-we-upto 
 title: Young Innovations at Multi-Stakeholder Knowledge Forum
 description: ""
 modified: 2014-09-05
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
-categories: what
-caselink: case/devcheck-case
-link: http://developmentcheck.org  
+categories: what-we-upto
+
 image:
-  cover: work/aidstream.png
+  cover: what-we-upto/multi-stake_thumb.jpg
+  feature: what-we-upto/multi-stake.jpg
 ---
 
 <div class="layout work-description">
-<p>Program for Social Accountability in Nepal (PRAN) with support from World Bank
+<p>Program for Social Accountability in Nepal (PRAN) with support from World Bank organized a platform for civil society organizations, development partners and major stakeholders to come together and discuss their role in promoting and implementing social accountability initiatives. The challenges that come with it along with the opportunities in Nepal were discussed by the respective experts in the field. </p>
 
-organized a platform for civil society organizations, development partners and major 
+<p>Young Innovations took part in the panel discussion about Innovations and Social Accountability. Chief Executive Officer Mr. Bibhusan Bista and Chief Innovations Officer, Mr. Anjesh Tuladhar both were present at the discussion, the former as a moderator and the latter as a panelist. Experts who are involved in Innovation and social impact in Nepal were asked to share their experiences in the discussion. </p>
 
-stakeholders to come together and discuss their role in promoting and implementing social 
+<p>Young Innovations shared its story of implementing SMS based reporting system on National Immunization Program. The challenges related to it was discussed along with threats, like lack of technological advancement and language barriers in rural Nepal demanding additional efforts by implementing and supporting bodies for better results.</p>
 
-accountability initiatives. The challenges that come with it along with the opportunities in 
+<p>Through the discussion, panelists agreed that innovation was undoubtedly a very pervasive medium today to ensure social impact and accountability. Implementing programs through innovative measures, however, requires additional homework on its feasibility since technology needs to be explained clearly, accurately and often repeatedly before it is understood. Training and formal education incorporating new and important innovations can be a good way to move forward. Including local people and organizations in utilizing innovations can mean better accountability from local bodies.</p>
 
-Nepal were discussed by the respective experts in the field. 
-
-Young Innovations took part in the panel discussion about Innovations and Social 
-
-Accountability. Chief Executive Officer Mr. Bibhusan Bista and Chief Innovations Officer, 
-
-Mr. Anjesh Tuladhar both were present at the discussion, the former as a moderator and 
-
-the latter as a panelist. Experts who are involved in Innovation and social impact in Nepal 
-
-were asked to share their experiences in the discussion. 
-
-Young Innovations shared its story of implementing SMS based reporting system on 
-
-National Immunization Program. The challenges related to it was discussed along with 
-
-threats, like lack of technological advancement and language barriers in rural Nepal 
-
-demanding additional efforts by implementing and supporting bodies for better results. 
-
-Through the discussion, it was agreed by the panelist that innovation was undoubtedly a 
-
-very pervasive medium today to ensure social impact and accountability. Implementing 
-
-programs through innovative measures, however, requires additional homework on its 
-
-feasibility since technology needs to be explained clearly, accurately and often repeatedly 
-
-before it is understood. Training and formal education incorporating new and important 
-
-innovations can be a good way to move forward. Including local people and organizations 
-
-in incorporating innovations can mean better accountability from local bodies.</p>
-
+<p>Besides the panel discussion, the two day event which concluded on 12 September 2014 had a knowledge fair to discuss current projects on sustainability that are being implemented around Nepal. Young innovations shared progress on its major projects, namely, Open Nepal, Development Check, Poverty Alleviation Fund and National Immunization Program. Around 200 participants attended the forum and knowledge fair in the two days. </p>
 
 </div>
 

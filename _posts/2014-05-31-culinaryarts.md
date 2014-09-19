@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Academy of Culinary Arts
+impact: Your stop for Culinary education
 description: ""
 modified: 2014-05-31
 tags: [andriod, application]

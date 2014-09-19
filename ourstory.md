@@ -31,7 +31,7 @@ carousel:
 <p>We partner with clients from around the globe to provide innovative solutions in the areas of:</p>
 
 <section class="services layout">
-<div class="services-block" id="open-development">
+<div class="services-block" id="data-innovations">
 <h3>Data Innovations</h3>
 <div class="service-image">
 <img src="{{ site.url }}/images/services/ic_data_innovations.png"/>
@@ -46,7 +46,7 @@ carousel:
 </p>
 </div> 
 
-<div class="services-block" id="mobile-technologies">
+<div class="services-block" id="technology-innovations">
 <h3>Technology Innovations</h3>
 <div class="service-image">
 <img src="{{ site.url }}/images/services/ic_technology_innovations.png"/>
@@ -56,7 +56,7 @@ carousel:
 
 <p>We help organizations become more efficient by integrating mobile telephony – mobile apps and SMS based technologies within existing business process and practices for wider reach and accessibility.</p>
 </div>
-<div class="services-block services-web" id="web-technology">
+<div class="services-block services-web" id="product-innovations">
 <h3>Product Innovations</h3>
 <div class="service-image">
 <img src="{{ site.url }}/images/services/ic_product_innovations.png"/>
@@ -67,7 +67,7 @@ carousel:
 <p>Based on our niche and expertise, we also work on developing our internal products. As of now, our product <a href="http://aidstream.org" target="_blank">Aidstream</a> stands as one of the most promising platform that allows  development organizations to be more transparent by publishing into <a href="http://www.iatistandard.org" target="_blank">International Aid Transparency Initiative (IATI)</a>. It is being used by organizations in 20+ countries and is a dominant player in IATI ecosystem.</p>
 </div>
 
-<div class="services-block services-web" id="web-technology">
+<div class="services-block services-web" id="community-innovations">
 <h3>Community Innovations</h3>
 <div class="service-image">
 <img src="{{ site.url }}/images/services/ic_community_innovations.png"/>

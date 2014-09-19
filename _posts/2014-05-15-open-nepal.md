@@ -31,6 +31,7 @@ image:
 </div>
 </div>
 
+<!--
 ## Young Innovations as a technical partner.
 
 Open data is coordinated and managed by YoungInnovations as a technical partner in the development of the IATI standard and infrastructure primarily responsible for data availability, data access and use(data desk),  data awareness (capacity building) and documentation of impact along with lessons of Open data movement. YoungInnovations being part of it has shown their full support and aid by providing:
@@ -60,3 +61,4 @@ Open data is coordinated and managed by YoungInnovations as a technical partner 
 ## What was the impact YoungInnovations made?
 
 YoungInnovations have made productive as well as positive impact related to all the Open Nepal activities. It has provided a path for all those journalist, parliamentarians, CSOs, researcher and students who would like to apply  tools learned from data literacy training in their professional work.  Most of them also want to collaborate with YoungInnovations to create databased story or research. This has increased the demand of open data of Nepal at open data portal. Such kind of activities facilitates to enhance transparency, accountability, efficiency through  accessibility  and  innovative use of open data in their respective work area and has also contributed in bringing positive change within normal individual people  and whole nation.
+-->
