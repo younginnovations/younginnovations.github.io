@@ -1434,14 +1434,14 @@ p+p {
 }
 
 .service-wrapper {
-    background: url(../../images/services/cover-img.png) 0 0;
+    background: url(../../images/services/cover-img.jpg) 0 0;
     background-size: cover;
     /*  margin-bottom: 50px;*/
     clear: both;
 }
 
 .service-wrap {
-    background: rgba(241,102,34,0.9);
+    background: rgba(241,102,34,0.6);
     padding: 24% 0;
 }
 

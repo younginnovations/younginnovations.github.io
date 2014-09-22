@@ -13,7 +13,7 @@ image:
 ---
 
 <div class="layout work-description">
-<p>Program for Social Accountability in Nepal (PRAN) with support from World Bank organized a platform for civil society organizations, development partners and major stakeholders to come together and discuss their role in promoting and implementing social accountability initiatives. The challenges that come with it along with the opportunities in Nepal were discussed by the respective experts in the field. </p>
+<p><a href="http://www.worldbank.org/en/news/feature/2011/05/03/nepal-accountability-program-pran" target="_blank">Program for Social Accountability in Nepal (PRAN)</a> with support from World Bank organized a platform for civil society organizations, development partners and major stakeholders to come together and discuss their role in promoting and implementing <a href="http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTSOCIALDEVELOPMENT/EXTPCENG/0,,contentMDK:20509424~menuPK:1278120~pagePK:148956~piPK:216618~theSitePK:410306,00.html" target="_blank">social accountability</a> initiatives. The challenges that come with it along with the opportunities in Nepal were discussed by the respective experts in the field. </p>
 
 <p>Young Innovations took part in the panel discussion about Innovations and Social Accountability. Chief Executive Officer Mr. Bibhusan Bista and Chief Innovations Officer, Mr. Anjesh Tuladhar both were present at the discussion, the former as a moderator and the latter as a panelist. Experts who are involved in Innovation and social impact in Nepal were asked to share their experiences in the discussion. </p>
 
