@@ -2798,10 +2798,12 @@ body.fixed .slide-navigation {
 .smallnav-wrap .navigation-wrapper{
     position: static;
 }
+/*
 
 .smallnav-wrap .headline-wrap h1 {
     display: none;
 }
+*/
 
 .smallnav-wrap #main {
     margin: 0!important;

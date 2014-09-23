@@ -121,6 +121,9 @@ Happy Team<span>=</span>Productivity
 * ![Alt text]({{ site.url }}/images/staff/Anjesh.jpg)
   + Anjesh Tuladhar
   + Chief Innovations Officer
+* ![Alt text]({{ site.url }}/images/staff/Anubhuti.jpg)
+  + Anubhuti Poudyal
+  + Communications Consultant
 * ![Alt text]({{ site.url }}/images/staff/Ashley.jpg)
   + Ashley Dhakal
   + Product Manager
