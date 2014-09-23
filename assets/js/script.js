@@ -2,11 +2,6 @@ $(document).ready(function(){
     $('.inner-wrapper').css('min-height', $(window).height() + 'px');     
 
 
-
-    //        new UIMorphingButton( document.querySelector( '.morph-button' ), {
-    //            closeEl : '.icon-close',
-    //        } );
-
     $('.work-wrapper').siblings('.navigation-wrapper').addClass('worknav');
 
     var imgheight = $('.office-image img').height() + 'px';
@@ -85,55 +80,10 @@ $(document).ready(function(){
         return false;
     });
 
-
-
-    //    $(window).scroll(function() {
-    //        if ($(window).width() > 1100) {
-    //            var scrollVal = $(this).scrollTop();
-    //            var scrollHeight = $('.image-wrap').height();
-    //            var imgHeight = $('.image-wrap').height()/2;
-    ////            $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
-    //            if ( scrollVal > imgHeight) {
-    //                $('.image-wrap').addClass('imagefixed-wrap');
-    //                $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
-    //            }
-    //            else {
-    //                $('.image-wrap').removeClass('imagefixed-wrap');
-    //                $('.image-wrap+article').css('padding-top','0');
-    //            }
-    //        }
-    //        else {
-    //            $('.image-wrap').removeClass('imagefixed-wrap');
-    //            $('.image-wrap+article').css('padding-top','0');
-    //        }
-    //    });
-
     $(window).resize(function(){
         $('.inner-wrapper').css('min-height', $(window).height() + 'px'); 
         var imgheight = $('.office-image img').height() + 'px';
         $('#contact iframe').css('height', imgheight);
-        //        $('.image-wrap').removeClass('imagefixed-wrap');
-        //        $('.image-wrap+article').css('padding-top','0');
-        //        $(window).scroll(function() {
-        //            if ($(window).width() > 1100) {
-        //                var scrollVal = $(this).scrollTop();
-        //                var scrollHeight = $('.image-wrap').height();
-        //                var imgHeight = $('.image-wrap').height()/2;
-        ////                $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
-        //                if ( scrollVal > imgHeight) {
-        //                    $('.image-wrap').addClass('imagefixed-wrap');
-        //                    $('.imagefixed-wrap+article').css('padding-top',scrollHeight);
-        //                }
-        //                else {
-        //                    $('.image-wrap').removeClass('imagefixed-wrap');
-        //                    $('.image-wrap+article').css('padding-top','0');
-        //                }
-        //            }
-        //            else {
-        //                $('.image-wrap').removeClass('imagefixed-wrap');
-        //                $('.image-wrap+article').css('padding-top','0');
-        //            }
-        //        });
     });
 
 
