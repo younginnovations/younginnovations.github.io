@@ -700,7 +700,7 @@ li:last-child .impact-project-title {
 }
 
 .site-name a {
-    background: url(../../images/pages/logo.png) no-repeat 0 0;
+    background: url(../../images/logo/logo.png) no-repeat 0 0;
     display: block;
     text-indent: -9999px;
     width: 149px;
@@ -3021,7 +3021,7 @@ display: none;
     only screen and (min-device-pixel-ratio: 2) {
 
         .site-name a {
-            background: url(../../images/pages/logo@2x.png) no-repeat 0 0;
+            background: url(../../images/logo/logo@2x.png) no-repeat 0 0;
             background-size: 149px;
         }
 

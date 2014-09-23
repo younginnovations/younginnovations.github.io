@@ -10,7 +10,7 @@ categories: work
 caselink: case/devcheck-case
 link: http://aidstream.org  
 image:
-  cover: work/aidstream.png
+  cover: work/thumbnails/aidstream.png
   feature: work/aidstream/feature-img.jpg
 ---
 
