@@ -1208,6 +1208,7 @@ display: inline-block;
     display: inline-block;
     margin-bottom: 54px;
     width: 50%;
+    text-align: center;
 }
 
 .logo-wrapper ul li img {
@@ -2147,504 +2148,6 @@ body.fixed .slide-navigation {
     margin-top: 22px;
 }
 
-@media only screen and (min-width: 480px) {
-
-    html {
-        font-size: 100%;
-    }
-
-    .impact-screen-image {
-        display: block;
-    }
-
-    .impact-mobile-image {
-        display: none;
-    }
-
-    .team-title {
-        text-align: center;
-    }
-
-    .team-title+ ul li {
-        width: 32%;
-    }
-
-    .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
-        max-width: 432px;
-        max-width: 24rem;
-    }
-
-    .logo-wrapper ul li {
-        width: 49%;
-    }
-
-    .wrap-out h2,.ask {
-        text-align: center;
-    }
-
-    .button {
-        width: 260px;
-    }
-
-    .team-title+ ul {
-        padding: 0 50px;
-    }
-
-}
-
-
-
-@media only screen and (min-width: 400px) {
-    .nav ul li a {
-        font-size: 28px;
-    }
-}
-
-@media only screen and (min-width: 500px) {
-    .nav ul li a {
-        font-size: 36px;
-    }
-
-    .navigation-wrap li a.view-btn {
-        left: 35%;
-    }
-}
-
-@media only screen and (min-width: 600px) {
-    .nav ul li a {
-        font-size: 39px;
-        font-size: 2.167rem;
-    }
-
-    .navigation-wrap li a.view-btn {
-        left: 37%;
-    }
-}
-
-
-@media only screen and (min-width: 700px) {
-    .team-title+ ul,.layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
-        max-width: 540px;
-        max-width: 30rem;
-    }
-
-    .work-article-wrap article {
-        display: inline-block;
-        margin-right: 35px;
-        width: 45%;
-        vertical-align: top;
-    }
-
-    .work-article-wrap article:nth-child(2n+1) {
-        margin-right: 0;
-    }
-
-    .work-article-wrap article img {
-        width: 100%;
-    }
-
-    .inner-screenshot .screenshot {
-        float: left;
-        margin-left: 20px;
-        width: 48%;
-        margin-bottom: 0;
-    }
-
-    .contact-block {
-        width: 33%;
-    }
-
-    #contact,#contact iframe {
-        height: 340px!important;
-        overflow: hidden;
-    }
-
-    .office-image img,#contact iframe { 
-        width: 50%;
-        float: left;
-    }
-
-    .contact-title {
-        padding: 34% 0 20%;
-    }
-
-    .impact-projects ul li {
-        width: 50%;
-    }
-
-    .navigation-wrap li a.view-btn {
-        left: 25%;
-    }
-
-    li:nth-child(3n) .impact-project-title {
-        border-bottom: 0;
-    } 
-
-}
-
-
-
-@media only screen and (min-width: 800px) {
-
-    .team-title+ ul,.layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
-        max-width: 600px;
-        max-width: 33rem;
-    }
-
-    .team-title+ ul li {
-        width: 24%;
-    }
-
-    #main .work-description p {
-        font-size: 22px;
-        line-height: 1.47;  
-    }
-
-    .work-article-layout h1 {
-        font-size: 48px;
-    }
-
-    .logo-wrapper ul li {
-        width: auto;
-        margin-right: 23px;
-    }
-
-    .logo-wrapper ul li:nth-child(4n) {
-        margin: 0;
-    }
-
-    .launch-btn {
-        display: block;
-        margin: 40px auto 30px;
-    }
-
-    #contact {
-        height: 400px;
-        overflow: hidden;
-    }
-
-    .navigation-wrap li a.view-btn {
-        left: 28%;
-    }
-
-    .impact {
-        font-size: 54px;
-        font-size: 4.5rem;
-    }
-}
-
-
-
-@media only screen and (min-width: 900px) {
-    .slide-navigation {
-        display: block;
-    }
-
-    .service-title,.contact-title {
-        font-size: 54px;
-        font-size: 3rem;
-    }
-
-    .service-title p {
-        font-size: 30px;
-        font-size: 1.667rem; 
-    }
-
-    .tagline {
-        font-size: 43px;
-        font-size: 2.389rem;
-    }
-
-    .wrap-out {
-        padding: 20px 0 0;
-    }
-
-    .wrap-out h2,.ask {
-        text-align: center;
-    }
-
-    .navigation-wrap li a.view-btn {
-        left: 30%;
-    }
-
-}
-
-@media only screen and (min-width:1000px) {
-    .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul,.home-wrapper {
-        max-width: 800px;
-        max-width: 45rem;
-    }
-
-    .work-detail-wrap p,.work-detail-wrap ul {
-        max-width: 800px;
-        max-width: 45rem;
-        margin: 0 auto;
-        text-align: left!important;
-    }
-
-    .work-detail-wrap ul {
-        margin-bottom: 20px;
-    }
-
-    .motto-wrapper,.services {
-        margin: 86px auto 80px;
-    }
-
-    .services-block {
-        width: 40%;
-        margin-right: 156px;
-        margin-bottom: 30px;
-    }
-
-    .services-block:nth-child(even) {
-        margin: 0;
-    }
-
-    .service-wrap {
-        padding: 14% 0;
-    }
-
-    .motto {
-        float: left;
-        width: 400px;
-        font-size: 30px;
-        font-size: 1.667rem;
-        line-height: 1.27;
-        font-style: italic;
-        margin-bottom: 80px;
-    }
-
-    .team-title+ ul {
-        max-width: 800px;
-        max-width: 45rem;
-        padding: 0;
-    }
-
-    .team-title+ ul li:nth-child(6n) {
-        margin-right: 0;
-    }
-
-
-    .team-title+ ul li {
-        width: 19%;
-    }
-
-    #main article p,#main .headline-wrap{ 
-        text-align: center;
-    }
-
-    .work-detail-wrap ul li {
-        font-size: 19px;
-    }
-
-    .impact-line {
-        text-align: center!important;
-    }
-
-
-    #main .motto-wrapper blockquote {
-        float: right;
-        width: 370px;
-    }
-
-    .work-article-wrap article {
-        width: 30%;
-    }
-
-    /*
-    .work-article-wrap article:nth-child(2n) {
-    margin-right: 35px;
-}
-    */
-
-    .work-article-wrap article:nth-child(2n+1) {
-        margin-right: 35px;
-    }
-
-
-    .work-article-wrap article:nth-child(4n+3) {
-        margin-right: 0;
-    }
-
-    .work-article-wrap article:nth-child(3) {
-        margin-right: 35px;
-    }
-
-    .work-article-wrap article:nth-child(4) {
-        margin-right: 0;
-    }
-
-    .logo-wrapper ul li:nth-child(4n) {
-        margin-right: 23px;
-    }
-
-    .logo-wrapper ul li:nth-child(5n) {
-        margin-right: 0;
-    }
-
-    .navigation-wrap li a.view-btn {
-        left: 32%;
-    }
-
-
-    .work-article-layout h1 {
-        font-size: 48px;
-    }
-
-    #main .services-block p, .intro {
-        font-size: 15px;
-    }
-
-    #post-nav {
-        margin-top: 60px;
-    }
-
-}
-
-
-@media screen and (min-width:1100px) {
-    .navigation-wrap li a.view-btn {
-        left: 34%;
-    }
-
-    .work-detail-wrap h2 {
-        font-size: 38px;
-    }
-
-    #main .work-description p,.work-detail-wrap p {
-        font-size: 20px;
-        font-size: 1.111rem;
-        text-align: left!important;
-    }
-
-}
-
-@media screen and (min-width:1300px) {
-    .navigation-wrap li a.view-btn {
-        left: 36%;
-    }
-
-    #contact,#contact iframe {
-        height: 500px!important;
-        overflow: hidden;
-    }
-
-}
-
-@media screen and (min-width:1500px) {
-    .navigation-wrap li a.view-btn {
-        left: 40%;
-    }
-}
-
-@media screen and (min-width:920px) {
-    .impact {
-        font-size: 54px;
-        font-size: 5.5rem;
-    }
-}
-
-
-@media screen and (min-width:600px) {
-
-    html {
-        font-size: 112.5%;
-    }
-
-    body {
-        font: 300 18px/24px 'Open Sans', sans-serif;
-        font: 300 1rem/1.33 'Open Sans', sans-serif;
-        color: #333;
-    }
-
-    .impact {
-        font-size: 54px;
-        font-size: 3.5rem;
-    }
-
-    .client-wrap {
-        width: 440px;
-    }
-
-    .intro {
-        width: 460px;
-        text-align: center;
-    }
-
-    .team-title {
-        font-size: 43px;
-        font-size: 2.389rem;
-        line-height: 1.372;
-        text-align: center;
-    }
-
-    .quote-wrap-large {
-        background-attachment: fixed;
-    }
-
-    .motto-wrapper blockquote {
-        width: auto;
-    }
-
-    #post-nav {
-        margin-top: 66px;
-    }
-
-    #main {
-        padding: 1% 0 0;
-    }
-
-    .trigger {
-        top: 0;
-    }
-}
-
-
-@media screen and (min-width:768px) and (min-height:400px) {
-    .impact-image {
-        margin-bottom: 34%;
-    }
-
-    .home-wrapper {
-        padding-top: 214px;
-    }
-}
-
-@media screen and (min-width:768px) and (max-height: 700px) {
-    .home-wrapper {
-        padding-top: 124px;
-    }
-
-    .impact-image {
-        margin-bottom: 28%;
-    }
-}
-
-
-@media screen and (max-width:350px) {
-    .impact-image svg {
-        left: 20%;
-    }
-}
-
-@media screen and (max-width:400px) {    
-    .impact {
-        font-size: 1.9rem;
-    }
-}
-
-
-@media screen and (min-width:480px) and (max-width:560px) {
-    .impact-image svg {
-        left: 4%;
-    }
-}
-
-@media screen and (min-width:561px) and (max-width:780px) {
-    .impact-image svg {
-        left: 20%;
-    }
-}
 
 
 #site-nav,.impact-projects {
@@ -2865,13 +2368,12 @@ display: none;
 
 .collage-section {
     position: relative;
+    text-align: center;
 }
 
 .life-btn {
-    position: absolute;
-    top: 50%;
-    left: 44%;
-    width: 294px;
+    width: 294px!important;
+    margin-top: 10%;   
 }
 
 .upto-article-layout {
@@ -2887,6 +2389,518 @@ display: none;
     width: 100%;
 }
 
+@media only screen and (min-width: 480px) {
+
+    html {
+        font-size: 100%;
+    }
+
+    .impact-screen-image {
+        display: block;
+    }
+
+    .impact-mobile-image {
+        display: none;
+    }
+
+    .team-title {
+        text-align: center;
+    }
+
+    .team-title+ ul li {
+        width: 32%;
+    }
+
+    .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
+        max-width: 432px;
+        max-width: 24rem;
+    }
+
+    .logo-wrapper ul li {
+        width: 49%;
+    }
+
+    .wrap-out h2,.ask {
+        text-align: center;
+    }
+
+    .button {
+        width: 260px;
+    }
+
+    .team-title+ ul {
+        padding: 0 50px;
+    }
+
+}
+
+
+
+@media only screen and (min-width: 400px) {
+    .nav ul li a {
+        font-size: 28px;
+    }
+}
+
+@media only screen and (min-width: 500px) {
+    .nav ul li a {
+        font-size: 36px;
+    }
+
+    .navigation-wrap li a.view-btn {
+        left: 35%;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .nav ul li a {
+        font-size: 39px;
+        font-size: 2.167rem;
+    }
+
+    .navigation-wrap li a.view-btn {
+        left: 37%;
+    }
+}
+
+
+@media only screen and (min-width: 700px) {
+    .team-title+ ul,.layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
+        max-width: 540px;
+        max-width: 30rem;
+    }
+
+    .work-article-wrap article {
+        display: inline-block;
+        margin-right: 35px;
+        width: 45%;
+        vertical-align: top;
+    }
+
+    .work-article-wrap article:nth-child(2n+1) {
+        margin-right: 0;
+    }
+
+    .work-article-wrap article img {
+        width: 100%;
+    }
+
+    .inner-screenshot .screenshot {
+        float: left;
+        margin-left: 20px;
+        width: 48%;
+        margin-bottom: 0;
+    }
+
+    .contact-block {
+        width: 33%;
+    }
+
+    #contact,#contact iframe {
+        height: 340px!important;
+        overflow: hidden;
+    }
+
+    .office-image img,#contact iframe { 
+        width: 50%;
+        float: left;
+    }
+
+    .contact-title {
+        padding: 34% 0 20%;
+    }
+
+    .impact-projects ul li {
+        width: 50%;
+    }
+
+    .navigation-wrap li a.view-btn {
+        left: 25%;
+    }
+
+    li:nth-child(3n) .impact-project-title {
+        border-bottom: 0;
+    } 
+
+}
+
+
+
+@media only screen and (min-width: 800px) {
+    
+    .logo-wrapper {
+        text-align: left;
+    }
+
+    .team-title+ ul,.layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
+        max-width: 630px;
+        max-width: 35rem;
+    }
+
+    .team-title+ ul li {
+        width: 24%;
+    }
+
+    #main .work-description p {
+        font-size: 22px;
+        line-height: 1.47;  
+    }
+
+    .work-article-layout h1 {
+        font-size: 48px;
+    }
+
+    .logo-wrapper ul li {
+        width: 21.5%;
+        margin-right: 23px;
+    }
+
+    .logo-wrapper ul li:nth-child(4n) {
+        margin: 0;
+    }
+
+    .launch-btn {
+        display: block;
+        margin: 40px auto 30px;
+    }
+
+    #contact {
+        height: 400px;
+        overflow: hidden;
+    }
+
+    .navigation-wrap li a.view-btn {
+        left: 28%;
+    }
+
+    .impact {
+        font-size: 54px;
+        font-size: 4.5rem;
+    }
+}
+
+
+@media only screen and (min-width: 900px) {
+    .slide-navigation {
+        display: block;
+    }
+
+    .service-title,.contact-title {
+        font-size: 54px;
+        font-size: 3rem;
+    }
+
+    .service-title p {
+        font-size: 30px;
+        font-size: 1.667rem; 
+    }
+
+    .tagline {
+        font-size: 43px;
+        font-size: 2.389rem;
+    }
+
+    .wrap-out {
+        padding: 20px 0 0;
+    }
+
+    .wrap-out h2,.ask {
+        text-align: center;
+    }
+
+    .navigation-wrap li a.view-btn {
+        left: 30%;
+    }
+
+}
+
+@media only screen and (min-width:1000px) {
+    .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul,.home-wrapper {
+        max-width: 948px;
+        max-width: 52.6rem;
+    }
+
+    .work-detail-wrap p,.work-detail-wrap ul {
+        max-width: 800px;
+        max-width: 45rem;
+        margin: 0 auto;
+        text-align: left!important;
+    }
+
+    .work-detail-wrap ul {
+        margin-bottom: 20px;
+    }
+
+    .motto-wrapper,.services {
+        margin: 86px auto 80px;
+    }
+
+    .services-block {
+        width: 40%;
+        margin-right: 156px;
+        margin-bottom: 30px;
+    }
+
+    .services-block:nth-child(even) {
+        margin: 0;
+    }
+
+    .service-wrap {
+        padding: 14% 0;
+    }
+
+    .motto {
+        float: left;
+        width: 400px;
+        font-size: 30px;
+        font-size: 1.667rem;
+        line-height: 1.27;
+        font-style: italic;
+        margin-bottom: 80px;
+    }
+
+    .team-title+ ul {
+        max-width: 800px;
+        max-width: 45rem;
+        padding: 0;
+    }
+    
+    .logo-wrapper ul li {
+        width: 14%;
+    }
+
+    .team-title+ ul li:nth-child(6n) {
+        margin-right: 0;
+    }
+
+
+    .team-title+ ul li {
+        width: 19%;
+    }
+
+    #main article p,#main .headline-wrap{ 
+        text-align: center;
+    }
+
+    .work-detail-wrap ul li {
+        font-size: 19px;
+    }
+
+    .impact-line {
+        text-align: center!important;
+    }
+
+
+    #main .motto-wrapper blockquote {
+        float: right;
+        width: 370px;
+    }
+
+    .work-article-wrap article {
+        width: 30%;
+    }
+
+    /*
+    .work-article-wrap article:nth-child(2n) {
+    margin-right: 35px;
+}
+    */
+
+    .work-article-wrap article:nth-child(2n+1) {
+        margin-right: 35px;
+    }
+
+
+    .work-article-wrap article:nth-child(4n+3) {
+        margin-right: 0;
+    }
+
+    .work-article-wrap article:nth-child(3) {
+        margin-right: 35px;
+    }
+
+    .work-article-wrap article:nth-child(4) {
+        margin-right: 0;
+    }
+
+    .logo-wrapper ul li:nth-child(4n) {
+        margin-right: 23px;
+    }
+
+    .logo-wrapper ul li:nth-child(6n) {
+        margin-right: 0;
+    }
+
+    .navigation-wrap li a.view-btn {
+        left: 32%;
+    }
+
+    .work-article-layout h1 {
+        font-size: 48px;
+    }
+
+    #main .services-block p, .intro {
+        font-size: 15px;
+    }
+
+    #post-nav {
+        margin-top: 60px;
+    }
+    
+    .life-btn {
+        margin-top: 12%;
+    }
+
+}
+
+
+@media screen and (min-width:1100px) {
+    .navigation-wrap li a.view-btn {
+        left: 34%;
+    }
+
+    .work-detail-wrap h2 {
+        font-size: 38px;
+    }
+
+    #main .work-description p,.work-detail-wrap p {
+        font-size: 20px;
+        font-size: 1.111rem;
+        text-align: left!important;
+    }
+
+}
+
+@media screen and (min-width:1300px) {
+    .navigation-wrap li a.view-btn {
+        left: 36%;
+    }
+
+    #contact,#contact iframe {
+        height: 500px!important;
+        overflow: hidden;
+    }
+
+}
+
+@media screen and (min-width:1500px) {
+    .navigation-wrap li a.view-btn {
+        left: 40%;
+    }
+    
+    .life-btn {
+        margin-top: 13.5%; 
+    }
+}
+
+@media screen and (min-width:920px) {
+    .impact {
+        font-size: 54px;
+        font-size: 5.5rem;
+    }
+}
+
+
+@media screen and (min-width:600px) {
+
+    html {
+        font-size: 112.5%;
+    }
+
+    body {
+        font: 300 18px/24px 'Open Sans', sans-serif;
+        font: 300 1rem/1.33 'Open Sans', sans-serif;
+        color: #333;
+    }
+
+    .impact {
+        font-size: 54px;
+        font-size: 3.5rem;
+    }
+
+    .client-wrap {
+        width: 440px;
+    }
+
+    .intro {
+        width: 460px;
+        text-align: center;
+    }
+
+    .team-title {
+        font-size: 43px;
+        font-size: 2.389rem;
+        line-height: 1.372;
+        text-align: center;
+    }
+
+    .quote-wrap-large {
+        background-attachment: fixed;
+    }
+
+    .motto-wrapper blockquote {
+        width: auto;
+    }
+
+    #post-nav {
+        margin-top: 66px;
+    }
+
+    #main {
+        padding: 1% 0 0;
+    }
+
+    .trigger {
+        top: 0;
+    }
+}
+
+
+@media screen and (min-width:768px) and (min-height:400px) {
+    .impact-image {
+        margin-bottom: 34%;
+    }
+
+    .home-wrapper {
+        padding-top: 214px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-height: 700px) {
+    .home-wrapper {
+        padding-top: 124px;
+    }
+
+    .impact-image {
+        margin-bottom: 28%;
+    }
+}
+
+
+@media screen and (max-width:350px) {
+    .impact-image svg {
+        left: 20%;
+    }
+}
+
+@media screen and (max-width:400px) {    
+    .impact {
+        font-size: 1.9rem;
+    }
+}
+
+
+@media screen and (min-width:480px) and (max-width:560px) {
+    .impact-image svg {
+        left: 4%;
+    }
+}
+
+@media screen and (min-width:561px) and (max-width:780px) {
+    .impact-image svg {
+        left: 20%;
+    }
+}
 
 @media screen and (min-width:1100px) {
     .imagefixed-wrap {
