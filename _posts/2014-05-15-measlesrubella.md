@@ -10,7 +10,7 @@ categories: work
 caselink: case/devcheck-case
 link: http://nip.org.np/mrcampaign2012/  
 image:
-  cover: work/rubella.png
+  cover: work/thumbnails/rubella.png
   feature: work/rubella/feature-img.jpg
 ---
 

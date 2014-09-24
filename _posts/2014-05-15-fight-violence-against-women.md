@@ -9,7 +9,7 @@ comments: false
 categories: work
 link: http://fightvaw.org
 image:
-  cover: work/fightvaw.png
+  cover: work/thumbnails/fightvaw.png
   feature: work/fightvaw/feature-img.jpg
 ---
 
