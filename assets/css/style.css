@@ -2533,6 +2533,11 @@ display: none;
     }
 
     .team-title+ ul,.layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
+        max-width: 540px;
+        max-width: 30rem;
+    }
+    
+    .logo-wrapper,.work-article-wrap {
         max-width: 630px;
         max-width: 35rem;
     }
@@ -2616,6 +2621,11 @@ display: none;
 
 @media only screen and (min-width:1000px) {
     .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul,.home-wrapper {
+        max-width: 800px;
+        max-width: 45rem;
+    }
+    
+    .logo-wrapper,.work-article-wrap {
         max-width: 948px;
         max-width: 52.6rem;
     }
