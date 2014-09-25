@@ -2675,7 +2675,8 @@ display: none;
     }
     
     .logo-wrapper ul li {
-        width: 14%;
+        width: 15%;
+        margin-right: 11px;
     }
 
     .team-title+ ul li:nth-child(6n) {
