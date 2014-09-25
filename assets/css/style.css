@@ -1196,7 +1196,6 @@ display: inline-block;
 .logo-wrapper {
     margin: 0 auto;
     overflow: hidden;
-    text-align: center;
 }
 
 .logo-wrapper ul {
@@ -1207,7 +1206,7 @@ display: inline-block;
     list-style: none;
     display: inline-block;
     margin-bottom: 54px;
-    width: 50%;
+    width: 49%;
     text-align: center;
 }
 
