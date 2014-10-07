@@ -2148,13 +2148,12 @@ body.fixed .slide-navigation {
 
 #main {
     padding: 6% 0 0;
+    margin-top: 0;
 }
 
 #post-nav {
     margin-top: 22px;
 }
-
-
 
 #site-nav,.impact-projects {
     background: #fff;
@@ -2329,6 +2328,7 @@ display: none;
 
 .smallnav-wrap .tagline-wrapper {
     padding-top: 60px;
+    margin-top: 0;
 }
 
 .smallnav-wrap .career-wrapper {
@@ -2341,6 +2341,10 @@ display: none;
 
 .smallnav-wrap .home-wrapper {
     padding-top: 100px;
+}
+
+.smallnav-wrap .headline-wrap h1{
+    margin: 0;
 }
 
 .smallnav-wrap .scrolltop {
@@ -2466,6 +2470,22 @@ display: none;
 
     .navigation-wrap li a.view-btn {
         left: 37%;
+    }
+    
+    .work-article-wrap {
+        max-width: 540px;
+        max-width: 30rem;
+    }
+    
+    .work-article-wrap article {
+        display: inline-block;
+        margin-right: 35px;
+        width: 45%;
+        vertical-align: top;
+    }
+
+    .work-article-wrap article:nth-child(2n) {
+        margin-right: 0;
     }
 }
 
@@ -2875,7 +2895,8 @@ display: none;
     }
 
     #main {
-        padding: 1% 0 0;
+        padding: 0;
+        margin-top: 0;
     }
 
     .trigger {
@@ -2901,6 +2922,12 @@ display: none;
 
     .impact-image {
         margin-bottom: 28%;
+    }
+}
+
+@media screen and (min-width:600px) and (max-height: 904px) {
+    .berrybody .impact-info {
+        padding-top: 244px;
     }
 }
 
