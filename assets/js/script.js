@@ -259,6 +259,9 @@ $(document).ready(function(){
 
 
     $('.contact-wrapper').parents('body').addClass('contact');
+    
+    var navheight = $('.navigation-wrapper').height();
+    $('#main').css('padding-top',navheight);
 
     $(window).scroll(function() {
         if ($(document).height() <= ($(window).height() + $(window).scrollTop())) {
@@ -268,6 +271,7 @@ $(document).ready(function(){
             $('.navigation-wrapper').removeClass('bottomfix');
         }
     });
+
 
 
 });

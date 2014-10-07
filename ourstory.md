@@ -175,6 +175,9 @@ Happy Team<span>=</span>Productivity
 * ![Alt text]({{ site.url }}/images/staff/Rakeeb.jpg)
   + Rakeeb Rajbhandari
   + Software Engineer
+* ![Alt text]({{ site.url }}/images/staff/Rakesh.jpg)
+  + Rakesh Pradhan
+  + Trainee
 * ![Alt text]({{ site.url }}/images/staff/Ramesh.jpg)
   + Ramesh KC
   + Trainee
