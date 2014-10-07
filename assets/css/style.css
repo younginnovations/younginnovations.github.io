@@ -1187,6 +1187,7 @@ display: inline-block;
 
 .what-we-upto-wrapper {
     background-image: url(../../images/what-we-upto/what-were-upto_cover.jpg);
+    background-attachment: fixed;
     padding-bottom: 200px;
     margin-top: 91px;
 }
