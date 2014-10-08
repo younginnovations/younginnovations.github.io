@@ -3103,17 +3103,17 @@ display: none;
         }
 
         .see-work {
-            background: url(../../images/pages/button-icon@2x.png) no-repeat 90%;
+            background: url(../../images/pages/button-icon@2x.png) no-repeat 96%;
             background-size: 18px; 
         }
 
         .contact-btn .see-work {
-            background: url(../../images/pages/contact-icon@2x.png) no-repeat 230px;
+            background: url(../../images/pages/contact-icon@2x.png) no-repeat 96%;
             background-size: 17px;
         }
 
         .contact-btn .see-work:hover {
-            background: url(../../images/pages/button-icon@2x.png) no-repeat 230px;
+            background: url(../../images/pages/button-icon@2x.png) no-repeat 96%;
         }
 
         .impact-title {
