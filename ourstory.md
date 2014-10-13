@@ -103,109 +103,109 @@ Happy Team<span>=</span>Productivity
 </div>
 
 
-* ![Alt text]({{ site.url }}/images/staff/Aayushree.jpg)
+* ![Aayushree Joshi]({{ site.url }}/images/staff/Aayushree.jpg)
   + Aayushree Joshi
   + Jr. Officer, Community Innovations
-* ![Alt text]({{ site.url }}/images/staff/Achyut.jpg)
+* ![Achyut Devkota]({{ site.url }}/images/staff/Achyut.jpg)
   + Achyut Devkota
   + System Engineer
-* ![Alt text]({{ site.url }}/images/staff/Alina.jpg)
+* ![Alina Acharya]({{ site.url }}/images/staff/Alina.jpg)
   + Alina Acharya
   + Junior Data Analyst
-* ![Alt text]({{ site.url }}/images/staff/Ananda.jpg)
+* ![Ananda Subedi]({{ site.url }}/images/staff/Ananda.jpg)
   + Ananda Subedi
   + Software Developer
-* ![Alt text]({{ site.url }}/images/staff/Anjan.jpg)
+* ![Anjan Shrestha]({{ site.url }}/images/staff/Anjan.jpg)
   + Anjan Shrestha
   + VP, Product Innovations
-* ![Alt text]({{ site.url }}/images/staff/Anjesh.jpg)
+* ![Anjesh Tuladhar]({{ site.url }}/images/staff/Anjesh.jpg)
   + Anjesh Tuladhar
   + Chief Innovations Officer
-* ![Alt text]({{ site.url }}/images/staff/Anubhuti.jpg)
+* ![Anubhuti Poudyal]({{ site.url }}/images/staff/Anubhuti.jpg)
   + Anubhuti Poudyal
   + Communications Consultant
-* ![Alt text]({{ site.url }}/images/staff/Ashley.jpg)
+* ![Ashley Dhakal]({{ site.url }}/images/staff/Ashley.jpg)
   + Ashley Dhakal
   + Product Manager
-* ![Alt text]({{ site.url }}/images/staff/Avash.jpg)
+* ![Avash Rayamajhi]({{ site.url }}/images/staff/Avash.jpg)
   + Avash Rayamajhi
   + Trainee
-* ![Alt text]({{ site.url }}/images/staff/Bibek.jpg)
+* ![Bibek Shrestha]({{ site.url }}/images/staff/Bibek.jpg)
   + Bibek Shrestha
   + Senior Developer
-* ![Alt text]({{ site.url }}/images/staff/Bibhusan.jpg)
+* ![Bibhusan Bista]({{ site.url }}/images/staff/Bibhusan.jpg)
   + Bibhusan Bista
   + CEO
-* ![Alt text]({{ site.url }}/images/staff/Ravi.jpg)
+* ![Bir Bahadur Putuwal]({{ site.url }}/images/staff/Ravi.jpg)
   + Bir Bahadur Putuwal
   + Office Aid
-* ![Alt text]({{ site.url }}/images/staff/Deepak.jpg)
+* ![Deepak Kumar Shah]({{ site.url }}/images/staff/Deepak.jpg)
   + Deepak Kumar Shah
   + Trainee
-* ![Alt text]({{ site.url }}/images/staff/Geshan.jpg)
+* ![Geshan Manandhar]({{ site.url }}/images/staff/Geshan.jpg)
   + Geshan Manandhar
   + Senior Developer
-* ![Alt text]({{ site.url }}/images/staff/Julian.jpg)
+* ![Julian Raj Manandhar]({{ site.url }}/images/staff/Julian.jpg)
   + Julian Raj Manandhar
   + Software Engineer
-* ![Alt text]({{ site.url }}/images/staff/Kopila.jpg)
+* ![Kopila Putuwal]({{ site.url }}/images/staff/Kopila.jpg)
   + Kopila Putuwal
   + Office Aid
-* ![Alt text]({{ site.url }}/images/staff/Manoj.jpg)
+* ![Manoj Byanjankar]({{ site.url }}/images/staff/Manoj.jpg)
   + Manoj Byanjankar
   + Software Engineer
-* ![Alt text]({{ site.url }}/images/staff/Nirajan.jpg)
+* ![Nirajan Panthee]({{ site.url }}/images/staff/Nirajan.jpg)
   + Nirajan Panthee
   + Sr. Software Engineer
-* ![Alt text]({{ site.url }}/images/staff/Prashant.jpg)
+* ![Prashant Shrestha]({{ site.url }}/images/staff/Prashant.jpg)
   + Prashant Shrestha
   + VP, Business and Technology Innovations
-* ![Alt text]({{ site.url }}/images/staff/Prasanta.jpg)
+* ![Prashanta Rimal]({{ site.url }}/images/staff/Prasanta.jpg)
   + Prashanta Rimal
   + Administration and Finance Assistant
-* ![Alt text]({{ site.url }}/images/staff/Pratiksha.jpg)
+* ![Pratiksha Rayamajhi]({{ site.url }}/images/staff/Pratiksha.jpg)
   + Pratiksha Rayamajhi
   + Operations Manager
-* ![Alt text]({{ site.url }}/images/staff/Prawesh.jpg)
+* ![Prawesh Shrestha]({{ site.url }}/images/staff/Prawesh.jpg)
   + Prawesh Shrestha
   + Manager, Community Innovations
-* ![Alt text]({{ site.url }}/images/staff/Punya.jpg)
+* ![Punya Ruchal]({{ site.url }}/images/staff/Punya.jpg)
   + Punya Ruchal
   + Sr. Web Developer
-* ![Alt text]({{ site.url }}/images/staff/Rakeeb.jpg)
+* ![Rakeeb Rajbhandari]({{ site.url }}/images/staff/Rakeeb.jpg)
   + Rakeeb Rajbhandari
   + Software Engineer
-* ![Alt text]({{ site.url }}/images/staff/Rakesh.jpg)
+* ![Rakesh Pradhan]({{ site.url }}/images/staff/Rakesh.jpg)
   + Rakesh Pradhan
   + Trainee
-* ![Alt text]({{ site.url }}/images/staff/Ramesh.jpg)
+* ![Ramesh KC]({{ site.url }}/images/staff/Ramesh.jpg)
   + Ramesh KC
   + Trainee
-* ![Alt text]({{ site.url }}/images/staff/Rishav.jpg)
+* ![Rishav Malla]({{ site.url }}/images/staff/Rishav.jpg)
   + Rishav Malla
   + Trainee
-* ![Alt text]({{ site.url }}/images/staff/Rohit.jpg)
+* ![Rohit Shrestha]({{ site.url }}/images/staff/Rohit.jpg)
   + Rohit Shrestha
   + UX Developer
-* ![Alt text]({{ site.url }}/images/staff/Santosh.jpg)
+* ![Santosh Neupane]({{ site.url }}/images/staff/Santosh.jpg)
   + Santosh Neupane
   + System Administrator
-* ![Alt text]({{ site.url }}/images/staff/Saugat.jpg)
+* ![Saugat Acharya]({{ site.url }}/images/staff/Saugat.jpg)
   + Saugat Acharya
   + Software Engineer
-* ![Alt text]({{ site.url }}/images/staff/Sita.jpg)
+* ![Sita Prajapati]({{ site.url }}/images/staff/Sita.jpg)
   + Sita Prajapati
   + Sr. Software Engineer
-* ![Alt text]({{ site.url }}/images/staff/Sujata.jpg)
+* ![Sujata Shrestha]({{ site.url }}/images/staff/Sujata.jpg)
   + Sujata Shrestha
   + Open Data Coordinator
-* ![Alt text]({{ site.url }}/images/staff/Suman.jpg)
+* ![Suman Humagain]({{ site.url }}/images/staff/Suman.jpg)
   + Suman Humagain
   + Sr. Software Engineer
-* ![Alt text]({{ site.url }}/images/staff/Sweta.jpg)
+* ![Sweta Shrestha]({{ site.url }}/images/staff/Sweta.jpg)
   + Sweta Shrestha
   + Sr. UX developer
-* ![Alt text]({{ site.url }}/images/staff/Tribhuvan.jpg)
+* ![Tribhuvan Raj Pokharel]({{ site.url }}/images/staff/Tribhuvan.jpg)
   + Tribhuvan Raj Pokharel
   + Software Engineer
 
