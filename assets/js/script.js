@@ -256,6 +256,25 @@ $(document).ready(function(){
         $('html, body').animate({scrollTop : 0},500);
         return false;
     });
+    
+    
+    function goToByScroll(id){
+        // Reove "link" from the ID
+        id = id.replace("link", "");
+        // Scroll
+        $('html,body').animate({
+            scrollTop: $("#"+id).offset().top},
+                               'slow');
+    }
+
+    $(".intern-btn").click(function(e) {
+        // Prevent a page reload when a link is pressed
+//        e.preventDefault();
+        // Call the scroll function
+        goToByScroll($(this).attr("id"));
+
+    });
+
 
 
     $('.contact-wrapper').parents('body').addClass('contact');

@@ -2488,7 +2488,7 @@ display: none;
 } 
 
 .internship-section {
-    background: url(../../images/career/intern-img.png) no-repeat center/cover;
+    background: #F7836D url(../../images/career/intern-img.png) no-repeat center/cover;
     padding-top: 110px;
     position: relative;
 }
@@ -2825,6 +2825,10 @@ display: none;
         font-size: 54px;
         font-size: 4.5rem;
     }
+    
+    .internship-section {
+        background-size: auto;
+    }
 
 
 }
@@ -3019,7 +3023,6 @@ display: none;
     }
     
     .internship-section {
-        background-position: 0 0;
         padding-top: 280px;
     }
 
