@@ -56,13 +56,14 @@ comments: true
             <h3>How to Apply?</h3>
             <ul>
             <li>Upload your CV anywhere (could be dropbox, google drive)</li>
-            <li>Complete one of the challenges <a href="#">here</a></li> 
-            <li>Upload your work in <a href="#">github</a> (don't know what github is, learn and do it)</li>
-            <li><a href="#">Complete this form</a></li>
+            <li>Complete one of the challenges <a href="https://github.com/younginnovations/problem-statements" target="_blank">here</a></li> 
+            <li>Upload your work in <a href="http://github.com" target="_blank">github</a> (don't know what github is, learn)</li>
+            <li><a href="https://docs.google.com/a/yipl.com.np/forms/d/1BnD4ZOu5c4rFtVT_OP5rITL0z3bMq6uVLEI0I6qSR3U/viewform" target="_blank">Complete this form</a> by <strong>November 27, 2014</strong></li>
+            <li>We'll get back to you soon :)</li>
             </ul>
             </div>
             <div class="more-info">
-            <div class="detail-mail"><strong>We will get back to you with more details.</strong> For queries, shoot us an email at <br/><a href="#">internship@yipl.com.np</a></div>  
+            <div class="detail-mail">For queries, shoot us an email at <br/><a href="#">internship@yipl.com.np</a></div>  
                 <p>We provide free food (not extraordinary but something we eat ourselves) and minimum transportation cost.</p>
             </div>
     </div>
