@@ -29,7 +29,9 @@ comments: true
 <div class="internship-section" id="internship">
     <div class="intern-title">
         Internship at <br/>YoungInnovations
+        <div class="days-left"><span>5</span><strong>days</strong> remaining to apply!</div>
     </div>
+    
 </div> 
 
 <div class="intern-info-wrap">

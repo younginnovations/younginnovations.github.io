@@ -516,10 +516,12 @@ li:last-child .impact-project-title {
 
 .nav ul li a {
     font-size: 22px;
-}
-
-.nav ul li a {
     padding: 0 20px;
+    width: 100%;
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .nav ul li a:hover {
@@ -528,6 +530,35 @@ li:last-child .impact-project-title {
 
 .nav ul li a span {
     color: #c2c2c2;
+}
+
+.career-num {
+    float: left;
+}
+
+.career-menu {
+    float: left;
+    margin-left: 16px;
+}
+
+.sub-menu {
+    float: left;
+    line-height: normal;
+    font-size: 18px;
+    background: #F26522;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    padding: 0 15px;  
+    line-height: 30px;
+    margin-left: 16px;
+    font-size: 14px;
+    color: #fff!important;
+    margin-top: 49px;
+}
+
+.nav ul li a span.sub-menu span {
+    color: #fff;
 }
 
 .impact-wrap {
@@ -2502,6 +2533,33 @@ display: none;
     color: #fff;
 }
 
+.days-left {
+    font-size: 18px;
+    color: rgba(255,255,255,0.5);
+    width: 248px;
+    margin: 10px auto 0;
+    font-style: italic;
+    font-size: 18px;
+    line-height: 41px;
+}
+
+.days-left strong {
+    color: #fff;
+}
+
+.days-left span {
+    float: left;
+    background: #fff;
+    color: #5A8ED5;
+    width: 41px;
+    height: 41px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    line-height: 41px;
+    font-weight: bold;
+}
+
 .internship-section:after {
     position: absolute;
     content: "";
@@ -2698,7 +2756,7 @@ display: none;
 
     .intern-title {
         font-size: 40px;
-        padding: 36px 0 46px;
+        padding: 26px 0;
     }
 }
 
@@ -2760,7 +2818,7 @@ display: none;
     li:nth-child(3n) .impact-project-title {
         border-bottom: 0;
     } 
-    
+
     .more-info br {
         display: block;
     }
@@ -2825,7 +2883,7 @@ display: none;
         font-size: 54px;
         font-size: 4.5rem;
     }
-    
+
     .internship-section {
         background-size: auto;
     }
@@ -3000,11 +3058,11 @@ display: none;
         width: 260px;
         margin-right: 45px;
     }
-    
+
     .learn-block {
         margin-right: 0;
     }
-    
+
     .process-block {
         margin-left: 35%;
         margin-top: -19%;
@@ -3017,11 +3075,11 @@ display: none;
     .more-info {
         text-align: center;
     }
-    
+
     .inner-intern-info-wrap {
         max-width: 880px;
     }
-    
+
     .internship-section {
         padding-top: 280px;
     }
@@ -3374,3 +3432,48 @@ display: none;
 
 
     }
+
+@media screen and (max-width: 862px) {
+    
+    .sub-menu em, .sub-menu span  {
+        display: none;
+    }
+    
+}
+
+@media screen and (max-width: 682px) {
+
+    .sub-menu {
+        margin-top: -31px;
+        margin-left: 62px;
+    }
+    
+    .nav ul li a {
+        padding-bottom: 8px;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    .sub-menu {
+        margin-top: -22px;
+        margin-left: 44px;
+    }
+
+    .nav ul li a {
+        padding-bottom: 8px;
+    }
+    
+    .nav ul li:nth-child(4) a {
+        padding-bottom: 16px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .sub-menu {
+        margin-top: -18px;
+        margin-left: 34px;
+    }
+
+
+}
