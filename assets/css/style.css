@@ -516,7 +516,7 @@ li:last-child .impact-project-title {
 
 .nav ul li a {
     font-size: 22px;
-    padding: 0 20px;
+    padding: 0 16px;
     width: 100%;
     float: left;
     -webkit-box-sizing: border-box;
@@ -544,7 +544,6 @@ li:last-child .impact-project-title {
 .sub-menu {
     float: left;
     line-height: normal;
-    font-size: 18px;
     background: #F26522;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -557,7 +556,13 @@ li:last-child .impact-project-title {
     margin-top: 49px;
 }
 
-.nav ul li a span.sub-menu span {
+.nav ul li .sub-menu a {
+    line-height: 30px;
+    font-size: 14px;
+    color: #fff;
+}
+
+.nav ul li .sub-menu span {
     color: #fff;
 }
 
@@ -2541,6 +2546,7 @@ display: none;
     font-style: italic;
     font-size: 18px;
     line-height: 41px;
+    overflow: hidden;
 }
 
 .days-left strong {
