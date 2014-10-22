@@ -497,6 +497,7 @@ li:last-child .impact-project-title {
     box-sizing: border-box;
     border-bottom: 1px solid #eee;
     border-right: 1px solid #eee;
+    position: relative;
 }
 
 #site-nav li:last-child {
@@ -541,25 +542,27 @@ li:last-child .impact-project-title {
     margin-left: 16px;
 }
 
-.sub-menu {
+.nav ul li .sub-menu {
     float: left;
     line-height: normal;
     background: #F26522;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
-    padding: 0 15px;  
+    padding: 0 15px;
     line-height: 30px;
     margin-left: 16px;
     font-size: 14px;
     color: #fff!important;
     margin-top: 49px;
+    position: absolute;
+    width: 190px;
+    left: 202px;
+    padding-bottom: 0!important;
 }
 
-.nav ul li .sub-menu a {
-    line-height: 30px;
-    font-size: 14px;
-    color: #fff;
+.nav ul li .sub-menu:hover {
+    background: #D95213;
 }
 
 .nav ul li .sub-menu span {
@@ -2500,13 +2503,13 @@ display: none;
 /*internship*/
 
 .intern-btn {
-    margin: 84px 0 0;
     border-color: #5187C7;
-    margin-top: 84px;
+    margin: 84px auto 0;
     border-color: #5187C7;
     width: 264px;
     height: 48px;
     line-height: 48px;
+    display: block;
 }
 
 .intern-btn .see-work {
@@ -3440,46 +3443,54 @@ display: none;
     }
 
 @media screen and (max-width: 862px) {
-    
+
+    .nav ul li .sub-menu {
+        width: 94px;
+    }
+
     .sub-menu em, .sub-menu span  {
         display: none;
     }
-    
+
 }
 
-@media screen and (max-width: 682px) {
-
-    .sub-menu {
-        margin-top: -31px;
-        margin-left: 62px;
+@media screen and (max-width: 660px) {
+    .nav ul li .sub-menu {
+        left: 64px;
+        top: 34px;
     }
-    
+
     .nav ul li a {
         padding-bottom: 8px;
     }
 
+}
+
+@media screen and (max-width: 600px) {
+    .nav ul li .sub-menu {
+        left: 60px;
+        top: 28px;
+    }
 }
 
 @media screen and (max-width: 500px) {
-    .sub-menu {
-        margin-top: -22px;
-        margin-left: 44px;
-    }
-
-    .nav ul li a {
-        padding-bottom: 8px;
+    .nav ul li .sub-menu {
+        left: 48px;
+        top: 10px;
     }
     
-    .nav ul li:nth-child(4) a {
-        padding-bottom: 16px;
+    .nav ul li:nth-child(3) a,.nav ul li:nth-child(4n) a {
+        padding-bottom: 18px;
     }
 }
 
-@media screen and (max-width: 320px) {
-    .sub-menu {
-        margin-top: -18px;
-        margin-left: 34px;
+@media screen and (max-width: 380px) {
+    .nav ul li .sub-menu {
+        left: 41px;
+        top: 0;
     }
-
-
+    
+    .nav ul li:nth-child(3) a,.nav ul li:nth-child(4n) a {
+        padding-bottom: 22px;
+    }
 }

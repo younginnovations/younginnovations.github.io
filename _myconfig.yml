@@ -40,7 +40,7 @@ links:
     url: /ourstory/
   - title: <span>02</span> work
     url: /work/
-  - title: <span class="career-num">03</span> <div class="career-menu">careers</div><span class="sub-menu">internship <span>- </span><em><span id="note" class="note"></span>days remain</em></span>
+  - title: <span class="career-num">03</span> <div class="career-menu">careers</div><a href="/careers/#internship" class="sub-menu">internship <span>- </span><em><span id="note" class="note"></span>days remain</em></a>
     url: /careers/  
   - title: <span>04</span> contact
     url: /contact/
