@@ -3262,6 +3262,11 @@ display: none;
     }
 }
 
+@media only screen and (max-width: 560px) {
+    .days-left {
+        width: auto;
+    }
+
 
 @media screen and (min-width:480px) and (max-width:560px) {
     .impact-image svg {
