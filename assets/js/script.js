@@ -308,10 +308,10 @@ $(document).ready(function(){
 
             var message = "";
 
-            message += days  + ( days==1 ? '':' ' );
-//            message += hours + " hour" + ( hours==1 ? '':'s' ) + ", ";
-//            message += minutes + " minute" + ( minutes==1 ? '':'s' ) + " and ";
-//            message += seconds + " second" + ( seconds==1 ? '':'s' ) + " <br />";
+//            message += days  + ( days==1 ? '':' ' );
+            message += "<span class='time'>" + hours + "</span>" + "hour" + ( hours==1 ? '':'s' ) + " ";
+            message += "<span class='time'>" + minutes + "</span>" + "minute" + ( minutes==1 ? '':'s' ) + " ";
+//            message += seconds + " second" + ( seconds==1 ? '':'s' ) + " ";"
 
 //            if(newYear){
 //                message += " remain";
@@ -323,6 +323,15 @@ $(document).ready(function(){
             note.html(message);
         }
     });
+    
+
+    $( ".nav ul li .sub-menu" ).hover(
+        function() {
+            $(this).parent('li').addClass('subhover');
+        }, function() {
+            $(this).parent('li').removeClass('subhover');
+        }
+    );
     
 
 

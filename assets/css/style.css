@@ -526,7 +526,7 @@ li:last-child .impact-project-title {
 }
 
 .nav ul li a:hover {
-    background: #eee;
+    background: #eee!important;
 }
 
 .nav ul li a span {
@@ -556,17 +556,27 @@ li:last-child .impact-project-title {
     color: #fff!important;
     margin-top: 49px;
     position: absolute;
-    width: 190px;
+    width: auto;
+    padding: 0 14px;
     left: 202px;
     padding-bottom: 0!important;
 }
 
-.nav ul li .sub-menu:hover {
-    background: #D95213;
+.time {
+    padding-right: 3px;
 }
+
+.nav ul li .sub-menu:hover {
+    background: #D95213!important;
+}
+
+.subhover {
+    background: #eee;
+} 
 
 .nav ul li .sub-menu span {
     color: #fff;
+    display: inline-block;
 }
 
 .impact-wrap {
@@ -2544,7 +2554,7 @@ display: none;
 .days-left {
     font-size: 18px;
     color: rgba(255,255,255,0.5);
-    width: 248px;
+    width: 378px;
     margin: 10px auto 0;
     font-style: italic;
     font-size: 18px;
@@ -2556,8 +2566,7 @@ display: none;
     color: #fff;
 }
 
-.days-left span {
-    float: left;
+.days-left .time {
     background: #fff;
     color: #5A8ED5;
     width: 41px;
@@ -2567,6 +2576,9 @@ display: none;
     border-radius: 50%;
     line-height: 41px;
     font-weight: bold;
+    display: inline-block;
+    padding: 0;
+    margin: 0 3px;
 }
 
 .internship-section:after {
@@ -3442,13 +3454,9 @@ display: none;
 
     }
 
-@media screen and (max-width: 862px) {
+@media screen and (max-width: 1180px) {
 
-    .nav ul li .sub-menu {
-        width: 94px;
-    }
-
-    .sub-menu em, .sub-menu span  {
+    .nav ul li .sub-menu em, .nav ul li .sub-menu span  {
         display: none;
     }
 
