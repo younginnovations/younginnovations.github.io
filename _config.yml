@@ -40,13 +40,13 @@ links:
     url: /ourstory/
   - title: <span>02</span> work
     url: /work/
-  - title: <span>03</span> careers
+  - title: <span class="career-num">03</span> <div class="career-menu">careers</div><a href="/careers/#internship" class="sub-menu">internship <span>- </span><em><span id="note" class="note"></span>days remain</em></a>
     url: /careers/  
   - title: <span>04</span> contact
     url: /contact/
   - title: <span>05</span> what we're up to
     url: /what-we-upto/
-
+    
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kathmandu
 future:      true
