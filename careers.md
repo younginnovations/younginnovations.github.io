@@ -29,12 +29,29 @@ comments: true
 <div class="internship-section" id="internship">
     <div class="intern-title">
         Internship at <br/>YoungInnovations
-        <div class="days-left"><span id="remain-note" class="note"></span>remaining to apply!</div>
+        <div class="days-left"><span id="remain-note" class="note"></span><span class="remaining">remaining to apply!</span></div>
+<!--
+        <div class="internship-close">
+        <p>Thank you to those who have applied.</p>
+        <p>We have closed the internship application for now.</p>
+        </div>
+-->
     </div>
     
 </div> 
 
 <div class="intern-info-wrap">
+<!--
+<div class="internship-close-info layout inner-intern-info-wrap">
+      We will notify you about next internship programme through these communities:
+      <ul>
+          <li>Mobile Nepal Google Groups</li>
+          <li>Twitter</li>
+          <li>Facebook</li>
+          <li>Google +</li>
+      </ul>
+  </div>
+-->
    <div class="inner-intern-info-wrap layout">
         <div class="intern-block apply-block">
             <h3>Who can apply?</h3>

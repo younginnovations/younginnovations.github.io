@@ -307,20 +307,25 @@ $(document).ready(function(){
         callback	: function(days, hours, minutes, seconds){
 
             var message = "";
+            var endMessage = "Thank you to those who have applied.We have closed the internship application for now."
 
 //            message += days  + ( days==1 ? '':' ' );
             message += "<span class='time'>" + hours + "</span>" + "hour" + ( hours==1 ? '':'s' ) + " ";
             message += "<span class='time'>" + minutes + "</span>" + "minute" + ( minutes==1 ? '':'s' ) + " ";
 //            message += seconds + " second" + ( seconds==1 ? '':'s' ) + " ";"
 
-//            if(newYear){
-//                message += " remain";
-//            }
-//            else {
-//                message += " left";
-//            }
+            if(newYear){
+                message += " ";
+                note.html(message);
+            }
+            else {
+                message += " ";
+                note.html(endMessage);
+                $('.days-left').addClass('endnote');
+                $('.remaining').hide()
+            }
 
-            note.html(message);
+           
         }
     });
     
