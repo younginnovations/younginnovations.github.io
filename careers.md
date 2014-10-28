@@ -38,14 +38,7 @@ comments: true
 <div class="internship-close-info layout">
 We will notify you about next internship programme through these mediums:
     <ul>
-        <label class="mobilenepal-logo">Mobile Nepal</label>
-        <li><a href="https://plus.google.com/u/1/117741925295152259069" target="_blank">Google Groups</a></li>
-        <li><a href="https://twitter.com/mobilenepal" target="_blank">Twitter</a></li>
-        <li><a href="http://www.facebook.com/pages/Mobile-Social-Networking-Nepal/169545916438167" target="_blank">Facebook</a></li>
-    </ul>
-    <ul>
-        <label class="yipl-logo">Young Innovations</label>
-        <li><a href="https://twitter.com/yipl" target="_blank">Twitter</a></li>
+        <li class="twitter"><a href="https://twitter.com/yipl" target="_blank">Twitter</a></li>
         <li><a href="https://www.facebook.com/pages/YoungInnovations/95147447293" target="_blank">Facebook</a></li>
     </ul>
 </div>

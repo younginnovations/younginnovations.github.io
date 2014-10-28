@@ -2568,17 +2568,11 @@ display: none;
 
 .internship-close-info {
     font-size: 16px;
+    text-align: center;
 }
 
 .internship-close-info ul {
-    float: left;
-    padding: 20px 0 0;
-    margin: 0;
-    width: 70%;
-}
 
-.internship-close-info ul:last-child {
-    width: 30%;
 }
 
 .internship-close-info label {
@@ -2600,32 +2594,31 @@ display: none;
 }
 
 .internship-close-info ul li {
-    float: left;
+    display: inline-block;
     list-style: none;
-    position: relative;
-}
-
-.internship-close-info ul li:before {
-    position: absolute;
-    top: 2px;
-    left: 4px;
-    content: " | ";
-    font-size: 13px;
-}
-
-.internship-close-info ul li:first-of-type:before {
-    display: none;
+    margin-right: 10px;
 }
 
 .internship-close-info ul li a {
     text-decoration: none;
     border-bottom: 0;
-    font-size: 14px;
-    margin-left: 15px;
+    background: url(../../images/career/social-icons.png) no-repeat 0 0;
+    display: block;
+    text-indent: -9999px;
+    width: 41px;
+    height: 41px;
 }
 
-.internship-close-info ul li:first-of-type a {
-    margin-left: 0;
+.internship-close-info ul li a:hover {
+    background-position: 0 -60px;
+}
+
+.internship-close-info ul li.twitter a {
+    background-position: -97px 0;
+}
+
+.internship-close-info ul li.twitter a:hover {
+    background-position: -97px -60px;
 }
 
 .days-left strong {
