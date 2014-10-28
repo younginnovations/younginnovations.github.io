@@ -30,12 +30,6 @@ comments: true
     <div class="intern-title">
         Internship at <br/>YoungInnovations
         <div class="days-left"><span id="remain-note" class="note"></span><span class="remaining">remaining to apply!</span></div>
-<!--
-        <div class="internship-close">
-        <p>Thank you to those who have applied.</p>
-        <p>We have closed the internship application for now.</p>
-        </div>
--->
     </div>
     
 </div> 

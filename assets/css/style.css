@@ -2544,7 +2544,7 @@ display: none;
 
 .intern-title {
     background: rgba(74,144,226,0.9);
-    padding: 10px 0;
+    padding: 10px 0 16px;
     text-align: center;
     font-size: 30px;
     font-weight: 300;
@@ -3477,36 +3477,6 @@ display: none;
         display: none;
     }
 
-}
-
-@media screen and (max-width: 660px) {
-    .nav ul li .sub-menu {
-        left: 64px;
-        top: 34px;
-    }
-
-    .nav ul li a {
-        padding-bottom: 8px;
-    }
-
-}
-
-@media screen and (max-width: 600px) {
-    .nav ul li .sub-menu {
-        left: 60px;
-        top: 28px;
-    }
-}
-
-@media screen and (max-width: 500px) {
-    .nav ul li .sub-menu {
-        left: 48px;
-        top: 10px;
-    }
-    
-    .nav ul li:nth-child(3) a,.nav ul li:nth-child(4n) a {
-        padding-bottom: 18px;
-    }
 }
 
 @media screen and (max-width: 380px) {
