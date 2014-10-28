@@ -2570,6 +2570,64 @@ display: none;
     font-size: 16px;
 }
 
+.internship-close-info ul {
+    float: left;
+    padding: 20px 0 0;
+    margin: 0;
+    width: 70%;
+}
+
+.internship-close-info ul:last-child {
+    width: 30%;
+}
+
+.internship-close-info label {
+    display: block;
+    text-indent: -9999px;
+    margin-bottom: 10px;
+} 
+
+.mobilenepal-logo {
+    background: url(../../images/career/mobilenepal-logo.png) no-repeat 0 0;
+    width: 236px;
+    height: 43px;
+}
+
+.yipl-logo {
+    background: url(../../images/career/yipl-logo.png) no-repeat 0 0;
+    width: 149px;
+    height: 43px;
+}
+
+.internship-close-info ul li {
+    float: left;
+    list-style: none;
+    position: relative;
+}
+
+.internship-close-info ul li:before {
+    position: absolute;
+    top: 2px;
+    left: 4px;
+    content: " | ";
+    font-size: 13px;
+}
+
+.internship-close-info ul li:first-of-type:before {
+    display: none;
+}
+
+.internship-close-info ul li a {
+    text-decoration: none;
+    border-bottom: 0;
+    font-size: 14px;
+    margin-left: 15px;
+}
+
+.internship-close-info ul li:first-of-type a {
+    margin-left: 0;
+}
+
 .days-left strong {
     color: #fff;
 }
@@ -2606,7 +2664,8 @@ display: none;
 
 .intern-info-wrap {
     background: #fff;
-    padding-top: 60px;
+    padding: 60px 0 40px;
+    overflow: hidden;
 }
 
 .intern-block {
@@ -2693,6 +2752,7 @@ display: none;
     font-style: italic;
     line-height: 24px;
 }
+
 
 @media only screen and (min-width: 480px) {
 
@@ -2784,7 +2844,7 @@ display: none;
     }
 
     .internship-section {
-        padding-top: 200px;
+        padding-top: 234px;
     }
 
     .intern-title {
@@ -3114,7 +3174,7 @@ display: none;
     }
 
     .internship-section {
-        padding-top: 280px;
+        padding-top: 234px;
     }
 
 }
