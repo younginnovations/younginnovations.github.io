@@ -15,7 +15,6 @@ comments: true
     <div class="career-info">
         <div class="layout">
         We don't have any openings now. Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
-        <a href="#internship" class="button work-btn intern-btn" id="internshiplink"><span class="see-work"> We are open for Internship </span><span class="progress"></span></a>
         </div>
     </div>
 </div>
