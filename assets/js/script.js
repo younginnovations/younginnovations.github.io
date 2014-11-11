@@ -338,6 +338,8 @@ $(document).ready(function(){
         }
     );
     
+    $('.error-wrapper img').plaxify();
+    $.plax.enable();
 
 
 });
