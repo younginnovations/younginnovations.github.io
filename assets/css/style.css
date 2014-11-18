@@ -2512,43 +2512,50 @@ display: none;
 
 /*internship*/
 
-.intern-btn {
-    border-color: #5187C7;
-    margin: 84px auto 0;
-    border-color: #5187C7;
-    width: 264px;
-    height: 48px;
-    line-height: 48px;
-    display: block;
-}
-
-.intern-btn .see-work {
-    background: transparent;
-    font-size: 18px;
-    font-weight: 300;
-}
-
-.intern-btn .progress {
+.dev-btn {
     background: #5187C7;
+    margin: 84px auto 0;
+    width: 328px;
+    height: 68px;
+    line-height: 68px;
+    display: block;
+    color: #fff!important;
 }
 
-.intern-btn:hover .see-work {
-    color: #fff;
-} 
-
-.internship-section {
-    background: #F7836D url(../../images/career/intern-img.png) no-repeat center/cover;
-    padding-top: 110px;
+.developer-section {
+    background: #65E2EF;
+    padding-top: 44px;
+    margin-top: 10px;
     position: relative;
 }
 
-.intern-title {
+.develop-img {
+    background: url(../../images/career/dev-img.png) no-repeat center;
+    padding-top: 186px;
+    position: relative;
+    z-index: 1;
+}
+
+.develop-title {
     background: rgba(74,144,226,0.9);
-    padding: 10px 0 16px;
+    padding: 70px 0 62px;
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 300;
     color: #fff;
+    line-height: 55px;
+    position: relative;
+    margin-top: -24px;
+}
+
+.develop-title:before {
+    background: #3D79BF;
+    height: 10px;
+    position: absolute;
+    content: " ";
+    top: 24px;
+    left: 0;
+    width: 100%;
 }
 
 .days-left {
@@ -2562,24 +2569,6 @@ display: none;
     overflow: hidden;
 }
 
-.internship-close p {
-    font-size: 16px;
-}
-
-.internship-close-info {
-    font-size: 16px;
-    text-align: center;
-}
-
-.internship-close-info ul {
-
-}
-
-.internship-close-info label {
-    display: block;
-    text-indent: -9999px;
-    margin-bottom: 10px;
-} 
 
 .mobilenepal-logo {
     background: url(../../images/career/mobilenepal-logo.png) no-repeat 0 0;
@@ -2591,34 +2580,6 @@ display: none;
     background: url(../../images/career/yipl-logo.png) no-repeat 0 0;
     width: 149px;
     height: 43px;
-}
-
-.internship-close-info ul li {
-    display: inline-block;
-    list-style: none;
-    margin-right: 10px;
-}
-
-.internship-close-info ul li a {
-    text-decoration: none;
-    border-bottom: 0;
-    background: url(../../images/career/social-icons.png) no-repeat 0 0;
-    display: block;
-    text-indent: -9999px;
-    width: 41px;
-    height: 41px;
-}
-
-.internship-close-info ul li a:hover {
-    background-position: 0 -60px;
-}
-
-.internship-close-info ul li.twitter a {
-    background-position: -97px 0;
-}
-
-.internship-close-info ul li.twitter a:hover {
-    background-position: -97px -60px;
 }
 
 .days-left strong {
@@ -2644,7 +2605,7 @@ display: none;
     margin: 0 3px;
 }
 
-.internship-section:after {
+.developer-section:after {
     position: absolute;
     content: "";
     bottom: -21px;
@@ -2655,67 +2616,112 @@ display: none;
     border-left: 10px solid transparent;
 } 
 
-.intern-info-wrap {
+.developer-info-wrap {
     background: #fff;
     padding: 60px 0 40px;
     overflow: hidden;
 }
 
-.intern-block {
-    display: inline-block;
-    vertical-align: top;
-    margin-bottom: 50px;
-    font-size: 15px;
-    font-weight: 300;
-    line-height: 23px;
+.developer-wrap-block {
+    overflow: hidden;
 }
 
-.intern-block h3 {
+.developer-block {
+    float: left;
+    margin-bottom: 50px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 23px;
+    width: 100%;
+}
+
+.developer-block h3 {
     position: relative;
     font-size: 21px;
     line-height: 50px;
     padding-left: 56px;
     margin: 0 0 10px;
+    font-weight: normal;
 }
 
-.intern-block h3:before {
+.developer-block h3:before {
     position: absolute;
     content: "";
     left: 0;
     top: 0;
-    background: url(../../images/career/internimg-sprite.png) no-repeat 0 0;
+    background: url(../../images/career/devimg-sprite.png) no-repeat 0 0;
     width: 48px;
     height: 50px;
 }
 
-.duration-block h3:before {
+.work-block h3:before {
+    background-position: -93px 0;
+}
+
+.points-block h3:before {
+    background-position: -199px 0;
+}
+
+.experience-block h3:before {
     background-position: -311px 0;
 }
 
-.learn-block h3:before {
-    background-position: -608px 0;
-}
-
-.process-block h3:before {
-    background-position: -921px 0;
-}
-
-.intern-block p,.intern-block ul li {
+.developer-block p,.developer-block ul li {
     line-height: 24px;
 }
 
-.intern-block ul {
-    padding-left: 22px;
+.developer-block ul {
+    padding-left: 16px;
 }
 
-.intern-block ul li {
+.developer-block ul li {
     list-style: none;
     background: url(../../images/career/list-img.png) no-repeat 0 8px;
     padding-left: 20px;
+    color: #000;
+    font-size: 14px;
+    font-weight: normal;
 }
 
-.intern-block ul li a {
+.developer-block ul li a {
     border-bottom: 0;
+}
+
+.developer-block p {
+    text-align: left!important;
+    font-weight: normal;
+}
+
+.developer-block.apply-block {
+    width: 100%;
+    margin: 0 auto;
+    float: none;
+}
+
+.apply-block h3 {
+    font-size: 30px;
+    color: #333;
+}
+
+.developer-block.apply-block li {
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.developer-block.apply-block h3:before {
+    background: url(../../images/career/apply-img.png) no-repeat 0 0;
+}
+
+.query-block {
+    font-size: 15px;
+    font-weight: 300;
+    text-align: center;
+    margin: 80px 0;
+    line-height: 23px;
+}
+
+.query-block a {
+    font-weight: 700;
 }
 
 .more-info {
@@ -2766,11 +2772,16 @@ display: none;
 }
 
 .error-inner-wrapper {
-    position: relative;    
+    position: relative;   
+    background: url(../../images/404/main-bg.png) no-repeat 0 0/cover;
 }
 
 .error-section img {
     position: absolute;
+}
+
+.cloud-wrap {
+    width: 100%;
 }
 
 .star-wrap {
@@ -2916,10 +2927,6 @@ display: none;
         margin-right: 0;
     }
 
-    .internship-section {
-        padding-top: 234px;
-    }
-
     .intern-title {
         font-size: 40px;
         padding: 26px 0;
@@ -3050,7 +3057,7 @@ display: none;
         font-size: 4.5rem;
     }
 
-    .internship-section {
+    .developer-section {
         background-size: auto;
     }
 
@@ -3096,6 +3103,22 @@ display: none;
     .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul,.home-wrapper {
         max-width: 800px;
         max-width: 45rem;
+    }
+    
+    .developer-info-wrap .layout {
+        max-width: 940px;
+    }
+    
+    .developer-block {
+        width: 460px;
+    }
+    
+    .developer-block:nth-child(2n) {
+        float: right;
+    }
+    
+    .developer-block.apply-block {
+        width: 380px;
     }
 
     .logo-wrapper,.work-article-wrap {
@@ -3244,10 +3267,6 @@ display: none;
 
     .inner-intern-info-wrap {
         max-width: 880px;
-    }
-
-    .internship-section {
-        padding-top: 234px;
     }
 
 }
@@ -3578,31 +3597,30 @@ display: none;
             background: transparent url(../../images/pages/next-hover@2x.png) no-repeat right;
             background-size: 21px;
         }
-
-        .intern-block h3:before {
-            position: absolute;
-            content: "";
-            left: 0;
-            top: 0;
-            background: url(../../images/career/internimg-sprite@2x.png) no-repeat 0 0;
-            width: 48px;
-            height: 50px;
-            background-size: 969px;
+        
+        .developer-block h3:before {
+            background: url(../../images/career/devimg-sprite@2x.png) no-repeat 0 0;
+            background-size: 359px;
         }
 
-        .duration-block h3:before {
+        .work-block h3:before {
+            background-position: -93px 0;
+            background-size: 359px;
+        }
+
+        .points-block h3:before {
+            background-position: -199px 0;
+            background-size: 359px;
+        }
+
+        .experience-block h3:before {
             background-position: -311px 0;
-            background-size: 969px;
+            background-size: 359px;
         }
 
-        .learn-block h3:before {
-            background-position: -608px 0;
-            background-size: 969px;
-        }
-
-        .process-block h3:before {
-            background-position: -921px 0;
-            background-size: 969px;
+        .developer-block.apply-block h3:before {
+            background: url(../../images/career/apply-img@2x.png) no-repeat 0 0;
+            background-size: 47px;
         }
 
 

@@ -14,7 +14,8 @@ comments: true
     </div>
     <div class="career-info">
         <div class="layout">
-        We don't have any openings now. Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
+        Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
+        <a href="#developer" class="dev-btn" id="developerlink">We're hiring software developers</a>
         </div>
     </div>
 </div>
@@ -25,21 +26,65 @@ comments: true
     </div>
 </div>
 
-<div class="internship-section" id="internship">
-    <div class="intern-title">
-        Internship at <br/>YoungInnovations
-        <div class="days-left"><span id="remain-note" class="note"></span><span class="remaining">remaining to apply!</span></div>
+<div class="developer-section" id="developer">
+   <div class="develop-img">
+       
+   </div>
+    <div class="develop-title">
+    We’re hiring<br/> Software Developers
+<!--        <div class="days-left"><span id="remain-note" class="note"></span><span class="remaining">remaining to apply!</span></div>-->
     </div>
     
 </div> 
 
-<div class="intern-info-wrap">
-<div class="internship-close-info layout">
-We will notify you about next internship programme through these mediums:
+<div class="developer-info-wrap">
+<div class="layout">
+<div class="developer-wrap-block">
+    <div class="developer-block">
+        <h3>Skills</h3>
+        <ul>
+            <li>HTML5 and CSS3</li>
+            <li>Extensive knowledge of Responsive and Adaptive web techniques</li>
+            <li>Knowledge of cross-browser support and testing</li>
+            <li>Passion and aptitude to learn and explore new web technologies</li>
+        </ul>
+    </div>
+    <div class="developer-block work-block">
+        <h3>What will you do?</h3>
+        <ul>
+            <li>HTML5 and CSS3</li>
+            <li>Extensive knowledge of Responsive and Adaptive web techniques</li>
+            <li>Knowledge of cross-browser support and testing</li>
+            <li>Passion and aptitude to learn and explore new web technologies</li>
+        </ul>
+    </div>
+    <div class="developer-block points-block">
+        <h3>Plus Points</h3>
+        <ul>
+            <li>HTML5 and CSS3</li>
+            <li>Extensive knowledge of Responsive and Adaptive web techniques</li>
+            <li>Knowledge of cross-browser support and testing</li>
+            <li>Passion and aptitude to learn and explore new web technologies</li>
+        </ul>
+    </div>
+    <div class="developer-block experience-block">
+        <h3>Experience</h3>
+        <p>We’re looking for someone who has 1-2 years of experience in software development field. </p>
+    </div>
+</div>
+<div class="developer-block apply-block">
+    <h3>How to apply?</h3>
     <ul>
-        <li class="twitter"><a href="https://twitter.com/yipl" target="_blank">Twitter</a></li>
-        <li><a href="https://www.facebook.com/pages/YoungInnovations/95147447293" target="_blank">Facebook</a></li>
+    <li>Upload your CV anywhere (could be dropbox, google drive)</li>
+    <li>Complete one of the challenges <a href="#">here</a> </li>
+    <li>Upload your work in <a href="#">github</a> (don't know what github is, learn and do it)</li>
+    <li><a href="#">Complete this form</a></li>
     </ul>
+</div>
+
+<div class="query-block">
+    For queries, shoot us an email at <a href="#">careers@yipl.com.np</a>    
+</div>
 </div>
 
 </div>

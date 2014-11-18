@@ -87,8 +87,6 @@ $(document).ready(function(){
     });
 
 
-
-
     $( "#target" ).toggle(function() {
         alert( "First handler for .toggle() called." );
     }, function() {
@@ -267,14 +265,14 @@ $(document).ready(function(){
                                'slow');
     }
 
-    $(".intern-btn").click(function(e) {
+    $(".dev-btn").click(function(e) {
         // Prevent a page reload when a link is pressed
 //        e.preventDefault();
         // Call the scroll function
         goToByScroll($(this).attr("id"));
 
     });
-
+    
 
 
     $('.contact-wrapper').parents('body').addClass('contact');
