@@ -43,47 +43,61 @@ comments: true
     <div class="developer-block">
         <h3>Skills</h3>
         <ul>
-            <li>HTML5 and CSS3</li>
-            <li>Extensive knowledge of Responsive and Adaptive web techniques</li>
-            <li>Knowledge of cross-browser support and testing</li>
-            <li>Passion and aptitude to learn and explore new web technologies</li>
+            <li>Good working knowledge of either Php or Python</li>
+            <li>Good working knowledge of Javascript and any JS Libraries (jQuery, prototype, etc.)</li>
+            <li>Comfortable with any version control system (git preferred)</li>
+            <li>Have developed/worked in REST based system</li>
+            <li>Comfortable with *nix system</li>
+            <li>Passion and aptitude to learn and explore new technologies !important</li>
+            <li>A team player</li>
+            <li>Ability to work on multiple projects at once</li>
         </ul>
     </div>
-    <div class="developer-block work-block">
-        <h3>What will you do?</h3>
-        <ul>
-            <li>HTML5 and CSS3</li>
-            <li>Extensive knowledge of Responsive and Adaptive web techniques</li>
-            <li>Knowledge of cross-browser support and testing</li>
-            <li>Passion and aptitude to learn and explore new web technologies</li>
-        </ul>
-    </div>
+    
     <div class="developer-block points-block">
         <h3>Plus Points</h3>
         <ul>
-            <li>HTML5 and CSS3</li>
-            <li>Extensive knowledge of Responsive and Adaptive web techniques</li>
-            <li>Knowledge of cross-browser support and testing</li>
-            <li>Passion and aptitude to learn and explore new web technologies</li>
+            <li>Knowledge of HTML, CSS</li>
+            <li>Experience in other scripting languages</li>
+            <li>Good knowledge of design patterns and architecture design</li>
+            <li>Knowledge of Test Driven Development (TDD)</li>
+            <li>Experience in NoSQL databases</li>
+            <li>Experience building mobile applications</li>
+            <li>Experience in javascript MV* frameworks like angular, backbone</li>
+            <li>UI design concepts</li>
+            <li>Unafraid to learn new languages or new tools</li>
+            <li>Github account with some pet projects</li>
         </ul>
     </div>
+    
+    <div class="developer-block work-block">
+        <h3>What will you do?</h3>
+        <ul>
+            <li>Work independently</li>
+            <li>You lead team depending upon the nature of projects</li>
+            <li>You will design architecture for the system</li>
+            <li>You will build the system</li>
+            <li>At times, you will amaze us with your ability to come up with beautiful solutions</li>
+        </ul>
+    </div>
+    
     <div class="developer-block experience-block">
         <h3>Experience</h3>
-        <p>We’re looking for someone who has 1-2 years of experience in software development field. </p>
+        <p>We’re looking for someone who has 1+ years of experience in software development field. </p>
     </div>
 </div>
 <div class="developer-block apply-block">
     <h3>How to apply?</h3>
     <ul>
     <li>Upload your CV anywhere (could be dropbox, google drive)</li>
-    <li>Complete one of the challenges <a href="#">here</a> </li>
-    <li>Upload your work in <a href="#">github</a> (don't know what github is, learn and do it)</li>
-    <li><a href="#">Complete this form</a></li>
+    <li>Complete the challenge <a href="https://github.com/younginnovations/problem-statements/tree/master/clean-up-contracts-data-2" target="_blank">here</a> </li>
+    <li>Upload your work in <a href="http://github.com" target="_blank">github</a> (don't know what github is, learn and do it)</li>
+    <li><a href="https://docs.google.com/forms/d/13ateE647HZfurbuGdrZrgs85g8dHyWgi_6TbOw-MpIA/viewform" target="_blank">Complete this form</a></li>
     </ul>
 </div>
 
 <div class="query-block">
-    For queries, shoot us an email at <a href="#">careers@yipl.com.np</a>    
+    For queries, shoot us an email at <a href="mailto://careers@yipl.com.np">careers@yipl.com.np</a>    
 </div>
 </div>
 
