@@ -2817,7 +2817,7 @@ display: none;
     clear: both;
     bottom: 110px;
     position: fixed;
-    left: 44%;
+    left: 35%;
 }
 
 .back-to-home a {
@@ -2900,6 +2900,10 @@ display: none;
 
     .navigation-wrap li a.view-btn {
         left: 35%;
+    }
+    
+    .back-to-home {
+        left: 45%;
     }
 }
 
