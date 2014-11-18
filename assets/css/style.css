@@ -3119,6 +3119,7 @@ display: none;
     
     .developer-block.apply-block {
         width: 380px;
+        float: none;
     }
 
     .logo-wrapper,.work-article-wrap {
