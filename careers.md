@@ -48,7 +48,7 @@ comments: true
             <li>Comfortable with any version control system (git preferred)</li>
             <li>Have developed/worked in REST based system</li>
             <li>Comfortable with *nix system</li>
-            <li>Passion and aptitude to learn and explore new technologies !important</li>
+            <li>Passion and aptitude to learn and explore new technologies</li>
             <li>A team player</li>
             <li>Ability to work on multiple projects at once</li>
         </ul>
@@ -97,7 +97,7 @@ comments: true
 </div>
 
 <div class="query-block">
-    For queries, shoot us an email at <a href="mailto://careers@yipl.com.np">careers@yipl.com.np</a>    
+    For queries, shoot us an email at <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>    
 </div>
 </div>
 
