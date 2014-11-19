@@ -3113,8 +3113,6 @@ display: none;
 }
 
 
-}
-
 @media only screen and (min-width:1000px) {
     .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul,.home-wrapper {
         max-width: 800px;
