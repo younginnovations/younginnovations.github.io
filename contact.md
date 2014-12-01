@@ -26,7 +26,7 @@ Nepal
 <img src="../images/contact/mail.png"/>
 <img src="../images/contact/mail@2x.png" class="small" width="66" height="50"/>
 <a href="mailto:info@yipl.com.np">info@yipl.com.np</a><br/>
-GPO 9876 CPC 241
+GPO 8974 CPC 241
 </div>
 </div>
 

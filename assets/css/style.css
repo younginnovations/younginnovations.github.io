@@ -2542,7 +2542,7 @@ display: none;
 }
 
 .develop-title {
-    background: rgba(74,144,226,0.9);
+    background: rgb(74,144,226);
     padding: 70px 0 62px;
     text-align: center;
     font-size: 40px;
@@ -2615,7 +2615,7 @@ display: none;
     content: "";
     bottom: -21px;
     left: 50%;
-    border-top: 10px solid #5A8ED5;
+    border-top: 10px solid #4A90E2;
     border-right: 12px solid transparent;
     border-bottom: 12px solid transparent;
     border-left: 10px solid transparent;

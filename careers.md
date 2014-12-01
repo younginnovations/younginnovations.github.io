@@ -48,7 +48,7 @@ comments: true
             <li>Comfortable with any version control system (git preferred)</li>
             <li>Have developed/worked in REST based system</li>
             <li>Comfortable with *nix system</li>
-            <li>Passion and aptitude to learn and explore new technologies !important</li>
+            <li>Passion and aptitude to learn and explore new technologies</li>
             <li>A team player</li>
             <li>Ability to work on multiple projects at once</li>
         </ul>
@@ -57,8 +57,7 @@ comments: true
     <div class="developer-block points-block">
         <h3>Plus Points</h3>
         <ul>
-            <li>Knowledge of HTML, CSS</li>
-            <li>Experience in other scripting languages</li>
+            <li>Experience in other scripting languages and HTML/CSS</li>
             <li>Good knowledge of design patterns and architecture design</li>
             <li>Knowledge of Test Driven Development (TDD)</li>
             <li>Experience in NoSQL databases</li>
@@ -74,10 +73,10 @@ comments: true
         <h3>What will you do?</h3>
         <ul>
             <li>Work independently</li>
-            <li>You lead team depending upon the nature of projects</li>
-            <li>You will design architecture for the system</li>
-            <li>You will build the system</li>
-            <li>At times, you will amaze us with your ability to come up with beautiful solutions</li>
+            <li>Lead team depending upon the nature of projects</li>
+            <li>Design architecture for the system</li>
+            <li>Build the system</li>
+            <li>At times, amaze us with your ability to come up with beautiful solutions</li>
         </ul>
     </div>
     
@@ -97,7 +96,7 @@ comments: true
 </div>
 
 <div class="query-block">
-    For queries, shoot us an email at <a href="mailto://careers@yipl.com.np">careers@yipl.com.np</a>    
+    For queries, shoot us an email at <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>    
 </div>
 </div>
 
