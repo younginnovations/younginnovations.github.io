@@ -562,8 +562,13 @@ li:last-child .impact-project-title {
     padding-bottom: 0!important;
 }
 
-.time {
-    padding-right: 3px;
+.sub-menu .note {
+    display: inline-block;
+    font-style: italic;
+}
+
+.sub-menu .time-wrap:not(:first-child) {
+    display: none;
 }
 
 .nav ul li .sub-menu:hover {
@@ -2602,7 +2607,7 @@ display: none;
     font-weight: bold;
     display: inline-block;
     padding: 0;
-    margin: 0 3px;
+    /*    margin: 0 3px;*/
 }
 
 .developer-section:after {
@@ -2901,7 +2906,7 @@ display: none;
     .navigation-wrap li a.view-btn {
         left: 35%;
     }
-    
+
     .back-to-home {
         left: 45%;
     }
@@ -3106,7 +3111,7 @@ display: none;
     .error-section-small {
         display: none;
     }
-    
+
     .error-section {
         display: block;
     }
@@ -3437,226 +3442,237 @@ display: none;
     .days-left {
         width: auto;
     }
+}
 
+@media screen and (min-width:480px) and (max-width:560px) {
+    .impact-image svg {
+        left: 4%;
+    }
+}
 
-    @media screen and (min-width:480px) and (max-width:560px) {
-        .impact-image svg {
-            left: 4%;
-        }
+@media screen and (min-width:561px) and (max-width:780px) {
+    .impact-image svg {
+        left: 20%;
+    }
+}
+
+@media screen and (min-width:1100px) {
+    .imagefixed-wrap {
+        position: fixed;
+        top: -50%;
+        left: 0;
     }
 
-    @media screen and (min-width:561px) and (max-width:780px) {
-        .impact-image svg {
-            left: 20%;
-        }
+    /*
+    #main .imagefixed-wrap+article {
+    padding-top: 50%;
+}
+    */
+
+}
+
+@media screen and (min-width:1500px) {
+    .imagefixed-wrap {
+        top: -60%;
     }
 
-    @media screen and (min-width:1100px) {
-        .imagefixed-wrap {
-            position: fixed;
-            top: -50%;
-            left: 0;
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+    and (min-device-width : 768px) 
+    and (max-device-width : 1024px) {
+
+        .impact-info {
+            margin-top: 10%;
         }
 
-        /*
-        #main .imagefixed-wrap+article {
-        padding-top: 50%;
-    }
-        */
-
-    }
-
-    @media screen and (min-width:1500px) {
-        .imagefixed-wrap {
-            top: -60%;
+        .home-wrapper {
+            padding-top: 200px;
         }
 
-        /*
-        #main .imagefixed-wrap+article {
-        padding-top: 60%;
-    }
-        */
-
-    }
-
-    /* iPads (portrait and landscape) ----------- */
-    @media only screen 
-        and (min-device-width : 768px) 
-        and (max-device-width : 1024px) {
-
-            .impact-info {
-                margin-top: 10%;
-            }
-
-            .home-wrapper {
-                padding-top: 200px;
-            }
-
-            .safari-image svg {
-                top: -30%;
-            }
-
-        }
-
-
-    @media screen and (max-width:320px) {
-        .layout, .work-detail-wrap h2, .work-detail-wrap p, .work-detail-wrap ul {
-            max-width: 260px;
-            max-width: 16rem;
-        }
-
-        .nav ul li a {
-            font-size: 21px;
-        }
-
-        .navigation-wrap li a.view-btn {
-            left: 21%;
+        .safari-image svg {
+            top: -30%;
         }
 
     }
 
 
+@media screen and (max-width:320px) {
+    .layout, .work-detail-wrap h2, .work-detail-wrap p, .work-detail-wrap ul {
+        max-width: 260px;
+        max-width: 16rem;
+    }
 
-    @media only screen and (-webkit-min-device-pixel-ratio: 2),
-        only screen and (-moz-min-device-pixel-ratio: 2),
-        only screen and (-o-min-device-pixel-ratio: 2/1),
-        only screen and (min-device-pixel-ratio: 2) {
+    .nav ul li a {
+        font-size: 21px;
+    }
 
-            .site-name a {
-                background: url(../../images/logo/logo@2x.png) no-repeat 0 0;
-                background-size: 149px;
-            }
+    .navigation-wrap li a.view-btn {
+        left: 21%;
+    }
 
-            .service-image img,.logo-wrapper ul li img,.contact-block img {
-                display: none;
-            }
-
-            .service-image img.small,.logo-wrapper ul li img.small,.contact-block img.small {
-                display: block;
-            }
-
-            .see-work {
-                background: url(../../images/pages/button-icon@2x.png) no-repeat 96%;
-                background-size: 18px; 
-            }
-
-            .contact-btn .see-work {
-                background: url(../../images/pages/contact-icon@2x.png) no-repeat 96%;
-                background-size: 17px;
-            }
-
-            .contact-btn .see-work:hover {
-                background: url(../../images/pages/button-icon@2x.png) no-repeat 96%;
-            }
-
-            .impact-title {
-                background: url(../../images/impact/impact-icon@2x.png) no-repeat 24px;
-                background-size: 32px;
-            }
-
-            .social-links ul li a {
-                background: url(../../images/contact/sprite@2x.png) no-repeat 0 1px;
-                background-size: 210px;
-            }
-
-            .social-links ul li.twitter a {
-                background: url(../../images/contact/sprite@2x.png) no-repeat -79px 1px;
-                background-size: 210px;
-            }
-
-            .social-links ul li a {
-                background: url(../../images/contact/sprite@2x.png) no-repeat -161px 1px;
-                background-size: 210px;
-            }
-
-            .trigger span {
-                background: url(../../images/pages/trigger@2x.png) no-repeat 10px 4px;
-                background-size: 29px;
-            }
-
-            .icon-close span {
-                background: url(../../images/pages/close@2x.png) no-repeat;
-                background-size: 16px;
-            }
-
-            .smallnav-wrap .scrollToTop,.smallnav-wrap .scrollToTop:hover {
-                background: url(../../images/pages/arrow_up@2x.png) no-repeat center;
-                background-size: 18px;
-            }
-
-            .all-project a {
-                background: url(../../images/work/list-all@2x.png) no-repeat 12px 11px;
-                background-size: 29px;
-            }
-
-            .all-project a:hover {
-                background: #333 url(../../images/work/list-all-hover@2x.png) no-repeat 12px 11px;
-                background-size: 29px;
-            }
-
-            #post-nav .prev .slide-wrap {
-                background: url(../../images/pages/previous@2x.png) no-repeat left;
-                background-size: 21px;
-            }
-
-            #post-nav .next .slide-wrap {
-                background: url(../../images/pages/next@2x.png) no-repeat right;
-                background-size: 21px;
-            }
-
-            #post-nav .prev:hover .slide-wrap {
-                background: transparent url(../../images/pages/previous-hover@2x.png) no-repeat left;
-                background-size: 21px;
-            }
-
-            #post-nav .next:hover .slide-wrap {
-                background: transparent url(../../images/pages/next-hover@2x.png) no-repeat right;
-                background-size: 21px;
-            }
-
-            .developer-block h3:before {
-                background: url(../../images/career/devimg-sprite@2x.png) no-repeat 0 0;
-                background-size: 359px;
-            }
-
-            .work-block h3:before {
-                background-position: -93px 0;
-                background-size: 359px;
-            }
-
-            .points-block h3:before {
-                background-position: -199px 0;
-                background-size: 359px;
-            }
-
-            .experience-block h3:before {
-                background-position: -311px 0;
-                background-size: 359px;
-            }
-
-            .developer-block.apply-block h3:before {
-                background: url(../../images/career/apply-img@2x.png) no-repeat 0 0;
-                background-size: 47px;
-            }
+}
 
 
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+    only screen and (-moz-min-device-pixel-ratio: 2),
+    only screen and (-o-min-device-pixel-ratio: 2/1),
+    only screen and (min-device-pixel-ratio: 2) {
+
+        .site-name a {
+            background: url(../../images/logo/logo@2x.png) no-repeat 0 0;
+            background-size: 149px;
         }
 
-    @media screen and (max-width: 1180px) {
-
-        .nav ul li .sub-menu em, .nav ul li .sub-menu span  {
+        .service-image img,.logo-wrapper ul li img,.contact-block img {
             display: none;
         }
 
-    }
-
-    @media screen and (max-width: 380px) {
-        .nav ul li .sub-menu {
-            left: 41px;
-            top: 0;
+        .service-image img.small,.logo-wrapper ul li img.small,.contact-block img.small {
+            display: block;
         }
 
-        .nav ul li:nth-child(3) a,.nav ul li:nth-child(4n) a {
-            padding-bottom: 22px;
+        .see-work {
+            background: url(../../images/pages/button-icon@2x.png) no-repeat 96%;
+            background-size: 18px; 
         }
+
+        .contact-btn .see-work {
+            background: url(../../images/pages/contact-icon@2x.png) no-repeat 96%;
+            background-size: 17px;
+        }
+
+        .contact-btn .see-work:hover {
+            background: url(../../images/pages/button-icon@2x.png) no-repeat 96%;
+        }
+
+        .impact-title {
+            background: url(../../images/impact/impact-icon@2x.png) no-repeat 24px;
+            background-size: 32px;
+        }
+
+        .social-links ul li a {
+            background: url(../../images/contact/sprite@2x.png) no-repeat 0 1px;
+            background-size: 210px;
+        }
+
+        .social-links ul li.twitter a {
+            background: url(../../images/contact/sprite@2x.png) no-repeat -79px 1px;
+            background-size: 210px;
+        }
+
+        .social-links ul li a {
+            background: url(../../images/contact/sprite@2x.png) no-repeat -161px 1px;
+            background-size: 210px;
+        }
+
+        .trigger span {
+            background: url(../../images/pages/trigger@2x.png) no-repeat 10px 4px;
+            background-size: 29px;
+        }
+
+        .icon-close span {
+            background: url(../../images/pages/close@2x.png) no-repeat;
+            background-size: 16px;
+        }
+
+        .smallnav-wrap .scrollToTop,.smallnav-wrap .scrollToTop:hover {
+            background: url(../../images/pages/arrow_up@2x.png) no-repeat center;
+            background-size: 18px;
+        }
+
+        .all-project a {
+            background: url(../../images/work/list-all@2x.png) no-repeat 12px 11px;
+            background-size: 29px;
+        }
+
+        .all-project a:hover {
+            background: #333 url(../../images/work/list-all-hover@2x.png) no-repeat 12px 11px;
+            background-size: 29px;
+        }
+
+        #post-nav .prev .slide-wrap {
+            background: url(../../images/pages/previous@2x.png) no-repeat left;
+            background-size: 21px;
+        }
+
+        #post-nav .next .slide-wrap {
+            background: url(../../images/pages/next@2x.png) no-repeat right;
+            background-size: 21px;
+        }
+
+        #post-nav .prev:hover .slide-wrap {
+            background: transparent url(../../images/pages/previous-hover@2x.png) no-repeat left;
+            background-size: 21px;
+        }
+
+        #post-nav .next:hover .slide-wrap {
+            background: transparent url(../../images/pages/next-hover@2x.png) no-repeat right;
+            background-size: 21px;
+        }
+
+        .developer-block h3:before {
+            background: url(../../images/career/devimg-sprite@2x.png) no-repeat 0 0;
+            background-size: 359px;
+        }
+
+        .work-block h3:before {
+            background-position: -93px 0;
+            background-size: 359px;
+        }
+
+        .points-block h3:before {
+            background-position: -199px 0;
+            background-size: 359px;
+        }
+
+        .experience-block h3:before {
+            background-position: -311px 0;
+            background-size: 359px;
+        }
+
+        .developer-block.apply-block h3:before {
+            background: url(../../images/career/apply-img@2x.png) no-repeat 0 0;
+            background-size: 47px;
+        }
+
     }
+
+@media screen and (max-width: 650px) {
+    .nav ul li .sub-menu {
+        left: 59px;
+        top: 40px;
+    }
+
+    .nav ul li:nth-child(3) a,.nav ul li:nth-child(4n) a {
+        padding-bottom: 22px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .nav ul li .sub-menu {
+        left: 54px;
+        top: 32px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .nav ul li .sub-menu {
+        left: 42px;
+        top: 12px;
+    }
+}
+
+@media screen and (max-width: 870px) {
+
+    .nav ul li .sub-menu em, .nav ul li .sub-menu span  {
+        display: none;
+    }
+
+    .nav ul li .sub-menu .note {
+        display: none;
+    }
+
+}

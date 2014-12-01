@@ -32,7 +32,7 @@ comments: true
    </div>
     <div class="develop-title">
     We’re hiring<br/> Software Developers
-<!--        <div class="days-left"><span id="remain-note" class="note"></span><span class="remaining">remaining to apply!</span></div>-->
+ <div class="days-left"><span id="remain-note" class="note"></span><span class="remaining"><strong><em>days </em></strong>remaining to apply!</span></div>
     </div>
     
 </div> 

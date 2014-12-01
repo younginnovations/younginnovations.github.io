@@ -290,13 +290,13 @@ $(document).ready(function(){
     });
     
     var note = $('.note'),
-        ts = new Date(2014, 9, 28),
+        ts = new Date(2014, 11, 15),
         newYear = true;
 
     if((new Date()) > ts){
         // The new year is here! Count towards something else.
         // Notice the *1000 at the end - time must be in milliseconds
-        ts = (new Date()).getTime() + 1*24*60*60*1000;
+        ts = (new Date()).getTime() + 14*24*60*60*1000;
         newYear = false;
     }
 
@@ -307,9 +307,9 @@ $(document).ready(function(){
             var message = "";
             var endMessage = "Thank you to those who have applied.We have closed the internship application for now."
 
-//            message += days  + ( days==1 ? '':' ' );
-            message += "<span class='time'>" + hours + "</span>" + "hour" + ( hours==1 ? '':'s' ) + " ";
-            message += "<span class='time'>" + minutes + "</span>" + "minute" + ( minutes==1 ? '':'s' ) + " ";
+            message += "<span class='time'>" + days + "</span>" + ( days==1 ? '':' ' );
+//            message += "<span class='time'>" + hours + "</span>" + "hour" + ( hours==1 ? '':'s' ) + " ";
+//            message += "<span class='time'>" + minutes + "</span>" + "minute" + ( minutes==1 ? '':'s' ) + " ";
 //            message += seconds + " second" + ( seconds==1 ? '':'s' ) + " ";"
 
             if(newYear){
@@ -318,9 +318,9 @@ $(document).ready(function(){
             }
             else {
                 message += " ";
-                note.html(endMessage);
-                $('.days-left').addClass('endnote');
-                $('.remaining').hide()
+//                note.html(endMessage);
+//                $('.days-left').addClass('endnote');
+//                $('.remaining').hide()
             }
 
            
