@@ -538,8 +538,12 @@ li:last-child .impact-project-title {
 }
 
 .career-menu {
-    float: left;
+/*    float: left;*/
     margin-left: 16px;
+}
+
+.career-menu a:first-child {
+    padding: 0!important;
 }
 
 .nav ul li .sub-menu {
@@ -3640,7 +3644,7 @@ display: none;
 
     }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 740px) {
     .nav ul li .sub-menu {
         left: 59px;
         top: 40px;
@@ -3665,7 +3669,7 @@ display: none;
     }
 }
 
-@media screen and (max-width: 870px) {
+@media screen and (max-width: 940px) {
 
     .nav ul li .sub-menu em, .nav ul li .sub-menu span  {
         display: none;
