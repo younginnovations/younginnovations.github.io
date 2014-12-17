@@ -305,7 +305,7 @@ $(document).ready(function(){
         callback	: function(days, hours, minutes, seconds){
 
             var message = "";
-            var endMessage = "Thank you to those who have applied.We have closed the internship application for now."
+            var endMessage = "Thank you to those who have applied.We have closed the application for now."
 
             message += "<span class='time'>" + days + "</span>" + ( days==1 ? '':' ' );
 //            message += "<span class='time'>" + hours + "</span>" + "hour" + ( hours==1 ? '':'s' ) + " ";
@@ -318,9 +318,9 @@ $(document).ready(function(){
             }
             else {
                 message += " ";
-//                note.html(endMessage);
-//                $('.days-left').addClass('endnote');
-//                $('.remaining').hide()
+                note.html(endMessage);
+                $('.days-left').addClass('endnote');
+                $('.remaining').hide()
             }
 
            

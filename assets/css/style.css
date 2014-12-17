@@ -564,6 +564,7 @@ li:last-child .impact-project-title {
     padding: 0 14px;
     left: 202px;
     padding-bottom: 0!important;
+    display: none;
 }
 
 .sub-menu .note {
