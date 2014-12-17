@@ -129,7 +129,7 @@ Happy Team<span>=</span>Productivity
   + Product Manager
 * ![Avash Rayamajhi]({{ site.url }}/images/staff/Avash.jpg)
   + Avash Rayamajhi
-  + Trainee
+  + Jr. Software Engineer
 * ![Bibek Shrestha]({{ site.url }}/images/staff/Bibek.jpg)
   + Bibek Shrestha
   + Senior Developer
@@ -141,7 +141,7 @@ Happy Team<span>=</span>Productivity
   + Office Aid
 * ![Deepak Kumar Shah]({{ site.url }}/images/staff/Deepak.jpg)
   + Deepak Kumar Shah
-  + Trainee
+  + Jr. Software Engineer
 * ![Geshan Manandhar]({{ site.url }}/images/staff/Geshan.jpg)
   + Geshan Manandhar
   + Senior Developer
@@ -154,9 +154,6 @@ Happy Team<span>=</span>Productivity
 * ![Manoj Byanjankar]({{ site.url }}/images/staff/Manoj.jpg)
   + Manoj Byanjankar
   + Software Engineer
-* ![Nirajan Panthee]({{ site.url }}/images/staff/Nirajan.jpg)
-  + Nirajan Panthee
-  + Sr. Software Engineer
 * ![Prashant Shrestha]({{ site.url }}/images/staff/Prashant.jpg)
   + Prashant Shrestha
   + VP, Business and Technology Innovations
@@ -177,10 +174,10 @@ Happy Team<span>=</span>Productivity
   + Software Engineer
 * ![Rakesh Pradhan]({{ site.url }}/images/staff/Rakesh.jpg)
   + Rakesh Pradhan
-  + Trainee
+  + Jr. Web Developer
 * ![Ramesh KC]({{ site.url }}/images/staff/Ramesh.jpg)
   + Ramesh KC
-  + Trainee
+  + Jr. Software Engineer
 * ![Rishav Malla]({{ site.url }}/images/staff/Rishav.jpg)
   + Rishav Malla
   + Trainee
@@ -199,9 +196,6 @@ Happy Team<span>=</span>Productivity
 * ![Sujata Shrestha]({{ site.url }}/images/staff/Sujata.jpg)
   + Sujata Shrestha
   + Open Data Coordinator
-* ![Suman Humagain]({{ site.url }}/images/staff/Suman.jpg)
-  + Suman Humagain
-  + Sr. Software Engineer
 * ![Sweta Shrestha]({{ site.url }}/images/staff/Sweta.jpg)
   + Sweta Shrestha
   + Sr. UX developer
