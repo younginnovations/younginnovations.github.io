@@ -14,8 +14,8 @@ comments: true
     </div>
     <div class="career-info">
         <div class="layout">
-        Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
-        <a href="#developer" class="dev-btn" id="developerlink">We're hiring software developers</a>
+        We don't have any openings now. Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
+<!--        <a href="#developer" class="dev-btn" id="developerlink">We're hiring software developers</a>-->
         </div>
     </div>
 </div>
@@ -26,6 +26,7 @@ comments: true
     </div>
 </div>
 
+<!--
 <div class="developer-section" id="developer">
    <div class="develop-img">
        
@@ -36,7 +37,9 @@ comments: true
     </div>
     
 </div> 
+-->
 
+<!--
 <div class="developer-info-wrap">
 <div class="layout">
 <div class="developer-wrap-block">
@@ -101,5 +104,6 @@ comments: true
 </div>
 
 </div>
+-->
 
 
