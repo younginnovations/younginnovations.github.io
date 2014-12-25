@@ -1,6 +1,6 @@
 ---
 layout: what-we-upto 
-title: Go Innovations!
+title: Ncell App Camp 2014
 description: ""
 modified: 2014-12-25
 tags: [ncell, appcamp, mobile nepal, mobile]
