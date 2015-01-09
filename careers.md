@@ -15,7 +15,7 @@ comments: true
     <div class="career-info">
         <div class="layout">
         We don't have any openings now. Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
-<!--        <a href="#developer" class="dev-btn" id="developerlink">We're hiring software developers</a>-->
+        <a href="#developer" class="dev-btn" id="developerlink"><span class="see-work">We're open for internship</span><span class="progress"></span></a>
         </div>
     </div>
 </div>
@@ -26,18 +26,16 @@ comments: true
     </div>
 </div>
 
-<!--
 <div class="developer-section" id="developer">
    <div class="develop-img">
        
    </div>
     <div class="develop-title">
-    We’re hiring<br/> Software Developers
+    Internship at<br/> YoungInnovations
  <div class="days-left"><span id="remain-note" class="note"></span><span class="remaining"><strong><em>days </em></strong>remaining to apply!</span></div>
     </div>
     
 </div> 
--->
 
 <!--
 <div class="developer-info-wrap">
@@ -101,9 +99,42 @@ comments: true
 <div class="query-block">
     For queries, shoot us an email at <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>    
 </div>
+
 </div>
 
 </div>
 -->
+
+<div class="intern-info-wrap">
+    <div class="layout">
+    <div class="intern-wrap-block">
+        <div class="intern-block">
+            <h3>Who can apply?</h3>
+            <p>We prefer students in their final years and of those colleges/universities where internship is part of the curriculum. However other students may also apply if you think you can commit time for learning. We don't expect you to know everything except that you have knack for learning and programming. </p>
+        </div>
+        <div class="intern-block period-block">
+        <h3>How Long?</h3>
+        <p>The internship period will be 3 months from <span>Feb 2015 - April 2015.</span></p>
+        </div>
+        <div class="intern-block learn-block">
+            <h3>What will you do?</h3>
+            <p>You will be doing self-learning most of the time. We will just guide you. Already have something in mind to create, we will have those implemented as a part of your project. Don't know what to do, we will find the project together. Together we will create something that has value, something you will be proud of.</p>
+        </div>
+        <div class="intern-block process-block">
+            <h3>Process</h3>
+            <ul>
+            <li>Upload your CV anywhere (could be dropbox, google drive)</li>
+            <li>Complete one of the challenges <a href="https://github.com/younginnovations/problem-statements/tree/master/clean-up-contracts-data" target="_blank">here</a></li> 
+            <li>Upload your work in <a href="http://github.com" target="_blank">github</a> (don't know what github is, learn and do it)</li>
+            <li><a href="https://docs.google.com/forms/d/1BnD4ZOu5c4rFtVT_OP5rITL0z3bMq6uVLEI0I6qSR3U/viewform" target="_blank">Complete this form</a></li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="query-block"><strong>We will get back to you with more details.</strong> For queries, shoot us an email at<br/> <a href="mailto:internship@yipl.com.np">internship@yipl.com.np</a>
+    <div class="extra-note">We provide free food (not extraordinary but something we eat ourselves) and minimum transportation cost.</div>
+   
+    </div>
+</div>   
 
 

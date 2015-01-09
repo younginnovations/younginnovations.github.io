@@ -564,7 +564,6 @@ li:last-child .impact-project-title {
     padding: 0 14px;
     left: 202px;
     padding-bottom: 0!important;
-    display: none;
 }
 
 .sub-menu .note {
@@ -2240,8 +2239,9 @@ body.fixed .slide-navigation {
 
 #main article.career-wrap p {
     margin-bottom: 0;
+    font-size: 15px;
+    line-height: 23px;
 }
-
 
 .career-wrap .headline-wrap {
     display: none;
@@ -2524,31 +2524,66 @@ display: none;
 /*internship*/
 
 .dev-btn {
-    background: #5187C7;
+/*    background: #5187C7;*/
     margin: 84px auto 0;
+/*
     width: 328px;
     height: 68px;
     line-height: 68px;
+*/
     display: block;
-    color: #fff!important;
+/*    color: #fff!important;*/
+    border: 10px solid #5187C7;
+    width: 283px;
+    height: 48px;
+    line-height: 48px;
+    color: #333;
+    position: relative;
+}
+
+.dev-btn .see-work {
+    font-size: 18px;
+    font-weight: 300;
+    background: transparent;
+}
+
+.dev-btn:hover {
+    background: transparent;
+}
+
+.dev-btn .progress {
+    background: #5187C7;
+}
+
+.dev-btn:hover .progress {
+    opacity: 1;
+    height: 100%;
+}
+
+.dev-btn:hover .see-work {
+    color: #fff;
 }
 
 .developer-section {
-    background: #65E2EF;
+    background: #F7836D;
     padding-top: 44px;
     margin-top: 10px;
     position: relative;
 }
 
 .develop-img {
-    background: url(../../images/career/dev-img.png) no-repeat center;
-    padding-top: 186px;
+    background: url(../../images/career/intern-img.png) no-repeat center;
+    padding-top: 386px;
+    margin-top: -44px;
+/*
     position: relative;
     z-index: 1;
+*/
 }
 
 .develop-title {
     background: rgb(74,144,226);
+    background: rgba(74,144,226,0.9);
     padding: 70px 0 62px;
     text-align: center;
     font-size: 40px;
@@ -2556,9 +2591,10 @@ display: none;
     color: #fff;
     line-height: 55px;
     position: relative;
-    margin-top: -24px;
+    margin-top: -220px;
 }
 
+/*
 .develop-title:before {
     background: #3D79BF;
     height: 10px;
@@ -2567,6 +2603,13 @@ display: none;
     top: 24px;
     left: 0;
     width: 100%;
+}
+*/
+
+.intern-info-wrap {
+    padding-top: 70px;
+    background: #fff;
+    overflow: hidden;
 }
 
 .days-left {
@@ -2621,7 +2664,7 @@ display: none;
     content: "";
     bottom: -21px;
     left: 50%;
-    border-top: 10px solid #4A90E2;
+    border-top: 10px solid #5A8ED5;
     border-right: 12px solid transparent;
     border-bottom: 12px solid transparent;
     border-left: 10px solid transparent;
@@ -2637,7 +2680,12 @@ display: none;
     overflow: hidden;
 }
 
-.developer-block {
+.intern-block h3 {
+    font-weight: 400;
+    position: relative;
+}
+
+.developer-block,.intern-block {
     float: left;
     margin-bottom: 50px;
     font-size: 14px;
@@ -2646,7 +2694,7 @@ display: none;
     width: 100%;
 }
 
-.developer-block h3 {
+.developer-block h3,.intern-block h3 {
     position: relative;
     font-size: 21px;
     line-height: 50px;
@@ -2655,15 +2703,32 @@ display: none;
     font-weight: normal;
 }
 
-.developer-block h3:before {
+.developer-block h3:before,.intern-block h3:before {
     position: absolute;
     content: "";
     left: 0;
     top: 0;
-    background: url(../../images/career/devimg-sprite.png) no-repeat 0 0;
+    background: url(../../images/career/intern-sprite.png) no-repeat 0 0;
     width: 48px;
     height: 50px;
 }
+
+.period-block span {
+    font-weight: 700;
+}
+
+.period-block h3:before {
+    background-position: -69px 0;
+}
+
+.learn-block h3:before {
+    background-position: -136px 0;
+}
+
+.process-block h3:before {
+    background-position: -203px 0;
+}
+
 
 .work-block h3:before {
     background-position: -93px 0;
@@ -2681,20 +2746,25 @@ display: none;
     line-height: 24px;
 }
 
-.developer-block ul {
+.developer-block ul,.intern-block ul {
     padding-left: 16px;
 }
 
-.developer-block ul li {
+.developer-block ul li,.intern-block ul li {
     list-style: none;
     background: url(../../images/career/list-img.png) no-repeat 0 8px;
     padding-left: 20px;
     color: #000;
     font-size: 14px;
-    font-weight: normal;
+/*    font-weight: normal;*/
 }
 
-.developer-block ul li a {
+.intern-block ul li {
+    font-size: 15px;
+    line-height: 23px;
+}
+
+.developer-block ul li a,.intern-block ul li a {
     border-bottom: 0;
 }
 
@@ -2729,6 +2799,13 @@ display: none;
     text-align: center;
     margin: 80px 0;
     line-height: 23px;
+    clear: both;
+}
+
+.query-block .extra-note {
+    font-style: italic;
+    font-size: 15px;
+    margin-top: 30px;
 }
 
 .query-block a {
@@ -3268,6 +3345,10 @@ display: none;
     .life-btn {
         margin-top: 12%;
     }
+    
+    .intern-info-wrap .layout {
+        max-width: 870px;
+    }
 
     .intern-block {
         width: 260px;
@@ -3646,7 +3727,6 @@ display: none;
 
     }
 
-/*
 @media screen and (max-width: 740px) {
     .nav ul li .sub-menu {
         left: 59px;
@@ -3683,4 +3763,3 @@ display: none;
     }
 
 }
-*/
