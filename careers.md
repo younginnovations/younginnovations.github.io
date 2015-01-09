@@ -15,7 +15,7 @@ comments: true
     <div class="career-info">
         <div class="layout">
         We don't have any openings now. Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
-        <a href="#internship" class="dev-btn" id="internshiplink"><span class="see-work">We're open for internship</span><span class="progress"></span></a>
+        <a href="#internship" class="dev-btn" id="developerlink"><span class="see-work">We're open for internship</span><span class="progress"></span></a>
         </div>
     </div>
 </div>
@@ -89,7 +89,7 @@ comments: true
 <div class="developer-block apply-block">
     <h3>How to apply?</h3>
     <ul>
-    <li>Upload your CV anywhere (could be dropbox, google drive)</li>
+    <li>Upload your CV in Dropbox</li>
     <li>Complete the challenge <a href="https://github.com/younginnovations/problem-statements/tree/master/clean-up-contracts-data-2" target="_blank">here</a> </li>
     <li>Upload your work in <a href="http://github.com" target="_blank">github</a> (don't know what github is, learn and do it)</li>
     <li><a href="https://docs.google.com/forms/d/13ateE647HZfurbuGdrZrgs85g8dHyWgi_6TbOw-MpIA/viewform" target="_blank">Complete this form</a></li>
@@ -123,8 +123,8 @@ comments: true
         <div class="intern-block process-block">
             <h3>Process</h3>
             <ul>
-            <li>Upload your CV anywhere (could be dropbox, google drive)</li>
-            <li>Complete one of the challenges <a href="https://github.com/younginnovations/problem-statements/tree/master/clean-up-contracts-data" target="_blank">here</a></li> 
+            <li>Upload your CV in Dropbox</li>
+            <li>Complete <a href="https://github.com/younginnovations/problem-statements/tree/master/clean-up-contracts-data" target="_blank">the challenge</a></li> 
             <li>Upload your work in <a href="http://github.com" target="_blank">github</a> (don't know what github is, learn and do it)</li>
             <li><a href="https://docs.google.com/forms/d/1BnD4ZOu5c4rFtVT_OP5rITL0z3bMq6uVLEI0I6qSR3U/viewform" target="_blank">Complete this form</a></li>
             </ul>

@@ -538,7 +538,7 @@ li:last-child .impact-project-title {
 }
 
 .career-menu {
-/*    float: left;*/
+    /*    float: left;*/
     margin-left: 16px;
 }
 
@@ -1221,6 +1221,11 @@ display: inline-block;
 
     .morph-button-sidebar.open .morph-content {
         height: 100% !important;
+    }
+    
+    .nav ul li .sub-menu {
+        left: 30px;
+        top: 1px;
     }
 }
 
@@ -2524,15 +2529,15 @@ display: none;
 /*internship*/
 
 .dev-btn {
-/*    background: #5187C7;*/
+    /*    background: #5187C7;*/
     margin: 84px auto 0;
-/*
+    /*
     width: 328px;
     height: 68px;
     line-height: 68px;
-*/
+    */
     display: block;
-/*    color: #fff!important;*/
+    /*    color: #fff!important;*/
     border: 10px solid #5187C7;
     width: 283px;
     height: 48px;
@@ -2575,10 +2580,10 @@ display: none;
     background: url(../../images/career/intern-img.png) no-repeat center;
     padding-top: 386px;
     margin-top: -44px;
-/*
+    /*
     position: relative;
     z-index: 1;
-*/
+    */
 }
 
 .develop-title {
@@ -2596,13 +2601,13 @@ display: none;
 
 /*
 .develop-title:before {
-    background: #3D79BF;
-    height: 10px;
-    position: absolute;
-    content: " ";
-    top: 24px;
-    left: 0;
-    width: 100%;
+background: #3D79BF;
+height: 10px;
+position: absolute;
+content: " ";
+top: 24px;
+left: 0;
+width: 100%;
 }
 */
 
@@ -2756,7 +2761,7 @@ display: none;
     padding-left: 20px;
     color: #000;
     font-size: 14px;
-/*    font-weight: normal;*/
+    /*    font-weight: normal;*/
 }
 
 .intern-block ul li {
@@ -3345,7 +3350,7 @@ display: none;
     .life-btn {
         margin-top: 12%;
     }
-    
+
     .intern-info-wrap .layout {
         max-width: 870px;
     }
@@ -3724,6 +3729,26 @@ display: none;
             background: url(../../images/career/apply-img@2x.png) no-repeat 0 0;
             background-size: 47px;
         }
+        
+        .intern-block h3:before {
+            background: url(../../images/career/intern-sprite@2x.png) no-repeat 0 0;
+            background-size: 250px;
+        }
+
+        .period-block h3:before {
+            background-position: -60px 0;
+            background-size: 250px;
+        }
+
+        .learn-block h3:before {
+            background-position: -119px 0;
+            background-size: 250px;
+        }
+
+        .process-block h3:before {
+            background-position: -209px 0;
+            background-size: 250px;
+        }
 
     }
 
@@ -3762,4 +3787,12 @@ display: none;
         display: none;
     }
 
+}
+
+@media screen and (max-width: 320px) {
+    .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
+        max-width: 320px;
+        max-width: 18rem;
+        margin: 0 auto;
+    }
 }
