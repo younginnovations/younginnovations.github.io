@@ -186,7 +186,7 @@ Happy Team<span>=</span>Productivity
   + UX Developer
 * ![Santosh Neupane]({{ site.url }}/images/staff/Sachit.jpg)
   + Sachit Bir Singh Dangol
-  + Junior Software Engineer
+  + Jr. Software Engineer
 * ![Santosh Neupane]({{ site.url }}/images/staff/Santosh.jpg)
   + Santosh Neupane
   + System Administrator
