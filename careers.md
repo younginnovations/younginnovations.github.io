@@ -2,7 +2,7 @@
 layout: page
 permalink: /careers/
 title: Careers
-tagline: Minimal Mistakes, a Jekyll Theme
+tagline: Careers at YoungInnovations
 tags: [careers]
 modified: 2014-05-15
 comments: true

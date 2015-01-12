@@ -3577,7 +3577,7 @@ width: 100%;
         }
 
         .social-links ul li a {
-            background: url(../../images/contact/sprite@2x.png) no-repeat 0 1px;
+            /*background: url(../../images/contact/sprite@2x.png) no-repeat 0 1px;*/
             background-size: 210px;
         }
 

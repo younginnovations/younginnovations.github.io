@@ -2,8 +2,8 @@
 layout: contact
 permalink: /contact/
 title: Contact
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [contact, Jekyll, theme, responsive]
+tagline: Careers at YoungInnovations
+tags: [contact]
 modified: 2014-05-15
 comments: true
 ---

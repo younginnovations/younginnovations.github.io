@@ -2,7 +2,7 @@
 layout: page
 permalink: /ourstory/
 title: 
-tagline: Minimal Mistakes, a Jekyll Theme
+tagline: Story behind YoungInnovations
 tags: [page]
 modified: 2014-05-15
 comments: true
