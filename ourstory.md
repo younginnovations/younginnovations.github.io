@@ -184,6 +184,9 @@ Happy Team<span>=</span>Productivity
 * ![Rohit Shrestha]({{ site.url }}/images/staff/Rohit.jpg)
   + Rohit Shrestha
   + UX Developer
+* ![Santosh Neupane]({{ site.url }}/images/staff/Sachit.jpg)
+  + Sachit Bir Singh Dangol
+  + Junior Software Engineer
 * ![Santosh Neupane]({{ site.url }}/images/staff/Santosh.jpg)
   + Santosh Neupane
   + System Administrator

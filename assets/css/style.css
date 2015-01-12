@@ -1165,69 +1165,6 @@ display: inline-block;
     }
 }
 
-@media screen and (max-width: 400px) {
-    /*
-    .morph-button-fixed,
-    .morph-button-fixed .morph-content {
-    width: 200px;
-    height: 80px;
-}
-    */
-
-    .morph-button-fixed > button {
-        font-size: 75%;
-    }
-
-    .morph-button-sidebar > button {
-        font-size: 1.6em;
-    }
-
-    .morph-button-inflow .morph-content .morph-clone {
-        font-size: 0.9em;
-    }
-
-    /*
-    .morph-button-modal-4,
-    .morph-button-modal-4 .morph-content {
-    width: 220px;
-    height: 120px;
-}
-    */
-
-    .morph-button-modal-4 > button {
-        font-size: 100%;
-        line-height: 50px;
-    }
-
-    .morph-button-modal-4 > button span {
-        display: block;
-    }
-
-    .morph-button-modal-4 .morph-clone {
-        right: 83px;
-        bottom: 26px;
-    }
-
-    .morph-button-sidebar,
-    .morph-button-sidebar .morph-content {
-        width: 100% !important;
-        height: 60px !important;
-    }
-
-    .morph-button-sidebar {
-        bottom: 0px;
-        left: 0px;
-    }
-
-    .morph-button-sidebar.open .morph-content {
-        height: 100% !important;
-    }
-    
-    .nav ul li .sub-menu {
-        left: 30px;
-        top: 1px;
-    }
-}
 
 .icon-close {
     font-family: 'Open Sans', sans-serif;
@@ -3524,12 +3461,6 @@ width: 100%;
     }
 }
 
-@media screen and (max-width:400px) {    
-    .impact {
-        font-size: 1.9rem;
-    }
-}
-
 @media only screen and (max-width: 560px) {
     .days-left {
         width: auto;
@@ -3729,7 +3660,7 @@ width: 100%;
             background: url(../../images/career/apply-img@2x.png) no-repeat 0 0;
             background-size: 47px;
         }
-        
+
         .intern-block h3:before {
             background: url(../../images/career/intern-sprite@2x.png) no-repeat 0 0;
             background-size: 250px;
@@ -3777,6 +3708,67 @@ width: 100%;
     }
 }
 
+@media screen and (max-width: 400px) {
+
+    .morph-button-fixed > button {
+        font-size: 75%;
+    }
+
+    .morph-button-sidebar > button {
+        font-size: 1.6em;
+    }
+
+    .morph-button-inflow .morph-content .morph-clone {
+        font-size: 0.9em;
+    }
+
+    .morph-button-modal-4 > button {
+        font-size: 100%;
+        line-height: 50px;
+    }
+
+    .morph-button-modal-4 > button span {
+        display: block;
+    }
+
+    .morph-button-modal-4 .morph-clone {
+        right: 83px;
+        bottom: 26px;
+    }
+
+    .morph-button-sidebar,
+    .morph-button-sidebar .morph-content {
+        width: 100% !important;
+        height: 60px !important;
+    }
+
+    .morph-button-sidebar {
+        bottom: 0px;
+        left: 0px;
+    }
+
+    .morph-button-sidebar.open .morph-content {
+        height: 100% !important;
+    }
+
+    .impact {
+        font-size: 1.9rem;
+    }
+
+    .nav ul li .sub-menu {
+        left: 30px;
+        top: 1px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
+        max-width: 320px;
+        max-width: 18rem;
+        margin: 0 auto;
+    }
+}
+
 @media screen and (max-width: 940px) {
 
     .nav ul li .sub-menu em, .nav ul li .sub-menu span  {
@@ -3789,10 +3781,4 @@ width: 100%;
 
 }
 
-@media screen and (max-width: 320px) {
-    .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
-        max-width: 320px;
-        max-width: 18rem;
-        margin: 0 auto;
-    }
-}
+

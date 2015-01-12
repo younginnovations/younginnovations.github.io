@@ -1,7 +1,7 @@
 title:            YoungInnovations
 description:      Company website
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://younginnovations.com.np
 encoding:         UTF-8
 disqus_shortname:
 
