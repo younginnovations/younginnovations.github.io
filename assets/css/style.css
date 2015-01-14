@@ -3576,18 +3576,13 @@ width: 100%;
             background-size: 32px;
         }
 
-        .social-links ul li a {
-            background: url(../../images/contact/sprite@2x.png) no-repeat 0 1px;
-            background-size: 210px;
-        }
-
         .social-links ul li.twitter a {
             background: url(../../images/contact/sprite@2x.png) no-repeat -79px 1px;
             background-size: 210px;
         }
 
         .social-links ul li a {
-            background: url(../../images/contact/sprite@2x.png) no-repeat -161px 1px;
+/*            background: url(../../images/contact/sprite@2x.png) no-repeat -161px 1px;*/
             background-size: 210px;
         }
 
