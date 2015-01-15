@@ -4,7 +4,7 @@ title: Open Nepal
 impact: Catalysing the open data ecosystem in Nepal
 description: ""
 modified: 2013-05-31
-tags: [intro, beginner, jekyll, tutorial]
+tags: [open nepal, open data]
 comments: true
 categories: work
 link: http://opennepal.net  
