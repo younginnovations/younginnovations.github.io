@@ -39,7 +39,10 @@
 
     <div id="work layout">
       <div class="layout work-article-wrap upto-article-wrap">
-        {% for post in site.what-we-upto %} 
+
+        {% assign items = site.what-we-upto %}
+
+        {% for post in items reversed %} 
 
         <article>
 

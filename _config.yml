@@ -46,6 +46,11 @@ links:
     url: /contact/
   - title: <span>05</span> what we're up to
     url: /what-we-upto/
+
+collections:
+  what-we-upto:
+    output: true
+    permalink: /:title/
     
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kathmandu

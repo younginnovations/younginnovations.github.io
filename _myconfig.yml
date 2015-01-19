@@ -49,7 +49,6 @@ links:
     
 
 collections:
-  collections:
   what-we-upto:
     output: true
     permalink: /:title/
