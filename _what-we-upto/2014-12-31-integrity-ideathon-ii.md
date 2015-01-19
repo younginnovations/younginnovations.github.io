@@ -5,7 +5,7 @@ description: ""
 modified: 2014-12-31
 tags: [integrity action, integrity, idethon, integrity ideathon]
 comments: true
-categories: what-we-upto
+categories: what-we-upto-category
 image:
   cover: what-we-upto/integrity-ideathon-ii_thumb.jpg
   feature: what-we-upto/integrity-ideathon-ii.jpg

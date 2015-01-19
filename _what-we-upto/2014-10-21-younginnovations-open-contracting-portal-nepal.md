@@ -5,7 +5,7 @@ description: ""
 modified: 2014-10-21
 tags: [open contracting, open data, contracting]
 comments: true
-categories: what-we-upto
+categories: what-we-upto-category
 image:
   cover: what-we-upto/open-contracting-portal_thumb.jpg
   feature: what-we-upto/open-contracting-portal.jpg

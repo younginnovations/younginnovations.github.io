@@ -5,7 +5,7 @@ description: ""
 modified: 2014-09-05
 tags: [pran, accountability, social accountability]
 comments: true
-categories: what-we-upto
+categories: what-we-upto-category
 
 image:
   cover: what-we-upto/multi-stake_thumb.jpg
