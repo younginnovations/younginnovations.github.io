@@ -2,7 +2,7 @@
 layout: what-we-upto 
 title: YoungInnovations presents D portal in Nepal
 description: ""
-modified: 2015-01-20
+modified: January 20, 2015
 tags: [dportal, aid, resource flow, development, open data]
 comments: true
 categories: what-we-upto-category

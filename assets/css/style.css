@@ -94,6 +94,13 @@ input,button {
     margin: 0 auto;
 }
 
+.meta {
+    color: #ccc;
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
 body.home {
     background: #d1d1d1 url(../../images/pages/bg-img.jpg) no-repeat 0 0;
     background-size: cover;
@@ -3063,6 +3070,10 @@ width: 100%;
 
     .work-article-layout h1 {
         font-size: 48px;
+    }
+    
+    .meta {
+        font-size: 25px;
     }
 
     .logo-wrapper ul li {

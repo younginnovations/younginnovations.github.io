@@ -2,7 +2,7 @@
 layout: what-we-upto 
 title: YoungInnovations presented the Open Contracting Portal in Nepal
 description: ""
-modified: 2014-10-21
+modified: October 21, 2014
 tags: [open contracting, open data, contracting]
 comments: true
 categories: what-we-upto-category
