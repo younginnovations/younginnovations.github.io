@@ -2,7 +2,8 @@
 layout: what-we-upto 
 title: Innovation with Open Data
 description: ""
-modified: September 6, 2014
+event_date: September 22, 2014
+published_date: October 6, 2014
 tags: [open data, icimod, open nepal]
 comments: true
 categories: what-we-upto-category

@@ -94,11 +94,21 @@ input,button {
     margin: 0 auto;
 }
 
-.meta {
+.event_date {
     color: #ccc;
     font-size: 20px;
     font-style: italic;
     margin-bottom: 20px;
+}
+
+.published_date_label {
+    color: #ccc;
+    font-style: italic;
+}
+
+.published_date_value {
+    color: #999;
+    font-style: italic;
 }
 
 body.home {
@@ -3072,7 +3082,7 @@ width: 100%;
         font-size: 48px;
     }
     
-    .meta {
+    .event_date {
         font-size: 25px;
     }
 

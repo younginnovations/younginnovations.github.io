@@ -37,12 +37,21 @@
         <div class="headline-wrap layout">
           
             <h1>{{ page.title }}</h1>
-            <div class="meta">{{page.modified}}</div>
+            
+            {% if page.event_date %}
+                <div class="event_date">{{page.event_date}}</div>
+            {% endif %}
             
         </div><!--/ .headline-wrap -->
         <div class="article-wrap work-detail-wrap">
           <div class="layout work-description">
               {{ content }}
+              {% if page.published_date %}
+                <div class="published_date">
+                    <span class="published_date_label">Published on:</span> 
+                    <span class="published_date_value">{{page.published_date}}</span>
+                </div>
+              {% endif %}
           </div>
         </div><!-- /.article-wrap -->
       </div>

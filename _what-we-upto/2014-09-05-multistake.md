@@ -2,7 +2,8 @@
 layout: what-we-upto 
 title: Young Innovations at Multi-Stakeholder Knowledge Forum
 description: ""
-modified: September 5, 2014
+event_date: September 12, 2014
+published_date: October 5, 2014
 tags: [pran, accountability, social accountability]
 comments: true
 categories: what-we-upto-category
