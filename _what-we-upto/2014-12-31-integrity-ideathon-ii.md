@@ -7,7 +7,7 @@ tags: [integrity action, integrity, idethon, integrity ideathon]
 comments: true
 categories: what-we-upto-category
 image:
-  cover: what-we-upto/integrity-ideathon-ii_thumb.jpg
+  thumb: what-we-upto/integrity-ideathon-ii_thumb.jpg
   feature: what-we-upto/integrity-ideathon-ii.jpg
 ---
 

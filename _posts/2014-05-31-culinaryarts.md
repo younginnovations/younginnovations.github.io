@@ -9,7 +9,7 @@ comments: false
 categories: work
 link: http://culinaryarts.com.np/
 image:
-  cover: work/thumbnails/culinaryarts.jpg
+  thumb: work/thumbnails/culinaryarts.jpg
   feature: work/culinaryarts/feature-img.jpg
   screenshot_left: work/culinaryarts/culinaryartsimg1.jpg
   screenshot_right: work/culinaryarts/culinaryartsimg2.jpg

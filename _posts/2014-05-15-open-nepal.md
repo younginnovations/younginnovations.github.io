@@ -9,7 +9,7 @@ comments: true
 categories: work
 link: http://opennepal.net  
 image:
-  cover: work/thumbnails/opennepal.png
+  thumb: work/thumbnails/opennepal.png
   feature: work/opennepal/feature-img.jpg
   screenshot_left: work/opennepal/opennepalimg-1.png
   screenshot_right: work/opennepal/opennepalimg-2.png

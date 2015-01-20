@@ -9,7 +9,7 @@ comments: false
 categories: work
 link: http://aidstream.org  
 image:
-  cover: work/thumbnails/aidstream.png
+  thumb: work/thumbnails/aidstream.png
   feature: work/aidstream/feature-img.jpg
   screenshot: work/aidstream/img-1.png
 ---

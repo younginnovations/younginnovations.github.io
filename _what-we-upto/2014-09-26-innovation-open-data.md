@@ -6,9 +6,8 @@ modified: 2014-09-26
 tags: [open data, icimod, open nepal]
 comments: true
 categories: what-we-upto-category
-
 image:
-  cover: what-we-upto/innovations-open-data_thumb.jpg
+  thumb: what-we-upto/innovations-open-data_thumb.jpg
   feature: what-we-upto/innovations-open-data.jpg
 ---
 

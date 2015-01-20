@@ -9,7 +9,7 @@ comments: true
 categories: work
 link: http://nip.org.np/mrcampaign2012/  
 image:
-  cover: work/thumbnails/rubella.png
+  thumb: work/thumbnails/rubella.png
   feature: work/rubella/feature-img.jpg
   screenshot_left: work/rubella/nipimg1.jpg
   screenshot_right: work/rubella/nipimg2.jpg
