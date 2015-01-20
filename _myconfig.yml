@@ -51,7 +51,7 @@ links:
 collections:
   what-we-upto:
     output: true
-    permalink: /:title/
+    permalink: /:collection/:title/
     
   page_collections:
     output: true

@@ -50,7 +50,7 @@ links:
 collections:
   what-we-upto:
     output: true
-    permalink: /:title/
+    permalink: /:collection/:title/
     
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kathmandu
