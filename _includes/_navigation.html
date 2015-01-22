@@ -3,8 +3,10 @@
 		<a href="{{ site.url }}">{{ site.title }}</a>
 	</div><!-- /.site-name -->
 	<div id="post-nav" class="clearfix nav-slide">
-		{% if page.next.url and page.next.title != "Young Innovations at Multi-Stakeholder Knowledge Forum" %} 
-		<a class="prev" href="{{page.next.url}}">
+
+	<span class="work">
+		{% if page.previous.url %}
+		<a class="prev" href="{{page.prevous.url}}">
 			<span class="slide-wrap">Previous</span>
 			<div class="thumbnail">
 			<span class="thumb-title">{{page.next.title}}</span>
@@ -13,16 +15,39 @@
 		{% endif %} 
 		<div class="all-project">
 			<a href="{{site.url}}/work">Back to work</a>
-			<a href="{{site.url}}/what-we-upto" class="upto">Back to What we're upto</a>
 		</div>
-		{% if page.next.url and page.next.title != "Development Check" %} 
-		<a class="next" href="{{page.previous.url}}">
+		{% if page.next.url %} 
+		<a class="next" href="{{page.next.url}}">
 			<span class="slide-wrap">Next</span>
 			<div class="thumbnail">
 			<span class="thumb-title">{{page.previous.title}}</span>
 			<img src="{{site.url}}/images/{{page.previous.image.thumb}}"></div>
 			</a> 
 		{% endif %} 
+	</span>
+
+	<span class="what-we-upto">
+		{% if prevPost.url %}
+		<a class="prev" href="{{prevPost.url}}">
+			<span class="slide-wrap">Previous</span>
+			<div class="thumbnail">
+			<span class="thumb-title">{{prevPost.title}}</span>
+			<img src="{{site.url}}/images/{{prevPost.image.thumb}}"></div>
+		</a> 
+		{% endif %} 
+		<div class="all-project">
+			<a href="{{site.url}}/what-we-upto" class="upto">Back to What we're upto</a>
+		</div>
+		{% if nextPost.url %}
+		<a class="next" href="{{nextPost.url}}">
+			<span class="slide-wrap">Next</span>
+			<div class="thumbnail">
+			<span class="thumb-title">{{nextPost.title}}</span>
+			<img src="{{site.url}}/images/{{nextPost.image.thumb}}"></div>
+		</a> 
+		{% endif %} 
+	</span>
+
 	</div>
 	<!--	<div class="top-navigation morph-button morph-button-modal morph-button-modal-4 morph-button-fixed navigation">-->
 	<div class="top-navigation navigation">
