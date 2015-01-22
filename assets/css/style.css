@@ -2523,7 +2523,7 @@ display: none;
 .develop-title {
     background: rgb(74,144,226);
     background: rgba(74,144,226,0.9);
-    padding: 70px 0 62px;
+    padding: 70px 10px 62px;
     text-align: center;
     font-size: 40px;
     font-weight: 300;
@@ -2595,7 +2595,7 @@ width: 100%;
     font-weight: bold;
     display: inline-block;
     padding: 0;
-    /*    margin: 0 3px;*/
+    margin: 0 3px;
 }
 
 .developer-section:after {
@@ -3061,7 +3061,7 @@ width: 100%;
     .work-article-layout h1 {
         font-size: 48px;
     }
-    
+
     .event_date {
         font-size: 25px;
     }
@@ -3584,7 +3584,7 @@ width: 100%;
         }
 
         .social-links ul li a {
-/*            background: url(../../images/contact/sprite@2x.png) no-repeat -161px 1px;*/
+            /*            background: url(../../images/contact/sprite@2x.png) no-repeat -161px 1px;*/
             background-size: 210px;
         }
 
@@ -3698,7 +3698,7 @@ width: 100%;
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 499px) {
     .nav ul li .sub-menu {
         left: 42px;
         top: 12px;
@@ -3751,31 +3751,33 @@ width: 100%;
     .impact {
         font-size: 1.9rem;
     }
-
-    .nav ul li .sub-menu {
-        left: 30px;
-        top: 1px;
-    }
 }
 
-@media screen and (max-width: 320px) {
-    .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
-        max-width: 320px;
-        max-width: 18rem;
-        margin: 0 auto;
+    @media screen and (max-width: 402px) {
+        .nav ul li .sub-menu {
+            left: 30px;
+            top: 1px;
+        }
     }
-}
 
-@media screen and (max-width: 940px) {
+    @media screen and (max-width: 320px) {
+        .layout,.work-detail-wrap h2,.work-detail-wrap p,.work-detail-wrap ul {
+            max-width: 320px;
+            max-width: 18rem;
+            margin: 0 auto;
+        }
+    }
 
-    .nav ul li .sub-menu em, .nav ul li .sub-menu span  {
+    @media screen and (max-width: 940px) {
+
+        .nav ul li .sub-menu em, .nav ul li .sub-menu span,.nav ul li .sub-menu .note {
+            display: none;
+        }
+
+    }
+
+    .nav ul li .sub-menu em, .nav ul li .sub-menu span,.nav ul li .sub-menu .note {
         display: none;
     }
-
-    .nav ul li .sub-menu .note {
-        display: none;
-    }
-
-}
 
 
