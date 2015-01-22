@@ -1180,6 +1180,10 @@ display: inline-block;
         -webkit-transition: width 0.4s 0.1s, height 0.4s 0.1s, top 0.4s 0.1s, left 0.4s 0.1s;
         transition: width 0.4s 0.1s, height 0.4s 0.1s, top 0.4s 0.1s, left 0.4s 0.1s;
     }
+    
+    .days-left {
+        width: auto;
+    }
 }
 
 
@@ -3686,7 +3690,7 @@ width: 100%;
         top: 40px;
     }
 
-    .nav ul li:nth-child(3) a,.nav ul li:nth-child(4n) a {
+    .timenav ul li:nth-child(3) a,.timenav ul li:nth-child(4n) a {
         padding-bottom: 22px;
     }
 }

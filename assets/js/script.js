@@ -315,12 +315,14 @@ $(document).ready(function(){
             if(newYear){
                 message += " ";
                 note.html(message);
+                $('.nav').addClass('timenav');
             }
             else {
                 message += " ";
                 note.html(endMessage);
                 $('.days-left').addClass('endnote');
-                $('.remaining').hide()
+                $('.remaining').hide();
+                $('.nav ul li .sub-menu').hide();
             }
 
            
