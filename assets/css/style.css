@@ -1257,23 +1257,8 @@ display: inline-block;
     margin: 0 auto 40px;
 }
 
-/*
-.work-article-wrap article:first-child {
-display: none;
-}
-*/
-
-.work-article-wrap article:last-child .info {
-    display: none;
-}
-
 .upto-article-wrap article:last-child .info {
     display: block;
-}
-
-.work-article-wrap article:last-child .link-article a,.work-article-wrap article:last-child .portfolio-title a {
-    cursor: default;
-    pointer-events: none;
 }
 
 .upto-article-wrap article:last-child .link-article a,.upto-article-wrap article:last-child .portfolio-title a {
@@ -2250,10 +2235,6 @@ body.fixed .slide-navigation {
 }
 
 #post-nav .upto {
-    display: none;
-}
-
-.upto-wrap #post-nav a:first-child,.upto-wrap #post-nav a.next {
     display: none;
 }
 
