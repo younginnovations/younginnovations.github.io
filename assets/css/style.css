@@ -2554,6 +2554,7 @@ width: 100%;
     padding-top: 70px;
     background: #fff;
     overflow: hidden;
+    display: none;
 }
 
 .days-left {
@@ -2870,6 +2871,26 @@ width: 100%;
 
 .error-section {
     display: none;
+}
+
+/*blog*/
+
+.summary {
+    margin-bottom: 26px;
+    font-size: 22px;
+    font-size: 1.22rem;
+    line-height: 1.47;
+    text-align: left;
+}
+
+.leftimage {
+    float: left;
+    margin-right: 20px;
+}
+
+.rightimage {
+    float: right;
+    margin-left: 20px;
 }
 
 @media only screen and (min-width: 480px) {
