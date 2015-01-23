@@ -324,8 +324,6 @@ $(document).ready(function(){
                 $('.remaining').hide();
                 $('.nav ul li .sub-menu').hide();
             }
-
-           
         }
     });
     
@@ -341,6 +339,15 @@ $(document).ready(function(){
     $('.error-wrapper img').plaxify();
     $.plax.enable();
 
+    var imgTags = $( ".blog-layout img" );
 
+        if ( imgTags.parent().is( "p" ) ) {
+            imgTags.unwrap();
+        }
+    
+    $('.leftimage,.leftimage+p').wrapAll('<div class="blog-text-wrap"></div>');
+    $('.rightimage,.rightimage+p').wrapAll('<div class="blog-text-wrap"></div>');
+
+    
 });
 

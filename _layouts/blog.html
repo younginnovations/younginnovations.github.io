@@ -1,0 +1,128 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  {% include _head.html %}
+</head>
+
+<body class="post">
+
+  {% include _browser-upgrade.html %}  
+  {% for c in site.blog %}
+  {% if c.title == page.title %}
+  {% assign thisPost = c %}
+  {% if forloop.index == 1 %}
+  {% assign prevflag = 0 %}
+  {% assign nextflag = 1 %}
+  {% elsif forloop.index == forloop.length %}
+  {% assign prevflag = 1 %}
+  {% assign nextflag = 0 %}
+  {% else %}
+  {% assign prevflag = 1 %}
+  {% assign nextflag = 1 %}
+  {% endif %}  
+  {% endif %}
+  {% endfor %}
+
+  {% for c in site.blog %}
+  {% if c.title == page.title %}
+  {% assign prevflag = 0 %}
+  {% endif %}
+  {% if prevflag == 1 %}
+  {% assign prevPost = c %}
+  {% assign page.previous = c %}
+  {% endif %}
+  {% endfor %}
+
+  {% if nextflag == 1 %}
+  {% for c in site.blog %}
+  {% if foundPost == 1 %}
+  {% assign getNext = 1 %}
+  {% endif %}
+  {% if c.title == page.title %}
+  {% assign foundPost = 1 %}        
+  {% endif %}
+  {% if getNext == 1%}
+  {% assign nextPost = c %}
+  {% assign page.next = c %}
+  {% assign foundPost = 0 %}
+  {% assign getNext = 0 %}
+  {% endif %}
+  {% endfor %}
+  {% endif %}
+
+  {% include _navigation.html %}
+
+
+  <div id="main" role="main">
+    {% if page.image.feature %}
+    <div class="image-wrap">
+      <img src=
+           {% if page.image.feature contains 'http://' %}
+           "{{ page.image.feature }}"
+           {% elsif page.image.feature contains 'https://' %}
+           "{{ page.image.feature }}"
+           {% else %}
+           "{{ site.url }}/images/{{ page.image.feature }}"
+           {% endif %}
+           alt="{{ page.title }} feature image">
+      {% if page.image.credit %}
+      <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+      {% endif %}
+    </div><!-- /.image-wrap -->
+    {% endif %}
+
+    <article>
+      <div class="work-article-layout upto-article-layout blog-layout">
+        <div class="headline-wrap layout">
+
+          <h1>{{ page.title }}</h1>
+
+          {% if page.posted_date %}
+          <div class="event_date">{{page.posted_date}}</div>
+          {% endif %}
+          
+          {% if page.excerpt %}
+          <div class="summary">{{page.excerpt}}</div>
+          
+          {% endif %}
+
+        </div><!--/ .headline-wrap -->
+        <div class="article-wrap work-detail-wrap">
+          <div class="layout work-description">
+            {{ content }}
+            {% if page.published_date %}
+            <div class="published_date">
+              <span class="published_date_label">Published on:</span> 
+              <span class="published_date_value">{{page.published_date}}</span>
+            </div>
+            {% endif %}
+
+            {% if page.author %}
+            <div class="author-wrap">by <span class="author-name">{{page.author}}</span></div>
+            {%endif%}
+          </div>
+          
+          {% if page.comments %}
+          <div class="comments-section">
+            {% include _disqus.html%}
+          </div>
+          {%endif%}
+          </div>
+        </div><!-- /.article-wrap -->
+      </div>
+    </article>
+  </div><!-- /#main -->
+
+  <div class="footer-wrap">
+    <footer class="layout">
+      {% include _footer.html %}
+    </footer>
+  </div><!-- /.footer-wrap -->
+
+  {% include _scripts.html %}	        
+
+</body>
+</html>

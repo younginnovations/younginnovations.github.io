@@ -30,7 +30,7 @@
     </div>
     {% endif %}
 
-    {% if page.collection %}
+    {% if page.path contains '_what-we-upto' %}
     <div id="post-nav" class="clearfix nav-slide">
         <div class="what-we-upto">
             {% if prevPost.url %}
@@ -53,6 +53,32 @@
                 </a> 
             {% endif %} 
 	    </div>
+    </div>
+    {% endif %}
+    
+    {% if page.path contains 'blog' %}
+    <div id="post-nav" class="clearfix nav-slide">
+        <div class="blog">
+            {% if prevPost.url %}
+            <a class="prev" href="{{prevPost.url}}">
+                <span class="slide-wrap">Previous</span>
+                <div class="thumbnail">
+                    <span class="thumb-title">{{prevPost.title}}</span>
+                    <img src="{{site.url}}/images/{{prevPost.image.thumb}}"></div>
+            </a> 
+            {% endif %} 
+            <div class="all-project">
+                <a href="{{site.url}}/blog" class="upto">Back to Blog</a>
+            </div>
+            {% if nextPost.url %}
+            <a class="next" href="{{nextPost.url}}">
+                <span class="slide-wrap">Next</span>
+                <div class="thumbnail">
+                    <span class="thumb-title">{{nextPost.title}}</span>
+                    <img src="{{site.url}}/images/{{nextPost.image.thumb}}"></div>
+            </a> 
+            {% endif %} 
+        </div>
     </div>
     {% endif %}
 

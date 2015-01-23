@@ -53,8 +53,12 @@ collections:
     output: true
     permalink: /:collection/:title/
     
-  page_collections:
+  blog:
     output: true
+    permalink: /:collection/:title/
+    
+#  page_collections:
+#    output: true
 #- projects:
 #    permalink: pretty
 #- team

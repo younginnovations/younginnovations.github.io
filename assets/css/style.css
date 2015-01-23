@@ -47,6 +47,10 @@ a,a:link,a:visited {
     color: #F16622;
 }
 
+a:focus {
+    outline: 0;
+}
+
 a:hover {
     background: #F16622;
     color: #fff;
@@ -2247,6 +2251,10 @@ body.fixed .slide-navigation {
     width: 182px;
 }
 
+.blog .upto {
+    width: 106px!important;
+}
+
 .post .navigation-wrapper {
     padding-bottom: 0;
 }
@@ -2314,16 +2322,9 @@ body.fixed .slide-navigation {
     top: -200%;
 }
 
-
 .smallnav-wrap .navigation-wrapper{
     position: static;
 }
-/*
-
-.smallnav-wrap .headline-wrap h1 {
-display: none;
-}
-*/
 
 .smallnav-wrap #main {
     margin: 0!important;
@@ -2886,11 +2887,47 @@ width: 100%;
 .leftimage {
     float: left;
     margin-right: 20px;
+    position: relative;
 }
 
 .rightimage {
     float: right;
     margin-left: 20px;
+}
+
+.blog-layout p {
+    clear: both;
+}
+
+.leftimage+p,.rightimage+p {
+    clear: none;
+}
+
+.blog-layout {
+    overflow: hidden;
+}
+
+.blog-layout img {
+    margin-bottom: 20px;
+}
+
+.blog-text-wrap {
+    overflow: hidden;
+}
+
+.published_date {
+    float: left;
+}
+
+.author-wrap {
+    float: left;
+    margin-left: 4px;
+    color: #ccc;
+}
+
+.author-name {
+    color: #999;
+    font-style: italic;
 }
 
 @media only screen and (min-width: 480px) {
