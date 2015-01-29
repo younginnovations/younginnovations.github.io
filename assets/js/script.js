@@ -290,7 +290,7 @@ $(document).ready(function(){
     });
     
     var note = $('.note'),
-        ts = new Date(2015, 0, 23),
+        ts = new Date(2015, 1, 16),
         newYear = true;
 
     if((new Date()) > ts){
@@ -307,10 +307,10 @@ $(document).ready(function(){
             var message = "";
             var endMessage = "Thank you to those who have applied.We have closed the application for now."
 
-            //message += "<span class='time'>" + days + "</span>" + ( days==1 ? '':' ' );
-            message += "<span class='time'>" + hours + "</span>" + "hour" + ( hours==1 ? '':'s' ) + " ";
-            message += "<span class='time'>" + minutes + "</span>" + "minute" + ( minutes==1 ? '':'s' ) + " ";
-            message += "<span class='time'>" + seconds + "</span>" + "second" + ( seconds==1 ? '':'s' );
+            message += "<span class='time'>" + days + "</span>" + ( days==1 ? '':' ' );
+//            message += "<span class='time'>" + hours + "</span>" + "hour" + ( hours==1 ? '':'s' ) + " ";
+//            message += "<span class='time'>" + minutes + "</span>" + "minute" + ( minutes==1 ? '':'s' ) + " ";
+//            message += "<span class='time'>" + seconds + "</span>" + "second" + ( seconds==1 ? '':'s' );
 
             if(newYear){
                 message += " ";

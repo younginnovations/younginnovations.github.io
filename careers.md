@@ -14,8 +14,10 @@ comments: true
     </div>
     <div class="career-info">
         <div class="layout">
-        We don't have any openings now. Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
-        <a href="#internship" class="dev-btn" id="developerlink"><span class="see-work">We're open for internship</span><span class="progress"></span></a>
+<!--        We don't have any openings now.-->
+         Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
+<!--        <a href="#internship" class="dev-btn" id="developerlink"><span class="see-work">We're open for internship</span><span class="progress"></span></a>-->
+<a href="#developer" class="dev-btn" id="developerlink">We're hiring software developers!</a>
         </div>
     </div>
 </div>
@@ -26,19 +28,19 @@ comments: true
     </div>
 </div>
 
-<div class="developer-section" id="internship">
+<div class="developer-section" id="developer">
    <div class="develop-img">
        
    </div>
     <div class="develop-title">
-    Internship at<br/> YoungInnovations
-<!-- <div class="days-left"><span id="remain-note" class="note"></span><span class="remaining"><strong><em>days </em></strong>remaining to apply!</span></div>-->
-<div class="days-left"><span id="remain-note" class="note"></span><span class="remaining">remaining to apply!</span></div>
+    We're hiring<br/> Software developers
+ <div class="days-left"><span id="remain-note" class="note"></span><span class="remaining"><strong><em>days </em></strong>remaining to apply!</span></div>
+<!--<div class="days-left"><span id="remain-note" class="note"></span><span class="remaining">remaining to apply!</span></div>-->
     </div>
     
 </div> 
 
-<!--
+
 <div class="developer-info-wrap">
 <div class="layout">
 <div class="developer-wrap-block">
@@ -47,9 +49,11 @@ comments: true
         <ul>
             <li>Good working knowledge of either Php or Python</li>
             <li>Good working knowledge of Javascript and any JS Libraries (jQuery, prototype, etc.)</li>
-            <li>Comfortable with any version control system (git preferred)</li>
+            <li>Comfortable with Git</li>
+            <li>Strong hold in object oriented programming concepts</li>
             <li>Have developed/worked in REST based system</li>
-            <li>Comfortable with *nix system</li>
+            <li>Have developed/involved in software architecture design </li>
+            <li>Comfortable with linux system</li>
             <li>Passion and aptitude to learn and explore new technologies</li>
             <li>A team player</li>
             <li>Ability to work on multiple projects at once</li>
@@ -60,10 +64,12 @@ comments: true
         <h3>Plus Points</h3>
         <ul>
             <li>Experience in other scripting languages and HTML/CSS</li>
-            <li>Good knowledge of design patterns and architecture design</li>
+            <li>Experience in functional languages like clisp, clojure</li>
+            <li>Experience in messaging system like RabbitMQ, ZeroMQ</li>
             <li>Knowledge of Test Driven Development (TDD)</li>
-            <li>Experience in NoSQL databases</li>
+            <li>Experience in PostgreSQL database and NoSQL databases</li>
             <li>Experience building mobile applications</li>
+            <li>Experience with application deployment systems</li>
             <li>Experience in javascript MV* frameworks like angular, backbone</li>
             <li>UI design concepts</li>
             <li>Unafraid to learn new languages or new tools</li>
@@ -84,16 +90,16 @@ comments: true
     
     <div class="developer-block experience-block">
         <h3>Experience</h3>
-        <p>We’re looking for someone who has 1+ years of experience in software development field. </p>
+        <p>We’re looking for someone who has #+ years of experience in software development field.</p>
     </div>
 </div>
 <div class="developer-block apply-block">
     <h3>How to apply?</h3>
     <ul>
     <li>Upload your CV in Dropbox</li>
-    <li>Complete the challenge <a href="https://github.com/younginnovations/problem-statements/tree/master/clean-up-contracts-data-2" target="_blank">here</a> </li>
+    <li>Complete the challenge <a href="https://github.com/younginnovations/problem-statements/tree/master/clean-up-contracts-data-xml" target="_blank">here</a> </li>
     <li>Upload your work in <a href="http://github.com" target="_blank">github</a> (don't know what github is, learn and do it)</li>
-    <li><a href="https://docs.google.com/forms/d/13ateE647HZfurbuGdrZrgs85g8dHyWgi_6TbOw-MpIA/viewform" target="_blank">Complete this form</a></li>
+    <li><a href="https://docs.google.com/forms/d/1WS-AQyBSbPtXlY3w6KcVuc2uJEvbBp2lmXlzoVIoRyM/viewform" target="_blank">Complete this form</a></li>
     </ul>
 </div>
 
@@ -104,8 +110,9 @@ comments: true
 </div>
 
 </div>
--->
 
+
+<!--
 <div class="intern-info-wrap">
     <div class="layout">
     <div class="intern-wrap-block">
@@ -137,5 +144,6 @@ comments: true
    
     </div>
 </div>   
-
+</div>
+-->
 
