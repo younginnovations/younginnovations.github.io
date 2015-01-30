@@ -98,7 +98,7 @@ comments: true
     <ul>
     <li>Upload your CV in Dropbox</li>
     <li>Complete the challenge <a href="https://github.com/younginnovations/problem-statements/tree/master/clean-up-contracts-data-xml" target="_blank">here</a> </li>
-    <li>Upload your work in <a href="http://github.com" target="_blank">github</a> (don't know what github is, learn and do it)</li>
+    <li>Upload your work in <a href="http://github.com" target="_blank">github</a></li>
     <li><a href="https://docs.google.com/forms/d/1WS-AQyBSbPtXlY3w6KcVuc2uJEvbBp2lmXlzoVIoRyM/viewform" target="_blank">Complete this form</a></li>
     </ul>
 </div>
