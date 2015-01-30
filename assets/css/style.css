@@ -2920,10 +2920,6 @@ body.fixed .slide-navigation {
     overflow: hidden;
 }
 
-.published_date {
-    float: left;
-}
-
 .author-wrap {
     float: left;
     margin-left: 4px;
