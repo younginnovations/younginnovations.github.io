@@ -11,7 +11,7 @@ image:
   feature: what-we-upto/space-apps-challenge.jpg
 ---
 
-“Innovative practices are the key to creating and discovering state-of-the-art technology”-
+“Innovative practices are the key to creating and discovering state-of-the-art technology.”
 
 International Space Apps Challenge sought to bridge the gap between innovative technology and its practices. Hosted by The National Aeronautics and Space Administration (NASA) for the third time worldwide, International Space App Challenge is a two-day long hackathon that incorporates teams of technologists, scientists, designers, artists, educators, entrepreneurs, developers and students from across the globe to collaborate and engage with publicly available data with the motive of designing innovative solutions for global challenges. The event embraces collaborative problem solving with a goal of producing relevant open-source solutions to address global needs applicable to both life on Earth and life in space.
 
