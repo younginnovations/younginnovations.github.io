@@ -17,7 +17,7 @@ comments: true
 <!--        We don't have any openings now.-->
          Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
 <!--        <a href="#internship" class="dev-btn" id="developerlink"><span class="see-work">We're open for internship</span><span class="progress"></span></a>-->
-<a href="#developer" class="dev-btn" id="developerlink">We're hiring software developers!</a>
+<a href="#developer" class="dev-btn" id="developerlink">We're hiring sr. software developers!</a>
         </div>
     </div>
 </div>
@@ -33,7 +33,7 @@ comments: true
        
    </div>
     <div class="develop-title">
-    We're hiring<br/> Software developers
+    We're hiring<br/> Sr. Software developers
  <div class="days-left"><span id="remain-note" class="note"></span><span class="remaining"><strong><em>days </em></strong>remaining to apply!</span></div>
 <!--<div class="days-left"><span id="remain-note" class="note"></span><span class="remaining">remaining to apply!</span></div>-->
     </div>
@@ -90,7 +90,7 @@ comments: true
     
     <div class="developer-block experience-block">
         <h3>Experience</h3>
-        <p>We’re looking for someone who has #+ years of experience in software development field.</p>
+        <p>We’re looking for someone who has 3+ years of experience in software development field.</p>
     </div>
 </div>
 <div class="developer-block apply-block">
