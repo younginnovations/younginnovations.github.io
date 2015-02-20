@@ -136,6 +136,9 @@ Happy Team<span>=</span>Productivity
 * ![Bibhusan Bista]({{ site.url }}/images/staff/Bibhusan.jpg)
   + Bibhusan Bista
   + CEO
+* ![Bijaya Maharjan]({{ site.url }}/images/staff/Bijaya.jpg)
+  + Bijaya Maharjan
+  + Trainee
 * ![Bir Bahadur Putuwal]({{ site.url }}/images/staff/Ravi.jpg)
   + Bir Bahadur Putuwal
   + Office Aid
@@ -169,6 +172,9 @@ Happy Team<span>=</span>Productivity
 * ![Punya Ruchal]({{ site.url }}/images/staff/Punya.jpg)
   + Punya Ruchal
   + Sr. Web Developer
+* ![Radhika Prajapati]({{ site.url }}/images/staff/Radhika.jpg)
+  + Radhika Prajapati
+  + Trainee
 * ![Rakeeb Rajbhandari]({{ site.url }}/images/staff/Rakeeb.jpg)
   + Rakeeb Rajbhandari
   + Software Engineer
@@ -180,11 +186,11 @@ Happy Team<span>=</span>Productivity
   + Jr. Software Engineer
 * ![Rishav Malla]({{ site.url }}/images/staff/Rishav.jpg)
   + Rishav Malla
-  + Trainee
+  + Jr. Graphics Designer
 * ![Rohit Shrestha]({{ site.url }}/images/staff/Rohit.jpg)
   + Rohit Shrestha
   + UX Developer
-* ![Santosh Neupane]({{ site.url }}/images/staff/Sachit.jpg)
+* ![Sachit Bir Singh Dangol]({{ site.url }}/images/staff/Sachit.jpg)
   + Sachit Bir Singh Dangol
   + Jr. Software Engineer
 * ![Santosh Neupane]({{ site.url }}/images/staff/Santosh.jpg)
@@ -199,12 +205,12 @@ Happy Team<span>=</span>Productivity
 * ![Sujata Shrestha]({{ site.url }}/images/staff/Sujata.jpg)
   + Sujata Shrestha
   + Open Data Coordinator
+* ![Sumit Chhetri]({{ site.url }}/images/staff/Sumit.jpg)
+  + Sumit Chhetri
+  + Trainee
 * ![Sweta Shrestha]({{ site.url }}/images/staff/Sweta.jpg)
   + Sweta Shrestha
   + Sr. UX developer
-* ![Tribhuvan Raj Pokharel]({{ site.url }}/images/staff/Tribhuvan.jpg)
-  + Tribhuvan Raj Pokharel
-  + Software Engineer
 
 
 <div class="service-wrapper quote-wrapper">
