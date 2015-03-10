@@ -23,3 +23,11 @@ Dr. Swarnim Wagle, Member of National Planning Commission (NPC) considered techn
 And there was much more of Open Data to look forward to! The talk shows had speakers sharing their expertise on projects and ideas related to Open Data. Hackathon brought forward interesting applications revolving around the theme of this year. The winner among a total of 42 participants divided into 10 teams of the hackathon was **Sanitation and Health**. **Nari Shakti** and **Tax Visualization** won the second and third prize respectively.  Through Mapathon the participants learnt about OpenStreetMap and they used it to map and learn mapping as a whole.
 
 There were showcasing stalls from organizations who are working on projects related to Open Data. We were excited about the overwhelming local participation. There was an active curiosity in the events throughout the day among the people. Our volunteers did their best to answer the visitors’ queries on Open Data. Open Data Day concluded with more aplomb than ever before. We had discussions and presentations that celebrated Open Data as a concept accessible to all rather than a technology that is distant. Participants included techies but more than that citizens who were told about their Right to Information. All in all, Open Data Day was just as it was supposed to be, heavily participated and celebrated by all who supported the concept!
+
+[Ward 7- Citizen Participation Forum](http://model4g.net)
+
+[Open Data Day Kathmandu 2015 video](https://www.youtube.com/watch?v=LZSviwtWBDU)
+
+[Open Data Day Kathmandu 2015 in pictures](http://ow.ly/JItMQ)
+
+[Open Data Day 2015 Report](http://younginnovations.com.np/uploads/Report-ODD2015Kathmandu.pdf)
