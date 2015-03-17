@@ -860,7 +860,7 @@ li:last-child .impact-project-title {
 .morph-button-overlay.open .morph-content,
 .morph-button-sidebar.open .morph-content {
     -webkit-transition: width 0.4s 0.1s, height 0.4s 0.1s, top 0.4s 0.1s, left 0.4s 0.1s;
-    transition: width 0.4s 0.1s, height 0.4s 0.1s, top 0.4s 0.1s, left 0.4s 0.1s;	
+    transition: width 0.4s 0.1s, height 0.4s 0.1s, top 0.4s 0.1s, left 0.4s 0.1s;   
 }
 
 /* Morph Button Style: Overlay */
@@ -2469,7 +2469,7 @@ body.fixed .slide-navigation {
     transform: translateY(-50%) translateX(0);
 }
 
-/*internship*/
+/*hire-section*/
 
 .dev-btn {
     background: #5187C7;
@@ -2487,6 +2487,23 @@ body.fixed .slide-navigation {
     */
     color: #333;
     position: relative;
+}
+
+.hire-menu {
+    margin-top: 30px;
+    padding: 10px 20px;
+}
+
+.hire-menu a {
+    background: #E1E1E1;
+    color: #5187C7;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+.hire-menu a:hover {
+    background: #DADADA;
+    color: #F16622;
 }
 
 .dev-btn .see-work {
