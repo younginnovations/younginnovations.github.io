@@ -15,13 +15,13 @@ comments: true
     <div class="career-info">
         <div class="layout">
 <!--        We don't have any openings now.-->
-         Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
-<a href="#developer" class="dev-btn" id="developerlink">We're hiring!</a>
+            Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
+            <a href="#developer" class="dev-btn" id="developerlink">We're hiring!</a>
         
-            <div class="hire-menu">
+            <!-- <div class="hire-menu">
                 <a href="#developer">Sr. Software Engineers</a> 
                 <a href="#developer">Jr. Software Engineers</a>
-            </div>
+            </div> -->
 
         </div>
     </div>
@@ -34,5 +34,3 @@ comments: true
 </div>
 
 {% include_relative _careers/sr-developer-2015-03-17.html %}
-{% include_relative _careers/jr-developer-2015-03-17.html %}
-{% include_relative _careers/intern.html %}

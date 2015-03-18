@@ -2741,12 +2741,6 @@ body.fixed .slide-navigation {
     font-weight: normal;
 }
 
-.developer-block.apply-block {
-    width: 100%;
-    margin: 0 auto;
-    float: none;
-}
-
 .apply-block h3 {
     font-size: 30px;
     color: #333;
@@ -3241,11 +3235,6 @@ body.fixed .slide-navigation {
 
     .developer-block:nth-child(2n) {
         float: right;
-    }
-
-    .developer-block.apply-block {
-        width: 380px;
-        float: none;
     }
 
     .logo-wrapper,.work-article-wrap {
