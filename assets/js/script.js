@@ -299,33 +299,6 @@ $(document).ready(function(){
         ts = (new Date()).getTime() + 14*24*60*60*1000;
         newYear = false;
     }
-
-    $('#countdown').countdown({
-        timestamp	: ts,
-        callback	: function(days, hours, minutes, seconds){
-
-            var message = "";
-            var endMessage = "Thank you to those who have applied.We have closed the application for now."
-
-            message += "<span class='time'>" + days + "</span>" + ( days==1 ? '':' ' );
-//            message += "<span class='time'>" + hours + "</span>" + "hour" + ( hours==1 ? '':'s' ) + " ";
-//            message += "<span class='time'>" + minutes + "</span>" + "minute" + ( minutes==1 ? '':'s' ) + " ";
-//            message += "<span class='time'>" + seconds + "</span>" + "second" + ( seconds==1 ? '':'s' );
-
-            if(newYear){
-                message += " ";
-                note.html(message);
-                $('.nav').addClass('timenav');
-            }
-            else {
-                message += " ";
-                note.html(endMessage);
-                $('.days-left').addClass('endnote');
-                $('.remaining').hide();
-                $('.nav ul li .sub-menu').hide();
-            }
-        }
-    });
     
 
     $( ".nav ul li .sub-menu" ).hover(
