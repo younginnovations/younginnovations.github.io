@@ -35,6 +35,7 @@ GPO 8974 CPC 241
 <li class="facebook"><a href="https://www.facebook.com/pages/YoungInnovations/95147447293" target="_blank">facebook</a></li>
 <li class="twitter"><a href="https://twitter.com/yipl" target="_blank">twitter</a></li>
 <li class="youtube"><a href="https://www.youtube.com/channel/UCO-vB1e_aZMOXUF1idGaP2w" target="_blank">youtube</a></li>
+</ul>
 </div>
 <div class="scrolltop">
 <a href="#" class="scrollToTop"></a>

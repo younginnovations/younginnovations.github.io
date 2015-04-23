@@ -112,9 +112,6 @@ Happy Team<span>=</span>Productivity
 * ![Alina Acharya]({{ site.url }}/images/staff/Alina.jpg)
   + Alina Acharya
   + Junior Data Analyst
-* ![Ananda Subedi]({{ site.url }}/images/staff/Ananda.jpg)
-  + Ananda Subedi
-  + Software Developer
 * ![Anjan Shrestha]({{ site.url }}/images/staff/Anjan.jpg)
   + Anjan Shrestha
   + VP, Product Innovations
@@ -126,7 +123,7 @@ Happy Team<span>=</span>Productivity
   + Communications Consultant
 * ![Ashley Dhakal]({{ site.url }}/images/staff/Ashley.jpg)
   + Ashley Dhakal
-  + Product Manager
+  + UX consultant
 * ![Avash Rayamajhi]({{ site.url }}/images/staff/Avash.jpg)
   + Avash Rayamajhi
   + Jr. Software Engineer
@@ -157,6 +154,9 @@ Happy Team<span>=</span>Productivity
 * ![Manoj Byanjankar]({{ site.url }}/images/staff/Manoj.jpg)
   + Manoj Byanjankar
   + Software Engineer
+* ![Nirajan Basnet]({{ site.url }}/images/staff/Nirajan.jpg)
+  + Nirajan Basnet
+  + Jr. Web Developer
 * ![Prashant Shrestha]({{ site.url }}/images/staff/Prashant.jpg)
   + Prashant Shrestha
   + VP, Business and Technology Innovations
@@ -196,18 +196,12 @@ Happy Team<span>=</span>Productivity
 * ![Santosh Neupane]({{ site.url }}/images/staff/Santosh.jpg)
   + Santosh Neupane
   + System Administrator
-* ![Saugat Acharya]({{ site.url }}/images/staff/Saugat.jpg)
-  + Saugat Acharya
-  + Software Engineer
-* ![Sita Prajapati]({{ site.url }}/images/staff/Sita.jpg)
-  + Sita Prajapati
-  + Sr. Software Engineer
 * ![Sujata Shrestha]({{ site.url }}/images/staff/Sujata.jpg)
   + Sujata Shrestha
   + Open Data Coordinator
 * ![Sumit Chhetri]({{ site.url }}/images/staff/Sumit.jpg)
   + Sumit Chhetri
-  + Trainee
+  + Software Engineer
 * ![Sweta Shrestha]({{ site.url }}/images/staff/Sweta.jpg)
   + Sweta Shrestha
   + Sr. UX developer
