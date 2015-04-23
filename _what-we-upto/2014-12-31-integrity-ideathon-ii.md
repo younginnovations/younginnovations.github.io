@@ -3,7 +3,7 @@ layout: what-we-upto
 title: Integrity Ideathon II
 description: ""
 event_date: December 18, 2014
-published_date: December 31, 2015
+published_date: December 31, 2014
 tags: [integrity action, integrity, idethon, integrity ideathon]
 comments: true
 categories: what-we-upto-category
