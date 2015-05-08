@@ -1411,6 +1411,10 @@ p+p {
     padding: 38px 0 28px;
 }
 
+.what-we-upto-page .work-detail-wrap h2 {
+    text-align: left;
+}
+
 .work-detail-wrap h2+blockquote{
     max-width: 320px;
     max-width: 20rem;
