@@ -3,7 +3,7 @@ layout: what-we-upto
 title: Fight Violence Against Women and Girls (FightVAWG) - Origin and Activities till 2014
 description: ""
 published_date: May 8, 2015
-tags: [women violence, violence, initiative, fight violence]
+tags: [women, violence, fightvaw, fight violence]
 comments: true
 categories: what-we-upto-category
 image:
