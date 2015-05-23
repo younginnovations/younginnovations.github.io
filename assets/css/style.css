@@ -2999,10 +2999,6 @@ body.fixed .slide-navigation {
     .nav ul li a {
         font-size: 28px;
     }
-    
-    .impact-mobile-image svg {
-        left: 10%;
-    }
 }
 
 @media only screen and (min-width: 500px) {
@@ -3551,13 +3547,23 @@ body.fixed .slide-navigation {
     }
 }
 
-@media screen and (min-width:480px) and (max-width:560px) {
+
+@media screen and (min-width:200px) and (max-width:360px) {
     .impact-image svg {
-        left: 4%;
+        left: 20%;
+        top: 0;
+        width: 200px;
     }
 }
 
-@media screen and (min-width:561px) and (max-width:780px) {
+@media screen and (min-width:300px) and (max-width:600px) {
+    .impact-image svg {
+        left: 10%;
+        top:-20%;
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:780px) {
     .impact-image svg {
         left: 20%;
     }
@@ -3617,6 +3623,10 @@ body.fixed .slide-navigation {
 
     .navigation-wrap li a.view-btn {
         left: 21%;
+    }
+    
+    .impact-mobile-image svg {
+        left: 0%;
     }
 
 }
