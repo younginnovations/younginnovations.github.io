@@ -2960,6 +2960,7 @@ body.fixed .slide-navigation {
     .impact-mobile-image {
         display: none;
     }
+    
 
     .team-title {
         text-align: center;
@@ -2997,6 +2998,10 @@ body.fixed .slide-navigation {
 @media only screen and (min-width: 400px) {
     .nav ul li a {
         font-size: 28px;
+    }
+    
+    .impact-mobile-image svg {
+        left: 10%;
     }
 }
 
