@@ -2277,6 +2277,7 @@ body.fixed .slide-navigation {
     font-size: 14px;
     background: url(../../images/pages/previous.png) no-repeat left;
     padding-left: 26px;
+    text-indent: -9999px;
 }
 
 #post-nav .next {
@@ -3107,6 +3108,9 @@ body.fixed .slide-navigation {
     .more-info br {
         display: block;
     }
+    #post-nav .prev .slide-wrap,#post-nav .next .slide-wrap {
+        text-indent: 0;
+    }    
 
 }
 
