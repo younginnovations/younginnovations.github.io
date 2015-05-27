@@ -2,8 +2,8 @@
 layout: page
 permalink: /about/
 title: The company
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
+tagline: We create Impact
+tags: [YoungInnovations, software, solutions, impact]
 modified: 2014-05-15
 comments: true
 ---
