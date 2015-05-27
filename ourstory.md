@@ -139,6 +139,9 @@ Happy Team<span>=</span>Productivity
 * ![Bir Bahadur Putuwal]({{ site.url }}/images/staff/Ravi.jpg)
   + Bir Bahadur Putuwal
   + Office Aid
+* ![Dadhiram Poudel]({{ site.url }}/images/staff/Dadhi.jpg)
+  + Dadhiram Poudel
+  + Sr. Software Engineer
 * ![Deepak Kumar Shah]({{ site.url }}/images/staff/Deepak.jpg)
   + Deepak Kumar Shah
   + Jr. Software Engineer
@@ -151,9 +154,15 @@ Happy Team<span>=</span>Productivity
 * ![Kopila Putuwal]({{ site.url }}/images/staff/Kopila.jpg)
   + Kopila Putuwal
   + Office Aid
+* ![Manish Gopal Singh]({{ site.url }}/images/staff/Manish.jpg)
+  + Manish Gopal Singh
+  + Sr. Web Developer
 * ![Manoj Byanjankar]({{ site.url }}/images/staff/Manoj.jpg)
   + Manoj Byanjankar
   + Software Engineer
+* ![Neha Rajbanshi Babu]({{ site.url }}/images/staff/Neha.jpg)
+  + Neha Rajbanshi Babu
+  + Jr. Web Developer
 * ![Nirajan Basnet]({{ site.url }}/images/staff/Nirajan.jpg)
   + Nirajan Basnet
   + Jr. Web Developer
