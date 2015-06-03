@@ -159,13 +159,13 @@ Happy Team<span>=</span>Productivity
   + Office Aid
 * ![Manish Gopal Singh]({{ site.url }}/images/staff/Manish.jpg)
   + Manish Gopal Singh
-  + Sr. Web Developer
+  + Sr. Software Engineer
 * ![Manoj Byanjankar]({{ site.url }}/images/staff/Manoj.jpg)
   + Manoj Byanjankar
-  + Software Engineer
+  + Sr. Software Engineer
 * ![Neha Rajbanshi Babu]({{ site.url }}/images/staff/Neha.jpg)
   + Neha Rajbanshi Babu
-  + Jr. Web Developer
+  + Jr. Software Engineer
 * ![Nirajan Basnet]({{ site.url }}/images/staff/Nirajan.jpg)
   + Nirajan Basnet
   + Jr. Web Developer
