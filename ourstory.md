@@ -145,6 +145,9 @@ Happy Team<span>=</span>Productivity
 * ![Deepak Kumar Shah]({{ site.url }}/images/staff/Deepak.jpg)
   + Deepak Kumar Shah
   + Jr. Software Engineer
+* ![Dibesh Manandhar]({{ site.url }}/images/staff/Dibesh.jpg)
+  + Dibesh Manandhar
+  + Jr. Web Developer
 * ![Geshan Manandhar]({{ site.url }}/images/staff/Geshan.jpg)
   + Geshan Manandhar
   + Senior Developer
@@ -190,9 +193,6 @@ Happy Team<span>=</span>Productivity
 * ![Rakesh Pradhan]({{ site.url }}/images/staff/Rakesh.jpg)
   + Rakesh Pradhan
   + Jr. Web Developer
-* ![Ramesh KC]({{ site.url }}/images/staff/Ramesh.jpg)
-  + Ramesh KC
-  + Jr. Software Engineer
 * ![Rishav Malla]({{ site.url }}/images/staff/Rishav.jpg)
   + Rishav Malla
   + Jr. Graphics Designer
