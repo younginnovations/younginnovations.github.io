@@ -3885,12 +3885,12 @@ body.fixed .slide-navigation {
     }
 }
 
-
-
-/*
-.nav ul li .sub-menu em, .nav ul li .sub-menu span,.nav ul li .sub-menu .note {
-display: none;
+.openings {
+    font-size: 28px;
+    line-height: normal;
+    margin-top: 10px;
 }
-*/
 
-
+.article-wrap p>a, .article-wrap li>a {
+    border-bottom: 1px solid transparent;
+}
