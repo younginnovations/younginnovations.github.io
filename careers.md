@@ -33,4 +33,3 @@ comments: true
     </div>
 </div>
 
-{% include_relative _careers/sr-developer-2015-03-17.html %}
