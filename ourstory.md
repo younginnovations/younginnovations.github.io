@@ -147,7 +147,7 @@ Happy Team<span>=</span>Productivity
   + Jr. Web Developer
 * ![Geshan Manandhar]({{ site.url }}/images/staff/Geshan.jpg)
   + Geshan Manandhar
-  + Senior Developer
+  + Co-Founder
 * ![Julian Raj Manandhar]({{ site.url }}/images/staff/Julian.jpg)
   + Julian Raj Manandhar
   + Software Engineer
@@ -227,5 +227,4 @@ Happy Team<span>=</span>Productivity
 <div class="service-title quote-title layout">Dreams don't work unless you do</div>
 </div>
 </div>
-
 
