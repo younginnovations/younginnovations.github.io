@@ -228,19 +228,4 @@ Happy Team<span>=</span>Productivity
 </div>
 </div>
 
-<!--
-<div class="client-wrapper" data-scroll-index="2">
-<div class="client-wrap layout">
-<h2>What our clients say</h2>
-<div class="client-words">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-<div class="client-info">
-<span class="name">-Blah Blah</span>
-<span class="designation">Some Designation, Some Company</span>
-</div>
-</div>
-</div>
--->
-
 

@@ -266,8 +266,6 @@ $(document).ready(function(){
     }
 
     $(".dev-btn").click(function(e) {
-        // Prevent a page reload when a link is pressed
-//        e.preventDefault();
         // Call the scroll function
         goToByScroll($(this).attr("id"));
 
@@ -320,31 +318,6 @@ $(document).ready(function(){
     
     $('.leftimage,.leftimage+p').wrapAll('<div class="blog-text-wrap"></div>');
     $('.rightimage,.rightimage+p').wrapAll('<div class="blog-text-wrap"></div>');
-
-    
-//    window.onscroll = function (event) {
-//        var headerImg = document.querySelector(".what-we-upto-page .image-wrap img");
-//        var headerImgOffset = headerImg.getBoundingClientRect();
-//        var imgTop = headerImgOffset.top;
-//        var imgBottom = headerImgOffset.bottom;
-//        var imgHeight = headerImg.offsetHeight;
-//        var viewportHeight = document.documentElement.clientHeight;
-//        var blur = document.getElementById("blur");
-//        var svgblur = blur.getElementsByTagName("feGaussianBlur")[0];
-//
-//        var topEffectStart = Math.abs((viewportHeight - imgHeight)/5);
-//        if (imgTop < topEffectStart && imgBottom > 0 ) { 
-//            blurFactor = Math.abs(imgTop / 100);
-//            headerImg.style.webkitFilter = "blur(" + blurFactor + "px)";
-//            headerImg.style.mozFilter = "blur(" + blurFactor + "px)";
-//            headerImg.style.filter = "blur(" + blurFactor + "px)";
-//            svgblur.setAttribute("stdDeviation", blurFactor);
-//            headerImg.style.webkitTransform="scale("+(1+Math.abs(imgTop / 1000))+")";
-//            headerImg.style.mozTransform="scale("+(1+Math.abs(imgTop / 1000))+")";
-//            headerImg.style.transform="scale("+(1+Math.abs(imgTop / 1000))+")";
-//        }
-//    }
-
     
 });
 
