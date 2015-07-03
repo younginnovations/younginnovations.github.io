@@ -266,8 +266,6 @@ $(document).ready(function(){
     }
 
     $(".dev-btn").click(function(e) {
-        // Prevent a page reload when a link is pressed
-//        e.preventDefault();
         // Call the scroll function
         goToByScroll($(this).attr("id"));
 
@@ -320,7 +318,6 @@ $(document).ready(function(){
     
     $('.leftimage,.leftimage+p').wrapAll('<div class="blog-text-wrap"></div>');
     $('.rightimage,.rightimage+p').wrapAll('<div class="blog-text-wrap"></div>');
-
     
 });
 

@@ -124,17 +124,14 @@ Happy Team<span>=</span>Productivity
 * ![Ashley Dhakal]({{ site.url }}/images/staff/Ashley.jpg)
   + Ashley Dhakal
   + UX consultant
-* ![Avash Rayamajhi]({{ site.url }}/images/staff/Avash.jpg)
-  + Avash Rayamajhi
-  + Jr. Software Engineer
 * ![Bibek Shrestha]({{ site.url }}/images/staff/Bibek.jpg)
   + Bibek Shrestha
   + Senior Developer
 * ![Bibhusan Bista]({{ site.url }}/images/staff/Bibhusan.jpg)
   + Bibhusan Bista
   + CEO
-* ![Bijaya Maharjan]({{ site.url }}/images/staff/Bijaya.jpg)
-  + Bijaya Maharjan
+* ![Bigyan Adhikari]({{ site.url }}/images/staff/Bigyan.jpg)
+  + Bigyan Adhikari
   + Trainee
 * ![Bir Bahadur Putuwal]({{ site.url }}/images/staff/Ravi.jpg)
   + Bir Bahadur Putuwal
@@ -150,13 +147,16 @@ Happy Team<span>=</span>Productivity
   + Jr. Web Developer
 * ![Geshan Manandhar]({{ site.url }}/images/staff/Geshan.jpg)
   + Geshan Manandhar
-  + Senior Developer
+  + Co-Founder
 * ![Julian Raj Manandhar]({{ site.url }}/images/staff/Julian.jpg)
   + Julian Raj Manandhar
   + Software Engineer
 * ![Kopila Putuwal]({{ site.url }}/images/staff/Kopila.jpg)
   + Kopila Putuwal
   + Office Aid
+* ![kriti Nemkul]({{ site.url }}/images/staff/Kriti.jpg)
+  + kriti Nemkul
+  + Trainee
 * ![Manish Gopal Singh]({{ site.url }}/images/staff/Manish.jpg)
   + Manish Gopal Singh
   + Sr. Software Engineer
@@ -205,12 +205,18 @@ Happy Team<span>=</span>Productivity
 * ![Santosh Neupane]({{ site.url }}/images/staff/Santosh.jpg)
   + Santosh Neupane
   + System Administrator
+* ![Sudil Shrestha]({{ site.url }}/images/staff/Sudil.jpg)
+  + Sudil Shrestha
+  + Trainee
 * ![Sujata Shrestha]({{ site.url }}/images/staff/Sujata.jpg)
   + Sujata Shrestha
   + Open Data Coordinator
 * ![Sumit Chhetri]({{ site.url }}/images/staff/Sumit.jpg)
   + Sumit Chhetri
   + Software Engineer
+* ![Sushant Bajracharya]({{ site.url }}/images/staff/Sushant.jpg)
+  + Sushant Bajracharya
+  + Trainee
 * ![Sweta Shrestha]({{ site.url }}/images/staff/Sweta.jpg)
   + Sweta Shrestha
   + Sr. UX developer
@@ -221,20 +227,4 @@ Happy Team<span>=</span>Productivity
 <div class="service-title quote-title layout">Dreams don't work unless you do</div>
 </div>
 </div>
-
-<!--
-<div class="client-wrapper" data-scroll-index="2">
-<div class="client-wrap layout">
-<h2>What our clients say</h2>
-<div class="client-words">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-<div class="client-info">
-<span class="name">-Blah Blah</span>
-<span class="designation">Some Designation, Some Company</span>
-</div>
-</div>
-</div>
--->
-
 
