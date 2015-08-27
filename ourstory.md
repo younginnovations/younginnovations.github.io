@@ -124,6 +124,9 @@ Happy Team<span>=</span>Productivity
 * ![Ashley Dhakal]({{ site.url }}/images/staff/Ashley.jpg)
   + Ashley Dhakal
   + UX consultant
+* ![Ashok Adhikari]({{ site.url }}/images/staff/Ashok.jpg)
+  + Ashok Adhikari
+  + Software Engineer
 * ![Bibek Shrestha]({{ site.url }}/images/staff/Bibek.jpg)
   + Bibek Shrestha
   + Senior Developer
@@ -132,7 +135,10 @@ Happy Team<span>=</span>Productivity
   + CEO
 * ![Bigyan Adhikari]({{ site.url }}/images/staff/Bigyan.jpg)
   + Bigyan Adhikari
-  + Trainee
+  + Jr. Software Engineer
+* ![Biju Nakarmi]({{ site.url }}/images/staff/Biju.jpg)
+  + Biju Nakarmi
+  + Sr. Software Engineer
 * ![Bir Bahadur Putuwal]({{ site.url }}/images/staff/Ravi.jpg)
   + Bir Bahadur Putuwal
   + Office Aid
@@ -156,7 +162,10 @@ Happy Team<span>=</span>Productivity
   + Office Aid
 * ![kriti Nemkul]({{ site.url }}/images/staff/Kriti.jpg)
   + kriti Nemkul
-  + Trainee
+  + Jr. Software Engineer
+* ![Lunek Suwal]({{ site.url }}/images/staff/Lunek.jpg)
+  + Lunek Suwal
+  + Sr. Software Engineer
 * ![Manish Gopal Singh]({{ site.url }}/images/staff/Manish.jpg)
   + Manish Gopal Singh
   + Sr. Software Engineer
@@ -205,9 +214,12 @@ Happy Team<span>=</span>Productivity
 * ![Santosh Neupane]({{ site.url }}/images/staff/Santosh.jpg)
   + Santosh Neupane
   + System Administrator
+* ![Sudeep Parajuli]({{ site.url }}/images/staff/Sudeep.jpg)
+  + Sudeep Parajuli
+  + Trainee
 * ![Sudil Shrestha]({{ site.url }}/images/staff/Sudil.jpg)
   + Sudil Shrestha
-  + Trainee
+  + Jr. Software Engineer
 * ![Sujata Shrestha]({{ site.url }}/images/staff/Sujata.jpg)
   + Sujata Shrestha
   + Open Data Coordinator
@@ -216,7 +228,7 @@ Happy Team<span>=</span>Productivity
   + Software Engineer
 * ![Sushant Bajracharya]({{ site.url }}/images/staff/Sushant.jpg)
   + Sushant Bajracharya
-  + Trainee
+  + Jr. Software Engineer
 * ![Sweta Shrestha]({{ site.url }}/images/staff/Sweta.jpg)
   + Sweta Shrestha
   + Sr. UX developer
