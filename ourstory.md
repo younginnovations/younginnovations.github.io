@@ -111,7 +111,7 @@ Happy Team<span>=</span>Productivity
   + System Engineer
 * ![Alina Acharya]({{ site.url }}/images/staff/Alina.jpg)
   + Alina Acharya
-  + Junior Data Analyst
+  + Jr. Data Analyst
 * ![Anjan Shrestha]({{ site.url }}/images/staff/Anjan.jpg)
   + Anjan Shrestha
   + VP, Product Innovations
@@ -121,9 +121,6 @@ Happy Team<span>=</span>Productivity
 * ![Anubhuti Poudyal]({{ site.url }}/images/staff/Anubhuti.jpg)
   + Anubhuti Poudyal
   + Communications Consultant
-* ![Ashley Dhakal]({{ site.url }}/images/staff/Ashley.jpg)
-  + Ashley Dhakal
-  + UX consultant
 * ![Ashok Adhikari]({{ site.url }}/images/staff/Ashok.jpg)
   + Ashok Adhikari
   + Software Engineer
@@ -150,7 +147,7 @@ Happy Team<span>=</span>Productivity
   + Jr. Software Engineer
 * ![Dibesh Manandhar]({{ site.url }}/images/staff/Dibesh.jpg)
   + Dibesh Manandhar
-  + Jr. Web Developer
+  + Jr. Software Engineer
 * ![Geshan Manandhar]({{ site.url }}/images/staff/Geshan.jpg)
   + Geshan Manandhar
   + Co-Founder
@@ -183,10 +180,10 @@ Happy Team<span>=</span>Productivity
   + VP, Business and Technology Innovations
 * ![Prashanta Rimal]({{ site.url }}/images/staff/Prasanta.jpg)
   + Prashanta Rimal
-  + Administration and Finance Assistant
+  + Administration and Finance Officer
 * ![Pratiksha Rayamajhi]({{ site.url }}/images/staff/Pratiksha.jpg)
   + Pratiksha Rayamajhi
-  + Operations Manager
+  + Operations Innovation Manager
 * ![Prawesh Shrestha]({{ site.url }}/images/staff/Prawesh.jpg)
   + Prawesh Shrestha
   + Manager, Community Innovations
@@ -195,7 +192,7 @@ Happy Team<span>=</span>Productivity
   + Sr. Web Developer
 * ![Radhika Prajapati]({{ site.url }}/images/staff/Radhika.jpg)
   + Radhika Prajapati
-  + Trainee
+  + Jr. Web Developer
 * ![Rakeeb Rajbhandari]({{ site.url }}/images/staff/Rakeeb.jpg)
   + Rakeeb Rajbhandari
   + Software Engineer
