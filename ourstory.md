@@ -133,6 +133,9 @@ Happy Team<span>=</span>Productivity
 * ![Bigyan Adhikari]({{ site.url }}/images/staff/Bigyan.jpg)
   + Bigyan Adhikari
   + Jr. Software Engineer
+* ![Bijaya Pd Kuikel]({{ site.url }}/images/staff/Bijaya.jpg)
+  + Bijaya Pd Kuikel
+  + Trainee
 * ![Biju Nakarmi]({{ site.url }}/images/staff/Biju.jpg)
   + Biju Nakarmi
   + Sr. Software Engineer
@@ -228,7 +231,7 @@ Happy Team<span>=</span>Productivity
   + Jr. Software Engineer
 * ![Sweta Shrestha]({{ site.url }}/images/staff/Sweta.jpg)
   + Sweta Shrestha
-  + Sr. UX developer
+  + Sr. UX Developer
 
 
 <div class="service-wrapper quote-wrapper">
