@@ -17,6 +17,8 @@ Sumit Chhetri used the topic “Still stuck with FTP or git pull to deploy? It�
 
 Sachit Singh’s presentation revolved around Automated Testing and Continuous Integration. Titled “Automated unit tests in PHP is a puzzle, Continuous Integration (CI) is the missing piece”, Sachit managed to intrigue the audience with information on Unit Testing along with the benefits of using it. He then discussed simple ways of writing unit tests. He also explained Continuous Integration and the ins and outs of the process. 
 
+Sachit's presentation was followed by Sumit Baskota, CEO, Ribera Solutions. He presented on Project/ Product Management. 
+
 Each session was followed by discussion where the audience could ask questions to the presenters. This led to quite an invigorating discussion where the latest and the best in the field of PHP were enthusiastically discussed. 
 
 The event aimed to engage attendees on PHP and it managed to do just that. Discussing the latest in the market and in the world, the speakers shared knowledge and excited the attendees about the prospect of PHP in Nepal. Thanks to the presentation and discussion of the latest edition, we are surely waiting eagerly for the next edition of the meetup. 
