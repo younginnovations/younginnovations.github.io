@@ -201,7 +201,7 @@ Happy Team<span>=</span>Productivity
   + Software Engineer
 * ![Rakesh Pradhan]({{ site.url }}/images/staff/Rakesh.jpg)
   + Rakesh Pradhan
-  + Jr. Web Developer
+  + Sr. Web Developer
 * ![Rishav Malla]({{ site.url }}/images/staff/Rishav.jpg)
   + Rishav Malla
   + Jr. Graphics Designer
@@ -210,7 +210,7 @@ Happy Team<span>=</span>Productivity
   + UX Developer
 * ![Sachit Bir Singh Dangol]({{ site.url }}/images/staff/Sachit.jpg)
   + Sachit Bir Singh Dangol
-  + Jr. Software Engineer
+  + Software Engineer
 * ![Santosh Neupane]({{ site.url }}/images/staff/Santosh.jpg)
   + Santosh Neupane
   + System Administrator
@@ -225,7 +225,7 @@ Happy Team<span>=</span>Productivity
   + Open Data Coordinator
 * ![Sumit Chhetri]({{ site.url }}/images/staff/Sumit.jpg)
   + Sumit Chhetri
-  + Software Engineer
+  + Sr. Software Engineer
 * ![Sushant Bajracharya]({{ site.url }}/images/staff/Sushant.jpg)
   + Sushant Bajracharya
   + Jr. Software Engineer
