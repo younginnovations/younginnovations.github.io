@@ -32,4 +32,5 @@ comments: true
         <a href="http://lifeatyounginnovations.tumblr.com" class="button contact-btn life-btn" target="_blank"><span class="see-work">Life at YoungInnovations</span><span class="progress"></span></a>
     </div>
 </div>
+{% include _careers/sr-developer-2015-03-17.html%}
 
