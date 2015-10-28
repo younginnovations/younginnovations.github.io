@@ -147,7 +147,7 @@ Happy Team<span>=</span>Productivity
   + Sr. Software Engineer
 * ![Deepak Kumar Shah]({{ site.url }}/images/staff/Deepak.jpg)
   + Deepak Kumar Shah
-  + Jr. Software Engineer
+  + Software Engineer
 * ![Dibesh Manandhar]({{ site.url }}/images/staff/Dibesh.jpg)
   + Dibesh Manandhar
   + Jr. Software Engineer
