@@ -1,6 +1,6 @@
 ---
 layout: what-we-upto 
-title: YoungInnovations in Ncell App Camp 2015 Seminars and Training
+title: YoungInnovations engages participants in Ncell App Camp 2015
 description: ""
 published_date: December 01, 2015
 tags: [ncell app camp, ncell, apps, mobile apps, mobile, competition, seminars, training, android, material design, discussion]
