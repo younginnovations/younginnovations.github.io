@@ -106,9 +106,6 @@ Happy Team<span>=</span>Productivity
 * ![Aayushree Joshi]({{ site.url }}/images/staff/Aayushree.jpg)
   + Aayushree Joshi
   + Jr. Officer, Community Innovations
-* ![Achyut Devkota]({{ site.url }}/images/staff/Achyut.jpg)
-  + Achyut Devkota
-  + System Engineer
 * ![Alina Acharya]({{ site.url }}/images/staff/Alina.jpg)
   + Alina Acharya
   + Jr. Data Analyst
@@ -124,6 +121,9 @@ Happy Team<span>=</span>Productivity
 * ![Ashok Adhikari]({{ site.url }}/images/staff/Ashok.jpg)
   + Ashok Adhikari
   + Software Engineer
+* ![Ashish Ghimire]({{ site.url }}/images/staff/Ashish.jpg)
+  + Ashish Ghimire
+  + Trainee
 * ![Bibek Shrestha]({{ site.url }}/images/staff/Bibek.jpg)
   + Bibek Shrestha
   + Senior Developer
@@ -163,6 +163,9 @@ Happy Team<span>=</span>Productivity
 * ![kriti Nemkul]({{ site.url }}/images/staff/Kriti.jpg)
   + kriti Nemkul
   + Jr. Software Engineer
+* ![kritika Karmacharya]({{ site.url }}/images/staff/Kritika.jpg)
+  + kritika Karmacharya
+  + Software Engineer
 * ![Lunek Suwal]({{ site.url }}/images/staff/Lunek.jpg)
   + Lunek Suwal
   + Sr. Software Engineer
@@ -226,12 +229,12 @@ Happy Team<span>=</span>Productivity
 * ![Sumit Chhetri]({{ site.url }}/images/staff/Sumit.jpg)
   + Sumit Chhetri
   + Sr. Software Engineer
-* ![Sushant Bajracharya]({{ site.url }}/images/staff/Sushant.jpg)
-  + Sushant Bajracharya
-  + Jr. Software Engineer
 * ![Sweta Shrestha]({{ site.url }}/images/staff/Sweta.jpg)
   + Sweta Shrestha
   + Sr. UX Developer
+* ![Umesh Basnet]({{ site.url }}/images/staff/Umesh.jpg)
+  + Umesh Basnet
+  + Trainee
 
 
 <div class="service-wrapper quote-wrapper">
