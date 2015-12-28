@@ -24,3 +24,5 @@ Mr. Suman Shakya is a businessman who knows the ins and outs of working in this 
 Panelists Anand Raj Khanal, Director of Nepal Telecommunication Authority; Subash Sharma, Vice President of F1Soft; Bal Krishna Joshi, Thamel.com and motivational speaker & trainer, Suman Shakya moderated by Bibhusan Bista engaged the audience in an invigorating discussion on the prospects and challenges of start ups in Nepal. The discussion started with the latest in the field of technology. It quickly moved to what is expected of start ups. There was also an interesting discussion on what the government has planned for the next five years, when it comes to development of ICT. 
 
 The overall event garnered as much praise as any successful MobileMonday event organized worldwide. It was engaging. It was informative. It was interesting. We hope the next event is even bigger and better! 
+
+[View pictures of the event](https://www.facebook.com/media/set/?set=a.742810079185579.1073741836.622203277912927&type=3)
