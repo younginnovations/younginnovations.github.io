@@ -103,9 +103,9 @@ Happy Team<span>=</span>Productivity
 </div>
 
 
-* ![Aayushree Joshi]({{ site.url }}/images/staff/Aayushree.jpg)
-  + Aayushree Joshi
-  + Jr. Officer, Community Innovations
+* ![Aayush Rijal]({{ site.url }}/images/staff/Aayush.jpg)
+  + Aayush Rijal
+  + Trainee
 * ![Alina Acharya]({{ site.url }}/images/staff/Alina.jpg)
   + Alina Acharya
   + Jr. Data Analyst
@@ -123,7 +123,7 @@ Happy Team<span>=</span>Productivity
   + Software Engineer
 * ![Ashish Ghimire]({{ site.url }}/images/staff/Ashish.jpg)
   + Ashish Ghimire
-  + Trainee
+  + Jr. Software Engineer
 * ![Bibek Shrestha]({{ site.url }}/images/staff/Bibek.jpg)
   + Bibek Shrestha
   + Senior Developer
@@ -135,7 +135,7 @@ Happy Team<span>=</span>Productivity
   + Jr. Software Engineer
 * ![Bijaya Pd Kuikel]({{ site.url }}/images/staff/Bijaya.jpg)
   + Bijaya Pd Kuikel
-  + Trainee
+  + Jr. Software Engineer
 * ![Biju Nakarmi]({{ site.url }}/images/staff/Biju.jpg)
   + Biju Nakarmi
   + Sr. Software Engineer
@@ -219,7 +219,7 @@ Happy Team<span>=</span>Productivity
   + System Administrator
 * ![Sudeep Parajuli]({{ site.url }}/images/staff/Sudeep.jpg)
   + Sudeep Parajuli
-  + Trainee
+  + Jr. Devops Engineer
 * ![Sudil Shrestha]({{ site.url }}/images/staff/Sudil.jpg)
   + Sudil Shrestha
   + Jr. Software Engineer

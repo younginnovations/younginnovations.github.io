@@ -46,6 +46,9 @@ links:
     url: /contact/
   - title: <span>05</span> what we're up to
     url: /what-we-upto/
+  - title: <span>06</span> Our blog
+    url: http://blog.yipl.com.np
+    external: true
 
 collections:
   what-we-upto:
