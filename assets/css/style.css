@@ -68,6 +68,7 @@ input,button {
     font-family: Open Sans', sans-serif;
 }
 
+
 .button {
     border: 10px solid #fff;
     cursor: pointer;
@@ -504,9 +505,13 @@ li:last-child .impact-project-title {
     position: relative;
 }
 
-#site-nav li:last-child {
+#site-nav li:last-child,#site-nav li:nth-last-child(-n+2) {
     border-bottom: 1px solid #eee;
     width: 100%;
+}
+
+.top-navigation li:last-child {
+    border-bottom: 1px solid #eee;
 }
 
 .nav ul li a,.impact-title {
@@ -1088,7 +1093,7 @@ display: inline-block;
     -webkit-backface-visibility: hidden;
 }
 
-/* Let's add some nice easing for all cases */
+/*Let's add some nice easing for all cases*/
 .morph-button .morph-content,
 .morph-button.open .morph-content,
 .morph-button-modal-4 .morph-clone {
@@ -3473,6 +3478,12 @@ body.fixed .slide-navigation {
 
     .trigger {
         top: 0;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #site-nav li:last-child,#site-nav li:nth-last-child(-n+2) {
+        width: 50%;
     }
 }
 
