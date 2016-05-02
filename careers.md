@@ -14,8 +14,8 @@ comments: true
     </div>
     <div class="career-info">
         <div class="layout">
-<!--        We don't have any openings now.-->
-            Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
+           We're not open for internship right now.
+            Any queries to be directed to <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>.
             <a href="#developer" class="dev-btn" id="developerlink">We're hiring!</a>
         
             <!-- <div class="hire-menu">
