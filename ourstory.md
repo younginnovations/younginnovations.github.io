@@ -142,15 +142,9 @@ Happy Team<span>=</span>Productivity
 * ![Bir Bahadur Putuwal]({{ site.url }}/images/staff/Ravi.jpg)
   + Bir Bahadur Putuwal
   + Office Aid
-* ![Dadhiram Poudel]({{ site.url }}/images/staff/Dadhi.jpg)
-  + Dadhiram Poudel
-  + Sr. Software Engineer
 * ![Deepak Kumar Shah]({{ site.url }}/images/staff/Deepak.jpg)
   + Deepak Kumar Shah
   + Software Engineer
-* ![Dibesh Manandhar]({{ site.url }}/images/staff/Dibesh.jpg)
-  + Dibesh Manandhar
-  + Jr. Software Engineer
 * ![Geshan Manandhar]({{ site.url }}/images/staff/Geshan.jpg)
   + Geshan Manandhar
   + Co-Founder
@@ -160,12 +154,6 @@ Happy Team<span>=</span>Productivity
 * ![Kopila Putuwal]({{ site.url }}/images/staff/Kopila.jpg)
   + Kopila Putuwal
   + Office Aid
-* ![kriti Nemkul]({{ site.url }}/images/staff/Kriti.jpg)
-  + kriti Nemkul
-  + Jr. Software Engineer
-* ![kritika Karmacharya]({{ site.url }}/images/staff/Kritika.jpg)
-  + kritika Karmacharya
-  + Software Engineer
 * ![Lunek Suwal]({{ site.url }}/images/staff/Lunek.jpg)
   + Lunek Suwal
   + Sr. Software Engineer
@@ -220,12 +208,6 @@ Happy Team<span>=</span>Productivity
 * ![Sudeep Parajuli]({{ site.url }}/images/staff/Sudeep.jpg)
   + Sudeep Parajuli
   + Jr. Devops Engineer
-* ![Sudil Shrestha]({{ site.url }}/images/staff/Sudil.jpg)
-  + Sudil Shrestha
-  + Jr. Software Engineer
-* ![Sujata Shrestha]({{ site.url }}/images/staff/Sujata.jpg)
-  + Sujata Shrestha
-  + Open Data Coordinator
 * ![Sumit Chhetri]({{ site.url }}/images/staff/Sumit.jpg)
   + Sumit Chhetri
   + Sr. Software Engineer
