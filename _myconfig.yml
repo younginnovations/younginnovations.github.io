@@ -41,7 +41,7 @@ links:
   - title: <span>02</span> work
     url: /work/
   - title: <span>03</span> careers
-    url: /careers/  
+    url: /careers/
   - title: <span>04</span> contact
     url: /contact/
   - title: <span>05</span> what we're up to
@@ -49,29 +49,174 @@ links:
   - title: <span>06</span> our blog
     url: http://blog.yipl.com.np
     external: true
-    
+
+staffs:
+  - image: /images/staffs/Aayush.jpg
+    name: Aayush Rijal
+    designation: Jr. Software Engineer
+  - image: /images/staffs/Alina.jpg
+    name: Alina Acharya
+    designation: Jr. Data Analyst
+  - image: /images/staffs/Anjan.jpg
+    name: Anjan Shrestha
+    designation: VP, Product Innovations
+  - image: /images/staffs/Anjesh.jpg
+    name: Anjesh Tuladhar
+    designation: Chief Innovations Officer
+  - image: /images/staffs/Anubhuti.jpg
+    name: Anubhuti Poudyal
+    designation: Communications Consultant
+  - image: /images/staffs/Ashish.jpg
+    name: Ashish Ghimire
+    designation: Jr. Software Engineer
+  - image: /images/staffs/Ashok.jpg
+    name: Ashok Adhikari
+    designation: Software Engineer
+  - image: /images/staffs/Bibek.jpg
+    name: Bibek Shrestha
+    designation: Senior Developer
+  - image: /images/staffs/Bibhusan.jpg
+    name: Bibhusan Bista
+    designation: CEO
+  - image: /images/staffs/Bigyan.jpg
+    name: Bigyan Adhikari
+    designation: Jr. Software Engineer
+  - image: /images/staffs/Bijay.jpg
+    name: Bijaya Pd Kuikel
+    designation: Jr. Software Engineer
+  - image: /images/staffs/Biju.jpg
+    name: Biju Nakarmi
+    designation: Sr. Software Engineer
+  - image: /images/staffs/Ravi.jpg
+    name: Ravi Putuwal
+    designation: Office Aid
+  - image: /images/staffs/Deepak.jpg
+    name: Deepak Kumar Shah
+    designation: Software Engineer
+  - image: /images/staffs/Diken.jpg
+    name: Diken Ulak
+    designation: Jr. Software Engineer
+  - image: /images/staffs/Geshan.jpg
+    name: Geshan Manandhar
+    designation: Co-Founder
+  - image: /images/staffs/Julian.jpg
+    name: Julian Raj Manandhar
+    designation: Software Engineer
+  - image: /images/staffs/Kiran.jpg
+    name: Kiran Shrestha
+    designation: Intern
+  - image: /images/staffs/Kopila.jpg
+    name: Kopila Putuwal
+    designation: Office Aid
+  - image: /images/staffs/Kristina.jpg
+    name: Kristina Shikhrakar
+    designation: Intern
+  - image: /images/staffs/Kushal.jpg
+    name: Kushal Shrestha
+    designation: Jr. Software Engineer
+  - image: /images/staffs/Lunek.jpg
+    name: Lunek Suwal
+    designation: Sr. Software Engineer
+  - image: /images/staffs/Manish.jpg
+    name: Manish Gopal Singh
+    designation: Sr. Software Engineer
+  - image: /images/staffs/Manjil.jpg
+    name: Manjil
+    designation: Intern
+  - image: /images/staffs/Manoj.jpg
+    name: Manoj Byanjankar
+    designation: Sr. Software Engineer
+  - image: /images/staffs/Neha.jpg
+    name: Neha Rajbanshi Babu
+    designation: Jr. Software Engineer
+  - image: /images/staffs/Nirajan.jpg
+    name: Nirajan Basnet
+    designation: Jr. Web Developer
+  - image: /images/staffs/Pooja.jpg
+    name: Pooja
+    designation: Intern
+  - image: /images/staffs/Prashant.jpg
+    name: Prashant Shrestha
+    designation: VP, Business and Technology Innovations
+  - image: /images/staffs/Prashanta.jpg
+    name: Prashanta Rimal
+    designation: Administration and Finance Officer
+  - image: /images/staffs/Pratikshya.jpg
+    name: Pratiksha Rayamajhi
+    designation: Operations Innovation Manager
+  - image: /images/staffs/Prawesh.jpg
+    name: Prawesh Shrestha
+    designation: Manager, Community Innovations
+  - image: /images/staffs/Punya.jpg
+    name: Punya Ruchal
+    designation: Sr. Web Developer
+  - image: /images/staffs/Radhika.jpg
+    name: Radhika Prajapati
+    designation: Jr. Web Developer
+  - image: /images/staffs/Rakeeb.jpg
+    name: Rakeeb Rajbhandari
+    designation: Software Engineer
+  - image: /images/staffs/Rakesh.jpg
+    name: Rakesh Pradhan
+    designation: Sr. Web Developer
+  - image: /images/staffs/Rishav.jpg
+    name: Rishav Malla
+    designation: Jr. Graphics Designer
+  - image: /images/staffs/Rohit.jpg
+    name: Rohit Shrestha
+    designation: UX Developer
+  - image: /images/staffs/Sachit.jpg
+    name: Sachit Bir Singh Dangol
+    designation: Software Engineer
+  - image: /images/staffs/Santosh.jpg
+    name: Santosh Neupane
+    designation: System Administrator
+  - image: /images/staffs/Saroj.jpg
+    name: Saroj
+    designation: System Administrator
+  - image: /images/staffs/Sudeep.jpg
+    name: Sudeep Parajuli
+    designation: Jr. Devops Engineer
+  - image: /images/staffs/Sujan.jpg
+    name: Sujan Manandhar
+    designation: Intern
+  - image: /images/staffs/Sumit.jpg
+    name: Sumit Chhetri
+    designation: Sr. Software Engineer
+  - image: /images/staffs/Sunny.jpg
+    name: Sunny Shrestha
+    designation: Intern
+  - image: /images/staffs/Sweta.jpg
+    name: Sweta Shrestha
+    designation: Sr. UX Developer
+  - image: /images/staffs/Umesh.jpg
+    name: Umesh Basnet
+    designation: Jr. Android Developer
+  - image: /images/staffs/Upashna.jpg
+    name: Upashna Ghimire
+    designation: Trainee
 
 collections:
   what-we-upto:
     output: true
     permalink: /:collection/:title/
-    
+
   blog:
     output: true
     permalink: /:collection/:title/
-    
+
 #  page_collections:
 #    output: true
 #- projects:
 #    permalink: pretty
 #- team
-#- miscellaneous: 
+#- miscellaneous:
 #    source: _upto
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kathmandu
 future:      true
-highlighter: pygments
+#highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
@@ -84,14 +229,14 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  enable_coderay: false
-
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+#  enable_coderay: false
+#
+#  coderay:
+#    coderay_line_numbers:
+#    coderay_line_numbers_start: 1
+#    coderay_tab_width: 4
+#    coderay_bold_every: 10
+#    coderay_css: class
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

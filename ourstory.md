@@ -2,6 +2,7 @@
 layout: page
 permalink: /ourstory/
 title: 
+ourstory: true
 tagline: Story behind YoungInnovations
 tags: [page]
 modified: 2014-05-15
@@ -102,121 +103,34 @@ YoungInnovations was co-founded by a team of young entrepreneurs determined to l
 Happy Team<span>=</span>Productivity
 </div>
 
-
-* ![Aayush Rijal]({{ site.url }}/images/staff/Aayush.jpg)
-  + Aayush Rijal
-  + Trainee
-* ![Alina Acharya]({{ site.url }}/images/staff/Alina.jpg)
-  + Alina Acharya
-  + Jr. Data Analyst
-* ![Anjan Shrestha]({{ site.url }}/images/staff/Anjan.jpg)
-  + Anjan Shrestha
-  + VP, Product Innovations
-* ![Anjesh Tuladhar]({{ site.url }}/images/staff/Anjesh.jpg)
-  + Anjesh Tuladhar
-  + Chief Innovations Officer
-* ![Anubhuti Poudyal]({{ site.url }}/images/staff/Anubhuti.jpg)
-  + Anubhuti Poudyal
-  + Communications Consultant
-* ![Ashok Adhikari]({{ site.url }}/images/staff/Ashok.jpg)
-  + Ashok Adhikari
-  + Software Engineer
-* ![Ashish Ghimire]({{ site.url }}/images/staff/Ashish.jpg)
-  + Ashish Ghimire
-  + Jr. Software Engineer
-* ![Bibek Shrestha]({{ site.url }}/images/staff/Bibek.jpg)
-  + Bibek Shrestha
-  + Senior Developer
-* ![Bibhusan Bista]({{ site.url }}/images/staff/Bibhusan.jpg)
-  + Bibhusan Bista
-  + CEO
-* ![Bigyan Adhikari]({{ site.url }}/images/staff/Bigyan.jpg)
-  + Bigyan Adhikari
-  + Jr. Software Engineer
-* ![Bijaya Pd Kuikel]({{ site.url }}/images/staff/Bijaya.jpg)
-  + Bijaya Pd Kuikel
-  + Jr. Software Engineer
-* ![Biju Nakarmi]({{ site.url }}/images/staff/Biju.jpg)
-  + Biju Nakarmi
-  + Sr. Software Engineer
-* ![Bir Bahadur Putuwal]({{ site.url }}/images/staff/Ravi.jpg)
-  + Bir Bahadur Putuwal
-  + Office Aid
-* ![Deepak Kumar Shah]({{ site.url }}/images/staff/Deepak.jpg)
-  + Deepak Kumar Shah
-  + Software Engineer
-* ![Geshan Manandhar]({{ site.url }}/images/staff/Geshan.jpg)
-  + Geshan Manandhar
-  + Co-Founder
-* ![Julian Raj Manandhar]({{ site.url }}/images/staff/Julian.jpg)
-  + Julian Raj Manandhar
-  + Software Engineer
-* ![Kopila Putuwal]({{ site.url }}/images/staff/Kopila.jpg)
-  + Kopila Putuwal
-  + Office Aid
-* ![Lunek Suwal]({{ site.url }}/images/staff/Lunek.jpg)
-  + Lunek Suwal
-  + Sr. Software Engineer
-* ![Manish Gopal Singh]({{ site.url }}/images/staff/Manish.jpg)
-  + Manish Gopal Singh
-  + Sr. Software Engineer
-* ![Manoj Byanjankar]({{ site.url }}/images/staff/Manoj.jpg)
-  + Manoj Byanjankar
-  + Sr. Software Engineer
-* ![Neha Rajbanshi Babu]({{ site.url }}/images/staff/Neha.jpg)
-  + Neha Rajbanshi Babu
-  + Jr. Software Engineer
-* ![Nirajan Basnet]({{ site.url }}/images/staff/Nirajan.jpg)
-  + Nirajan Basnet
-  + Jr. Web Developer
-* ![Prashant Shrestha]({{ site.url }}/images/staff/Prashant.jpg)
-  + Prashant Shrestha
-  + VP, Business and Technology Innovations
-* ![Prashanta Rimal]({{ site.url }}/images/staff/Prasanta.jpg)
-  + Prashanta Rimal
-  + Administration and Finance Officer
-* ![Pratiksha Rayamajhi]({{ site.url }}/images/staff/Pratiksha.jpg)
-  + Pratiksha Rayamajhi
-  + Operations Innovation Manager
-* ![Prawesh Shrestha]({{ site.url }}/images/staff/Prawesh.jpg)
-  + Prawesh Shrestha
-  + Manager, Community Innovations
-* ![Punya Ruchal]({{ site.url }}/images/staff/Punya.jpg)
-  + Punya Ruchal
-  + Sr. Web Developer
-* ![Radhika Prajapati]({{ site.url }}/images/staff/Radhika.jpg)
-  + Radhika Prajapati
-  + Jr. Web Developer
-* ![Rakeeb Rajbhandari]({{ site.url }}/images/staff/Rakeeb.jpg)
-  + Rakeeb Rajbhandari
-  + Software Engineer
-* ![Rakesh Pradhan]({{ site.url }}/images/staff/Rakesh.jpg)
-  + Rakesh Pradhan
-  + Sr. Web Developer
-* ![Rishav Malla]({{ site.url }}/images/staff/Rishav.jpg)
-  + Rishav Malla
-  + Jr. Graphics Designer
-* ![Rohit Shrestha]({{ site.url }}/images/staff/Rohit.jpg)
-  + Rohit Shrestha
-  + UX Developer
-* ![Sachit Bir Singh Dangol]({{ site.url }}/images/staff/Sachit.jpg)
-  + Sachit Bir Singh Dangol
-  + Software Engineer
-* ![Santosh Neupane]({{ site.url }}/images/staff/Santosh.jpg)
-  + Santosh Neupane
-  + System Administrator
-* ![Sudeep Parajuli]({{ site.url }}/images/staff/Sudeep.jpg)
-  + Sudeep Parajuli
-  + Jr. Devops Engineer
-* ![Sumit Chhetri]({{ site.url }}/images/staff/Sumit.jpg)
-  + Sumit Chhetri
-  + Sr. Software Engineer
-* ![Sweta Shrestha]({{ site.url }}/images/staff/Sweta.jpg)
-  + Sweta Shrestha
-  + Sr. UX Developer
-* ![Umesh Basnet]({{ site.url }}/images/staff/Umesh.jpg)
-  + Umesh Basnet
-  + Trainee
+  
+  
+  
+<div id="staff-wrapper">
+  <div class="staff__block">
+  {% for staff in site.staffs %}
+    <div class="card slow_zoom">
+      <div class="text_holder">
+        <div class="text_holder_outer">
+          <div class="text_holder_inner">
+            <h2 class="title">
+              {{ staff.name }}
+            </h2>
+            <span class="designation">{{ staff.designation }}</span>
+          </div>
+        </div>
+      </div>
+      <div class="icons_holder"></div>
+      <div class="image_shader"></div>
+      <div class="staff_image_holder">
+        <span class="image">
+          <img src="{{ staff.image }}" alt="YIPL Staff Images">
+        </span>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
 
 
 <div class="service-wrapper quote-wrapper">
@@ -224,4 +138,3 @@ Happy Team<span>=</span>Productivity
 <div class="service-title quote-title layout">Dreams don't work unless you do</div>
 </div>
 </div>
-
