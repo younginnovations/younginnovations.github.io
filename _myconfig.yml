@@ -79,7 +79,7 @@ staffs:
     name: Bibhusan Bista
     designation: CEO
   - image: /images/staffs/Bigyan.jpg
-    name: Bigyan Adhikari
+    name: Bigyan Adhikary
     designation: Jr. Software Engineer
   - image: /images/staffs/Bijay.jpg
     name: Bijaya Pd Kuikel
@@ -112,8 +112,8 @@ staffs:
     name: Kristina Shikhrakar
     designation: Intern
   - image: /images/staffs/Kushal.jpg
-    name: Kushal Shrestha
-    designation: Jr. Software Engineer
+    name: Kushal Raj Shrestha
+    designation: Software Engineer
   - image: /images/staffs/Lunek.jpg
     name: Lunek Suwal
     designation: Sr. Software Engineer
@@ -121,7 +121,7 @@ staffs:
     name: Manish Gopal Singh
     designation: Sr. Software Engineer
   - image: /images/staffs/Manjil.jpg
-    name: Manjil
+    name: Manjil Shrestha
     designation: Intern
   - image: /images/staffs/Manoj.jpg
     name: Manoj Byanjankar
@@ -133,7 +133,7 @@ staffs:
     name: Nirajan Basnet
     designation: Jr. Web Developer
   - image: /images/staffs/Pooja.jpg
-    name: Pooja
+    name: Puja Maharjan
     designation: Intern
   - image: /images/staffs/Prashant.jpg
     name: Prashant Shrestha
@@ -172,8 +172,8 @@ staffs:
     name: Santosh Neupane
     designation: System Administrator
   - image: /images/staffs/Saroj.jpg
-    name: Saroj
-    designation: System Administrator
+    name: Saroj Bista
+    designation: Open Data Coordinator
   - image: /images/staffs/Sudeep.jpg
     name: Sudeep Parajuli
     designation: Jr. Devops Engineer
@@ -193,7 +193,7 @@ staffs:
     name: Umesh Basnet
     designation: Jr. Android Developer
   - image: /images/staffs/Upashna.jpg
-    name: Upashna Ghimire
+    name: Upashana Ghimire
     designation: Trainee
 
 collections:
