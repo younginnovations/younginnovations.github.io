@@ -320,6 +320,9 @@ $(document).ready(function () {
 
     $('.leftimage,.leftimage+p').wrapAll('<div class="blog-text-wrap"></div>');
     $('.rightimage,.rightimage+p').wrapAll('<div class="blog-text-wrap"></div>');
-    
+
+    //Wow-animation
+    new WOW().init();
+
 });
 
