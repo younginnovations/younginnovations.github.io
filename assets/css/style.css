@@ -3229,7 +3229,7 @@ body.fixed .slide-navigation {
 
 .profession-list__item {
     display: inline-block;
-    width: 33%;
+    width: 32.5%;
     padding: 0 40px 65px;
     box-sizing: border-box;
 }
@@ -3268,7 +3268,7 @@ body.fixed .slide-navigation {
 
 .profession-list__item-title {
     color: #F26522;
-    padding-top: 165px;
+    padding-top: 115px;
     font-weight: 600;
     font-size: 1.167rem;
     margin: 1em 0;
@@ -3404,6 +3404,12 @@ body.fixed .slide-navigation {
     float: left;
     padding: 0 28px;
     box-sizing: border-box;
+}
+
+.motivators-story-card-wrap__list img{
+    width: 260px;
+    height: 340px;
+    object-fit: cover;
 }
 
 p.motivators-story-card-wrap__list-story {
@@ -4218,8 +4224,8 @@ p.motivators-story-card-wrap__list-story {
     }
 
     #main article.career-wrap .career-explore__moment-description p {
-        font-size: 24px;
-        line-height: 34px;
+        font-size: 18px;
+        line-height: 26px;
     }
 
     .career-explore__moment-description > div {
