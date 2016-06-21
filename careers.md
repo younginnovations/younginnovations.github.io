@@ -18,7 +18,7 @@ comments: true
            We are looking for innovative, enthusiastic and hardworking individuals who are eager to use technology for development.
         </div>
         <div class="hiring-btn">
-            <a href="#" class="dev-btn">We're hiring !</a>
+            <a href="#professional-section" class="dev-btn">We're hiring !</a>
             <a href="#" class="intern-btn">Internship</a>
         </div>
         <div class="art-animate-wrap clearfix">
@@ -111,29 +111,29 @@ comments: true
         </div>
     </div>    
 </div>
-<div class="profession-section">
+<div id="professional-section" class="profession-section">
     <div class="wrap-960">
     <h2 class="career-title">What do you want to do? </h2>
         <div class="profession-list">
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail">Software Engineer</a>
-                <p class="description">You'll be responsible for developing products designed to help bring clean and safe drinking water.</p>  
-            </div>
-            <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail">IT Support Specialist</a>
-                <p class="description">As IT Support Specialist you'll support our amazing staff and our internal systems.</p>  
-            </div>
-            <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail">Product Designer</a>
-                <p class="description">You will be responsible for designing on features that support donors & fundraisers on our platform.</p>  
-            </div>
-            <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail">Product Manager</a>
-                <p class="description">The M&E Manager will be responsible for all things related to water program data.</p>  
-            </div>
-            <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="profession-list__item-title" href="/job-detail">Senior Developer</a>
-                <p class="description">As IT Support Specialist you'll support our amazing staff and our internal systems.</p>  
+                <p class="description">Sr Developer at YoungInnovations has a very challenging role of leading the project team.</p>  
+            </div>
+            <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                <a class="profession-list__item-title" href="/job-detail">Software Developers</a>
+                <p class="description">What qualities are we looking for (time management, team player, energetic.</p>  
+            </div>
+            <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                <a class="profession-list__item-title" href="/job-detail">Web Developer</a>
+                <p class="description">We are looking for a Web Developer who is good at building and handling websites.</p>  
+            </div>
+            <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                <a class="profession-list__item-title" href="/job-detail">Software QA Lead</a>
+                <p class="description">Young Innovations builds custom products for a broad range of clients within the global development sector.</p>  
+            </div>
+            <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                <a class="profession-list__item-title" href="/job-detail">Operations Manager</a>
+                <p class="description">What qualities are we looking for (time management, communication, team player, energetic.</p>  
             </div>    
         </div>
     </div>
@@ -145,25 +145,25 @@ comments: true
            You could find your inspiration right here! Know more about our employees here.</p>
         <div class="motivators-story-card-wrap clearfix">
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <img src="/images/career/ic_story_1.jpg" alt="Staff Image 1"></img>
-                <h3 class="motivators-story-card-wrap__list-name">Rakesh Pradhan</h3>
-                <span class="motivators-story-card-wrap__list-profession">Sr. Web Developer</span>
+                <img src="/images/staffs/Rakeeb.jpg" alt="Staff Image 1"></img>
+                <h3 class="motivators-story-card-wrap__list-name">Rakeeb Rajbhandari</h3>
+                <span class="motivators-story-card-wrap__list-profession">Software Engineer</span>
                 <p classs="motivators-story-card-wrap__list-story">Before I became a worker, my family was in a financial crisis. My father, being an Ex-Army official, had no source of consistent income and could barely support my college fees. After I joined CloudFactory, I have been able to not only finance my education but also support my family for household expenses.</p>
-                <a class="story-btn" href="#">Read his story</a>
+                <a class="story-btn" href="https://medium.com/@Rakeeb">Read his story</a>
             </div>
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <img src="/images/career/ic_story_2.jpg" alt="Staff Image 1"></img>
+                <img src="/images/staffs/Sweta.jpg" alt="Staff Image 1"></img>
                 <h3 class="motivators-story-card-wrap__list-name">Sweta Shrestha</h3>
                 <span class="motivators-story-card-wrap__list-profession">Sr. UX Developer</span>
-                <p classs="motivators-story-card-wrap__list-story">Before I became a worker, my family was in a financial crisis. My father, being an Ex-Army official, had no source of consistent income and could barely support my college fees. After I joined CloudFactory, I have been able to not only finance my education but also support my family for household expenses.</p>
-                <a class="story-btn" href="#">Read her story</a>
+                <p classs="motivators-story-card-wrap__list-story">Before joining YoungInnovation, I lacked confidence to do anything. The root was my family problem. Thanks to YoungInnovation I discovered my strengths and my ability to support the family boosted my confidence. Now I am able to fund my education as well as support my family members.</p>
+                <a class="story-btn" href="https://medium.com/@sweet_anjell">Read her story</a>
             </div>
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <img src="/images/career/ic_story_3.jpg" alt="Staff Image 1"></img>
-                <h3 class="motivators-story-card-wrap__list-name">Nirajan Basnet</h3>
-                <span class="motivators-story-card-wrap__list-profession">Jr. Web Developer</span>
-                <p classs="motivators-story-card-wrap__list-story">Being a Cloud worker, I got the platform where I had a lots of opportunities to learn. The character lessons were really amazing and taught many things which helped me lead my life with good moral values. I was a teacher in a local government school & struggling to make ends meet. After I joined CloudFactory, I was able to afford a motorbike thus allowing me to access more job opportunities and save time for my family.</p>
-                <a class="story-btn" href="#">Read his story</a>
+                <img src="/images/staffs/Manish.jpg" alt="Staff Image 1"></img>
+                <h3 class="motivators-story-card-wrap__list-name">Manish Gopal Singh</h3>
+                <span class="motivators-story-card-wrap__list-profession">Sr. Software Engineer</span>
+                <p classs="motivators-story-card-wrap__list-story">Being a YIPL worker, I got the platform where I had a lots of opportunities to learn. The character lessons were really amazing and taught many things which helped me lead my life with good moral values. I was a teacher in a local government school & struggling to make ends meet. After I joined YoungInnovation, I was able to afford a motorbike thus allowing me to access more job opportunities and save time for my family.</p>
+                <a class="story-btn" href="https://medium.com/@manishgs">Read his story</a>
             </div>
         </div>
     </div>        
