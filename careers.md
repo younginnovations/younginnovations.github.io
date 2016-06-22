@@ -10,27 +10,26 @@ comments: true
 
 <div class="career-wrapper ">
     <div class="tagline layout">
-    Do you dream of making an impact?
-    <span>You might be exactly who we are looking for.</span>
+        Want to use your skills to create impact? Join us!
     </div>
     <div class="career-info">
         <div class="layout">
-           We are looking for innovative, enthusiastic and hardworking individuals who are eager to use technology for development.
+           We are looking for innovative, enthusiastic and hardworking individuals who are eager to use their technology skills to improve the development sector.
         </div>
         <div class="hiring-btn">
-            <a href="#professional-section" class="dev-btn">We're hiring !</a>
-            <a href="#" class="intern-btn">Internship</a>
+            <a id="professional-sectionlink" class="dev-btn">We're hiring !</a>
+            <!--<a href="#" class="intern-btn">Internship</a>-->
         </div>
-        <div class="art-animate-wrap clearfix">
-            <div class="wow slideInLeft art-1" data-wow-duration="1.5s" data-wow-delay="1s">
-                <img src="/images/career/ic_career-art-1.svg" alt="Staff Image 1" />
-            </div>
-            <div class="wow bounceInUp art-2" data-wow-duration="0.7s" data-wow-delay="1s">
-                <img src="/images/career/ic_career-art-2.svg" alt="Staff Image 1" />
-            </div>
-            <div class="wow slideInRight art-3" data-wow-duration="2s" data-wow-delay="1s">
-                <img src="/images/career/ic_career-art-3.svg" alt="Staff Image 1" />
-            </div>
+    </div>
+    <div class="art-animate-wrap clearfix">
+        <div class="wow slideInLeft art-1" data-wow-duration="1.5s" data-wow-delay="1s">
+            <img src="/images/career/ic_career-art-1.svg" alt="Staff Image 1" />
+        </div>
+        <div class="wow bounceInUp art-2" data-wow-duration="0.7s" data-wow-delay="1s">
+            <img src="/images/career/ic_career-art-2.svg" alt="Staff Image 1" />
+        </div>
+        <div class="wow slideInRight art-3" data-wow-duration="2s" data-wow-delay="1s">
+            <img src="/images/career/ic_career-art-3.svg" alt="Staff Image 1" />
         </div>
     </div>
 </div>
@@ -43,7 +42,8 @@ comments: true
             <div class="right-floated">
                 <div>
                     <h3 class="career-explore__moment-title">Welcome to the family!</h3>
-                                    <p>We are a moderately sized tech enthusiastic group of people who love what we do. Each day comes with new and important challenges, which excite us to be better, everyday! Add invigorating lunch conversations, guitar jamming sessions, competitive rounds of table tennis and laughter, and we have a normal workday at YoungInnovations. </p>
+                                    <p>We are a close-knit group of tech-lovers who work closely together to produce high-quality products we can take pride in. 
+                                       Each day at the office comes with new and important challenges which push us to think outside the box, improve our skills and learn continuously. Add invigorating lunch conversations, guitar jamming sessions, competitive rounds of table tennis and laughter, and you’re starting to get the idea of what a normal day looks like at YoungInnovations. </p>
                 </div>
             </div>
         </div>    
@@ -53,7 +53,7 @@ comments: true
                 <div class="left-floated">
                     <div>
                         <h3 class="career-explore__moment-title">Do work that matters</h3>
-                                        <p>We work with national, international and supranational organizations currently engaged in development sector. Our diverse work areas support global issues from ensuring data transparency and accountability to fighting violence against women and children. We are result-driven individuals who believe biggest of impacts require strongest of work ethics. Learn more about our projects <a href="#">here</a>.</p>
+                                        <p>We work with national, international and supranational organizations whose work is focused on the development sector. Our diverse portfolio of clients  mean that we work on global issues from data transparency to violence against women and children. We are a team of results-driven individuals who believe that to achieve the biggest impact, collaboration and innovation are key. Learn more about our projects <a href="/work">here</a>.</p>
                     </div>
                 </div>
             </div>    
@@ -63,7 +63,7 @@ comments: true
                     <div class="right-floated">
                         <div>
                             <h3 class="career-explore__moment-title">Become an expert</h3>
-                                            <p>You will learn about data and technology and their use in development sector. YoungInnovations celebrates personal and professional growth of its employees and stimulates it through training, mentorship, formal and informal learning sessions. Since we promote communication and teamwork, you are sure to garner invaluable skills as a team member. </p>
+                            <p>At YoungInnovations, we expect and encourage domain learning; you will learn about how data and technology are used across  the breadth of the development sector and eventually, develop your own area of expertise. YoungInnovations celebrates the personal and professional growth of its employees and fosters this growth through training sessions, mentorship and both formal and informal learning. Because we believe in the power of communication and teamwork, you will have the opportunity to collaborate with incredible colleagues and gain invaluable teamwork skills.</p>
                         </div>
                     </div>
                 </div>    
@@ -73,7 +73,7 @@ comments: true
                         <div class="left-floated">
                             <div>
                                 <h3 class="career-explore__moment-title">You’ll work with creative people</h3>
-                                                <p>We promote individual growth outside of work as well. Therefore our employees have skills that are not necessarily restricted to professional setting. Find out more about the hobbies of your coworkers <a href="#">here</a>. </p>
+                                <p>Our employees have broad-ranging hobbies, active social lives and interesting skills which go far beyond the professional. Find out more about  your coworkers <a id="career-motivatorslink" class="here">here</a>. </p>
                             </div>
                         </div>
                     </div>    
@@ -87,25 +87,25 @@ comments: true
             <div class="benefits-wrap__list">
                 <div class="benefits-wrap__list-content">
                     <span class="benefits-wrap-title">Tailored Career Development Plans</span>
-                    <p>Have a group of experienced supervisors tailor objectives specific to YOU for YOUR career growth in the organization. </p>    
+                    <p>We take your career seriously. We are looking for people who want to join a group of dedicated, curious and hard-working professionals and, once hired, your career development becomes one of our top priorities. Together, we will create a tailored development plan, have regular one-to-one sessions to discuss progress or issues and push you to grow while asking that you help others to do the same. We will provide you with learning opportunities, leadership experience and the chance to grow your skillset in a truly international organisation. </p>    
                 </div>    
             </div>
             <div class="benefits-wrap__list">
                 <div class="benefits-wrap__list-content">
                     <span class="benefits-wrap-title">Great Perks and Benefits</span>
-                    <p>Enjoy delicious lunch at work! Join us for futsal, badminton, tennis or table tennis matches, whichever you prefer. Add roof top socials and gatherings along with annual retreats, parties and celebrations!</p>    
+                    <p>We believe that when you work hard, the little things should be taken care of for you. We’ll provide a delicious lunch for you every day, cool refreshing drinks in the hot summer afternoons and tea to warm you in the winter.  We provide paid sick leave up to the national maximum, a vibrant workspace, frequent Friday rooftop socials along with annual retreats, parties and celebrations!  Throw in our weekly futsal, badminton and tennis leagues together with our daily table tennis matches and you have workplace heaven!</p>    
                 </div>    
             </div>
             <div class="benefits-wrap__list">
                 <div class="benefits-wrap__list-content">
                     <span class="benefits-wrap-title">A 5- day Week</span>
-                    <p>Enjoy a 5-day Week to relax and recuperate. We believe in work and personal life balance.</p>    
+                    <p>At YoungInnovations, we work hard and play hard for 5 days a week. As career professionals, we take our jobs seriously and use lots of brain power from Monday to Friday. That’s normal for us, and we love it. But we also love a full 2-day weekend. We believe that 5 days of hard work should be rewarded with 2 full days of relaxation and a healthy work-life balance; come back on Monday refreshed and ready to go again - full steam ahead! - this week!</p>    
                 </div>    
             </div>
             <div class="benefits-wrap__list">
                 <div class="benefits-wrap__list-content">
                     <span class="benefits-wrap-title">A Learning Environment</span>
-                    <p>Be a part of our active learning community where experts help you hone your skills through Skill Learning Wednesday (SLW) and Knowledge Sharing Wednesday (KSW). </p>    
+                    <p>As we’ve mentioned, we take your career pretty seriously. After our clients, you’re our Number 1 priority. We want to ensure that you excel, and we look for people who are just as ambitious and dedicated as we are. At YoungInnovations, you’ll be a part of our active learning community where in-house experts (your colleagues!) run weekly  Skill Learning workshops and Knowledge Sharing sessions to help you hone your skills. You’ll take courses in areas that interest you - from data visualisation to Docker - and lead others in your area of expertise.</p>    
                 </div>    
             </div>
         </div>
@@ -116,56 +116,75 @@ comments: true
     <h2 class="career-title">What do you want to do? </h2>
         <div class="profession-list">
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail">Senior Developer</a>
+                <a class="profession-list__item-title" href="/job-detail/senior-developer-php">Senior Developer (PHP)</a>
                 <p class="description">Sr Developer at YoungInnovations has a very challenging role of leading the project team.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail">Software Developers</a>
+                <a class="profession-list__item-title" href="/job-detail/software-developer">Software Developers</a>
                 <p class="description">What qualities are we looking for (time management, team player, energetic.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail">Web Developer</a>
+                <a class="profession-list__item-title" href="/job-detail/web-developer">Web Developer</a>
                 <p class="description">We are looking for a Web Developer who is good at building and handling websites.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail">Software QA Lead</a>
+                <a class="profession-list__item-title" href="/job-detail/software-QA-lead">Software QA Lead</a>
                 <p class="description">Young Innovations builds custom products for a broad range of clients within the global development sector.</p>  
             </div>
+            <!--<div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
+                <!--<a class="profession-list__item-title" href="/job-detail/operation-manager">Operations Associate</a>-->
+                <!--<p class="description">What qualities are we looking for (time management, communication, team player, energetic.</p>  -->
+            <!--</div>    -->
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail">Operations Manager</a>
+                <a class="profession-list__item-title" href="/job-detail/senior-developer-node">Senior Developer (Node)</a>
                 <p class="description">What qualities are we looking for (time management, communication, team player, energetic.</p>  
-            </div>    
+            </div>
         </div>
     </div>
 </div>
-<div class="career-motivators">
+<div id="career-motivators" class="career-motivators">
     <div class="wrap-960">
         <h2 class="career-title">Your hero could be sitting next to you!</h2>
-        <p>Each day our employees inspire us with their talent and stories.
-           You could find your inspiration right here! Know more about our employees here.</p>
+        <p>Each day our colleagues inspire us with their talent and stories. You could find your own inspiration right here at YoungInnovations! Learn more about our employees here.</p>
         <div class="motivators-story-card-wrap clearfix">
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <img src="/images/staffs/Rakeeb.jpg" alt="Staff Image 1"></img>
-                <h3 class="motivators-story-card-wrap__list-name">Rakeeb Rajbhandari</h3>
+                <a class="title" href="https://medium.com/@rakeeb">
+                    <img src="/images/staffs/Rakeeb.jpg" alt="Staff Image 1" >
+                    <h3 class="motivators-story-card-wrap__list-name">Rakeeb Rajbhandari</h3>
+                </a>
                 <span class="motivators-story-card-wrap__list-profession">Software Engineer</span>
-                <p classs="motivators-story-card-wrap__list-story">Before I became a worker, my family was in a financial crisis. My father, being an Ex-Army official, had no source of consistent income and could barely support my college fees. After I joined CloudFactory, I have been able to not only finance my education but also support my family for household expenses.</p>
-                <a class="story-btn" href="https://medium.com/@Rakeeb">Read his story</a>
+                <p class="motivators-story-card-wrap__list-story">In August 2013, a fresh undergraduate from Kathmandu College of Management joined our team; we quickly learned Rakeeb’s wacky ways and recognised his incredible knack for mobile programming. His quick sense of humour never fails to brighten our day and his programming skills make him a go-to guy for his managers. Since joining us, Rakeeb has grown to lead our Mobile team, working on mapping projects for tablet systems, designing complex data collection apps, promoting the use of clean architecture and creating our very own internal app called ‘Life@YIPL’, among much else. Citing the encouragement and positive energy which is a daily part of life at YoungInnovations as one of the highlights of his job, Rakeeb also talked to us about being inspired by the beautiful artwork of our lead designers and his passion for Android as a platform. Outside the office, Rakeeb listens to and creates music, reads a lot (and occasionally writes) and has a long - running crush on basketball.</p>
+                <a class="story-btn" href="https://medium.com/@rakeeb">Read his story</a>
             </div>
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <img src="/images/staffs/Sweta.jpg" alt="Staff Image 1"></img>
-                <h3 class="motivators-story-card-wrap__list-name">Sweta Shrestha</h3>
+                <a class="title" href="https://medium.com/@sweet_anjell">
+                    <img src="/images/staffs/Sweta.jpg" alt="Staff Image 1"></img>
+                    <h3 class="motivators-story-card-wrap__list-name">Sweta Shrestha</h3>
+                </a>
                 <span class="motivators-story-card-wrap__list-profession">Sr. UX Developer</span>
-                <p classs="motivators-story-card-wrap__list-story">Before joining YoungInnovation, I lacked confidence to do anything. The root was my family problem. Thanks to YoungInnovation I discovered my strengths and my ability to support the family boosted my confidence. Now I am able to fund my education as well as support my family members.</p>
+                <p class="motivators-story-card-wrap__list-story">Sweta had just quit her job at a multinational company when we crossed paths with her in 2012. She was looking for two key things in her next job; a place where she could learn something new every day and where she would meet positive, innovative people. YoungInnovations was the perfect fit.</p>
                 <a class="story-btn" href="https://medium.com/@sweet_anjell">Read her story</a>
             </div>
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <img src="/images/staffs/Manish.jpg" alt="Staff Image 1"></img>
-                <h3 class="motivators-story-card-wrap__list-name">Manish Gopal Singh</h3>
+                <a class="title" href="https://medium.com/@manish">
+                    <img src="/images/staffs/Manish.jpg" alt="Staff Image 1"></img>
+                    <h3 class="motivators-story-card-wrap__list-name">Manish Gopal Singh</h3>
+                </a>
                 <span class="motivators-story-card-wrap__list-profession">Sr. Software Engineer</span>
-                <p classs="motivators-story-card-wrap__list-story">Being a YIPL worker, I got the platform where I had a lots of opportunities to learn. The character lessons were really amazing and taught many things which helped me lead my life with good moral values. I was a teacher in a local government school & struggling to make ends meet. After I joined YoungInnovation, I was able to afford a motorbike thus allowing me to access more job opportunities and save time for my family.</p>
-                <a class="story-btn" href="https://medium.com/@manishgs">Read his story</a>
+                <p class="motivators-story-card-wrap__list-story">Manish joined YoungInnovations in 2015 and just one year later, his skills have propelled him into a senior role. An avid traveller, the only thing he loves more than hiking out into the mountains is facing new challenges at work, where he gets his fair share of them. He credits constant interaction with “innovative minds” at YoungInnovations as his daily inspiration. Much like when he’s traveling, he believes that adventure and novelty await him at his desk everyday and he meets them with sharp curiosity, helping build clean solutions to complicated problems. Manish is quick-thinking, vigilant and very open to suggestions; he recently achieved his Scrum Master Certification and  talks about his most recent opensource project Resource Contracts with infectious enthusiasm. A  leader in the making !</p>
+                <a class="story-btn" href="https://medium.com/@manish">Read his story</a>
             </div>
         </div>
     </div>        
+</div>
+
+<div class="join-us">
+    <div class="wrap-960">
+        <h2 class="career-title">Feel like working here? Come join us </h2>
+        <div class="hiring-btn">
+            <a id="professional-sectionlink" class="dev-btn">We're hiring !</a>
+            <!--<a href="#" class="intern-btn">Internship</a>-->
+        </div>
+    </div>
 </div>
 
