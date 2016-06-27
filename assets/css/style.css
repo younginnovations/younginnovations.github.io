@@ -2485,7 +2485,7 @@ body.fixed .slide-navigation {
 
 #main article.career-wrap p.description {
     font-size: 14px;
-    line-height: 20px;
+    line-height: 22px;
     text-align: center;
     font-weight: normal;
 }
@@ -3253,19 +3253,9 @@ body.fixed .slide-navigation {
 .profession-list__item {
     display: inline-block;
     width: 32.5%;
-    padding: 0 40px 40px;
+    padding: 0 20px 40px;
     box-sizing: border-box;
     margin-bottom: 20px;
-}
-
-.profession-list__item:nth-of-type(1) {
-    padding-left: 0;
-    padding-right: 40px;
-}
-
-.profession-list__item:nth-of-type(3) {
-    padding-right: 0;
-    padding-left: 40px;
 }
 
 .profession-list__item:nth-of-type(1) .profession-list__item-title {
@@ -3401,7 +3391,7 @@ body.fixed .slide-navigation {
     background: url(../../images/career/ic_benefit_icon_1.svg) no-repeat top left;
 }
 
-.benefits-wrap__list:nth-of-type(2) .benefits-wrap__list-content {
+.benefits-wrap__list:nth-of-type(4) .benefits-wrap__list-content {
     background: url(../../images/career/ic_benefit_icon_2.svg) no-repeat top left;
 }
 
@@ -3409,7 +3399,7 @@ body.fixed .slide-navigation {
     background: url(../../images/career/ic_benefit_icon_3.svg) no-repeat top left;
 }
 
-.benefits-wrap__list:nth-of-type(4) .benefits-wrap__list-content {
+.benefits-wrap__list:nth-of-type(2) .benefits-wrap__list-content {
     background: url(../../images/career/ic_benefit_icon_4.svg) no-repeat top left;
 }
 
@@ -3837,6 +3827,10 @@ a.here{
     text-align: center;
     display: inline-block;
     box-shadow: 0px 0px 35px 4px rgba(33, 31, 31, 0.7);
+}
+
+.work-fun-wrapper__list a:hover{
+    opacity: 0.7;
 }
 
 @media only screen and (min-width: 480px) {
@@ -4600,6 +4594,7 @@ a.here{
 
     .work-fun-wrapper__list {
         width: 33.33%;
+        margin-bottom: 0;
     }
 
     .job-about__description {

@@ -87,19 +87,7 @@ comments: true
             <div class="benefits-wrap__list">
                 <div class="benefits-wrap__list-content">
                     <span class="benefits-wrap-title">Tailored Career Development Plans</span>
-                    <p>We take your career seriously. We are looking for people who want to join a group of dedicated, curious and hard-working professionals and, once hired, your career development becomes one of our top priorities. Together, we will create a tailored development plan, have regular one-to-one sessions to discuss progress or issues and push you to grow while asking that you help others to do the same. We will provide you with learning opportunities, leadership experience and the chance to grow your skillset in a truly international organisation. </p>    
-                </div>    
-            </div>
-            <div class="benefits-wrap__list">
-                <div class="benefits-wrap__list-content">
-                    <span class="benefits-wrap-title">Great Perks and Benefits</span>
-                    <p>We believe that when you work hard, the little things should be taken care of for you. We’ll provide a delicious lunch for you every day, cool refreshing drinks in the hot summer afternoons and tea to warm you in the winter.  We provide paid sick leave up to the national maximum, a vibrant workspace, frequent Friday rooftop socials along with annual retreats, parties and celebrations!  Throw in our weekly futsal, badminton and tennis leagues together with our daily table tennis matches and you have workplace heaven!</p>    
-                </div>    
-            </div>
-            <div class="benefits-wrap__list">
-                <div class="benefits-wrap__list-content">
-                    <span class="benefits-wrap-title">A 5- day Week</span>
-                    <p>At YoungInnovations, we work hard and play hard for 5 days a week. As career professionals, we take our jobs seriously and use lots of brain power from Monday to Friday. That’s normal for us, and we love it. But we also love a full 2-day weekend. We believe that 5 days of hard work should be rewarded with 2 full days of relaxation and a healthy work-life balance; come back on Monday refreshed and ready to go again - full steam ahead! - this week!</p>    
+                    <p>We take your career seriously. We are looking for people who want to join a group of dedicated, curious and hard-working professionals. Once hired, your career development becomes one of our top priorities. Together, we will create a tailored development plan, have regular one-to-one sessions to discuss progress or issues and push you to grow while asking that you help others to do the same. We will provide you with learning opportunities, leadership experience and the chance to grow your skillset in a truly international organisation. </p>    
                 </div>    
             </div>
             <div class="benefits-wrap__list">
@@ -108,12 +96,24 @@ comments: true
                     <p>As we’ve mentioned, we take your career pretty seriously. After our clients, you’re our Number 1 priority. We want to ensure that you excel, and we look for people who are just as ambitious and dedicated as we are. At YoungInnovations, you’ll be a part of our active learning community where in-house experts (your colleagues!) run weekly  Skill Learning workshops and Knowledge Sharing sessions to help you hone your skills. You’ll take courses in areas that interest you - from data visualisation to Docker - and lead others in your area of expertise.</p>    
                 </div>    
             </div>
+            <div class="benefits-wrap__list">
+                <div class="benefits-wrap__list-content">
+                    <span class="benefits-wrap-title">A 5- day Week</span>
+                    <p>At YoungInnovations, we work hard and play hard for 5 days a week. As career professionals, we take our jobs seriously and use lots of brain power from Monday to Friday. That’s normal for us, and we love it. But we also love a full 2-day weekend. We believe that 5 days of hard work should be rewarded with 2 full days of relaxation and a healthy work-life balance. Come back on Monday refreshed and ready to go again - full steam ahead! - this week!</p>    
+                </div>    
+            </div>
+            <div class="benefits-wrap__list">
+                <div class="benefits-wrap__list-content">
+                    <span class="benefits-wrap-title">Great Perks and Benefits</span>
+                    <p>We believe that when you work hard, the little things should be taken care of for you. We’ll provide a delicious lunch for you every day, cool refreshing drinks in the hot summer afternoons and tea to warm you in the winter.  We provide paid sick leave up to the national maximum, a vibrant workspace, frequent Friday rooftop socials along with annual retreats, parties and celebrations!  Throw in our weekly futsal, badminton and tennis leagues together with our daily table tennis matches and you have workplace heaven!</p>    
+                </div>    
+            </div>            
         </div>
     </div>    
 </div>
 <div id="professional-section" class="profession-section">
     <div class="wrap-960">
-    <h2 class="career-title">What do you want to do? </h2>
+    <h2 class="career-title">We’re hiring!</h2>
         <div class="profession-list">
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="profession-list__item-title" href="/job-detail/senior-developer-php">Senior Developer (PHP)</a>
@@ -136,7 +136,7 @@ comments: true
                 <!--<p class="description">What qualities are we looking for (time management, communication, team player, energetic.</p>  -->
             <!--</div>    -->
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail/senior-developer-node">Senior Developer (Node)</a>
+                <a class="profession-list__item-title" href="/job-detail/senior-developer-node">Senior Developer (Nodejs)</a>
                 <p class="description">With super skills in Nodejs, you’ll lead a team of developers to produce high-quality innovative products.</p>  
             </div>
         </div>
@@ -144,8 +144,8 @@ comments: true
 </div>
 <div id="career-motivators" class="career-motivators">
     <div class="wrap-960">
-        <h2 class="career-title">Your hero could be sitting next to you!</h2>
-        <p>Each day our colleagues inspire us with their talent and stories. You could find your own inspiration right here at YoungInnovations! Learn more about our employees here.</p>
+        <h2 class="career-title">Find inspiration at the ‘desk-next-door’!</h2>
+        <p>Each day our colleagues inspire us with their talent and stories. Find out more about your new team members - and potential new friends - by exploring our stories below.</p>
         <div class="motivators-story-card-wrap clearfix">
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="title" href="https://blog.yipl.com.np/meet-rakeeb-rajbhandari-9e86d07349e6#.r8738720n">
@@ -153,7 +153,7 @@ comments: true
                     <h3 class="motivators-story-card-wrap__list-name">Rakeeb Rajbhandari</h3>
                 </a>
                 <span class="motivators-story-card-wrap__list-profession">Software Engineer</span>
-                <p class="motivators-story-card-wrap__list-story">In August 2013, a fresh undergraduate from Kathmandu College of Management joined our team; we quickly learned Rakeeb’s wacky ways and recognised his incredible knack for mobile programming. His quick sense of humour ...</p>
+                <p class="motivators-story-card-wrap__list-story">In August 2013, a fresh undergraduate from Kathmandu College of Management joined our team; we quickly learned Rakeeb’s wacky ways and recognised his incredible knack for mobile programming...</p>
                 <a class="story-btn" href="https://blog.yipl.com.np/meet-rakeeb-rajbhandari-9e86d07349e6#.r8738720n">Read his story</a>
             </div>
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -180,7 +180,7 @@ comments: true
 
 <div class="join-us">
     <div class="wrap-960">
-        <h2 class="career-title">Feel like working here? Come join us </h2>
+        <h2 class="career-title">Interested? Come join us!</h2>
         <div class="hiring-btn">
             <a id="professional-sectionlink" class="dev-btn">We're hiring !</a>
             <!--<a href="#" class="intern-btn">Internship</a>-->
