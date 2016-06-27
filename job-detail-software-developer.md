@@ -11,7 +11,7 @@ comments: true
 <div class="job-teaser">
     <div class="job-teaser__hero-content wrap-960">    
         <div class="job-teaser__img-circle software-developer"></div>
-        <span class="hero-content__description">Software Developer (PHP)</span>
+        <span class="hero-content__description">Software Developer</span>
     </div>    
 </div>
 

@@ -2571,6 +2571,8 @@ body.fixed .slide-navigation {
 
 .post #post-nav {
     display: block;
+    margin-left: -15px;
+    margin-right: -15px;
 }
 
 #post-nav .upto {
@@ -2588,6 +2590,9 @@ body.fixed .slide-navigation {
 
 .post .navigation-wrapper {
     padding-bottom: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 #post-nav .prev, #post-nav .next {
@@ -3232,6 +3237,17 @@ body.fixed .slide-navigation {
 
 .profession-list {
     margin-top: 25px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: center;
+    -ms-flex-pack: justify;
+    justify-content: center;
 }
 
 .profession-list__item {
@@ -3708,6 +3724,10 @@ a.here{
     line-height: 22px;
     position: relative;
     list-style: none;
+}
+
+#main article .article-wrap .job-about__description p:last-child,
+#main article .article-wrap ul.list li:last-child{
     margin-bottom: 0;
 }
 
