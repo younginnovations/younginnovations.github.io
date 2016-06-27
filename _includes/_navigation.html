@@ -2,85 +2,6 @@
 	<div class="site-name">
 		<a href="{{ site.url }}">{{ site.title }}</a>
 	</div><!-- /.site-name -->
-	
-    
-    {% if page.path contains '_posts' %}
-    <div id="post-nav" class="clearfix nav-slide">
-	    <div class="work">
-            {% if page.previous.url %}
-            <a class="prev" href="{{page.previous.url}}">
-                <span class=''"slide-wrap">Previous</span>
-                <div class="thumbnail">
-                <span class="thumb-title">{{page.previous.title}}</span>
-                <img src="{{site.url}}/images/{{page.previous.image.thumb}}"></div>
-            </a> 
-            {% endif %} 
-            <div class="all-project">
-                <a href="{{site.url}}/work">Back to work</a>
-            </div>
-            {% if page.next.url %} 
-            <a class="next" href="{{page.next.url}}">
-                <span class="slide-wrap">Next</span>
-                <div class="thumbnail">
-                <span class="thumb-title">{{page.next.title}}</span>
-                <img src="{{site.url}}/images/{{page.next.image.thumb}}"></div>
-            </a> 
-            {% endif %} 
-	    </div>
-    </div>
-    {% endif %}
-
-    {% if page.path contains '_what-we-upto' %}
-    <div id="post-nav" class="clearfix nav-slide">
-        <div class="what-we-upto">
-            {% if prevPost.url %}
-                <a class="prev" href="{{prevPost.url}}">
-                    <span class="slide-wrap">Previous</span>
-                    <div class="thumbnail">
-                    <span class="thumb-title">{{prevPost.title}}</span>
-                    <img src="{{site.url}}/images/{{prevPost.image.thumb}}"></div>
-                </a> 
-            {% endif %} 
-                <div class="all-project">
-                    <a href="{{site.url}}/what-we-upto" class="upto">Back to What we're upto</a>
-                </div>
-            {% if nextPost.url %}
-                <a class="next" href="{{nextPost.url}}">
-                    <span class="slide-wrap">Next</span>
-                    <div class="thumbnail">
-                    <span class="thumb-title">{{nextPost.title}}</span>
-                    <img src="{{site.url}}/images/{{nextPost.image.thumb}}"></div>
-                </a> 
-            {% endif %} 
-	    </div>
-    </div>
-    {% endif %}
-    
-    {% if page.path contains 'blog' %}
-    <div id="post-nav" class="clearfix nav-slide">
-        <div class="blog">
-            {% if prevPost.url %}
-            <a class="prev" href="{{prevPost.url}}">
-                <span class="slide-wrap">Previous</span>
-                <div class="thumbnail">
-                    <span class="thumb-title">{{prevPost.title}}</span>
-                    <img src="{{site.url}}/images/{{prevPost.image.thumb}}"></div>
-            </a> 
-            {% endif %} 
-            <div class="all-project">
-                <a href="{{site.url}}/blog" class="upto">Back to Blog</a>
-            </div>
-            {% if nextPost.url %}
-            <a class="next" href="{{nextPost.url}}">
-                <span class="slide-wrap">Next</span>
-                <div class="thumbnail">
-                    <span class="thumb-title">{{nextPost.title}}</span>
-                    <img src="{{site.url}}/images/{{nextPost.image.thumb}}"></div>
-            </a> 
-            {% endif %} 
-        </div>
-    </div>
-    {% endif %}
 
 	<!--	<div class="top-navigation morph-button morph-button-modal morph-button-modal-4 morph-button-fixed navigation">-->
 	<div class="top-navigation navigation">
@@ -108,7 +29,7 @@
 			</ul>
 		</div>
 		<div class="trigger inactive">
-			<div class="trigger-wrap">	
+			<div class="trigger-wrap">
 				<div class="bar">
 					<span class="icon-bar top"></span>
 					<span class="icon-bar middle"></span>
@@ -181,4 +102,83 @@
 			</div>
 		</div>
 	</div><!-- /.top-navigation -->
+	
+    
+    {% if page.path contains '_posts' %}
+    <div id="post-nav" class="clearfix nav-slide">
+	    <div class="work">
+            {% if page.previous.url %}
+            <a class="prev" href="{{page.previous.url}}">
+                <span class="slide-wrap">Previous</span>
+                <div class="thumbnail">
+                <span class="thumb-title">{{page.previous.title}}</span>
+                <img src="{{site.url}}/images/{{page.previous.image.thumb}}"></div>
+            </a> 
+            {% endif %} 
+            <div class="all-project">
+                <a href="{{site.url}}/work">Back to work</a>
+            </div>
+            {% if page.next.url %} 
+            <a class="next" href="{{page.next.url}}">
+                <span class="slide-wrap">Next</span>
+                <div class="thumbnail">
+                <span class="thumb-title">{{page.next.title}}</span>
+                <img src="{{site.url}}/images/{{page.next.image.thumb}}"></div>
+            </a> 
+            {% endif %} 
+	    </div>
+    </div>
+    {% endif %}
+
+    {% if page.path contains '_what-we-upto' %}
+    <div id="post-nav" class="clearfix nav-slide">
+        <div class="what-we-upto">
+            {% if prevPost.url %}
+                <a class="prev" href="{{prevPost.url}}">
+                    <span class="slide-wrap">Previous</span>
+                    <div class="thumbnail">
+                    <span class="thumb-title">{{prevPost.title}}</span>
+                    <img src="{{site.url}}/images/{{prevPost.image.thumb}}"></div>
+                </a> 
+            {% endif %} 
+                <div class="all-project">
+                    <a href="{{site.url}}/what-we-upto" class="upto">Back to What we're upto</a>
+                </div>
+            {% if nextPost.url %}
+                <a class="next" href="{{nextPost.url}}">
+                    <span class="slide-wrap">Next</span>
+                    <div class="thumbnail">
+                    <span class="thumb-title">{{nextPost.title}}</span>
+                    <img src="{{site.url}}/images/{{nextPost.image.thumb}}"></div>
+                </a> 
+            {% endif %} 
+	    </div>
+    </div>
+    {% endif %}
+    
+    {% if page.path contains 'blog' %}
+    <div id="post-nav" class="clearfix nav-slide">
+        <div class="blog">
+            {% if prevPost.url %}
+            <a class="prev" href="{{prevPost.url}}">
+                <span class="slide-wrap">Previous</span>
+                <div class="thumbnail">
+                    <span class="thumb-title">{{prevPost.title}}</span>
+                    <img src="{{site.url}}/images/{{prevPost.image.thumb}}"></div>
+            </a> 
+            {% endif %} 
+            <div class="all-project">
+                <a href="{{site.url}}/blog" class="upto">Back to Blog</a>
+            </div>
+            {% if nextPost.url %}
+            <a class="next" href="{{nextPost.url}}">
+                <span class="slide-wrap">Next</span>
+                <div class="thumbnail">
+                    <span class="thumb-title">{{nextPost.title}}</span>
+                    <img src="{{site.url}}/images/{{nextPost.image.thumb}}"></div>
+            </a> 
+            {% endif %} 
+        </div>
+    </div>
+    {% endif %}
 </div><!-- /.navigation-wrapper -->

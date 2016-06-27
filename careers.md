@@ -117,19 +117,19 @@ comments: true
         <div class="profession-list">
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="profession-list__item-title" href="/job-detail/senior-developer-php">Senior Developer (PHP)</a>
-                <p class="description">Sr Developer at YoungInnovations has a very challenging role of leading the project team.</p>  
+                <p class="description">You’ll lead a team of developers to produce high-quality innovative products, built with a passion for PHP.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail/software-developer">Software Developers</a>
-                <p class="description">What qualities are we looking for (time management, team player, energetic.</p>  
+                <a class="profession-list__item-title" href="/job-detail/software-developer">Software Developer</a>
+                <p class="description">As a Software Developer, you’ll be part of a high-performing team that produces excellent products for global clients.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="profession-list__item-title" href="/job-detail/web-developer">Web Developer</a>
-                <p class="description">We are looking for a Web Developer who is good at building and handling websites.</p>  
+                <p class="description">As a web developer you’ll work on a small core team dedicated to producing beautiful, effective, user-friendly websites and products.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="profession-list__item-title" href="/job-detail/software-QA-lead">Software QA Lead</a>
-                <p class="description">Young Innovations builds custom products for a broad range of clients within the global development sector.</p>  
+                <p class="description">You’ll take the lead on all things QA, pushing us to new heights of product quality and shaping the QA processes our teams use every day.</p>  
             </div>
             <!--<div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
                 <!--<a class="profession-list__item-title" href="/job-detail/operation-manager">Operations Associate</a>-->
@@ -137,7 +137,7 @@ comments: true
             <!--</div>    -->
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="profession-list__item-title" href="/job-detail/senior-developer-node">Senior Developer (Node)</a>
-                <p class="description">What qualities are we looking for (time management, communication, team player, energetic.</p>  
+                <p class="description">With super skills in Nodejs, you’ll lead a team of developers to produce high-quality innovative products.</p>  
             </div>
         </div>
     </div>
@@ -148,31 +148,31 @@ comments: true
         <p>Each day our colleagues inspire us with their talent and stories. You could find your own inspiration right here at YoungInnovations! Learn more about our employees here.</p>
         <div class="motivators-story-card-wrap clearfix">
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="title" href="https://medium.com/@rakeeb">
+                <a class="title" href="https://blog.yipl.com.np/meet-rakeeb-rajbhandari-9e86d07349e6#.r8738720n">
                     <img src="/images/staffs/Rakeeb.jpg" alt="Staff Image 1" >
                     <h3 class="motivators-story-card-wrap__list-name">Rakeeb Rajbhandari</h3>
                 </a>
                 <span class="motivators-story-card-wrap__list-profession">Software Engineer</span>
-                <p class="motivators-story-card-wrap__list-story">In August 2013, a fresh undergraduate from Kathmandu College of Management joined our team; we quickly learned Rakeeb’s wacky ways and recognised his incredible knack for mobile programming. His quick sense of humour never fails to brighten our day and his programming skills make him a go-to guy for his managers. Since joining us, Rakeeb has grown to lead our Mobile team, working on mapping projects for tablet systems, designing complex data collection apps, promoting the use of clean architecture and creating our very own internal app called ‘Life@YIPL’, among much else. Citing the encouragement and positive energy which is a daily part of life at YoungInnovations as one of the highlights of his job, Rakeeb also talked to us about being inspired by the beautiful artwork of our lead designers and his passion for Android as a platform. Outside the office, Rakeeb listens to and creates music, reads a lot (and occasionally writes) and has a long - running crush on basketball.</p>
-                <a class="story-btn" href="https://medium.com/@rakeeb">Read his story</a>
+                <p class="motivators-story-card-wrap__list-story">In August 2013, a fresh undergraduate from Kathmandu College of Management joined our team; we quickly learned Rakeeb’s wacky ways and recognised his incredible knack for mobile programming. His quick sense of humour ...</p>
+                <a class="story-btn" href="https://blog.yipl.com.np/meet-rakeeb-rajbhandari-9e86d07349e6#.r8738720n">Read his story</a>
             </div>
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="title" href="https://medium.com/@sweet_anjell">
+                <a class="title" href="https://blog.yipl.com.np/meet-sweta-shrestha-71070057841e#.yygmbmqcp">
                     <img src="/images/staffs/Sweta.jpg" alt="Staff Image 1"></img>
                     <h3 class="motivators-story-card-wrap__list-name">Sweta Shrestha</h3>
                 </a>
                 <span class="motivators-story-card-wrap__list-profession">Sr. UX Developer</span>
-                <p class="motivators-story-card-wrap__list-story">Sweta had just quit her job at a multinational company when we crossed paths with her in 2012. She was looking for two key things in her next job; a place where she could learn something new every day and where she would meet positive, innovative people. YoungInnovations was the perfect fit.</p>
-                <a class="story-btn" href="https://medium.com/@sweet_anjell">Read her story</a>
+                <p class="motivators-story-card-wrap__list-story">Sweta had just quit her job at a multinational company when we crossed paths with her in 2012. She was looking for two key things in her next job ...</p>
+                <a class="story-btn" href="https://blog.yipl.com.np/meet-sweta-shrestha-71070057841e#.yygmbmqcp">Read her story</a>
             </div>
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="title" href="https://medium.com/@manish">
+                <a class="title" href="https://blog.yipl.com.np/meet-manish-gopal-singh-6eab0d779b4b#.lxmi7i16y">
                     <img src="/images/staffs/Manish.jpg" alt="Staff Image 1"></img>
                     <h3 class="motivators-story-card-wrap__list-name">Manish Gopal Singh</h3>
                 </a>
                 <span class="motivators-story-card-wrap__list-profession">Sr. Software Engineer</span>
-                <p class="motivators-story-card-wrap__list-story">Manish joined YoungInnovations in 2015 and just one year later, his skills have propelled him into a senior role. An avid traveller, the only thing he loves more than hiking out into the mountains is facing new challenges at work, where he gets his fair share of them. He credits constant interaction with “innovative minds” at YoungInnovations as his daily inspiration. Much like when he’s traveling, he believes that adventure and novelty await him at his desk everyday and he meets them with sharp curiosity, helping build clean solutions to complicated problems. Manish is quick-thinking, vigilant and very open to suggestions; he recently achieved his Scrum Master Certification and  talks about his most recent opensource project Resource Contracts with infectious enthusiasm. A  leader in the making !</p>
-                <a class="story-btn" href="https://medium.com/@manish">Read his story</a>
+                <p class="motivators-story-card-wrap__list-story">Manish joined YoungInnovations in 2015 and just one year later, his skills have propelled him into a senior role. An avid traveller, the only thing he loves more than hiking out into the mountains ...</p>
+                <a class="story-btn" href="https://blog.yipl.com.np/meet-manish-gopal-singh-6eab0d779b4b#.lxmi7i16y">Read his story</a>
             </div>
         </div>
     </div>        
