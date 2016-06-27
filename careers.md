@@ -149,7 +149,7 @@ comments: true
         <div class="motivators-story-card-wrap clearfix">
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="title" href="https://blog.yipl.com.np/meet-rakeeb-rajbhandari-9e86d07349e6#.r8738720n">
-                    <img src="/images/staffs/Rakeeb.jpg" alt="Staff Image 1" >
+                    <img src="/images/staffs/Rakeeb.jpg" alt="Rakeeb Rajbhandari" >
                     <h3 class="motivators-story-card-wrap__list-name">Rakeeb Rajbhandari</h3>
                 </a>
                 <span class="motivators-story-card-wrap__list-profession">Software Engineer</span>
@@ -158,7 +158,7 @@ comments: true
             </div>
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="title" href="https://blog.yipl.com.np/meet-sweta-shrestha-71070057841e#.yygmbmqcp">
-                    <img src="/images/staffs/Sweta.jpg" alt="Staff Image 1"></img>
+                    <img src="/images/staffs/Sweta.jpg" alt="Sweta Shrestha" />
                     <h3 class="motivators-story-card-wrap__list-name">Sweta Shrestha</h3>
                 </a>
                 <span class="motivators-story-card-wrap__list-profession">Sr. UX Developer</span>
@@ -167,7 +167,7 @@ comments: true
             </div>
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="title" href="https://blog.yipl.com.np/meet-manish-gopal-singh-6eab0d779b4b#.lxmi7i16y">
-                    <img src="/images/staffs/Manish.jpg" alt="Staff Image 1"></img>
+                    <img src="/images/staffs/Manish.jpg" alt="Manish Gopal Singh" >
                     <h3 class="motivators-story-card-wrap__list-name">Manish Gopal Singh</h3>
                 </a>
                 <span class="motivators-story-card-wrap__list-profession">Sr. Software Engineer</span>
