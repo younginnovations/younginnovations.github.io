@@ -132,5 +132,5 @@ comments: true
 
 <div class="job-apply wrap-620">
     <h1 class="heading__title">To apply</h1>
-    <p class="survey">Feel like this position been tailor-made for you? Are you the perfect fit? Tell us why you think so. Send your CV, a snappy cover letter which highlights your expertise, skills and experience, and any relevant links/attachments to your work to our Careers team at <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a>
+    <p class="survey">Feel like this position been tailor-made for you? Are you the perfect fit? Tell us why you think so. Send your CV, a snappy cover letter which highlights your expertise, skills and experience, and any relevant links/attachments to your work to our Careers team at <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a></p>
 </div>
