@@ -268,7 +268,7 @@ $(document).ready(function () {
             'slow');
     }
 
-    $(".dev-btn").click(function (e) {
+    $(".dev-btn, a.here").click(function (e) {
         // Call the scroll function
         goToByScroll($(this).attr("id"));
 
