@@ -324,5 +324,14 @@ $(document).ready(function () {
     //Wow-animation
     new WOW().init();
 
+    //modaal-popup
+    $('.learn-more').modaal({
+        custom_class: 'custom-pop-up'
+    });
+
+    $('.popup').modaal({
+        custom_class: 'custom-pop-up'
+    });
+
 });
 
