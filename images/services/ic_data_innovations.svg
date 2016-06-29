@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="160px" height="100px" viewBox="0 0 160 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>71D36B7A-551F-4558-9294-122EDA51457B</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="160" height="100" rx="4"></rect>
+    </defs>
+    <g id="Our-Story---About" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Our-Story--About" transform="translate(-192.000000, -1181.000000)">
+            <g id="ic_data_innovations" transform="translate(192.000000, 1181.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle-14" fill="#F7FEEF" xlink:href="#path-1"></use>
+                <path d="M-1.37109375,47.0273437 C-1.37109375,47.0273437 18.0429688,-12.2031233 33.3789062,34.1757812 C48.7148437,80.5546858 58.9140625,74.4843752 81.0625,37.828125 C103.210938,1.17187477 99.8242188,-4.43359307 126.835938,51.1132812 C153.847656,106.660156 161.753906,49.9453125 161.753906,49.9453125 L194.972656,140.179688 L72.2109375,136.359375 L-13.8984375,121.8125 L-1.37109375,47.0273437 Z" id="Path-21" stroke="#AADE76" stroke-width="2" stroke-linecap="round" fill="#AADE76" mask="url(#mask-2)"></path>
+                <g id="Group-5" opacity="0.2" mask="url(#mask-2)" fill="#FFF9F7">
+                    <g transform="translate(20.000000, -7.000000)" id="Rectangle-24">
+                        <rect x="0" y="0" width="1" height="115"></rect>
+                        <rect x="38" y="0" width="1" height="115"></rect>
+                        <rect x="76" y="0" width="1" height="115"></rect>
+                        <rect x="114" y="0" width="1" height="115"></rect>
+                    </g>
+                </g>
+                <g id="Group-5" opacity="0.2" mask="url(#mask-2)" fill="#FFF9F7">
+                    <g transform="translate(77.500000, 50.000000) rotate(90.000000) translate(-77.500000, -50.000000) translate(20.000000, -36.000000)" id="Rectangle-24">
+                        <rect x="38" y="0" width="1" height="172"></rect>
+                        <rect x="76" y="0" width="1" height="172"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
