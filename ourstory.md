@@ -30,7 +30,7 @@ carousel:
 <div class="wrap-out layout">
 <div class="main-body-text">
     <p>We aren’t in the technology business to get rich (or die trying!), to build hip social media apps or to eventually make a killing on an IPO. YoungInnovations is a special kind of technology company. </p>
-    <p>We specialise in global development; we build partnerships and technology that help development organisations to change the way the world works for the poorest and most vulnerable people in society.</p>
+    <p>We specialise in global development; we build partnerships and technology that help development organisations to change the way the world works.</p>
     <p>Every line of code we write at YoungInnovations has an impact, which is appropriate, given that our key goal is to increase the impact of the work that global development organisations do. We build products, tools and websites that focus on solving problems by providing tailored and innovative solutions which work for your local context. By taking the time to understand the real needs of your end users, we never fail to build products which will be both used and useful. </p>
 <h2 data-scroll-index="1">Our Approach</h2>
 <p>We believe in the power of partnerships. We work with you to create tailored, innovative solutions in the areas of data, technology, product and community.</p>
