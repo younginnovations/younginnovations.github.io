@@ -121,7 +121,7 @@ input, button {
     font-style: italic;
 }
 
-body.home {
+.home {
     background: #d1d1d1 url(../../images/pages/bg-img.jpg) no-repeat 0 0;
     background-size: cover;
 }
