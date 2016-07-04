@@ -116,28 +116,24 @@ comments: true
     <h2 class="career-title">We’re hiring!</h2>
         <div class="profession-list">
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail/senior-developer-php">Senior Developer (PHP)</a>
-                <p class="description">You’ll lead a team of developers to produce high-quality innovative products, built with a passion for PHP.</p>  
+                <a class="profession-list__item-title" href="/job-detail/senior-developer-php">Software Engineer (PHP)</a>
+                <p class="description">You’ll lead a team of software engineers to produce high-quality innovative products, built with a passion for PHP.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail/software-developer">Software Developer</a>
-                <p class="description">As a Software Developer, you’ll be part of a high-performing team that produces excellent products for global clients.</p>  
+                <a class="profession-list__item-title" href="/job-detail/software-developer">Software Engineer</a>
+                <p class="description">As a software engineer, you’ll be part of a high-performing team that produces excellent products for global clients.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail/web-developer">Web Developer</a>
-                <p class="description">As a web developer you’ll work on a small core team dedicated to producing beautiful, effective, user-friendly websites and products.</p>  
+                <a class="profession-list__item-title" href="/job-detail/web-developer">Software Engineer - Front-end</a>
+                <p class="description">As a frontend software engineer you’ll work on a small core team dedicated to producing beautiful, effective, user-friendly websites and products.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="profession-list__item-title" href="/job-detail/software-QA-lead">Software QA Lead</a>
                 <p class="description">You’ll take the lead on all things QA, pushing us to new heights of product quality and shaping the QA processes our teams use every day.</p>  
             </div>
-            <!--<div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
-                <!--<a class="profession-list__item-title" href="/job-detail/operation-manager">Operations Associate</a>-->
-                <!--<p class="description">What qualities are we looking for (time management, communication, team player, energetic.</p>  -->
-            <!--</div>    -->
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail/senior-developer-node">Senior Developer (Nodejs)</a>
-                <p class="description">With super skills in Nodejs, you’ll lead a team of developers to produce high-quality innovative products.</p>  
+                <a class="profession-list__item-title" href="/job-detail/senior-developer-node">Senior Software Engineer (Nodejs)</a>
+                <p class="description">With super skills in Nodejs, you’ll lead a team of software engineers to produce high-quality innovative products.</p>  
             </div>
         </div>
     </div>
