@@ -19,7 +19,7 @@ comments: true
     <div class="wrap-620">
         <h2 class="job-about__title">About the job</h2>
         <div class="job-about__description">
-         <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. Many of our web related projects are based on popular CMSs (eg. Drupal) while some are custom built. As a Web Developer at YoungInnovations, you will be part of a team which builds and delivers innovative solutions to a challenging and fascinating range of client problems. You will work closely with your team to drive the development, working from the concept phase through to release, and ensuring your deliverables are of the highest quality.</p>    
+         <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. Many of our web related projects are based on popular CMSs (eg. Drupal) while some are custom built. As a Software Engineer (Front-end) at YoungInnovations, you will be part of a team which builds and delivers innovative solutions to a challenging and fascinating range of client problems. You will work closely with your team to drive the development, working from the concept phase through to release, and ensuring your deliverables are of the highest quality.</p>    
         </div>        
         <h2 class="job-about__title">Key responsibilities</h2>
         <ul class="list">
@@ -29,7 +29,7 @@ comments: true
             <li>Work with different Content Management Systems</li>
             <li>Test various different types of websites</li>
             <li>Provide training to clients regarding the website/ CMS usage</li>
-            <li>Collaborate with developers (front-end and back-end) and designers</li>
+            <li>Collaborate with software engineers (front-end and back-end) and designers</li>
             <li>Continual research and learning on leading web technologies</li>
         </ul>
     </div>

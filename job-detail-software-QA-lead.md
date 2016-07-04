@@ -19,7 +19,7 @@ comments: true
     <div class="wrap-620">
         <h2 class="job-about__title">About the job</h2>
         <div class="job-about__description">
-         <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. We see QA as a preventative measure rather than a curative one - providing feedback that allows developers to improve the software from the start - and as such,  you will be ultimately responsible for the overall quality of the code deployed into our production.</p>
+         <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. We see QA as a preventative measure rather than a curative one - providing feedback that allows software engineers to improve the software from the start - and as such,  you will be ultimately responsible for the overall quality of the code deployed into our production.</p>
          <p>You will work closely with the Head of Product, the Chief Innovations Officer and the Director or Operations to create and implement processes which identify, analyze and document defects, functions, errors, and more in software. You will be an advocate for consistent and high quality standards across all of the company’s products, crafting best practices for coding and documenting code. We expect you to be heavily involved in the long term design and architectural decisions of both our QA process and product builds.</p>      
         </div>        
         <h2 class="job-about__title">Key responsibilities</h2>
@@ -38,9 +38,9 @@ comments: true
             <li>
             Establish a consistent release management framework and deliver high quality software, in rapid iterations, across our multiple product teams</li>
             <li>
-            Analyse incoming features/work and work with developers and QA champions to create applicable test cases and define acceptance criteria</li>
+            Analyse incoming features/work and work with software engineers and QA champions to create applicable test cases and define acceptance criteria</li>
             <li>
-            Communicate proactively and preemptively with your key stakeholders, from senior management to the developers adopting your QA practices</li>
+            Communicate proactively and preemptively with your key stakeholders, from senior management to the software engineers adopting your QA practices</li>
             <li>
             Be responsible for coaching, mentoring and developing engineers</li>
         </ul>
@@ -95,7 +95,7 @@ comments: true
                   <li>An active learner; you know what you are good at, and where you need help</li>
                   <li>Coaching or mentoring skills</li>
                   <li>Experience with employee development, performance management and delivering results</li>
-                  <li>Tact and diplomacy - useful in maintaining a cooperative relationship with developers</li>
+                  <li>Tact and diplomacy - useful in maintaining a cooperative relationship with software engineers</li>
                   <li>An ability to communicate with both technical and non-technical people.</li>
                   <li>A “test to break” attitude</li>                  
               </ul>

@@ -19,7 +19,7 @@ comments: true
     <div class="wrap-620">
         <h2 class="job-about__title">About the job</h2>
         <div class="job-about__description">
-             <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. As a software developer you will be part of team which builds and delivers innovative solutions to a challenging and fascinating range of client problems. You will work closely with your team to drive the development, working from the concept phase through to release, and ensuring your deliverables are of the highest quality.</p> 
+             <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. As a software engineer you will be part of team which builds and delivers innovative solutions to a challenging and fascinating range of client problems. You will work closely with your team to drive the development, working from the concept phase through to release, and ensuring your deliverables are of the highest quality.</p> 
               <p>You will have an exciting opportunity to experience the entire software development process, learning and employing Agile methodologies like Scrum and Kanban along with various other agile-focused technologies and processes such as automated deployments, continuous integration and pairing.</p>    
         </div>
         
@@ -71,7 +71,7 @@ comments: true
         <div class="requirements">
             <h1 class="heading__title">Your experience</h1>
             <ul class="list">
-                    <li>At least 3 years of experience as Software Developer</li>
+                    <li>At least 3 years of experience as Software Developer/ Engineer</li>
                     <li>Strong command over Object oriented programming concepts </li>
                     <li>Proficient in Php frameworks such as Laravel</li>
                     <li>Proficient in vanilla javascript and experience in at least one of the MV frameworks</li>

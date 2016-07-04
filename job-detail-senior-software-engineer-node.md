@@ -19,8 +19,8 @@ comments: true
     <div class="wrap-620">
         <h2 class="job-about__title">About the job</h2>
         <div class="job-about__description">
-         <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. As a Senior Developer at YoungInnovations you will take up the challenge of leading a high-performing team working on multiple products at any given time, while ensuring they maintain a focus on delivering high quality products.</p>      
-         <p>You will work closely with your Department Lead and other Senior Developers to ensure that code is of high quality, that our QA processes are followed down to the letter,  that the product backlog gets organised, updated and completed during every Sprint. It’s also down to you to communicate effectively and professionally with the client, to own the product development and to ensure that your team is sufficiently resourced in order to deliver great quality products on time.</p>
+         <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. As a Senior Software Engineer at YoungInnovations you will take up the challenge of leading a high-performing team working on multiple products at any given time, while ensuring they maintain a focus on delivering high quality products.</p>      
+         <p>You will work closely with your Department Lead and other Senior Software Engineers to ensure that code is of high quality, that our QA processes are followed down to the letter,  that the product backlog gets organised, updated and completed during every Sprint. It’s also down to you to communicate effectively and professionally with the client, to own the product development and to ensure that your team is sufficiently resourced in order to deliver great quality products on time.</p>
         </div>
         
         <h2 class="job-about__title">Key responsibilities</h2>
@@ -69,7 +69,7 @@ comments: true
         <div class="requirements">
             <h1 class="heading__title">Your experience</h1>
             <ul class="list">
-                <li>At least 3 years of experience as a Sr. Developer and leading project teams</li>
+                <li>At least 3 years of experience as a Sr. Developer/ Software Engineer and leading project teams</li>
                 <li>Strong command over Object oriented programming concepts</li>
                 <li>Proficient in Nodejs and Express Framework</li>
                 <li>Proficient in vanilla javascript and experience in at least one of the MV frameworks</li>
