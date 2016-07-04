@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /job-detail/software-engineer-front-end
-title: Software Engineer - Front-end
+permalink: /job-detail/web-developer
+title: Web Developer
 tagline: Job Detail at YoungInnovations
 tags: [job detail]
 modified: 2016-06-16
@@ -11,7 +11,7 @@ comments: true
 <div class="job-teaser">
     <div class="job-teaser__hero-content wrap-960">    
         <div class="job-teaser__img-circle web-developer"></div>
-        <span class="hero-content__description">Software Engineer - Front-end</span>
+        <span class="hero-content__description">Web Developer</span>
     </div>    
 </div>
 
@@ -19,7 +19,7 @@ comments: true
     <div class="wrap-620">
         <h2 class="job-about__title">About the job</h2>
         <div class="job-about__description">
-         <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. Many of our web related projects are based on popular CMSs (eg. Drupal) while some are custom built. As a Software Engineer (Front-end) at YoungInnovations, you will be part of a team which builds and delivers innovative solutions to a challenging and fascinating range of client problems. You will work closely with your team to drive the development, working from the concept phase through to release, and ensuring your deliverables are of the highest quality.</p>    
+         <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. Many of our web related projects are based on popular CMSs (eg. Drupal) while some are custom built. As a Web Developer at YoungInnovations, you will be part of a team which builds and delivers innovative solutions to a challenging and fascinating range of client problems. You will work closely with your team to drive the development, working from the concept phase through to release, and ensuring your deliverables are of the highest quality.</p>    
         </div>        
         <h2 class="job-about__title">Key responsibilities</h2>
         <ul class="list">
