@@ -5086,7 +5086,7 @@ and (max-device-width: 1024px) {
     }
 
     .service-image img.small, .logo-wrapper ul li img.small, .contact-block img.small {
-        display: block;
+        display: inline-block;
     }
 
     .see-work {
@@ -5207,7 +5207,6 @@ and (max-device-width: 1024px) {
         background-position: -209px 0;
         background-size: 250px;
     }
-
 }
 
 .openings {
