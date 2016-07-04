@@ -116,15 +116,15 @@ comments: true
     <h2 class="career-title">We’re hiring!</h2>
         <div class="profession-list">
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail/senior-developer-php">Software Engineer (PHP)</a>
+                <a class="profession-list__item-title" href="/job-detail/senior-software-engineer-php">Senior Software Engineer (PHP)</a>
                 <p class="description">You’ll lead a team of software engineers to produce high-quality innovative products, built with a passion for PHP.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail/software-developer">Software Engineer</a>
+                <a class="profession-list__item-title" href="/job-detail/software-engineer">Software Engineer</a>
                 <p class="description">As a software engineer, you’ll be part of a high-performing team that produces excellent products for global clients.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail/web-developer">Software Engineer - Front-end</a>
+                <a class="profession-list__item-title" href="/job-detail/software-engineer-front-end">Software Engineer - Front-end</a>
                 <p class="description">As a frontend software engineer you’ll work on a small core team dedicated to producing beautiful, effective, user-friendly websites and products.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -132,7 +132,7 @@ comments: true
                 <p class="description">You’ll take the lead on all things QA, pushing us to new heights of product quality and shaping the QA processes our teams use every day.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail/senior-developer-node">Senior Software Engineer (Nodejs)</a>
+                <a class="profession-list__item-title" href="/job-detail/senior-software-engnineer-node">Senior Software Engineer (Nodejs)</a>
                 <p class="description">With super skills in Nodejs, you’ll lead a team of software engineers to produce high-quality innovative products.</p>  
             </div>
         </div>

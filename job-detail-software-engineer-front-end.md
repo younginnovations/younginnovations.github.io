@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /job-detail/web-developer
-title: Web Developer
+permalink: /job-detail/software-engineer-front-end
+title: Software Engineer - Front-end
 tagline: Job Detail at YoungInnovations
 tags: [job detail]
 modified: 2016-06-16
@@ -11,7 +11,7 @@ comments: true
 <div class="job-teaser">
     <div class="job-teaser__hero-content wrap-960">    
         <div class="job-teaser__img-circle web-developer"></div>
-        <span class="hero-content__description">Web Developer</span>
+        <span class="hero-content__description">Software Engineer - Front-end</span>
     </div>    
 </div>
 

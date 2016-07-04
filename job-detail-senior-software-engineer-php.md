@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /job-detail/senior-developer-node
-title: Senior Developer Node
+permalink: /job-detail/senior-software-engineer-php
+title: Senior Software Engineer PHP
 tagline: Job Detail at YoungInnovations
 tags: [job detail]
 modified: 2016-06-16
@@ -10,8 +10,8 @@ comments: true
 
 <div class="job-teaser">
     <div class="job-teaser__hero-content wrap-960">    
-        <div class="job-teaser__img-circle senior-developer-node"></div>
-        <span class="hero-content__description">Senior Developer (Nodejs)</span>
+        <div class="job-teaser__img-circle senior-developer-php"></div>
+        <span class="hero-content__description">Senior Software Engineer (PHP)</span>
     </div>    
 </div>
 
@@ -19,8 +19,8 @@ comments: true
     <div class="wrap-620">
         <h2 class="job-about__title">About the job</h2>
         <div class="job-about__description">
-         <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. As a Senior Developer at YoungInnovations you will take up the challenge of leading a high-performing team working on multiple products at any given time, while ensuring they maintain a focus on delivering high quality products.</p>      
-         <p>You will work closely with your Department Lead and other Senior Developers to ensure that code is of high quality, that our QA processes are followed down to the letter,  that the product backlog gets organised, updated and completed during every Sprint. It’s also down to you to communicate effectively and professionally with the client, to own the product development and to ensure that your team is sufficiently resourced in order to deliver great quality products on time.</p>
+             <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. As a Senior Developer at YoungInnovations you will take up the challenge of leading a high-performing team working on multiple products at any given time, while ensuring they maintain a focus on delivering high quality products.</p>
+             <p>You will work closely with your Department Lead and other Senior Developers to ensure that code is of high quality, that our QA processes are followed down to the letter,  that the product backlog gets organised, updated and completed during every Sprint. It’s also down to you to communicate effectively and professionally with the client, to own the product development and to ensure that your team is sufficiently resourced in order to deliver great quality products on time.</p>
         </div>
         
         <h2 class="job-about__title">Key responsibilities</h2>
@@ -39,7 +39,7 @@ comments: true
 
 <div class="work-fun">
     <div class="wrap-960">
-        <h1 class="career-title">Work on exciting and challenging projects</h1>
+        <h1 class="career-title">Work on exciting and challenging Projects </h1>
         <div class="work-fun-wrapper">
             <div class="work-fun-wrapper__list">
                 <a href="http://aidstream.org/" title="Aidstream">
@@ -65,13 +65,13 @@ comments: true
         <h2 class="job-about__title">About you</h2>
         <div class="job-about__description">
              <p>You are a team player who loves tech products the way you’d love your own kids, with a mean eye for detail and a passion for finding new ways to improve any product! You are a knock-out expert in your field, you love to learn and you see huge value in sharing that learning and expertise with your team in order to help them improve. You eat and breathe technology and are able to work in a fast-paced environment and adapt readily to change.</p>
-        </div>        
+        </div> 
         <div class="requirements">
             <h1 class="heading__title">Your experience</h1>
             <ul class="list">
                 <li>At least 3 years of experience as a Sr. Developer and leading project teams</li>
                 <li>Strong command over Object oriented programming concepts</li>
-                <li>Proficient in Nodejs and Express Framework</li>
+                <li>Proficient in Php and Laravel Framework</li>
                 <li>Proficient in vanilla javascript and experience in at least one of the MV frameworks</li>
                 <li>Experienced in writing unit tests</li>
                 <li>Working knowledge of git and its branching models</li>
@@ -80,12 +80,13 @@ comments: true
                 <li>Proven experience in software architecture design</li>
                 <li>Experience working in agile environment and scrum/kanban teams</li>
                 <li>Experienced in code reviews</li>
+                <li>Good understanding of coding standards such as PSR</li>
                 <li>Strong problem-solving skills and the ability to analyze quantitatively, scope technical requirements and prioritize deliverables</li>
                 <li>A strong self-manager, very well-organized, with excellent time-management skills</li>
                 <li>Excellent communication skills, with a focus on clear and proactive communication</li>
                 <li>Excellent spoken and written English skills</li>
-            </ul>
-        </div>
+            </ul>            
+        </div>                   
         
         <div class="bonus-pts">
           <h1 class="heading__title">Nice to have</h1>

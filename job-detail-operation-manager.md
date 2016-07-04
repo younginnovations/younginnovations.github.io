@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /job-detail/operation-manager
-title: Job Detail
+title: Operations Manager
 tagline: Job Detail at YoungInnovations
 tags: [job detail]
 modified: 2016-06-16

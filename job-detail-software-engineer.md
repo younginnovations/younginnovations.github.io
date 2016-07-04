@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /job-detail/senior-developer-php
-title: Senior Developer PHP
+permalink: /job-detail/software-engineer
+title: Software Engineer
 tagline: Job Detail at YoungInnovations
 tags: [job detail]
 modified: 2016-06-16
@@ -10,8 +10,8 @@ comments: true
 
 <div class="job-teaser">
     <div class="job-teaser__hero-content wrap-960">    
-        <div class="job-teaser__img-circle senior-developer-php"></div>
-        <span class="hero-content__description">Senior Developer (PHP)</span>
+        <div class="job-teaser__img-circle software-developer"></div>
+        <span class="hero-content__description">Software Engineer</span>
     </div>    
 </div>
 
@@ -19,41 +19,43 @@ comments: true
     <div class="wrap-620">
         <h2 class="job-about__title">About the job</h2>
         <div class="job-about__description">
-             <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. As a Senior Developer at YoungInnovations you will take up the challenge of leading a high-performing team working on multiple products at any given time, while ensuring they maintain a focus on delivering high quality products.</p>
-             <p>You will work closely with your Department Lead and other Senior Developers to ensure that code is of high quality, that our QA processes are followed down to the letter,  that the product backlog gets organised, updated and completed during every Sprint. It’s also down to you to communicate effectively and professionally with the client, to own the product development and to ensure that your team is sufficiently resourced in order to deliver great quality products on time.</p>
+             <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. As a software developer you will be part of team which builds and delivers innovative solutions to a challenging and fascinating range of client problems. You will work closely with your team to drive the development, working from the concept phase through to release, and ensuring your deliverables are of the highest quality.</p> 
+              <p>You will have an exciting opportunity to experience the entire software development process, learning and employing Agile methodologies like Scrum and Kanban along with various other agile-focused technologies and processes such as automated deployments, continuous integration and pairing.</p>    
         </div>
         
         <h2 class="job-about__title">Key responsibilities</h2>
         <ul class="list">
-            <li>Lead and develop the best technical design and approach for new products or technologies.</li>
-            <li>Lead project team in delivering the quality product</li>
-            <li>Coach and mentor project team in processes and methodologies</li>
-            <li>Write quality code with utmost attention to scalability and performance</li>
-            <li>Enforce coding standards in the project team through formal code reviews</li>
-            <li>Identify project risks and clearly communicate risks and expectations to your team members and your management</li>
-            <li>Communicate proactively with clients regarding projects’ status and progress</li>
-            <li>Stay aware of industry trends and use these to make informed technology choices and strategic decisions</li>
+            <li>Develop high-quality, custom web applications using PHP frameworks like Laravel</li>
+            <li>Deploy your code to production and staging servers using automated deployment tools</li>
+            <li>Perform unit and system level testing using various testing frameworks</li>
+            <li>Collaborate with the front-end team to ensure that the application meets the standards</li>
+            <li>Perform debugging and troubleshooting activities</li>
+            <li>Monitor applications once they reach the Production stage</li>
+            <li>Collaborate with team members by performing peer code reviews, providing comments and suggestions</li>
+            <li>Contribute to the team’s productivity by sharing your knowledge and experiences</li>
+            <li>Contribute ideas to improve the product</li>
+            <li>Design and work with RESTful API’s</li>
         </ul>
     </div>
 </div>
 
 <div class="work-fun">
     <div class="wrap-960">
-        <h1 class="career-title">Work on exciting and challenging Projects </h1>
+        <h1 class="career-title">Work on exciting and challenging projects</h1>
         <div class="work-fun-wrapper">
             <div class="work-fun-wrapper__list">
-                <a href="http://aidstream.org/" title="Aidstream">
-                    <img src="/images/career/ic_aidstream_shot.jpg" alt="Aidstream" />   
+                <a href="http://www.developmentcheck.org/" title="Development Check">
+                    <img src="/images/career/ic_devcheck_shot.jpg" alt="Development Check" />   
                 </a>     
-            </div>
-            <div class="work-fun-wrapper__list">
-                <a href="http://www.resourcecontracts.org/" title="Resource Contracts">
-                    <img src="/images/career/ic_nrgi_shot.jpg" alt="Resource Contracts">    
-                </a>                            
             </div>
             <div class="work-fun-wrapper__list">
                 <a href="http://open.undg.org/" title="UN Transparency Portal">
                     <img src="/images/career/ic_undg_shot.jpg" alt="UN Transparency portal" >   
+                </a>             
+            </div>
+            <div class="work-fun-wrapper__list">
+                <a href="http://earthquake.opennepal.net/" title="Earthquake OpenNepal">
+                    <img src="/images/career/ic_earthquake_shot.jpg" alt="Earthquake OpenNepal" >   
                 </a>             
             </div>
         </div>
@@ -64,38 +66,30 @@ comments: true
     <div class="wrap-620">
         <h2 class="job-about__title">About you</h2>
         <div class="job-about__description">
-             <p>You are a team player who loves tech products the way you’d love your own kids, with a mean eye for detail and a passion for finding new ways to improve any product! You are a knock-out expert in your field, you love to learn and you see huge value in sharing that learning and expertise with your team in order to help them improve. You eat and breathe technology and are able to work in a fast-paced environment and adapt readily to change.</p>
-        </div> 
+             <p>You love to take on challenging work and solve complex problems. You take pride in your work and have a keen sense of attention to detail. You love to experiment with new tools and technologies. You feel ownership for, and accountability towards, the work that you do. You take deadlines very seriously and are always eager to help others to solve their problems.</p>
+        </div>
         <div class="requirements">
             <h1 class="heading__title">Your experience</h1>
             <ul class="list">
-                <li>At least 3 years of experience as a Sr. Developer and leading project teams</li>
-                <li>Strong command over Object oriented programming concepts</li>
-                <li>Proficient in Php and Laravel Framework</li>
-                <li>Proficient in vanilla javascript and experience in at least one of the MV frameworks</li>
-                <li>Experienced in writing unit tests</li>
-                <li>Working knowledge of git and its branching models</li>
-                <li>Working knowledge of linux system and server administration</li>
-                <li>Working knowledge of PostgreSQL</li>
-                <li>Proven experience in software architecture design</li>
-                <li>Experience working in agile environment and scrum/kanban teams</li>
-                <li>Experienced in code reviews</li>
-                <li>Good understanding of coding standards such as PSR</li>
-                <li>Strong problem-solving skills and the ability to analyze quantitatively, scope technical requirements and prioritize deliverables</li>
-                <li>A strong self-manager, very well-organized, with excellent time-management skills</li>
-                <li>Excellent communication skills, with a focus on clear and proactive communication</li>
-                <li>Excellent spoken and written English skills</li>
-            </ul>            
-        </div>                   
-        
+                    <li>At least 3 years of experience as Software Developer</li>
+                    <li>Strong command over Object oriented programming concepts </li>
+                    <li>Proficient in Php frameworks such as Laravel</li>
+                    <li>Proficient in vanilla javascript and experience in at least one of the MV frameworks</li>
+                    <li>Familiarity with writing unit tests and different unit testing frameworks</li>
+                    <li>Working knowledge of git and its branching models</li>
+                    <li>Working knowledge of linux system</li>
+                    <li>Have knowledge of coding standards such as PSR</li>
+                    <li>Excellent spoken and written English skills</li>
+            </ul>
+        </div>        
         <div class="bonus-pts">
-          <h1 class="heading__title">Nice to have</h1>
-          <ul class="list">
-              <li>Experience with HTML5/CSS3, ReactJS, NoSQL databases, Elasticsearch, RabbitMQ</li>
-              <li>Understanding of QA process</li>
-              <li>Have used various programming languages and paradigms</li>
-              <li>Have some experience in/passionate about the development sector</li>             
-          </ul>
+              <h1 class="heading__title">Nice to have</h1>
+              <ul class="list">
+                  <li>Experienced in software architecture design</li>
+                  <li>Have experience with PostgreSQL and noSql databases</li>
+                  <li>Have used various programming languages and paradigms</li>
+                  <li>Have some experience in/passionate about the development sector</li>                  
+              </ul>
         </div>
     </div>  
 </div>  
@@ -130,7 +124,6 @@ comments: true
         </div>
     </div>    
 </div>
-
 <div class="job-apply wrap-620">
     <h1 class="heading__title">To apply</h1>
     <p class="survey">Feel like this position been tailor-made for you? Are you the perfect fit? Tell us why you think so. Send your CV, a snappy cover letter which highlights your expertise, skills and experience, and any relevant links/attachments to your work to our Careers team at <a href="mailto:careers@yipl.com.np">careers@yipl.com.np</a></p>
