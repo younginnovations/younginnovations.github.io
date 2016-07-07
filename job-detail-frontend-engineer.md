@@ -19,9 +19,9 @@ comments: true
     <div class="wrap-620">
         <h2 class="job-about__title">About the job</h2>
         <div class="job-about__description">
-         <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. As a front-end developer you will be part of a team which builds and delivers innovative solutions to a challenging and fascinating range of client problems.  You will work closely with your team to implement static designs into usable web pages and add interface interactions as and when needed.  You will be working from the concept phase through to release, and ensuring your deliverables are of the highest quality.</p>    
-         <p>You will work closely with designers, software engineers and product lead to ensure the implementations match with the designs provided. You will learn and/ or employ latest front end technologies including CSS preprocessors such as SASS, automated task builders such as Gulp, Elixir.</p>
-         <p>You will have an exciting opportunity to experience the entire software development process, learning and employing Agile methodologies like Scrum and Kanban along with various other agile-focused technologies and processes such as automated deployments, continuous integration and pairing. </p>
+         <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. As a front-end engineer at YoungInnovations, you will be part of an elite group of User Experience and Interaction experts, tasked with delivering innovative solutions to a broad and challenging range of client problems.  Working from the concept phase through to product release, you will focus on ensuring that your deliverables are of the highest quality.</p>    
+         <p>You will work closely with designers, software engineers and product leads to ensure that each user experience is well thought out, executed to perfection and that implementation matches the designs provided both by the client and your designers. You will keep up to date with and employ the latest front end technologies, including tools such as CSS preprocessors like SASS, automated task builders such as Gulp, Elixir, and many more.</p>
+         <p>This is an exciting opportunity to experience the entire software development process, including the opportunity to learn and adopt Agile methodologies such as Scrum and Kanban as well as various other agile-focused technologies and processes such as automated deployments, continuous integration and pairing.</p>
         </div>        
         <h2 class="job-about__title">Key responsibilities</h2>
         <ul class="list">
@@ -61,15 +61,15 @@ comments: true
     <div class="wrap-620">
         <h2 class="job-about__title">About you</h2>
         <div class="job-about__description">
-             <p>You are passionate about web and love learning about, and experimenting with, the latest web and front-end technologies. You are able to work on multiple projects at a time without sacrificing details and you take deadlines seriously, always delivering high-quality products on time. You love a challenge, take pride in your work and are able to work well in a small team without much need for guidance. You feel ownership for, and accountability towards, the work that you do and are always eager to help others to solve their problems.</p>
+             <p>More than anything you are passionate about web users and their online experience, wanting to provide a seamless and beautiful user experience in every interaction. You like to challenge yourself, pushing yourself to provide innovative solutions to complex problems. You love to learn about, and experiment with, the latest web and front-end technologies. You are able to work on multiple projects at the same time without sacrificing attention to detail and you take deadlines seriously, always delivering high-quality products on time. You take pride in your work and are able to work well in a small team without much need for guidance. You feel ownership for, and accountability towards, the work that you do and are always eager to help others to solve their problems.</p>
         </div>       
          <div class="requirements">
              <h1 class="heading__title">Your experience</h1>
              <ul class="list">
                  <li>Proficient in HTML and CSS</li>
-                 <li>Knowledge of CSS preprocessors such as SASS, LESS </li>
+                 <li>Knowledge of CSS preprocessors such as SASS, LESS</li>
                  <li>Proficient in Javascript</li>
-                 <li>Familiarity with CMS such as Wordpress and/ or DrupalP</li>
+                 <li>Familiarity with CMS such as Wordpress and/ or Drupal</li>
                  <li>Basic knowledge on programing language such as PHP</li>
                  <li>Basic knowledge on programming language frameworks such as laravel</li>
              </ul>                    
