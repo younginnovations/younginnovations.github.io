@@ -135,6 +135,10 @@ comments: true
                 <a class="profession-list__item-title" href="/job-detail/senior-software-engnineer-node">Senior Software Engineer (Nodejs)</a>
                 <p class="description">With super skills in Nodejs, you’ll lead a team of software engineers to produce high-quality innovative products.</p>  
             </div>
+            <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                <a class="profession-list__item-title" href="/job-detail/frontend-engineer">Frontend Engineer</a>
+                <p class="description">As a frontend engineer, you will be working closely with the design team and the engineering team to build high quality user friendly products.</p>  
+            </div>
         </div>
     </div>
 </div>
