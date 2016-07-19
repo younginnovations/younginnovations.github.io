@@ -139,6 +139,10 @@ comments: true
                 <a class="profession-list__item-title" href="/job-detail/frontend-engineer">Frontend Engineer</a>
                 <p class="description">As a frontend engineer, you will be working closely with the design team and the engineering team to build high quality user friendly products.</p>  
             </div>
+            <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                <a class="profession-list__item-title" href="/job-detail/director-operation">Director of Operations</a>
+                <p class="description">You’re a master of logistics who can co-ordinate the whole company on a day-to-day basis, support our strategic direction and work closely with the CEO to shape the quality and structure of the company.</p>  
+            </div>
         </div>
     </div>
 </div>

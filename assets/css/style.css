@@ -3354,9 +3354,10 @@ body.fixed .slide-navigation {
     background-size: 170px;
 }
 
-/*.profession-list__item:nth-of-type(6) .profession-list__item-title {*/
-/*background: url(../../images/career/ic_profession_icon_6.png) no-repeat top center;*/
-/*}*/
+.profession-list__item:nth-of-type(7) .profession-list__item-title {
+    background: url(../../images/career/ic_profession_icon_5.png) no-repeat top center;
+    background-size: 170px;
+}
 
 .profession-list__item-title {
     color: #F26522;
@@ -3743,7 +3744,7 @@ a.here {
     background-size: 190px;
 }
 
-.job-teaser__img-circle.operation-manager {
+.job-teaser__img-circle.director-operation {
     background: url(../../images/career/ic_profession_icon_5.png) no-repeat center center;
     background-size: 190px;
 }
@@ -4802,6 +4803,13 @@ a.learn-more:hover {
     #main article .article-wrap .job-about__you ul.list li {
         font-size: 16px;
         line-height: 26px;
+    }
+
+    #main article .article-wrap .job-about__description p,
+    #main article .article-wrap ul.list li,
+    #main article .article-wrap .benefits-wrap__list-content p{
+        font-size: 16px;
+        line-height: 24px;
     }
 }
 
