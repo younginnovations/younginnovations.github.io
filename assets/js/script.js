@@ -333,5 +333,7 @@ $(document).ready(function () {
         custom_class: 'custom-pop-up'
     });
 
+    $(".internship").parents().parent("body").addClass("internship-wrap");
+
 });
 
