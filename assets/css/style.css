@@ -2908,8 +2908,7 @@ body.fixed .slide-navigation {
 
 .intern-btn {
     background: rgba(255, 255, 255, 0.8);
-    margin-right: 0;
-    margin-left: 10px;
+    margin-top: 15px;
     padding: 15px 58px;
 }
 
@@ -3314,6 +3313,7 @@ body.fixed .slide-navigation {
 .hiring-btn {
     text-align: center;
     margin-top: 40px;
+    padding: 0 10px;
 }
 
 .profession-section {
@@ -4497,6 +4497,11 @@ a.learn-more:hover {
         background-size: 60px;
     }
 
+    .intern-btn {
+        margin-top: 0;
+        margin-left: 15px;
+    }
+
     /*Internship*/
     .internship-benefits-wrap__list, .internship-apply-wrap__list {
         width: 45.5%;
@@ -4879,13 +4884,6 @@ a.learn-more:hover {
 
     .error-section {
         display: block;
-    }
-}
-
-@media only screen and (min-width: 920px) {
-    .impact {
-        font-size: 54px;
-        font-size: 5.5rem;
     }
 }
 
@@ -5856,4 +5854,3 @@ and (max-device-width: 1024px) {
 .article-wrap p > a, .article-wrap li > a {
     border-bottom: 1px solid transparent;
 }
-
