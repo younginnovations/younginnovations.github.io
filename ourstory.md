@@ -166,7 +166,7 @@ Happy Team<span>=</span>Productivity
 </div> 
   
 <div id="staff-wrapper">
-  <div class="staff__block">
+  <div class="staff__block clearfix">
   {% for staff in site.staffs %}
     <div class="card slow_zoom">
       <div class="text_holder">

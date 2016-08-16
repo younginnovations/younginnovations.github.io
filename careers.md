@@ -140,8 +140,8 @@ comments: true
                 <p class="description">As a frontend engineer, you will be working closely with the design team and the engineering team to build high quality user friendly products.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail/director-operation">Director of Operations</a>
-                <p class="description">You’re a master of logistics who can co-ordinate the whole company on a day-to-day basis, support our strategic direction and work closely with the CEO to shape the quality and structure of the company.</p>  
+                <a class="profession-list__item-title" href="/job-detail/operation-manager">Operations Manager</a>
+                <p class="description">You’re a master of logistics who can support our strategic direction and coordinate with the senior team to ensure that the company runs effectively and smoothly on a day-to-day basis.</p>  
             </div>
         </div>
     </div>
@@ -153,7 +153,7 @@ comments: true
         <div class="motivators-story-card-wrap clearfix">
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="title" href="https://blog.yipl.com.np/meet-rakeeb-rajbhandari-9e86d07349e6#.r8738720n">
-                    <img src="/images/staffs/Rakeeb.jpg" alt="Rakeeb Rajbhandari" >
+                    <img src="/images/staffs/Rakeeb.png" alt="Rakeeb Rajbhandari" >
                     <h3 class="motivators-story-card-wrap__list-name">Rakeeb Rajbhandari</h3>
                 </a>
                 <span class="motivators-story-card-wrap__list-profession">Software Engineer</span>
@@ -162,7 +162,7 @@ comments: true
             </div>
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="title" href="https://blog.yipl.com.np/meet-sweta-shrestha-71070057841e#.yygmbmqcp">
-                    <img src="/images/staffs/Sweta.jpg" alt="Sweta Shrestha" />
+                    <img src="/images/staffs/Sweta.png" alt="Sweta Shrestha" />
                     <h3 class="motivators-story-card-wrap__list-name">Sweta Shrestha</h3>
                 </a>
                 <span class="motivators-story-card-wrap__list-profession">Sr. UX Developer</span>
@@ -171,7 +171,7 @@ comments: true
             </div>
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <a class="title" href="https://blog.yipl.com.np/meet-manish-gopal-singh-6eab0d779b4b#.lxmi7i16y">
-                    <img src="/images/staffs/Manish.jpg" alt="Manish Gopal Singh" >
+                    <img src="/images/staffs/Manish.png" alt="Manish Gopal Singh" >
                     <h3 class="motivators-story-card-wrap__list-name">Manish Gopal Singh</h3>
                 </a>
                 <span class="motivators-story-card-wrap__list-profession">Sr. Software Engineer</span>

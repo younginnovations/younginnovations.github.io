@@ -170,7 +170,7 @@ comments: true
             </div>
         </div>
         <div class="internship-apply-note">
-            <var>Please note that Internship Applications will ONLY be accepted through through the application button below.</var>
+            <var>Please note that Internship Applications will ONLY be accepted through the application button below.</var>
                <var>While we’re happy to receive emails from you if you have questions, we will not accept applications for the position via email.</var>
                <a href="https://goo.gl/forms/6SXQHkk1eVuCKyvk2" target="_blank" class="dev-btn">Apply for Internship</a>
         </div>
