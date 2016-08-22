@@ -51,147 +51,132 @@ links:
     external: true
 
 staffs:
-  - image: /images/staffs/Aayush.jpg
+  - image: /images/staffs/Aayush.png
     name: Aayush Rijal
     designation: Jr. Software Engineer
-  - image: /images/staffs/Alina.jpg
+  - image: /images/staffs/Alina.png
     name: Alina Acharya
     designation: Jr. Data Analyst
-  - image: /images/staffs/Anjan.jpg
+  - image: /images/staffs/Anjan.png
     name: Anjan Shrestha
     designation: VP, Product Innovations
-  - image: /images/staffs/Anjesh.jpg
+  - image: /images/staffs/Anjesh.png
     name: Anjesh Tuladhar
     designation: Chief Innovations Officer
-  - image: /images/staffs/Anubhuti.jpg
-    name: Anubhuti Poudyal
-    designation: Communications Consultant
-  - image: /images/staffs/Ashish.jpg
+  - image: /images/staffs/Ashish.png
     name: Ashish Ghimire
     designation: Jr. Software Engineer
-  - image: /images/staffs/Ashok.jpg
+  - image: /images/staffs/Ashok.png
     name: Ashok Adhikari
     designation: Software Engineer
-  - image: /images/staffs/Bibek.jpg
+  - image: /images/staffs/Bibek.png
     name: Bibek Shrestha
     designation: Senior Developer
-  - image: /images/staffs/Bibhusan.jpg
+  - image: /images/staffs/Bibhusan.png
     name: Bibhusan Bista
     designation: CEO
-  - image: /images/staffs/Bigyan.jpg
+  - image: /images/staffs/Bigyan.png
     name: Bigyan Adhikary
     designation: Jr. Software Engineer
-  - image: /images/staffs/Biju.jpg
+  - image: /images/staffs/Biju.png
     name: Biju Nakarmi
     designation: Sr. Software Engineer
-  - image: /images/staffs/Ravi.jpg
+  - image: /images/staffs/Ravi.png
     name: Ravi Putuwal
     designation: Office Aid
-  - image: /images/staffs/Deepak.jpg
+  - image: /images/staffs/Deepak.png
     name: Deepak Kumar Shah
     designation: Software Engineer
-  - image: /images/staffs/Diken.jpg
+  - image: /images/staffs/Diken.png
     name: Diken Ulak
     designation: Jr. Software Engineer
-  - image: /images/staffs/Geshan.jpg
+  - image: /images/staffs/Geshan.png
     name: Geshan Manandhar
     designation: Co-Founder
-  - image: /images/staffs/Julian.jpg
+  - image: /images/staffs/Julian.png
     name: Julian Raj Manandhar
     designation: Software Engineer
-  - image: /images/staffs/Kiran.jpg
+  - image: /images/staffs/Kiran.png
     name: Kiran Shrestha
-    designation: Intern
-  - image: /images/staffs/Kopila.jpg
+    designation: Trainee
+  - image: /images/staffs/Kopila.png
     name: Kopila Putuwal
     designation: Office Aid
-  - image: /images/staffs/Kristina.jpg
+  - image: /images/staffs/Kristina.png
     name: Kristina Shikhrakar
     designation: Intern
-  - image: /images/staffs/Kushal.jpg
+  - image: /images/staffs/Kushal.png
     name: Kushal Raj Shrestha
     designation: Software Engineer
-  - image: /images/staffs/Lunek.jpg
+  - image: /images/staffs/Lunek.png
     name: Lunek Suwal
     designation: Software Engineer
-  - image: /images/staffs/Manish.jpg
+  - image: /images/staffs/Manish.png
     name: Manish Gopal Singh
     designation: Sr. Software Engineer
-  - image: /images/staffs/Manjil.jpg
+  - image: /images/staffs/Manjil.png
     name: Manjil Shrestha
-    designation: Intern
-  - image: /images/staffs/Manoj.jpg
+    designation: Trainee
+  - image: /images/staffs/Manoj.png
     name: Manoj Byanjankar
     designation: Sr. Software Engineer
-  - image: /images/staffs/Neha.jpg
-    name: Neha Rajbanshi Babu
-    designation: Jr. Software Engineer
-  - image: /images/staffs/Nirajan.jpg
+  - image: /images/staffs/Nirajan.png
     name: Nirajan Basnet
-    designation: Jr. Web Developer
-  - image: /images/staffs/Pooja.jpg
-    name: Puja Maharjan
-    designation: Intern
-  - image: /images/staffs/Prashant.jpg
+    designation: Frontend Engineer
+  - image: /images/staffs/Prashant.png
     name: Prashant Shrestha
     designation: VP, Business and Technology Innovations
-  - image: /images/staffs/Prashanta.jpg
+  - image: /images/staffs/Prashanta.png
     name: Prashanta Rimal
     designation: Administration and Finance Officer
-  - image: /images/staffs/Pratikshya.jpg
-    name: Pratiksha Rayamajhi
+  - image: /images/staffs/Pratikshya.png
+    name: Pratikshya Rayamajhi
     designation: Operations Innovation Manager
-  - image: /images/staffs/Prawesh.jpg
+  - image: /images/staffs/Prawesh.png
     name: Prawesh Shrestha
     designation: Manager, Community Innovations
-  - image: /images/staffs/Punya.jpg
+  - image: /images/staffs/Punya.png
     name: Punya Ruchal
     designation: Sr. Web Developer
-  - image: /images/staffs/Radhika.jpg
+  - image: /images/staffs/Radhika.png
     name: Radhika Prajapati
-    designation: Jr. Web Developer
-  - image: /images/staffs/Rakeeb.jpg
+    designation: Frontend Engineer
+  - image: /images/staffs/Rakeeb.png
     name: Rakeeb Rajbhandari
     designation: Software Engineer
-  - image: /images/staffs/Rakesh.jpg
+  - image: /images/staffs/Rakesh.png
     name: Rakesh Pradhan
     designation: Sr. Web Developer
-  - image: /images/staffs/Rishav.jpg
+  - image: /images/staffs/Rishav.png
     name: Rishav Malla
     designation: Jr. Graphics Designer
-  - image: /images/staffs/Rohit.jpg
+  - image: /images/staffs/Rohit.png
     name: Rohit Shrestha
-    designation: UX Developer
-  - image: /images/staffs/Sachit.jpg
+    designation: Designer
+  - image: /images/staffs/Sachit.png
     name: Sachit Bir Singh Dangol
     designation: Software Engineer
-  - image: /images/staffs/Samita.jpg
+  - image: /images/staffs/Samita.png
     name: Samita Lalchan
     designation: Community Officer
-  - image: /images/staffs/Santosh.jpg
+  - image: /images/staffs/Santosh.png
     name: Santosh Neupane
     designation: System Administrator
-  - image: /images/staffs/Saroj.jpg
+  - image: /images/staffs/Saroj.png
     name: Saroj Bista
     designation: Open Data Coordinator
-  - image: /images/staffs/Sujan.jpg
-    name: Sujan Manandhar
+  - image: /images/staffs/Siddharta.png
+    name: Siddharta Pachhai
     designation: Intern
-  - image: /images/staffs/Sumit.jpg
+  - image: /images/staffs/Sumit.png
     name: Sumit Chhetri
     designation: Sr. Software Engineer
-  - image: /images/staffs/Sunny.jpg
-    name: Sunny Shrestha
-    designation: Intern
-  - image: /images/staffs/Sweta.jpg
+  - image: /images/staffs/Sweta.png
     name: Sweta Shrestha
-    designation: Sr. UX Developer
-  - image: /images/staffs/Umesh.jpg
+    designation: Sr. Frontend Engineer
+  - image: /images/staffs/Umesh.png
     name: Umesh Basnet
     designation: Jr. Android Developer
-  - image: /images/staffs/Upashna.jpg
-    name: Upashana Ghimire
-    designation: Trainee
 
 collections:
   what-we-upto:

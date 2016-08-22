@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /job-detail/operation-manager
-title: Operations Manager
+permalink: /job-detail/director-operation
+title: Director of Operations
 tagline: Job Detail at YoungInnovations
 tags: [job detail]
 modified: 2016-06-16
@@ -11,7 +11,7 @@ comments: true
 <div class="job-teaser">
     <div class="job-teaser__hero-content wrap-960">    
         <div class="job-teaser__img-circle director-operation"></div>
-        <span class="hero-content__description">Operations Manager</span>
+        <span class="hero-content__description">Director of Operations</span>
     </div>    
 </div>
 
@@ -19,34 +19,25 @@ comments: true
     <div class="wrap-620">
         <h2 class="job-about__title">About the job</h2>
         <div class="job-about__description">
-             <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. We are in the process of scaling up our operations to meet demand from a growing international client base, which means this role will broad-ranging and highly demanding. As such, you will work with the Senior Management Team on the overall growth trajectory and performance of the company at both operational and strategic levels.</p>
-             <p>You will work closely with the senior management team to deliver against the identified solutions to our current operational weaknesses and support their long-term success. You will be responsible for managing the logistical side of this change process, and for working with management to ensure there is significant focus on the cultural side of it, all to continue the smooth transition process we have started.</p>
-             <p>As an advocate for consistent and high quality standards across all of the company’s products, processes and employees you will craft or support defined best practices in everything from hiring to communications, client relationships to innovation. To support these improved processes and standards, you will support the delivery and evaluation of our professional development programs for staff, focusing on the holistic health of the company across everything from product to client to employees.</p>
+             <p>Young Innovations builds custom products across several languages - PHP, Python, Node JS and Javascript - for a broad range of clients within the global development sector. We are in the process of scaling up our operations to meet demand from a growing international client base, which means this role will broad-ranging and highly demanding. As such, you will be ultimately responsible for the overall growth trajectory and performance of the company at both operational and strategic levels.</p>
+             <p>You will work closely with the rest of the senior management team to lead the analysis of our current operational strengths and weaknesses, to identify solutions and to instigate processes which support their long-term success. You will be responsible for managing both the logistical and cultural sides of this change process, ensuring a smooth transition when it comes to both process and people management.</p>
+             <p>As an advocate for consistent and high quality standards across all of the company’s products, processes and employees you will craft best practices in everything from hiring to communications, client relationships to innovation. To support these improved processes and standards, you will lead the way in creating and evaluating professional development programs for our staff, focusing on the holistic health of the company across everything from product to client to employees.</p>
         </div>        
         <h2 class="job-about__title">Key responsibilities</h2>
-        <h3 class="job-about__sub-title">Operations</h3>
         <ul class="list">
-            <li>Monitor & report on effectiveness of and compliance with change management process</li>
-            <li>Manage project portfolios in coordination with project teams</li>
-            <li>Coordinate with finance team on financial forecasting and financial strategy</li>
-            <li>Ensure the smooth running and cross-integration of all company processes in order to meet yearly strategic objectives</li>
-        </ul>
-        <h3 class="job-about__sub-title">Admin</h3>
-        <ul class="list">
-            <li>Oversee the day-to-day running and maintenance of all company processes and operations</li>
-            <li>Manage all client contracts, client files and invoices</li>
-            <li>Generate and manage employee contracts and personnel files</li>
-            <li>Manage procurement for general office supplies and similar</li>
-            <li>Oversee internal & external communication processes and delivery </li>
-            <li>Compliance monitoring of company policies related to operations, HR and finance.</li>
-        </ul>
-        <h3 class="job-about__sub-title">HR</h3>
-        <ul class="list">
-            <li>Oversee end-to-end hiring process, including communications regarding job postings and management of senior team’s time</li>
-            <li>Manage onboarding and offboarding for all staff members</li>
-            <li>Manage the implementation and delivery of the internship program</li>
-            <li>Oversee and ensure compliance with our Performance Management process, monitor performance metrics and implement promotions/pay rises</li>
-            <li>Monitor staff attendance and leave and ensure cross-company compliance with HR policy</li>
+            <li>Act as overall manager of the company by working closely with, leading and overseeing the senior management team with a focus on building their capacity</li>
+            <li>Develop, establish, and direct the execution of operating processes to support overall company strategy and objectives - specifically, support better performance reporting, information flow and management, organisational planning, time management, project management, human resource management and customer engagement</li>
+            <li>Manage and increase the effectiveness and efficiency of Support Services (HR and Finance), through improvements to each function as well as coordination and communication between support and product functions</li>
+            <li>Play a significant role in long-term planning, with the view to delivering operational excellence</li>
+            <li>Develop and execute a HR strategy for the company with respect to recruitment, training, performance management, personal development (if appropriate), performance monitoring and team building.</li>
+            <li>Oversee and monitor the recruitment process of new staff</li>
+            <li>Develop and execute a new communication strategy for the company which meets our strategic communication objectives</li>
+            <li>Implement an efficient and useful customer relationship management system at the company and lead the team of managers to convert business leads into projects / products.</li>
+            <li>Develop and execute a comprehensive product strategy for company-owned products in line with overall company strategy and objectives.</li>
+            <li>Ensure that appropriate standards of conduct are established and complied with.</li>
+            <li>Develop concept documents / proposals as required for selected business opportunities.</li>
+            <li>Develop and implement mechanisms to cultivate relationships with existing and potential clients with the aim of expanding our geographic coverage and increasing the company’s revenue stream</li>
+            <li>Represent the company at various national and international events and forums, presenting and showcasing the company’s work with the goal of attracting more clients.</li>
         </ul>
     </div>
 </div>
@@ -72,7 +63,7 @@ comments: true
     <div class="wrap-620">
         <h2 class="job-about__title">About you</h2>
         <div class="job-about__description">
-             <p>You are a master of operational logistics with a true passion for improving and designing processes, building beautifully functioning teams and transforming companies into efficient and streamlined masterpieces. You have experience in the for-profit sector and preferably show interest and passion for non-profit or NGO sector. Your skill set is broad and multifaceted, with experience in several companies which allows you to adapt quickly to new challenges as well as identify and solve issues quickly. You have experience managing both teams and clients or partners, and display a real thirst for improving the professional development capacity of those you are managing. You are highly self-sufficient, a true business entrepreneur with exceptional time management and prioritisation skills and you have experience facilitating or supporting change management programs.</p>
+             <p>You are a master of operational logistics with a true passion for improving and designing processes, building beautifully functioning teams and transforming companies into efficient and streamlined masterpieces. You have significant experience in the for-profit technology sector, where you have focused on both open data and tech for development, together with significant experience in the non-profit or NGO sector, preferably in roles at the program level. Your skill set is broad and multifaceted, with experience in several countries and cultures which allows you to adapt quickly to new challenges as well as identify and solve issues quickly. You have experience managing both teams and clients or partners, and display a real thirst for improving the professional development capacity of those you are managing. You are highly self-sufficient, a true business entrepreneur with exceptional time management and prioritisation skills and you have experience facilitating or supporting change management programs.</p>
         </div>        
         <div class="requirements">
             <h1 class="heading__title">Your experience</h1>
@@ -80,8 +71,9 @@ comments: true
                 <li>Bachelor's degree in Business Management, Economics or similar related field</li>
                 <li>At least 5 years of experience</li>
                 <li>At least 2 years of management experience</li>
-                <li>A proven track record of excellence with logistics and operations work</li>
-                <li>Comfortable across the fields of software technology and international development</li>
+                <li>A proven track record of excellence in logistics and operations work both in the for profit and non-profit sectors</li>
+                <li>Highly comfortable across the fields of software technology and international development, preferably with significant experience at a global, competitive, top-tier technology company</li>
+                <li>Experience living/working in multiple countries/cultures outside Nepal</li>
                 <li>Experienced in Client Relationship Management and business negotiations</li>
                 <li>Proven ability to manage and motivate both senior leaders and employees</li>
                 <li>Proficient and comfortable with developing and delivering training programs across a range of topics</li>
@@ -89,6 +81,7 @@ comments: true
                 <li>Proven high levels of attention to detail and a clear passion for quality</li>
                 <li>Demonstrated ability to think strategically with a focus on the detail while maintaining a keen understanding of the bigger, longer-term picture</li>
                 <li>A proven self-starter and strong self-manager, very well-organized, with excellent time-management skills and a proven ability to work independently to deliver high quality results</li>
+                <li>An understanding of Agile methodologies and the processes required to support this style of workplace innovation</li>
                 <li>Strong problem-solving skills and the ability to analyze quantitatively, scope requirements and prioritize deliverables</li>
                 <li>Excellent spoken and written communication skills, with a focus on clear and proactive communication</li>
                 <li>Excellent spoken and written English skills - fluency is a must</li>
@@ -98,9 +91,9 @@ comments: true
         <div class="bonus-pts">
               <h1 class="heading__title">Nice to have</h1>
               <ul class="list">
-                  <li>An understanding of Agile methodologies and the processes required to support this style of workplace innovation</li>
-                  <li>Coaching and mentoring skills</li>
-                  <li>Tact and diplomacy</li>
+                  <li>Masters degree in Business Management or similar area</li>
+                  <li>Coaching or mentoring skills</li>
+                  <li>Tact and diplomacy - navigating the company through a complex and delicate change process will require a lot of hand holding and negotiation</li>
                   <li>An ability to communicate across the digital divide, both internally and externally</li>                  
               </ul>
         </div>
