@@ -172,7 +172,7 @@ comments: true
         <div class="internship-apply-note">
             <var>Please note that Internship Applications will ONLY be accepted through the application button below.</var>
                <var>While we’re happy to receive emails from you if you have questions, we will not accept applications for the position via email.</var>
-               <a href="https://docs.google.com/forms/d/e/1FAIpQLScQIQLj1WYO9YJSR7utElhEoW15tF4NCN22DM5IwcUHfHHZHg/viewform" target="_blank" class="dev-btn">Apply for Internship</a>
+               <a href="https://docs.google.com/forms/d/e/1FAIpQLSePuvcblSjxjp3YdOHtEEqFtn4sLcg-Luw7KC6ytkMO6sI9tA/viewform" target="_blank" class="dev-btn">Apply for Internship</a>
         </div>
     </div>
 </div>
