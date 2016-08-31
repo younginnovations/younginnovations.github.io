@@ -54,78 +54,264 @@ staffs:
   - image: /images/staffs/Aayush.png
     name: Aayush Rijal
     designation: Jr. Software Engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/aayush.rijal35
+      - name: codepen
+        url: http://codepen.io/Aayushrij/
+      - name: github
+        url: https://github.com/aayushrijal
+      - name: medium
+        url: https://medium.com/@aayush.rijal
   - image: /images/staffs/Alina.png
     name: Alina Acharya
     designation: Jr. Data Analyst
+    socialmedia:
+      - name: linkedin
+        url: https://www.linkedin.com/in/alina-acharya-3115564b?trk=hp-identity-name
+      - name: github
+        url: https://github.com/Alinaaa
+      - name: medium
+        url: https://medium.com/@alina.acharya
   - image: /images/staffs/Anjan.png
     name: Anjan Shrestha
     designation: VP, Product Innovations
+    socialmedia:
+      - name: dribbble
+        url: http://dribbble.com/anjhero
+      - name: globe
+        url: http://anjhero.me/
+      - name: google-plus
+        url: https://plus.google.com/105695700464952144378
+      - name: twitter
+        url: http://twitter.com/@anjhero
+      - name: medium
+        url: https://medium.com/@anjhero
   - image: /images/staffs/Anjesh.png
     name: Anjesh Tuladhar
     designation: Chief Innovations Officer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/anjesh.tuladhar
+      - name: stack-overflow
+        url: http://stackoverflow.com/users/179686/anjesh
+      - name: linkedin
+        url: https://www.linkedin.com/in/anjesh
+      - name: github
+        url: http://github.com/anjesh
+      - name: medium
+        url: https://medium.com/@anjesh
   - image: /images/staffs/Ashish.png
     name: Ashish Ghimire
     designation: Jr. Software Engineer
   - image: /images/staffs/Ashok.png
     name: Ashok Adhikari
     designation: Software Engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/meashokashikari
+      - name: twitter
+        url: https://twitter.com/ashokadhikari92
+      - name: github
+        url: https://github.com/ashokadhikari92
+      - name: linkedin
+        url: www.linkedin.com/in/ashokadhikari92
+      - name: medium
+        url: https://medium.com/@ashokadhikari
   - image: /images/staffs/Bibek.png
     name: Bibek Shrestha
     designation: Senior Developer
   - image: /images/staffs/Bibhusan.png
     name: Bibhusan Bista
     designation: CEO
+    socialmedia:
+      - name: twitter
+        url: https://twitter.com/BibhusanBista
+      - name: linkedin
+        url: https://np.linkedin.com/in/bibhusanbista
+      - name: medium
+        url: https://medium.com/@bibhusan
   - image: /images/staffs/Bigyan.png
     name: Bigyan Adhikary
     designation: Jr. Software Engineer
+    socialmedia:
+      - name: google-plus
+        url: https://plus.google.com/u/0/+BigyanAdhikary
+      - name: github
+        url: https://github.com/bigyan
+      - name: twitter
+        url: https://twitter.com/bigyan
+      - name: medium
+        url: https://medium.com/@bigyan.adhikary
   - image: /images/staffs/Biju.png
     name: Biju Nakarmi
     designation: Sr. Software Engineer
+    socialmedia:
+      - name: stack-overflow
+        url: http://stackoverflow.com/users/3173144/nakarmi
+      - name: linkedin
+        url: https://www.linkedin.com/in/biju-nakarmi-aa195672?trk=nav_responsive_tab_profile
+      - name: github
+        url: https://github.com/bezunakarmi
+      - name: twitter
+        url: https://twitter.com/NakarmiBezu
+      - name: medium
+        url: https://medium.com/@bezunakarmi
   - image: /images/staffs/Ravi.png
     name: Ravi Putuwal
     designation: Office Aid
   - image: /images/staffs/Deepak.png
     name: Deepak Kumar Shah
     designation: Software Engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/shah.dpk
+      - name: github
+        url: https://github.com/hello-deepak
+      - name: twitter
+        url: https://twitter.com/deepak_dipakk
+      - name: medium
+        url: https://medium.com/@deepak.shah
   - image: /images/staffs/Diken.png
     name: Diken Ulak
     designation: Jr. Software Engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/ReStricTedMetAl
+      - name: github
+        url: https://github.com/dikenulak
+      - name: linkedin
+        url: https://www.linkedin.com/in/diken-ulak-a35659126?trk=hp-identity-name
+      - name: twitter
+        url: https://twitter.com/dikenulak
+      - name: medium
+        url: https://medium.com/@dikenulak
   - image: /images/staffs/Geshan.png
     name: Geshan Manandhar
     designation: Co-Founder
+    socialmedia:
+      - name: globe
+        url: http://geshan.com.np
+      - name: linkedin
+        url: https://www.linkedin.com/in/geshan
+      - name: github
+        url: http://github.com/geshan
+      - name: twitter
+        url: https://twitter.com/geshan
+      - name: medium
+        url: https://medium.com/@geshan
   - image: /images/staffs/Julian.png
     name: Julian Raj Manandhar
     designation: Software Engineer
+    socialmedia:
+      - name: globe
+        url: http://julianraj.com.np/
+      - name: google-plus
+        url: https://plus.google.com/+julianraj
+      - name: linkedin
+        url: https://www.linkedin.com/in/julian-raj-manandhar
+      - name: github
+        url: https://github.com/julianraj
+      - name: medium
+        url: https://medium.com/@julianrajman
   - image: /images/staffs/Kiran.png
     name: Kiran Shrestha
     designation: Trainee
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/kiran.shrestha.125
+      - name: github
+        url: https://github.com/shresthaboy
+      - name: linkedin
+        url: https://www.linkedin.com/in/kiran-shrestha-861a4675?trk=nav_responsive_tab_profile
+      - name: medium
+        url: https://medium.com/@krnshrestha61
   - image: /images/staffs/Kopila.png
     name: Kopila Putuwal
     designation: Office Aid
   - image: /images/staffs/Kristina.png
     name: Kristina Shikhrakar
     designation: Intern
+    socialmedia:
+      - name: medium
+        url: https://medium.com/@kristinashikhrakar
   - image: /images/staffs/Kushal.png
     name: Kushal Raj Shrestha
     designation: Software Engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/kushal.r.shrestha
+      - name: linkedin
+        url: https://www.linkedin.com/in/kushal-raj-shrestha-1a2a8672
+      - name: medium
+        url: https://medium.com/@Kushal_dai
   - image: /images/staffs/Lunek.png
     name: Lunek Suwal
     designation: Software Engineer
   - image: /images/staffs/Manish.png
     name: Manish Gopal Singh
     designation: Sr. Software Engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/manishgopalsingh
+      - name: github
+        url: https://github.com/manishgs
+      - name: twitter
+        url: https://twitter.com/_manishgs
+      - name: medium
+        url: https://medium.com/@manishgs
   - image: /images/staffs/Manjil.png
     name: Manjil Shrestha
     designation: Trainee
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/Pratiman69
+      - name: stack-overflow
+        url: http://stackoverflow.com/users/6254981/smanjil
+      - name: github
+        url: https://github.com/smanjil
+      - name: linkedin
+        url: https://www.linkedin.com/in/manjil-shrestha-038527b4?trk=nav_responsive_tab_profile_pic
+      - name: medium
+        url: https://medium.com/@smanjil
   - image: /images/staffs/Manoj.png
     name: Manoj Byanjankar
     designation: Sr. Software Engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/manoj.byanjankar
+      - name: github
+        url: https://github.com/mojbenzcar
+      - name: linkedin
+        url: https://www.linkedin.com/in/manoj-byanjankar-a694bb120?trk=hp-identity-name
   - image: /images/staffs/Nirajan.png
     name: Nirajan Basnet
     designation: Frontend Engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/nirajanb89
+      - name: globe
+        url: http://nirajanbasnet.com.np/
+      - name: codepen
+        url: http://codepen.io/NirazanB/
+      - name: linkedin
+        url: https://www.linkedin.com/in/nirazanbasnet
+      - name: medium
+        url: https://medium.com/@nirazanbasnet
   - image: /images/staffs/Prashant.png
     name: Prashant Shrestha
     designation: VP, Business and Technology Innovations
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/prashant.shrestha
+      - name: linkedin
+        url: https://www.linkedin.com/in/prashant-shrestha-21437014
+      - name: github
+        url: https://github.com/prashantsh
+      - name: twitter
+        url: https://twitter.com/prashant_sh
+      - name: medium
+        url: https://medium.com/@prashant.sh
   - image: /images/staffs/Prashanta.png
     name: Prashanta Rimal
     designation: Administration and Finance Officer
@@ -135,48 +321,182 @@ staffs:
   - image: /images/staffs/Prawesh.png
     name: Prawesh Shrestha
     designation: Manager, Community Innovations
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/praweshsth
+      - name: google-plus
+        url: https://plus.google.com/u/0/117793738411776218620
+      - name: linkedin
+        url: https://www.linkedin.com/in/prawesh-shrestha-56b7b235
+      - name: twitter
+        url: https://twitter.com/praweshsth
+      - name: medium
+        url: https://medium.com/@praweshshrestha
   - image: /images/staffs/Punya.png
     name: Punya Ruchal
     designation: Sr. Web Developer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/punyaruchal
+      - name: globe
+        url: http://punya.com.np
+      - name: codepen
+        url:  https://codepen.io/punyaruchal
+      - name: linkedin
+        url: https://np.linkedin.com/in/punyaruchal
+      - name: medium
+        url: https://medium.com/@punyaruchal
   - image: /images/staffs/Radhika.png
     name: Radhika Prajapati
     designation: Frontend Engineer
+    socialmedia:
+      - name: codepen
+        url: http://codepen.io/rprajapatii/
+      - name: linkedin
+        url: https://www.linkedin.com/in/radhika-prajapati-0375ba93
+      - name: medium
+        url: https://medium.com/@raprajapati
   - image: /images/staffs/Rakeeb.png
     name: Rakeeb Rajbhandari
     designation: Software Engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/rakeeb.rajbhandari
+      - name: google-plus
+        url: https://plus.google.com/u/0/+RakeebRajbhandari
+      - name: linkedin
+        url: https://www.linkedin.com/in/rakeeb-rajbhandari-26a7729b?trk=hp-identity-name
+      - name: twitter
+        url: https://twitter.com/RakeebJH11
+      - name: medium
+        url: https://medium.com/@Rakeeb
   - image: /images/staffs/Rakesh.png
     name: Rakesh Pradhan
     designation: Sr. Web Developer
+    socialmedia:
+      - name: globe
+        url: http://www.pradhanrakesh.com.np
+      - name: linkedin
+        url: https://np.linkedin.com/in/rakesh-pradhan-10b8a98b
+      - name: twitter
+        url: https://twitter.com/pradhanrak
+      - name: medium
+        url: https://medium.com/@pradhanrak91
   - image: /images/staffs/Rishav.png
     name: Rishav Malla
     designation: Jr. Graphics Designer
+    socialmedia:
+      - name: dribbble
+        url: https://dribbble.com/momochor
+      - name: behance
+        url: https://www.behance.net/rishavmalla
+      - name: linkedin
+        url: https://www.linkedin.com/in/rishav-malla-69116097?trk=nav_responsive_tab_profile_pic
+      - name: medium
+        url: https://medium.com/@rishav.malla
   - image: /images/staffs/Rohit.png
     name: Rohit Shrestha
     designation: Designer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/shrestha.rowheat
+      - name: dribbble
+        url: https://dribbble.com/Rowheat
+      - name: behance
+        url: https://www.behance.net/rowheat44
+      - name: linkedin
+        url: https://www.linkedin.com/in/rohit-shrestha-64b69168?trk=nav_responsive_tab_profile
+      - name: medium
+        url: https://medium.com/@Rowheat
   - image: /images/staffs/Sachit.png
     name: Sachit Bir Singh Dangol
     designation: Software Engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/bsscht
+      - name: linkedin
+        url: https://np.linkedin.com/in/sachit-bir-singh-855788111
+      - name: github
+        url: https://github.com/sachit-singh
+      - name: medium
+        url: https://medium.com/@sachitsingh
   - image: /images/staffs/Samita.png
     name: Samita Lalchan
     designation: Community Officer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/samitalalchan
+      - name: twitter
+        url: https://twitter.com/samitalalchan
+      - name: medium
+        url: https://medium.com/@samitalalchan
   - image: /images/staffs/Santosh.png
     name: Santosh Neupane
     designation: System Administrator
   - image: /images/staffs/Saroj.png
     name: Saroj Bista
     designation: Open Data Coordinator
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/saroj.bista.50
+      - name: linkedin
+        url: https://www.linkedin.com/in/saroj-bista-6a288897?trk=hp-identity-name
+      - name: twitter
+        url: https://twitter.com/sarojbistalaw
+      - name: medium
+        url: https://medium.com/@saroj.bista
   - image: /images/staffs/Siddharta.png
     name: Siddharta Pachhai
     designation: Intern
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/siddhartha.pachhai
+      - name: linkedin
+        url: https://www.linkedin.com/in/siddhartha-pachhai-0a1889b9
+      - name: twitter
+        url: https://twitter.com/pachhaisid
+      - name: medium
+        url: https://medium.com/@siddhartha.pachhai
   - image: /images/staffs/Sumit.png
     name: Sumit Chhetri
     designation: Sr. Software Engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/SHhetri
+      - name: github
+        url: https://github.com/shhetri
+      - name: linkedin
+        url: https://www.linkedin.com/in/shhetri
+      - name: medium
+        url: https://medium.com/@sumitchhetri
   - image: /images/staffs/Sweta.png
     name: Sweta Shrestha
     designation: Sr. Frontend Engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/sweetanzell
+      - name: codepen
+        url: http://codepen.io/sweetanzell/
+      - name: linkedin
+        url: https://www.linkedin.com/in/sweetanzell?trk=nav_responsive_tab_profile
+      - name: twitter
+        url: https://twitter.com/sweet_anjell
+      - name: medium
+        url: https://medium.com/@sweet_anjell
   - image: /images/staffs/Umesh.png
     name: Umesh Basnet
     designation: Jr. Android Developer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/umuieme
+      - name: google-plus
+        url: https://plus.google.com/u/0/113441518675487103941
+      - name: github
+        url: https://github.com/umuieme
+      - name: linkedin
+        url: www.linkedin.com/in/umuieme
+      - name: medium
+        url: https://medium.com/@umuieme
 
 collections:
   what-we-upto:

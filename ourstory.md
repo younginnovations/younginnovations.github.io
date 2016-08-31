@@ -165,26 +165,35 @@ YoungInnovations was co-founded by a team of young entrepreneurs determined to l
 Happy Team<span>=</span>Productivity
 </div> 
   
-<div id="staff-wrapper">
+<div id="staff-wrapper" class="clearfix">
   <div class="staff__block clearfix">
   {% for staff in site.staffs %}
     <div class="card slow_zoom">
-      <div class="text_holder">
+      <div class="image_shader"></div>
+      <div class="staff_image_holder">
+        <figure class="image">
+          <img src="{{ staff.image }}" alt="YIPL Staff Images">
+        </figure>
+        <div class="text_holder">
         <div class="text_holder_outer">
           <div class="text_holder_inner">
             <h2 class="title">
               {{ staff.name }}
             </h2>
+            <hr/>
             <span class="designation">{{ staff.designation }}</span>
+            <div class="icons_holder">
+                <ul>
+                 {% for social in staff.socialmedia %}
+                    <li>
+                        <a href="{{social.url}}" target="_blank"><i class="fa fa-{{social.name}}"></i></a>
+                    </li>
+                 {% endfor %}
+                </ul>
+            </div>
           </div>
         </div>
       </div>
-      <div class="icons_holder"></div>
-      <div class="image_shader"></div>
-      <div class="staff_image_holder">
-        <span class="image">
-          <img src="{{ staff.image }}" alt="YIPL Staff Images">
-        </span>
       </div>
     </div>
     {% endfor %}
