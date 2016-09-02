@@ -4217,6 +4217,14 @@ a.learn-more:hover {
     margin-top: 20px;
 }
 
+.internship-apply-wrap__list:first-child {
+    width: 100% !important;
+}
+
+#main article .article-wrap .internship-apply-wrap__list:first-child p{
+    max-width: 100% !important;
+}
+
 #main article .article-wrap .internship-benefits-wrap__list p,
 #main article .article-wrap .internship-apply-wrap__list p {
     text-align: center;
@@ -4283,22 +4291,14 @@ a.learn-more:hover {
 }
 
 .internship-apply-wrap__list:nth-of-type(2):before {
-    background-position-y: -150px;
-}
-
-.internship-apply-wrap__list:nth-of-type(3):before {
-    background-position-y: -300px;
-}
-
-.internship-apply-wrap__list:nth-of-type(4):before {
     background-position-y: -450px;
 }
 
-.internship-apply-wrap__list:nth-of-type(5):before {
+.internship-apply-wrap__list:nth-of-type(3):before {
     background-position-y: -600px;
 }
 
-.internship-apply-wrap__list:nth-of-type(6):before {
+.internship-apply-wrap__list:nth-of-type(4):before {
     background-position-y: -750px;
 }
 

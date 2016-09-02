@@ -146,33 +146,26 @@ comments: true
         <div class="internship-apply-wrap clearfix">
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 1</strong></span>
-               <p>Fill in our  <a href="https://docs.google.com/forms/d/e/1FAIpQLScQIQLj1WYO9YJSR7utElhEoW15tF4NCN22DM5IwcUHfHHZHg/viewform" target="_blank">Internship Applications</a></p>  
+               <p>Fill in our  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform" target="_blank">Internship Applications</a></p>
+                 <p class="complete">Complete the task present there.</p>   
             </div>
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 2</strong></span>
-                <p>We’ll invite you to a preliminary phone or in-person interview</p>    
+                <p>We’ll review your submitted assignment and your CV</p> 
             </div>
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 3</strong></span>
-                <p>You complete and submit an additional assignment</p>  
+                <p>You attend an in-person interview</p>   
             </div>
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 4</strong></span>
-                <p>We review your assignment </p> 
-            </div>
-            <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
-                <span><strong>step 5</strong></span>
-                <p>You attend a final in-person interview</p>   
-            </div>
-            <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
-                <span><strong>step 6</strong></span>
                 <p>If all goes well, you join us!</p>   
             </div>
         </div>
         <div class="internship-apply-note">
             <var>Please note that Internship Applications will ONLY be accepted through the application button below.</var>
                <var>While we’re happy to receive emails from you if you have questions, we will not accept applications for the position via email.</var>
-               <a href="https://docs.google.com/forms/d/e/1FAIpQLSePuvcblSjxjp3YdOHtEEqFtn4sLcg-Luw7KC6ytkMO6sI9tA/viewform" target="_blank" class="dev-btn">Apply for Internship</a>
+               <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform" target="_blank" class="dev-btn">Apply for Internship</a>
         </div>
     </div>
 </div>
