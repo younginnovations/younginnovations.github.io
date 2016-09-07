@@ -3395,12 +3395,12 @@ body.fixed .slide-navigation {
 }
 
 .profession-list__item:nth-of-type(6) .profession-list__item-title {
-    background: url(../../images/career/ic_profession_icon_7.png) no-repeat top center;
+    background: url(../../images/career/ic_profession_icon_5.png) no-repeat top center;
     background-size: 170px;
 }
 
 .profession-list__item:nth-of-type(7) .profession-list__item-title {
-    background: url(../../images/career/ic_profession_icon_5.png) no-repeat top center;
+    background: url(../../images/career/ic_profession_icon_8.png) no-repeat top center;
     background-size: 170px;
 }
 
@@ -3801,6 +3801,11 @@ a.here {
 
 .job-teaser__img-circle.frontend-engineer {
     background: url(../../images/career/ic_profession_icon_7.png) no-repeat center center;
+    background-size: 190px;
+}
+
+.job-teaser__img-circle.system-administrator {
+    background: url(../../images/career/ic_profession_icon_8.png) no-repeat center center;
     background-size: 190px;
 }
 
@@ -4217,10 +4222,6 @@ a.learn-more:hover {
     margin-top: 20px;
 }
 
-.internship-apply-wrap__list:first-child {
-    width: 100% !important;
-}
-
 #main article .article-wrap .internship-apply-wrap__list:first-child p{
     max-width: 100% !important;
 }
@@ -4241,6 +4242,9 @@ a.learn-more:hover {
     height: 100px;
     display: block;
     margin: 0 auto 20px;
+}
+
+.internship-benefits-wrap__list:before {
     background: url(../../images/career/ic_sprite_internship_icons.png) no-repeat top center;
     background-size: 200px;
 }
@@ -4286,19 +4290,24 @@ a.learn-more:hover {
     background-position-y: -1250px;
 }
 
-.internship-apply-wrap__list:nth-of-type(1):before {
+.internship-apply-wrap__list:nth-child(1):before {
+    background: url(../../images/career/ic_step1_challenge@2x.png) no-repeat top center;
+    background-size: 100px;
+}
+
+.internship-apply-wrap__list:nth-child(2):before {
     background-position-y: 0;
 }
 
-.internship-apply-wrap__list:nth-of-type(2):before {
+.internship-apply-wrap__list:nth-child(3):before {
     background-position-y: -450px;
 }
 
-.internship-apply-wrap__list:nth-of-type(3):before {
+.internship-apply-wrap__list:nth-child(4):before {
     background-position-y: -600px;
 }
 
-.internship-apply-wrap__list:nth-of-type(4):before {
+.internship-apply-wrap__list:nth-child(5):before {
     background-position-y: -750px;
 }
 

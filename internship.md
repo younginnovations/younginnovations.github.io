@@ -146,19 +146,23 @@ comments: true
         <div class="internship-apply-wrap clearfix">
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 1</strong></span>
-               <p>Fill in our  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform" target="_blank">Internship Applications</a></p>
-                 <p class="complete">Complete the task present there.</p>   
+                <p>See  <a href="https://github.com/younginnovations/internship-challenges/blob/master/readme.md#younginnovations-internship-challenge" target="_blank">Internship Challenges</a></p>
+                <p class="complete">Complete one of the challenges based on your area of interest.</p>   
             </div>
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 2</strong></span>
-                <p>We’ll review your submitted assignment and your CV</p> 
+                <p>Fill in our  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform" target="_blank">Internship Applications</a></p>
             </div>
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 3</strong></span>
-                <p>You attend an in-person interview</p>   
+                <p>We’ll review your submitted assignment and your CV</p> 
             </div>
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 4</strong></span>
+                <p>You attend an in-person interview</p>   
+            </div>
+            <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
+                <span><strong>step 5</strong></span>
                 <p>If all goes well, you join us!</p>   
             </div>
         </div>
