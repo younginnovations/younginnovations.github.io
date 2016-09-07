@@ -140,7 +140,7 @@ comments: true
                 <p class="description">You’re a master of logistics who can support our strategic direction and coordinate with the senior team to ensure that the company runs effectively and smoothly on a day-to-day basis.</p>  
             </div>
             <div class="wow fadeInUp profession-list__item" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <a class="profession-list__item-title" href="/job-detail/System-administrator">System Administrator</a>
+                <a class="profession-list__item-title" href="/job-detail/system-administrator">System Administrator</a>
                 <p class="description">As a system administrator, you will ensure that the systems never go offline and even if they do, you will be the first one to know and fix them before anyone finds out about it.</p>  
             </div>
         </div>
