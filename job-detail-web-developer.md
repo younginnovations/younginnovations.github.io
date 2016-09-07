@@ -75,17 +75,16 @@ comments: true
                  <li>Excellent spoken and written English skills</li>
              </ul>                    
          </div>
-        
-        <div class="bonus-pts">
-              <h1 class="heading__title">Nice to have</h1>
-              <ul class="list">
+         <div class="bonus-pts">
+            <h1 class="heading__title">Nice to have</h1>
+            <ul class="list">
                   <li>Have developed custom modules and plugins for WP and/ or Drupal</li>
                   <li>Familiar with theme engine of Wordpress and/ or Drupal</li>
                   <li>Knowledge of build tools like gulp, webpack</li>
                   <li>Experience in css preprocessors like LESS, SASS</li>
                   <li>Experience in reactjs</li>
                   <li>Have some experience in/passionate about the development sector</li>                  
-              </ul>
+            </ul>
         </div>
     </div>  
 </div>  
