@@ -3394,6 +3394,10 @@ body.fixed .slide-navigation {
     background-size: 170px;
 }
 
+.profession-list__item:nth-of-type(6) {
+    display: none;
+}
+
 .profession-list__item:nth-of-type(6) .profession-list__item-title {
     background: url(../../images/career/ic_profession_icon_5.png) no-repeat top center;
     background-size: 170px;
