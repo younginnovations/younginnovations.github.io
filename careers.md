@@ -18,7 +18,7 @@ comments: true
         </div>
         <div class="hiring-btn">
             <a id="professional-sectionlink" class="dev-btn">We're hiring !</a>
-            <a href="/internship" class="intern-btn">Internship</a>
+            <!--<a href="/internship" class="intern-btn">Internship</a>-->
         </div>
     </div>
     <div class="art-animate-wrap clearfix">
