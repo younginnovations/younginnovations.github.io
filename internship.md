@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /internship
+permalink: /internship-remove
 title: Internship
 tagline: Careers at YoungInnovations
 tags: [careers]
