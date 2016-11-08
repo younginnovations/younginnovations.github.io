@@ -101,9 +101,6 @@ staffs:
         url: http://github.com/anjesh
       - name: medium
         url: https://medium.com/@anjesh
-  - image: /images/staffs/Ashish.png
-    name: Ashish Ghimire
-    designation: Jr. Software Engineer
   - image: /images/staffs/Ashok.png
     name: Ashok Adhikari
     designation: Software Engineer
@@ -160,18 +157,6 @@ staffs:
   - image: /images/staffs/Ravi.png
     name: Ravi Putuwal
     designation: Office Aid
-  - image: /images/staffs/Deepak.png
-    name: Deepak Kumar Shah
-    designation: Software Engineer
-    socialmedia:
-      - name: facebook
-        url: https://www.facebook.com/shah.dpk
-      - name: github
-        url: https://github.com/hello-deepak
-      - name: twitter
-        url: https://twitter.com/deepak_dipakk
-      - name: medium
-        url: https://medium.com/@deepak.shah
   - image: /images/staffs/Diken.png
     name: Diken Ulak
     designation: Jr. Software Engineer
@@ -229,12 +214,6 @@ staffs:
   - image: /images/staffs/Kopila.png
     name: Kopila Putuwal
     designation: Office Aid
-  - image: /images/staffs/Kristina.png
-    name: Kristina Shikhrakar
-    designation: Intern
-    socialmedia:
-      - name: medium
-        url: https://medium.com/@kristinashikhrakar
   - image: /images/staffs/Kushal.png
     name: Kushal Raj Shrestha
     designation: Software Engineer
@@ -245,9 +224,6 @@ staffs:
         url: https://www.linkedin.com/in/kushal-raj-shrestha-1a2a8672
       - name: medium
         url: https://medium.com/@Kushal_dai
-  - image: /images/staffs/Lunek.png
-    name: Lunek Suwal
-    designation: Software Engineer
   - image: /images/staffs/Manish.png
     name: Manish Gopal Singh
     designation: Sr. Software Engineer
@@ -315,9 +291,6 @@ staffs:
   - image: /images/staffs/Prashanta.png
     name: Prashanta Rimal
     designation: Administration and Finance Officer
-  - image: /images/staffs/Pratikshya.png
-    name: Pratikshya Rayamajhi
-    designation: Operations Innovation Manager
   - image: /images/staffs/Prawesh.png
     name: Prawesh Shrestha
     designation: Manager, Community Innovations
@@ -430,9 +403,6 @@ staffs:
         url: https://twitter.com/samitalalchan
       - name: medium
         url: https://medium.com/@samitalalchan
-  - image: /images/staffs/Santosh.png
-    name: Santosh Neupane
-    designation: System Administrator
   - image: /images/staffs/Saroj.png
     name: Saroj Bista
     designation: Open Data Coordinator
