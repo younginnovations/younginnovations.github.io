@@ -291,12 +291,6 @@ staffs:
   - image: /images/staffs/Prashanta.png
     name: Prashanta Rimal
     designation: Administration and Finance Officer
-<<<<<<< HEAD
-  - image: /images/staffs/Pratiksha.png
-    name: Pratiksha Rayamajhi
-    designation: Operations Innovation Manager
-=======
->>>>>>> b65e8e82efc6ae2e5ead1afba1eb9700a201c119
   - image: /images/staffs/Prawesh.png
     name: Prawesh Shrestha
     designation: Manager, Community Innovations
