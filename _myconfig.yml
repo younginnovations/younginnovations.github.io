@@ -63,6 +63,16 @@ staffs:
         url: https://github.com/aayushrijal
       - name: medium
         url: https://medium.com/@aayush.rijal
+  - image: /images/staffs/Akita.png
+    name: Akita Nakarmi
+    designation: Intern
+    socialmedia:
+      - name: facebook
+        url: http://www.facebook.com/aki.yul
+      - name: github
+        url: https://github.com/aki-nakarmi
+      - name: linkedin
+        url: https://www.linkedin.com/in/akita-nakarmi-3096ba111?trk=hp-identity-photo
   - image: /images/staffs/Alina.png
     name: Alina Acharya
     designation: Jr. Data Analyst
@@ -154,6 +164,20 @@ staffs:
         url: https://twitter.com/NakarmiBezu
       - name: medium
         url: https://medium.com/@bezunakarmi
+  - image: /images/staffs/Bishal.png
+    name: Bishal Timilsina
+    designation: Software Engineer
+    socialmedia:
+      - name: facebook
+        url: https://facebook.com/bishal.timilsina
+      - name: linkedin
+        url: https://www.linkedin.com/in/bishaltimilsina
+      - name: github
+        url: https://github.com/timilsinabishal
+      - name: twitter
+        url: https://twitter.com/vsal_tsn
+      - name: medium
+        url: https://medium.com/@bishaltimilsina
   - image: /images/staffs/Ravi.png
     name: Ravi Putuwal
     designation: Office Aid
@@ -260,6 +284,20 @@ staffs:
         url: https://github.com/mojbenzcar
       - name: linkedin
         url: https://www.linkedin.com/in/manoj-byanjankar-a694bb120?trk=hp-identity-name
+  - image: /images/staffs/Ngima.png
+    name: Ngima Sherpa
+    designation: Intern
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/mangimayulkongma
+      - name: github
+        url: https://github.com/ngima
+      - name: twitter
+        url: https://twitter.com/pro_ngima
+      - name: linkedin
+        url: https://linkedin/in/ngima
+      - name: globe
+        url: http://ngimasherpa.com.np
   - image: /images/staffs/Nirajan.png
     name: Nirajan Basnet
     designation: Frontend Engineer
@@ -329,6 +367,32 @@ staffs:
         url: https://www.linkedin.com/in/radhika-prajapati-0375ba93
       - name: medium
         url: https://medium.com/@raprajapati
+  - image: /images/staffs/Raj.png
+    name: Raj Krishna Maharjan
+    designation: Intern
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/theroxc
+      - name: linkedin
+        url: https://www.linkedin.com/in/raj-krishna-maharjan-4a6b86bb?trk=hp-identity-name
+      - name: twitter
+        url: https://twitter.com/esportsraj
+      - name: stack-overflow
+        url: http://stackoverflow.com/users/7145054/rox
+  - image: /images/staffs/Raju.png
+    name: Raju Dawadi
+    designation: Intern
+    socialmedia:
+      - name: globe
+        url: http://www.dwdraju.com.np/
+      - name: linkedin
+        url: https://np.linkedin.com/in/dwdraju
+      - name: github
+        url: https://github.com/dwdraju
+      - name: twitter
+        url: https://twitter.com/dwdRAJU
+      - name: medium
+        url: https://medium.com/@dwdraju
   - image: /images/staffs/Rakeeb.png
     name: Rakeeb Rajbhandari
     designation: Software Engineer
@@ -415,6 +479,32 @@ staffs:
         url: https://twitter.com/sarojbistalaw
       - name: medium
         url: https://medium.com/@saroj.bista
+  - image: /images/staffs/Saugat.png
+    name: Saugat Maharjan
+    designation: Frontend Engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/maharjan.saugat
+      - name: codepen
+        url: http://codepen.io/maharjansaugat
+      - name: linkedin
+        url: https://www.linkedin.com/in/saugat-maharjan-82aa5810a
+      - name: twitter
+        url: https://twitter.com/maharjansaugat
+      - name: medium
+        url: https://medium.com/@saugat.maharjan
+  - image: /images/staffs/Shashi.png
+    name: Shashi Khanal
+    designation: Intern
+    socialmedia:
+      - name: facebook
+        url: https://facebook.com/shashi.khanal
+      - name: linkedin
+        url: https://linkedin.com/in/shashiKhanal
+      - name: github
+        url: http://github.com/shashikhanal
+      - name: twitter
+        url: https://twitter.com/Shashikhanal001
   - image: /images/staffs/Siddharta.png
     name: Siddharta Pachhai
     designation: Intern
@@ -439,6 +529,20 @@ staffs:
         url: https://www.linkedin.com/in/shhetri
       - name: medium
         url: https://medium.com/@sumitchhetri
+  - image: /images/staffs/Suraj.png
+    name: Suraj KC
+    designation: Frontend Engineer
+    socialmedia:
+      - name: globe
+        url: https://mygreenchocolate.wordpress.com/
+      - name: codepen
+        url: http://codepen.io/suraj-kc/
+      - name: twitter
+        url: https://twitter.com/isurajkc
+      - name: linkedin
+        url: https://www.linkedin.com/in/surajkc
+      - name: medium
+        url: https://medium.com/@suraj.kc
   - image: /images/staffs/Sweta.png
     name: Sweta Shrestha
     designation: Sr. Frontend Engineer
