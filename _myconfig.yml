@@ -178,9 +178,6 @@ staffs:
         url: https://twitter.com/vsal_tsn
       - name: medium
         url: https://medium.com/@bishaltimilsina
-  - image: /images/staffs/Ravi.png
-    name: Ravi Putuwal
-    designation: Office Aid
   - image: /images/staffs/Diken.png
     name: Diken Ulak
     designation: Jr. Software Engineer
@@ -410,6 +407,9 @@ staffs:
   - image: /images/staffs/Rakesh.png
     name: Rakesh Pradhan
     designation: Sr. Web Developer
+  - image: /images/staffs/Ravi.png
+    name: Ravi Putuwal
+    designation: Office Aid
     socialmedia:
       - name: globe
         url: http://www.pradhanrakesh.com.np
