@@ -83,6 +83,16 @@ staffs:
         url: https://github.com/Alinaaa
       - name: medium
         url: https://medium.com/@alina.acharya
+  - image: /images/staffs/Aneem.png
+    name: Aneem Patrabansha
+    designation: Intern
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/aneemp
+      - name: linkedin
+        url: https://np.linkedin.com/in/aneem
+      - name: github
+        url: https://github.com/aneem
   - image: /images/staffs/Anjan.png
     name: Anjan Shrestha
     designation: VP, Product Innovations
@@ -206,20 +216,6 @@ staffs:
         url: https://twitter.com/geshan
       - name: medium
         url: https://medium.com/@geshan
-  - image: /images/staffs/Julian.png
-    name: Julian Raj Manandhar
-    designation: Software Engineer
-    socialmedia:
-      - name: globe
-        url: http://julianraj.com.np/
-      - name: google-plus
-        url: https://plus.google.com/+julianraj
-      - name: linkedin
-        url: https://www.linkedin.com/in/julian-raj-manandhar
-      - name: github
-        url: https://github.com/julianraj
-      - name: medium
-        url: https://medium.com/@julianrajman
   - image: /images/staffs/Kiran.png
     name: Kiran Shrestha
     designation: Trainee
@@ -354,16 +350,6 @@ staffs:
         url: https://np.linkedin.com/in/punyaruchal
       - name: medium
         url: https://medium.com/@punyaruchal
-  - image: /images/staffs/Radhika.png
-    name: Radhika Prajapati
-    designation: Frontend Engineer
-    socialmedia:
-      - name: codepen
-        url: http://codepen.io/rprajapatii/
-      - name: linkedin
-        url: https://www.linkedin.com/in/radhika-prajapati-0375ba93
-      - name: medium
-        url: https://medium.com/@raprajapati
   - image: /images/staffs/Raj.png
     name: Raj Krishna Maharjan
     designation: Intern
@@ -467,6 +453,14 @@ staffs:
         url: https://twitter.com/samitalalchan
       - name: medium
         url: https://medium.com/@samitalalchan
+  - image: /images/staffs/Sanjeena.png
+    name: Sanjeena Parajuli
+    designation: Intern
+    socialmedia:
+      - name: facebook
+        url: http://www.facebook.com/sunxena.joshi
+      - name: linkedin
+        url: https://www.linkedin.com/in/sanjeena-parajuli-769a9abb?trk=hp-identity-name
   - image: /images/staffs/Saroj.png
     name: Saroj Bista
     designation: Open Data Coordinator
@@ -505,30 +499,6 @@ staffs:
         url: http://github.com/shashikhanal
       - name: twitter
         url: https://twitter.com/Shashikhanal001
-  - image: /images/staffs/Siddharta.png
-    name: Siddharta Pachhai
-    designation: Intern
-    socialmedia:
-      - name: facebook
-        url: https://www.facebook.com/siddhartha.pachhai
-      - name: linkedin
-        url: https://www.linkedin.com/in/siddhartha-pachhai-0a1889b9
-      - name: twitter
-        url: https://twitter.com/pachhaisid
-      - name: medium
-        url: https://medium.com/@siddhartha.pachhai
-  - image: /images/staffs/Sumit.png
-    name: Sumit Chhetri
-    designation: Sr. Software Engineer
-    socialmedia:
-      - name: facebook
-        url: https://www.facebook.com/SHhetri
-      - name: github
-        url: https://github.com/shhetri
-      - name: linkedin
-        url: https://www.linkedin.com/in/shhetri
-      - name: medium
-        url: https://medium.com/@sumitchhetri
   - image: /images/staffs/Suraj.png
     name: Suraj KC
     designation: Frontend Engineer
@@ -580,6 +550,132 @@ collections:
   blog:
     output: true
     permalink: /:collection/:title/
+
+alumnis:
+  - image: /images/alumni/Aashish.jpg
+    name: Aashish Ghimire
+  - image: /images/alumni/Aayushree.jpg
+    name: Aayushree Joshi
+  - image: /images/alumni/default.jpg
+    name: Abhinav Singh Dongol
+  - image: /images/alumni/Achyut.jpg
+    name: Achyut Devkota
+  - image: /images/alumni/Ananda.jpg
+    name: Ananda Subedi
+  - image: /images/alumni/default.jpg
+    name: Anjan Bhattarai
+  - image: /images/alumni/Anubhuti.jpg
+    name: Anubhuti Poudyal
+  - image: /images/alumni/default.jpg
+    name: Arati Raut
+  - image: /images/alumni/Arjun.jpg
+    name: Arjun Sunar
+  - image: /images/alumni/Ashley.jpg
+    name: Ashley Dhakal
+  - image: /images/alumni/Avash.jpg
+    name: Avash Rayamajhi
+  - image: /images/alumni/Bhabishyat.jpg
+    name: Bhabishyat Bikram KC
+  - image: /images/alumni/Bijaya.jpg
+    name: Bijaya Pd Kuikel
+  - image: /images/alumni/default.jpg
+    name: Bikram Dhaju
+  - image: /images/alumni/Bimal.jpg
+    name: Bimal Maharjan
+  - image: /images/alumni/default.jpg
+    name: Bimal Suwal
+  - image: /images/alumni/default.jpg
+    name: Bina Laxmi Shrestha
+  - image: /images/alumni/Bishnu.jpg
+    name: Bishnu
+  - image: /images/alumni/Dadhi.jpg
+    name: Dadhi Ram Poudel
+  - image: /images/alumni/Deepak.jpg
+    name: Deepak Kumar Shah
+  - image: /images/alumni/Dibesh.jpg
+    name: Dibesh Manandhar
+  - image: /images/alumni/Diwakar.jpg
+    name: Diwaker Ghimire
+  - image: /images/alumni/default.jpg
+    name: Ganga Bohara
+  - image: /images/alumni/default.jpg
+    name: Himal Rai
+  - image: /images/alumni/default.jpg
+    name: Jiwan Bhandari
+  - image: /images/alumni/Julian.jpg
+    name: Julian Raj Manandhar
+  - image: /images/alumni/default.jpg
+    name: Kshitiz Shrestha
+  - image: /images/alumni/default.jpg
+    name: Kripa Shrestha
+  - image: /images/alumni/Kriti.jpg
+    name: Kriti Nemkul
+  - image: /images/alumni/Kritika.jpg
+    name: Kritika Karmacharya
+  - image: /images/alumni/Lunek.jpg
+    name: Lunek Silwal
+  - image: /images/alumni/Manisha.jpg
+    name: Manisha Karmacharya
+  - image: /images/alumni/Muna.jpg
+    name: Muna Maharjan
+  - image: /images/alumni/Neha.jpg
+    name: Neha Rajbanshi
+  - image: /images/alumni/Nirajan.jpg
+    name: Nirajan Panthee
+  - image: /images/alumni/Nirija.jpg
+    name: Nirija Shrestha
+  - image: /images/alumni/Nishan.jpg
+    name: Nishan Nakarmi
+  - image: /images/alumni/Pratikshya.jpg
+    name: Pratiksha Rayamajhi
+  - image: /images/alumni/default.jpg
+    name: Prawesh Rajkarnikar
+  - image: /images/alumni/Radhika.jpg
+    name: Radhika Prajapati
+  - image: /images/alumni/Ramesh.jpg
+    name: Ramesh KC
+  - image: /images/alumni/Rinu.jpg
+    name: Rinu Maharjan
+  - image: /images/alumni/default.jpg
+    name: Rohan Maleku
+  - image: /images/alumni/default.jpg
+    name: Roshan Bantawa
+  - image: /images/alumni/default.jpg
+    name: Sachin Saud
+  - image: /images/alumni/Santosh.jpg
+    name: Santosh Neupane
+  - image: /images/alumni/Saugat.jpg
+    name: Saugat Acharya
+  - image: /images/alumni/default.jpg
+    name: Shruti Shah
+  - image: /images/alumni/Sita.jpg
+    name: Sita Prajapati
+  - image: /images/alumni/Sudeep.jpg
+    name: Sudeep Parajuli
+  - image: /images/alumni/Sudil.jpg
+    name: Sudil Shrestha
+  - image: /images/alumni/default.jpg
+    name: Sujan Karanjit
+  - image: /images/alumni/Sujata.jpg
+    name: Sujata Shrestha
+  - image: /images/alumni/Suman.jpg
+    name: Suman Humagain
+  - image: /images/alumni/Sumit.jpg
+    name: Sumit Chhetri
+  - image: /images/alumni/Suraj-Pradhan.jpg
+    name: Suraj Raj Pradhan
+  - image: /images/alumni/Suraj-Tamang.jpg
+    name: Suraj Tamang
+  - image: /images/alumni/Sushant.jpg
+    name: Sushant Bajcharya
+  - image: /images/alumni/Tribhuvan.jpg
+    name: Tribhuvan Raj Pokheral
+  - image: /images/alumni/Upashana.jpg
+    name: Upashana Ghimire
+  - image: /images/alumni/default.jpg
+    name: Vishnu raj Bhatta
+  - image: /images/alumni/Vivek.jpg
+    name: Vivek Bhusal
 
 #  page_collections:
 #    output: true

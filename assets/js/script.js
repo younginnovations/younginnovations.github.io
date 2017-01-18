@@ -1,7 +1,6 @@
 $(document).ready(function () {
     $('.inner-wrapper').css('min-height', $(window).height() + 'px');
 
-
     $('.work-wrapper').siblings('.navigation-wrapper').addClass('worknav');
 
     var imgheight = $('.office-image img').height() + 'px';
@@ -12,7 +11,6 @@ $(document).ready(function () {
     }, function () {
         $(this).parent('.impact-image').removeClass('impactover');
     });
-
 
     $(".trigger").click(function (event) {
         //hide navigation wrap when clicked esc key
@@ -335,5 +333,9 @@ $(document).ready(function () {
 
     $(".internship").parents().parent("body").addClass("internship-wrap");
 
+    //Alumni-grid
+    new GridScrollFx( document.getElementById( 'grid' ), {
+        viewportFactor : 0.4
+    } );
 });
 
