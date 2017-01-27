@@ -174,6 +174,20 @@ staffs:
         url: https://twitter.com/NakarmiBezu
       - name: medium
         url: https://medium.com/@bezunakarmi
+  - image: /images/staffs/Bikram.png
+    name: Bikram Tuladhar
+    designation: Intern
+    socialmedia:
+      - name: facebook
+        url: http://www.facebook.com/nvrmind2011
+      - name: linkedin
+        url: https://www.linkedin.com/in/bikramtuladhar
+      - name: github
+        url: https://github.com/nevermind2011
+      - name: twitter
+        url: https://twitter.com/TuladharBikram
+      - name: stack-overflow
+        url: http://stackoverflow.com/users/5207898/bikram-tuladhar
   - image: /images/staffs/Bishal.png
     name: Bishal Timilsina
     designation: Software Engineer
@@ -218,7 +232,7 @@ staffs:
         url: https://medium.com/@geshan
   - image: /images/staffs/Kiran.png
     name: Kiran Shrestha
-    designation: Trainee
+    designation: Jr. Software Engineer
     socialmedia:
       - name: facebook
         url: https://www.facebook.com/kiran.shrestha.125
@@ -279,7 +293,7 @@ staffs:
         url: https://www.linkedin.com/in/manoj-byanjankar-a694bb120?trk=hp-identity-name
   - image: /images/staffs/Ngima.png
     name: Ngima Sherpa
-    designation: Intern
+    designation: Trainee
     socialmedia:
       - name: facebook
         url: https://www.facebook.com/mangimayulkongma
@@ -298,7 +312,7 @@ staffs:
       - name: facebook
         url: https://www.facebook.com/nirajanb89
       - name: globe
-        url: http://nirajanbasnet.com.np/
+        url: http://neev89.github.io/
       - name: codepen
         url: http://codepen.io/NirazanB/
       - name: linkedin
@@ -352,7 +366,7 @@ staffs:
         url: https://medium.com/@punyaruchal
   - image: /images/staffs/Raj.png
     name: Raj Krishna Maharjan
-    designation: Intern
+    designation: Trainee
     socialmedia:
       - name: facebook
         url: https://www.facebook.com/theroxc
@@ -364,7 +378,7 @@ staffs:
         url: http://stackoverflow.com/users/7145054/rox
   - image: /images/staffs/Raju.png
     name: Raju Dawadi
-    designation: Intern
+    designation: Trainee
     socialmedia:
       - name: globe
         url: http://www.dwdraju.com.np/
@@ -393,9 +407,6 @@ staffs:
   - image: /images/staffs/Rakesh.png
     name: Rakesh Pradhan
     designation: Sr. Web Developer
-  - image: /images/staffs/Ravi.png
-    name: Ravi Putuwal
-    designation: Office Aid
     socialmedia:
       - name: globe
         url: http://www.pradhanrakesh.com.np
@@ -405,6 +416,9 @@ staffs:
         url: https://twitter.com/pradhanrak
       - name: medium
         url: https://medium.com/@pradhanrak91
+  - image: /images/staffs/Ravi.png
+    name: Ravi Putuwal
+    designation: Office Aid
   - image: /images/staffs/Rishav.png
     name: Rishav Malla
     designation: Jr. Graphics Designer
@@ -455,7 +469,7 @@ staffs:
         url: https://medium.com/@samitalalchan
   - image: /images/staffs/Sanjeena.png
     name: Sanjeena Parajuli
-    designation: Intern
+    designation: Operations Manager
     socialmedia:
       - name: facebook
         url: http://www.facebook.com/sunxena.joshi
@@ -489,7 +503,7 @@ staffs:
         url: https://medium.com/@saugat.maharjan
   - image: /images/staffs/Shashi.png
     name: Shashi Khanal
-    designation: Intern
+    designation: Trainee
     socialmedia:
       - name: facebook
         url: https://facebook.com/shashi.khanal
