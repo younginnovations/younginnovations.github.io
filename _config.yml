@@ -150,7 +150,7 @@ staffs:
         url: https://medium.com/@bibhusan
   - image: /images/staffs/Bigyan.png
     name: Bigyan Adhikary
-    designation: Jr. Software Engineer
+    designation: Software Engineer
     socialmedia:
       - name: google-plus
         url: https://plus.google.com/u/0/+BigyanAdhikary
@@ -269,7 +269,7 @@ staffs:
         url: https://medium.com/@manishgs
   - image: /images/staffs/Manjil.png
     name: Manjil Shrestha
-    designation: Trainee
+    designation: Jr. Software Engineer
     socialmedia:
       - name: facebook
         url: https://www.facebook.com/Pratiman69
@@ -421,7 +421,7 @@ staffs:
     designation: Office Aid
   - image: /images/staffs/Rishav.png
     name: Rishav Malla
-    designation: Jr. Graphics Designer
+    designation: Graphics Designer
     socialmedia:
       - name: dribbble
         url: https://dribbble.com/momochor
