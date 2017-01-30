@@ -596,12 +596,10 @@ alumnis:
     name: Bikram Dhaju
   - image: /images/alumni/Bimal.jpg
     name: Bimal Maharjan
-  - image: /images/alumni/default.jpg
+  - image: /images/alumni/Bimal-S.jpg
     name: Bimal Suwal
   - image: /images/alumni/default.jpg
     name: Bina Laxmi Shrestha
-  - image: /images/alumni/Bishnu.jpg
-    name: Bishnu
   - image: /images/alumni/Dadhi.jpg
     name: Dadhi Ram Poudel
   - image: /images/alumni/Deepak.jpg
@@ -626,8 +624,6 @@ alumnis:
     name: Kriti Nemkul
   - image: /images/alumni/Kritika.jpg
     name: Kritika Karmacharya
-  - image: /images/alumni/Lunek.jpg
-    name: Lunek Silwal
   - image: /images/alumni/Manisha.jpg
     name: Manisha Karmacharya
   - image: /images/alumni/Muna.jpg
@@ -686,7 +682,7 @@ alumnis:
     name: Tribhuvan Raj Pokheral
   - image: /images/alumni/Upashana.jpg
     name: Upashana Ghimire
-  - image: /images/alumni/default.jpg
+  - image: /images/alumni/Vishnu.jpg
     name: Vishnu raj Bhatta
   - image: /images/alumni/Vivek.jpg
     name: Vivek Bhusal
