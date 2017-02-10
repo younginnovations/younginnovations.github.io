@@ -43,7 +43,6 @@ comments: true
                 <ul id="double">
 
                     <li>Android</li>
-                    
                     <li>IOS</li>
                     <li>Data Analysis</li>
                     <li>DevOps</li>
@@ -145,12 +144,12 @@ comments: true
         <div class="internship-apply-wrap clearfix">
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 1</strong></span>
-                <p>See <a href="https://github.com/younginnovations/internship-challenges/blob/master/readme.md#younginnovations-internship-challenge" target="_blank">Internship Challenges</a></p>
+                <p>See  <a href="https://github.com/younginnovations/internship-challenges/blob/master/readme.md#younginnovations-internship-challenge" target="_blank">Internship Challenges</a></p>
                 <p class="complete">Complete one of the challenges based on your area of interest.</p>   
             </div>
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 2</strong></span>
-                <p>Fill in our <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform" target="_blank">Internship Applications</a></p>
+                <p>Fill in our  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform" target="_blank">Internship Applications</a></p>
             </div>
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 3</strong></span>
@@ -181,7 +180,7 @@ comments: true
                 <img src="/images/staffs/Aneem.png" alt="Aneem Pratabansha" />
                 <h3 class="motivators-story-card-wrap__list-name">Aneem Pratabansha</h3>
                 <span class="motivators-story-card-wrap__list-profession">Developer, Intern</span>
-                <p class="motivators-story-card-wrap__list-story">Before joining, I was very much impressed by the uniqueness of YoungInnovations and also its mission for global development. I was very enthusiastic about being a part of an organization driven by youth spirit, where skills and growth were highly valued. Now, after being a part of Young Innovations, I know that this has been one of the best experiences in my career. At YoungInnovations,I am amazed to see in action the synergy of cross-domain experts collaborating together for common goal.</p>
+                <p class="motivators-story-card-wrap__list-story">Before joining, I was very much impressed by the uniqueness of YoungInnovations and also its mission for global development. I was very enthusiastic about being a part of an organization driven by youth spirit, where skills and growth are highly valued. Now, after being a part of YoungInnovations, I know that this has been one of the best experiences in my career. At YoungInnovations, I am amazed to see in action the synergy of cross-domain experts collaborating together for common goal.</p>
             </div>
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <img src="/images/staffs/Sunny.png" alt="Sunny Shrestha" >
