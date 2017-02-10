@@ -41,9 +41,9 @@ comments: true
                 <h2 class="internship__heading-title">We are looking for interns in the following areas</h2>
                 <p>We are always looking to add diversity to our collective skill set at YoungInnovations.  Even if your skills don’t fall into the areas mentioned below, shoot us an email explaining your passion for your field of interest. We will get back to you and ask for your CV if we think you’re a good fit for the team.</p>
                 <ul id="double">
-                    <li>Frontend</li>
+
                     <li>Android</li>
-                    <li>UX Design</li>
+                    
                     <li>IOS</li>
                     <li>Data Analysis</li>
                     <li>DevOps</li>
@@ -60,20 +60,20 @@ comments: true
         <h2 class="internship__heading-title">Want to join us?</h2>
         <p>Three things you must have before you apply for an Internship at YoungInnovations</p>
     </div>
-    
+
     <div class="internship-know__info">
         <div class="internship-know__info-wrapper">
-        
+
             <div class="internship-know__info-list-wrapper">
                 <img src="/images/career/ic_internship-join-bg.jpg" alt="Internship Know">
                 <div class="internship-know__info-list right">
                     <p class="text"><span class="number">1.</span> <span>A strong, clean and relevant CV - if it isn’t relevant, take it out!</span></p>                
                 </div>
-                            
+
                 <div class="internship-know__info-list left">
                     <p class="text"><span class="number">2.</span> <span>Strong basic technical knowledge in your area of interest (software development, design, data analysis or your area of specialization).</span> </p>             
                 </div>
-                                        
+
                 <div class="internship-know__info-list down">
                     <p class="text"><span class="number">3.</span> <span>Strong interest in your chosen area and unlimited enthusiasm to learn. Priority will be given to those who have individual projects they can present alongside their CV.</span></p>          
                 </div>
@@ -103,7 +103,7 @@ comments: true
                 <p>Daily delicious lunch provided</p>
             </div>
             <div class="wow bounceIn internship-benefits-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
-                <p>Basic travel expenses/stipend</p> 
+                <p>Basic travel expenses/stipend</p>
             </div>
             <div class="wow bounceIn internship-benefits-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <p>Five-day working week</p>  
@@ -115,7 +115,7 @@ comments: true
                 <p>Possibility of full-time employment at end of internship</p>   
             </div>
             <div class="wow bounceIn internship-benefits-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
-                <p>Socials, retreats, team dinners</p> 
+                <p>Socials, retreats, team dinners</p>
             </div>
         </div>
     </div>    
@@ -145,16 +145,16 @@ comments: true
         <div class="internship-apply-wrap clearfix">
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 1</strong></span>
-                <p>See  <a href="https://github.com/younginnovations/internship-challenges/blob/master/readme.md#younginnovations-internship-challenge" target="_blank">Internship Challenges</a></p>
+                <p>See <a href="https://github.com/younginnovations/internship-challenges/blob/master/readme.md#younginnovations-internship-challenge" target="_blank">Internship Challenges</a></p>
                 <p class="complete">Complete one of the challenges based on your area of interest.</p>   
             </div>
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 2</strong></span>
-                <p>Fill in our  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform" target="_blank">Internship Applications</a></p>
+                <p>Fill in our <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform" target="_blank">Internship Applications</a></p>
             </div>
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 3</strong></span>
-                <p>We’ll review your submitted assignment and your CV</p> 
+                <p>We’ll review your submitted assignment and your CV</p>
             </div>
             <div class="wow bounceIn internship-apply-wrap__list" data-wow-duration="0.7s" data-wow-delay="1s">
                 <span><strong>step 4</strong></span>
@@ -198,4 +198,3 @@ comments: true
         </div>
     </div>        
 </div>
-
