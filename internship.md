@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /internship-remove
+permalink: /internship
 title: Internship
 tagline: Careers at YoungInnovations
 tags: [careers]
@@ -48,7 +48,6 @@ comments: true
                     <li>Data Analysis</li>
                     <li>DevOps</li>
                     <li>QA</li>
-                    <li>Operations</li>
                     <li>Backend Programming</li>
                 </ul>
             </div>
@@ -179,22 +178,22 @@ comments: true
         <h2 class="internship__heading-title">Thoughts from our interns</h2>
         <div class="motivators-story-card-wrap clearfix">
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                <img src="/images/staffs/Aneem.png" alt="Aneem Pratabansha" />
+                <h3 class="motivators-story-card-wrap__list-name">Aneem Pratabansha</h3>
+                <span class="motivators-story-card-wrap__list-profession">Developer, Intern</span>
+                <p class="motivators-story-card-wrap__list-story">Before joining, I was very much impressed by the uniqueness of YoungInnovations and also its mission for global development. I was very enthusiastic about being a part of an organization driven by youth spirit, where skills and growth were highly valued. Now, after being a part of Young Innovations, I know that this has been one of the best experiences in my career. At YoungInnovations,I am amazed to see in action the synergy of cross-domain experts collaborating together for common goal.</p>
+            </div>
+            <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <img src="/images/staffs/Sunny.png" alt="Sunny Shrestha" >
                 <h3 class="motivators-story-card-wrap__list-name">Sunny Shrestha</h3>
                 <span class="motivators-story-card-wrap__list-profession"> Designer, Intern</span>
                 <p class="motivators-story-card-wrap__list-story">YoungInnovations has changed me so much for the better when it comes to understanding key professional skills like communication and time management. These are things you rarely learn in college; but here I get to work in an environment where everyone celebrates learning! Being encouraged to ask questions of your (cooperative and very experienced!) seniors is very cool!</p>
             </div>
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <img src="/images/staffs/Kiran.png" alt="Kiran Shrestha" />
-                <h3 class="motivators-story-card-wrap__list-name">Kiran Shrestha</h3>
+                <img src="/images/staffs/Bikram.png" alt="Bikram Tuladhar" >
+                                    <h3 class="motivators-story-card-wrap__list-name">Bikram Tuladhar</h3>
                 <span class="motivators-story-card-wrap__list-profession">Developer, Intern</span>
-                <p class="motivators-story-card-wrap__list-story">At YoungInnovations, you are immediately given important responsibilities in key areas such as client support and product deployment, which is rare in other Internship Programs. Because I am surrounded by experts, all of whom are excited to share their knowledge, I can see myself growing as a professional every day across both my technical skillset and in key areas like time-management and work prioritization.</p>
-            </div>
-            <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <img src="/images/staffs/Pooja.png" alt="Pooja Maharjan" >
-                                    <h3 class="motivators-story-card-wrap__list-name">Puja Maharjan</h3>
-                <span class="motivators-story-card-wrap__list-profession">Developer, Intern</span>
-                <p class="motivators-story-card-wrap__list-story">Here, at YoungInnovations, I get to actually take part in incredible skill-shaping competitions such as Open Data and International Space Apps Challenge, where competitors from around Nepal (and sometimes the world) work together to create solutions to key national problems. Every day at work, I am treated as a real part of my team and I get to solve problems alongside them.</p>
+                <p class="motivators-story-card-wrap__list-story">YI has taught me to continuously focus on my strengths and weakness. While I was careful during coding and took proper steps, I did begin to understand the multifaceted nature of programming language and how much skill is needed to be called up on any given day. Over the course of short time, I went from unknown outsider to a contributing member in the tight knit community. I also witnessed how important it is for naive programmer to have such a wonderful place to take first steps to begin a career and feel supported by helpful colleagues.</p>
             </div>
         </div>
     </div>        
