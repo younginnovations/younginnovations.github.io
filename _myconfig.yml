@@ -75,7 +75,7 @@ staffs:
         url: https://www.linkedin.com/in/akita-nakarmi-3096ba111?trk=hp-identity-photo  
   - image: /images/staffs/Alina.png
     name: Alina Acharya
-    designation: Jr. Data Analyst
+    designation: Data Analyst
     socialmedia:
       - name: linkedin
         url: https://www.linkedin.com/in/alina-acharya-3115564b?trk=hp-identity-name
@@ -85,7 +85,7 @@ staffs:
         url: https://medium.com/@alina.acharya
   - image: /images/staffs/Aneem.png
     name: Aneem Patrabansha
-    designation: Intern
+    designation: Trainee
     socialmedia:
       - name: facebook
         url: https://www.facebook.com/aneemp
@@ -183,7 +183,7 @@ staffs:
       - name: linkedin
         url: https://www.linkedin.com/in/bikramtuladhar
       - name: github
-        url: https://github.com/nevermind2011
+        url: https://github.com/bikramtuladhar
       - name: twitter
         url: https://twitter.com/TuladharBikram
       - name: stack-overflow

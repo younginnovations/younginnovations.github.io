@@ -181,7 +181,7 @@ body.contact {
 
 .top-navigation .menu-link ul {
     text-align: right;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 .top-navigation .menu-link li a {
@@ -2486,10 +2486,10 @@ body.fixed .slide-navigation {
     -webkit-transition: all .2s ease-in-out;
     display: block;
     padding: 0;
-    width: 8px;
-    height: 8px;
+    width: 12px;
+    height: 12px;
     background: #fff;
-    border: 3px solid #333;
+    border: 2px solid #333;
     margin: 10px 20px 10px 0;
     -webkit-border-radius: 18px;
     border-radius: 18px;
@@ -4021,7 +4021,7 @@ a.learn-more:hover {
 
 #main article .article-wrap .wrap-out .main-body-text {
     position: relative;
-    max-width: 677px;
+    max-width: 760px;
     margin: -100px auto 0;
     background: #fff;
     border-radius: 4px;
@@ -4059,7 +4059,7 @@ a.learn-more:hover {
 
 /*Internship*/
 .internship-know {
-    padding: 40px 10px 30px;
+    padding: 40px 10px 130px;
 }
 
 .internship-know__heading {
@@ -5761,6 +5761,9 @@ and (max-device-width: 1024px) {
     }
 
     /*Internship*/
+    .internship-know {
+        padding-bottom: 30px;
+    }
     .internship-know__info-wrapper {
         padding: 20px 0 0;
         height: auto;
