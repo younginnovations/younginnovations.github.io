@@ -101,20 +101,6 @@ staffs:
         url: http://github.com/anjesh
       - name: medium
         url: https://medium.com/@anjesh
-  - image: /images/staffs/Ashok.png
-    name: Ashok Adhikari
-    designation: Software Engineer
-    socialmedia:
-      - name: facebook
-        url: https://www.facebook.com/meashokashikari
-      - name: twitter
-        url: https://twitter.com/ashokadhikari92
-      - name: github
-        url: https://github.com/ashokadhikari92
-      - name: linkedin
-        url: www.linkedin.com/in/ashokadhikari92
-      - name: medium
-        url: https://medium.com/@ashokadhikari
   - image: /images/staffs/Bibek.png
     name: Bibek Shrestha
     designation: Senior Developer
@@ -547,6 +533,8 @@ alumnis:
     name: Arjun Sunar
   - image: /images/alumni/Ashley.jpg
     name: Ashley Dhakal
+  - image: /images/alumni/Ashok.png
+    name: Ashok Adhikari
   - image: /images/alumni/Avash.jpg
     name: Avash Rayamajhi
   - image: /images/alumni/Bhabishyat.jpg
