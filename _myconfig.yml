@@ -65,34 +65,14 @@ staffs:
         url: https://medium.com/@aayush.rijal
   - image: /images/staffs/Akita.png
     name: Akita Nakarmi
-    designation: Intern
+    designation: Trainee
     socialmedia:
       - name: facebook
         url: http://www.facebook.com/aki.yul
       - name: github
         url: https://github.com/aki-nakarmi
       - name: linkedin
-        url: https://www.linkedin.com/in/akita-nakarmi-3096ba111?trk=hp-identity-photo  
-  - image: /images/staffs/Alina.png
-    name: Alina Acharya
-    designation: Data Analyst
-    socialmedia:
-      - name: linkedin
-        url: https://www.linkedin.com/in/alina-acharya-3115564b?trk=hp-identity-name
-      - name: github
-        url: https://github.com/Alinaaa
-      - name: medium
-        url: https://medium.com/@alina.acharya
-  - image: /images/staffs/Aneem.png
-    name: Aneem Patrabansha
-    designation: Trainee
-    socialmedia:
-      - name: facebook
-        url: https://www.facebook.com/aneemp
-      - name: linkedin
-        url: https://np.linkedin.com/in/aneem
-      - name: github
-        url: https://github.com/aneem
+        url: https://www.linkedin.com/in/akita-nakarmi-3096ba111?trk=hp-identity-photo
   - image: /images/staffs/Anjan.png
     name: Anjan Shrestha
     designation: VP, Product Innovations
@@ -176,7 +156,7 @@ staffs:
         url: https://medium.com/@bezunakarmi
   - image: /images/staffs/Bikram.png
     name: Bikram Tuladhar
-    designation: Intern
+    designation: Trainee
     socialmedia:
       - name: facebook
         url: http://www.facebook.com/nvrmind2011
@@ -267,30 +247,14 @@ staffs:
         url: https://twitter.com/_manishgs
       - name: medium
         url: https://medium.com/@manishgs
-  - image: /images/staffs/Manjil.png
-    name: Manjil Shrestha
-    designation: Jr. Software Engineer
+  - image: /images/staffs/ManishLal.png
+    name: Manish Lal Pradhan
+    designation: Software engineer
     socialmedia:
       - name: facebook
-        url: https://www.facebook.com/Pratiman69
-      - name: stack-overflow
-        url: http://stackoverflow.com/users/6254981/smanjil
-      - name: github
-        url: https://github.com/smanjil
+        url: https://www.facebook.com/manish.pradhan.10
       - name: linkedin
-        url: https://www.linkedin.com/in/manjil-shrestha-038527b4?trk=nav_responsive_tab_profile_pic
-      - name: medium
-        url: https://medium.com/@smanjil
-  - image: /images/staffs/Manoj.png
-    name: Manoj Byanjankar
-    designation: Sr. Software Engineer
-    socialmedia:
-      - name: facebook
-        url: https://www.facebook.com/manoj.byanjankar
-      - name: github
-        url: https://github.com/mojbenzcar
-      - name: linkedin
-        url: https://www.linkedin.com/in/manoj-byanjankar-a694bb120?trk=hp-identity-name
+        url: https://np.linkedin.com/in/manishpradhan007
   - image: /images/staffs/Ngima.png
     name: Ngima Sherpa
     designation: Trainee
@@ -319,6 +283,20 @@ staffs:
         url: https://www.linkedin.com/in/nirazanbasnet
       - name: medium
         url: https://medium.com/@nirazanbasnet
+  - image: /images/staffs/Pankaj.png
+    name: Pankaj Kr. Nepal
+    designation: Software engineer
+    socialmedia:
+      - name: facebook
+        url: https://www.facebook.com/puncoz
+      - name: linkedin
+        url: https://www.linkedin.com/in/puncoz
+      - name: github
+        url: https://github.com/puncoz
+      - name: stack-overflow
+        url: http://stackoverflow.com/users/5157337/puncoz
+      - name: medium
+        url: https://medium.com/@puncoz
   - image: /images/staffs/Prashant.png
     name: Prashant Shrestha
     designation: VP, Business and Technology Innovations
@@ -366,7 +344,7 @@ staffs:
         url: https://medium.com/@punyaruchal
   - image: /images/staffs/Raj.png
     name: Raj Krishna Maharjan
-    designation: Trainee
+    designation: Jr. Software Engineer
     socialmedia:
       - name: facebook
         url: https://www.facebook.com/theroxc
@@ -378,7 +356,7 @@ staffs:
         url: http://stackoverflow.com/users/7145054/rox
   - image: /images/staffs/Raju.png
     name: Raju Dawadi
-    designation: Trainee
+    designation: Jr. System Engineer
     socialmedia:
       - name: globe
         url: http://www.dwdraju.com.np/
@@ -501,18 +479,6 @@ staffs:
         url: https://twitter.com/maharjansaugat
       - name: medium
         url: https://medium.com/@saugat.maharjan
-  - image: /images/staffs/Shashi.png
-    name: Shashi Khanal
-    designation: Trainee
-    socialmedia:
-      - name: facebook
-        url: https://facebook.com/shashi.khanal
-      - name: linkedin
-        url: https://linkedin.com/in/shashiKhanal
-      - name: github
-        url: http://github.com/shashikhanal
-      - name: twitter
-        url: https://twitter.com/Shashikhanal001
   - image: /images/staffs/Suraj.png
     name: Suraj KC
     designation: Frontend Engineer
@@ -556,15 +522,6 @@ staffs:
       - name: medium
         url: https://medium.com/@umuieme
 
-collections:
-  what-we-upto:
-    output: true
-    permalink: /:collection/:title/
-
-  blog:
-    output: true
-    permalink: /:collection/:title/
-
 alumnis:
   - image: /images/alumni/Aashish.jpg
     name: Aashish Ghimire
@@ -574,8 +531,12 @@ alumnis:
     name: Abhinav Singh Dongol
   - image: /images/alumni/Achyut.jpg
     name: Achyut Devkota
+  - image: /images/alumni/Alina.png
+    name: Alina Acharya
   - image: /images/alumni/Ananda.jpg
     name: Ananda Subedi
+  - image: /images/alumni/Aneem.png
+    name: Aneem Patrabansha
   - image: /images/alumni/default.jpg
     name: Anjan Bhattarai
   - image: /images/alumni/Anubhuti.jpg
@@ -626,6 +587,10 @@ alumnis:
     name: Kritika Karmacharya
   - image: /images/alumni/Manisha.jpg
     name: Manisha Karmacharya
+  - image: /images/alumni/Manjil.png
+    name: Manjil Shrestha
+  - image: /images/alumni/Manoj.png
+    name: Manoj Byanjankar
   - image: /images/alumni/Muna.jpg
     name: Muna Maharjan
   - image: /images/alumni/Neha.jpg
@@ -656,6 +621,8 @@ alumnis:
     name: Santosh Neupane
   - image: /images/alumni/Saugat.jpg
     name: Saugat Acharya
+  - image: /images/alumni/Shashi.png
+    name: Shashi Khanal
   - image: /images/alumni/default.jpg
     name: Shruti Shah
   - image: /images/alumni/Sita.jpg
@@ -686,6 +653,15 @@ alumnis:
     name: Vishnu raj Bhatta
   - image: /images/alumni/Vivek.jpg
     name: Vivek Bhusal
+
+collections:
+  what-we-upto:
+    output: true
+    permalink: /:collection/:title/
+
+  blog:
+    output: true
+    permalink: /:collection/:title/
 
 #  page_collections:
 #    output: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /internship
+permalink: /internship-remove
 title: Internship
 tagline: Careers at YoungInnovations
 tags: [careers]
@@ -177,7 +177,7 @@ comments: true
         <h2 class="internship__heading-title">Thoughts from our interns</h2>
         <div class="motivators-story-card-wrap clearfix">
             <div class="wow fadeInUp motivators-story-card-wrap__list" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <img src="/images/staffs/Aneem.png" alt="Aneem Pratabansha" />
+                <img src="/images/alumni/Aneem.png" alt="Aneem Pratabansha" />
                 <h3 class="motivators-story-card-wrap__list-name">Aneem Pratabansha</h3>
                 <span class="motivators-story-card-wrap__list-profession">Developer, Intern</span>
                 <p class="motivators-story-card-wrap__list-story">Before joining, I was very much impressed by the uniqueness of YoungInnovations and also its mission for global development. I was very enthusiastic about being a part of an organization driven by youth spirit, where skills and growth are highly valued. Now, after being a part of YoungInnovations, I know that this has been one of the best experiences in my career. At YoungInnovations, I am amazed to see in action the synergy of cross-domain experts collaborating together for common goal.</p>
