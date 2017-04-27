@@ -3347,6 +3347,17 @@ body.fixed .slide-navigation {
     padding: 0 10px;
 }
 
+#main article .article-wrap .hiring-btn p {
+    text-align: center;
+    font-size: 12px;
+    margin: 15px 0 10px;
+    color: #353d45;
+}
+
+.hiring-btn em {
+    color: rgba(53, 61, 69, 0.5);
+}
+
 .profession-section {
     background: #fff;
     text-align: center;
