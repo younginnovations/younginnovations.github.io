@@ -17,7 +17,8 @@ comments: true
            We are looking for innovative, enthusiastic and hardworking individuals who are eager to use their technology skills to improve the development sector.
         </div>
         <div class="hiring-btn">
-            <a id="professional-sectionlink" class="dev-btn">We're hiring !</a>
+            <a id="professional-sectionlink" class="dev-btn">We're hiring! <em>*</em></a>
+            <p><em>*</em> We're not accepting internship applications for now</p>   
             <!--<a href="/internship" class="intern-btn">Internship</a>-->
         </div>
     </div>
